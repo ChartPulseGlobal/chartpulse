@@ -1,23 +1,4 @@
-import fs from "fs";
-import path from "path";
-import crypto from "crypto";
-import AutoUpdater from "./AutoUpdater";
-
 export const dynamic = "force-dynamic";
-
-const spotifyCountries = [
-  { code: "global", label: "🌍 Global" },
-  { code: "us", label: "🇺🇸 US" },
-  { code: "gb", label: "🇬🇧 UK" },
-  { code: "fr", label: "🇫🇷 France" },
-  { code: "de", label: "🇩🇪 Germany" },
-  { code: "jp", label: "🇯🇵 Japan" },
-  { code: "ca", label: "🇨🇦 Canada" },
-  { code: "au", label: "🇦🇺 Australia" },
-  { code: "br", label: "🇧🇷 Brazil" },
-  { code: "mx", label: "🇲🇽 Mexico" },
-  { code: "es", label: "🇪🇸 Spain" },
-];
 
 const countries = [
   { code: "us", name: "US", tier: 1 },
@@ -39,74 +20,28 @@ const countries = [
   { code: "se", name: "SE", tier: 3 },
 ];
 
-const dataPath = path.join(process.cwd(), "data");
+const spotifyCountries = [
+  { code: "global", label: "🌍 Global" },
+  { code: "fr", label: "🇫🇷 France" },
+];
 
-function ensureData() {
-  if (!fs.existsSync(dataPath)) {
-    fs.mkdirSync(dataPath);
-  }
-}
-
-function readJSON(name, fallback) {
-  ensureData();
-
-  const p = path.join(dataPath, name);
-
-  if (!fs.existsSync(p)) {
-    return fallback;
-  }
-
+async function getData(file) {
   try {
-    return JSON.parse(fs.readFileSync(p, "utf8"));
-  } catch {
-    return fallback;
-  }
-}
+    const res = await fetch(
+      `https://raw.githubusercontent.com/ChartPulseGlobal/chartpulse/main/data/${file}`,
+      { cache: "no-store" }
+    );
 
-function saveJSON(name, data) {
-  ensureData();
-  fs.writeFileSync(path.join(dataPath, name), JSON.stringify(data, null, 2));
+    if (!res.ok) return { rows: [] };
+
+    return await res.json();
+  } catch {
+    return { rows: [] };
+  }
 }
 
 function today() {
   return new Date().toISOString().slice(0, 10);
-}
-
-function hourKey() {
-  return new Date().toISOString().slice(0, 13).replaceAll(":", "-");
-}
-
-function hashData(data) {
-  return crypto.createHash("md5").update(JSON.stringify(data)).digest("hex");
-}
-
-function movement(oldRank, rank) {
-  if (!oldRank) return "NEW";
-
-  const diff = oldRank - rank;
-
-  if (diff > 0) return `+${diff}`;
-  if (diff < 0) return String(diff);
-
-  return "=";
-}
-
-function itunesPoints(rank, tier) {
-  const bases = {
-    1: 1600,
-    2: 800,
-    3: 300,
-    4: 70,
-  };
-
-  return Math.round((bases[tier] || 70) * Math.pow(0.98374, rank - 1));
-}
-
-function spotifyPoints(rank, streams, maxStreams) {
-  const streamScore = maxStreams ? (streams / maxStreams) * 1000 : 0;
-  const rankScore = Math.max(1, 201 - rank) * 2;
-
-  return Math.round(streamScore + rankScore);
 }
 
 function clean(text = "") {
@@ -131,16 +66,11 @@ function similarity(a, b) {
   const A = new Set(clean(a).split(" ").filter(Boolean));
   const B = new Set(clean(b).split(" ").filter(Boolean));
 
-  if (!A.size || !B.size) {
-    return 0;
-  }
+  if (!A.size || !B.size) return 0;
 
   let common = 0;
-
   A.forEach((x) => {
-    if (B.has(x)) {
-      common += 1;
-    }
+    if (B.has(x)) common += 1;
   });
 
   return common / Math.max(A.size, B.size);
@@ -171,157 +101,32 @@ function findSpotifyMatch(song, spotifyRows, used) {
   return null;
 }
 
-async function getItunes(country) {
-  try {
-    const res = await fetch(
-      `https://itunes.apple.com/${country}/rss/topsongs/limit=100/json`,
-      { cache: "no-store" }
-    );
+function movement(oldRank, rank) {
+  if (!oldRank) return "NEW";
 
-    const json = await res.json();
+  const diff = oldRank - rank;
 
-    if (!json.feed?.entry) {
-      return [];
-    }
+  if (diff > 0) return `+${diff}`;
+  if (diff < 0) return String(diff);
 
-    return json.feed.entry.map((s, i) => ({
-      id: s.id.attributes["im:id"],
-      rank: i + 1,
-      artist: s["im:artist"].label,
-      title: s["im:name"].label,
-    }));
-  } catch {
-    return [];
-  }
+  return "=";
 }
 
-function enrichRow(song, rank, old) {
-  const ptsDiff = old ? song.pts - old.pts : song.pts;
-  const peak = old ? Math.min(old.peak, rank) : rank;
-  const totalPts = old ? old.totalPts + song.pts : song.pts;
-
+function enrichRow(song, rank) {
   return {
     ...song,
     rank,
-    move: movement(old?.rank, rank),
-    days: old && old.date !== today() ? old.days + 1 : old?.days || 1,
-    peak,
-    peakCount: old && old.peak === peak ? old.peakCount + 1 : 1,
-    ptsPlus: ptsDiff === 0 ? "—" : ptsDiff > 0 ? `+${ptsDiff}` : String(ptsDiff),
-    totalPts,
-    tpts: (totalPts / 1000).toFixed(3),
+    move: song.move || movement(song.peak, rank),
+    days: song.days || 1,
+    peak: song.peak || rank,
+    peakCount: song.peakCount || 1,
+    ptsPlus: song.ptsPlus || "—",
+    totalPts: song.totalPts || song.pts || 0,
+    tpts: song.tpts || ((song.totalPts || song.pts || 0) / 1000).toFixed(3),
   };
-}
-
-function saveCurrent(source, rows, extra = {}) {
-  const songs = {};
-
-  rows.forEach((s) => {
-    songs[s.id] = {
-      rank: s.rank,
-      pts: s.pts,
-      days: s.days,
-      peak: s.peak,
-      peakCount: s.peakCount,
-      totalPts: s.totalPts,
-      date: today(),
-    };
-  });
-
-  const data = {
-    source,
-    updatedAt: new Date().toISOString(),
-    songs,
-    rows,
-    ...extra,
-  };
-
-  saveJSON(`${source}-current.json`, data);
-  saveJSON(`archive-${source}-${hourKey()}.json`, data);
-}
-
-async function buildItunes() {
-  const old = readJSON("itunes-current.json", null);
-  const oldSongs = old?.songs || {};
-
-  if (old?.updatedAt?.slice(0, 13) === new Date().toISOString().slice(0, 13)) {
-    return old;
-  }
-
-  const charts = await Promise.all(countries.map((c) => getItunes(c.code)));
-  const map = {};
-
-  charts.forEach((chart, i) => {
-    const country = countries[i];
-
-    chart.forEach((s) => {
-      if (!map[s.id]) {
-        map[s.id] = {
-          id: s.id,
-          artist: s.artist,
-          title: s.title,
-          pts: 0,
-          countries: {},
-        };
-      }
-
-      map[s.id].pts += itunesPoints(s.rank, country.tier);
-      map[s.id].countries[country.name] = s.rank;
-    });
-  });
-
-  const rows = Object.values(map)
-    .sort((a, b) => b.pts - a.pts)
-    .slice(0, 200)
-    .map((s, i) => enrichRow(s, i + 1, oldSongs[s.id]));
-
-  saveCurrent("itunes", rows);
-
-  return readJSON("itunes-current.json", { rows: [] });
-}
-
-function buildSpotify(country = "global") {
-  const filename = country === "global" ? "spotify.json" : `spotify-${country}.json`;
-  const sourceName = `spotify-${country}`;
-  const raw = readJSON(filename, []);
-  const old = readJSON(`${sourceName}-current.json`, null);
-  const rawHash = hashData(raw);
-
-  if (old?.rawHash === rawHash) {
-    return old;
-  }
-
-  const oldSongs = old?.songs || {};
-  const maxStreams = Math.max(...raw.map((x) => x.streams || 0), 1);
-
-  const rows = raw.slice(0, 200).map((s, i) => {
-    const rank = s.position || i + 1;
-    const artist = s.artist || "";
-    const title = s.track || s.title || "";
-    const id = `${artist}-${title}`.toLowerCase();
-    const pts = spotifyPoints(rank, s.streams || 0, maxStreams);
-
-    return enrichRow(
-      {
-        id,
-        artist,
-        title,
-        streams: s.streams || 0,
-        pts,
-      },
-      rank,
-      oldSongs[id]
-    );
-  });
-
-  saveCurrent(sourceName, rows, { rawHash });
-
-  return readJSON(`${sourceName}-current.json`, { rows: [] });
 }
 
 function buildIndex(itunesRows, spotifyRows) {
-  const old = readJSON("index-current.json", null);
-  const oldSongs = old?.songs || {};
   const used = new Set();
   const combined = [];
 
@@ -332,7 +137,7 @@ function buildIndex(itunesRows, spotifyRows) {
       id: keyOf(it),
       artist: it.artist,
       title: it.title,
-      itunesPts: it.pts,
+      itunesPts: it.pts || 0,
       spotifyPts: sp?.pts || 0,
       spotifyStreams: sp?.streams || 0,
       match: sp ? "MATCH" : "ITUNES ONLY",
@@ -346,25 +151,21 @@ function buildIndex(itunesRows, spotifyRows) {
         artist: sp.artist,
         title: sp.title,
         itunesPts: 0,
-        spotifyPts: sp.pts,
+        spotifyPts: sp.pts || 0,
         spotifyStreams: sp.streams || 0,
         match: "SPOTIFY ONLY",
       });
     }
   });
 
-  const rows = combined
+  return combined
     .map((s) => ({
       ...s,
-      pts: Math.round(s.itunesPts * 0.58 + s.spotifyPts * 0.42),
+      pts: Math.round((s.itunesPts || 0) * 0.58 + (s.spotifyPts || 0) * 0.42),
     }))
     .sort((a, b) => b.pts - a.pts)
     .slice(0, 200)
-    .map((s, i) => enrichRow(s, i + 1, oldSongs[s.id]));
-
-  saveCurrent("index", rows);
-
-  return readJSON("index-current.json", { rows: [] });
+    .map((s, i) => enrichRow(s, i + 1));
 }
 
 function buildTrending(indexRows) {
@@ -384,16 +185,15 @@ function buildTrending(indexRows) {
 
       return {
         ...s,
-        trendScore: Math.round(move * 35 + pts + bonus + (s.move === "NEW" ? 80 : 0)),
+        trendScore: Math.round(
+          move * 35 + pts + bonus + (s.move === "NEW" ? 80 : 0)
+        ),
       };
     })
     .filter((s) => s.trendScore > 0)
     .sort((a, b) => b.trendScore - a.trendScore)
     .slice(0, 100)
-    .map((s, i) => ({
-      ...s,
-      rank: i + 1,
-    }));
+    .map((s, i) => ({ ...s, rank: i + 1 }));
 }
 
 function buildArtists(indexRows) {
@@ -419,47 +219,39 @@ function buildArtists(indexRows) {
 
   return Object.values(map)
     .sort((a, b) => b.pts - a.pts)
-    .map((a, i) => ({
-      ...a,
-      rank: i + 1,
-    }));
-}
-
-function archives() {
-  ensureData();
-
-  return fs
-    .readdirSync(dataPath)
-    .filter((x) => x.startsWith("archive-"))
-    .sort()
-    .reverse()
-    .slice(0, 80);
+    .map((a, i) => ({ ...a, rank: i + 1 }));
 }
 
 export default async function Home({ searchParams }) {
   const params = await searchParams;
+
   const source = params?.source || "itunes";
   const page = params?.page || "chart";
   const q = (params?.q || "").toLowerCase();
   const country = params?.country || "global";
 
-  const itunes = await buildItunes();
-  const spotify = buildSpotify(country);
-  const globalSpotify = buildSpotify("global");
-  const index = buildIndex(itunes.rows, globalSpotify.rows);
-  const trending = buildTrending(index.rows);
-  const artists = buildArtists(index.rows);
+  const itunes = await getData("itunes-current.json");
+
+  const spotifyFile =
+    country === "fr" ? "spotify-fr-current.json" : "spotify-global-current.json";
+
+  const spotify = await getData(spotifyFile);
+  const globalSpotify = await getData("spotify-global-current.json");
+
+  const indexRows = buildIndex(itunes.rows || [], globalSpotify.rows || []);
+  const trendingRows = buildTrending(indexRows);
+  const artistsRows = buildArtists(indexRows);
 
   let rows =
     source === "spotify"
-      ? spotify.rows
+      ? spotify.rows || []
       : source === "index"
-        ? index.rows
+        ? indexRows
         : source === "trending"
-          ? trending
+          ? trendingRows
           : source === "artists"
-            ? artists
-            : itunes.rows;
+            ? artistsRows
+            : itunes.rows || [];
 
   if (q) {
     rows = rows.filter((s) =>
@@ -469,8 +261,6 @@ export default async function Home({ searchParams }) {
 
   return (
     <main>
-      <AutoUpdater />
-
       <style>{`
         body {
           margin: 0;
@@ -545,25 +335,11 @@ export default async function Home({ searchParams }) {
           background: #062c91;
         }
 
-        .blue {
-          background: #052c93;
-        }
-
-        .green {
-          background: #008060;
-        }
-
-        .orange {
-          background: #d88b00;
-        }
-
-        .red {
-          background: #8b0000;
-        }
-
-        .purple {
-          background: #5b188f;
-        }
+        .blue { background: #052c93; }
+        .green { background: #008060; }
+        .orange { background: #d88b00; }
+        .red { background: #8b0000; }
+        .purple { background: #5b188f; }
 
         h1 {
           font-size: 21px;
@@ -669,21 +445,11 @@ export default async function Home({ searchParams }) {
           white-space: nowrap;
         }
 
-        tbody tr:nth-child(odd) {
-          background: #f7f7f7;
-        }
+        tbody tr:nth-child(odd) { background: #f7f7f7; }
+        tbody tr:nth-child(even) { background: #ededed; }
+        tbody tr:hover { background: #fff4b8; }
 
-        tbody tr:nth-child(even) {
-          background: #ededed;
-        }
-
-        tbody tr:hover {
-          background: #fff4b8;
-        }
-
-        .num {
-          text-align: right;
-        }
+        .num { text-align: right; }
 
         .song {
           min-width: 390px;
@@ -692,9 +458,7 @@ export default async function Home({ searchParams }) {
           text-overflow: ellipsis;
         }
 
-        .rank {
-          font-weight: bold;
-        }
+        .rank { font-weight: bold; }
 
         .up {
           color: green;
@@ -706,9 +470,7 @@ export default async function Home({ searchParams }) {
           font-weight: bold;
         }
 
-        .new {
-          font-weight: bold;
-        }
+        .new { font-weight: bold; }
 
         .small {
           font-size: 12px;
@@ -736,21 +498,11 @@ export default async function Home({ searchParams }) {
         </div>
 
         <div className="tabs">
-          <a className="blue" href="/?source=itunes">
-            iTunes Worldwide
-          </a>
-          <a className="green" href="/?source=spotify&country=global">
-            Spotify Top 200
-          </a>
-          <a className="orange" href="/?source=index">
-            ChartPulse Index
-          </a>
-          <a className="purple" href="/?source=trending">
-            Trending
-          </a>
-          <a className="red" href="/?source=artists">
-            Artists
-          </a>
+          <a className="blue" href="/?source=itunes">iTunes Worldwide</a>
+          <a className="green" href="/?source=spotify&country=global">Spotify Top 200</a>
+          <a className="orange" href="/?source=index">ChartPulse Index</a>
+          <a className="purple" href="/?source=trending">Trending</a>
+          <a className="red" href="/?source=artists">Artists</a>
         </div>
 
         <h1>
@@ -800,7 +552,7 @@ export default async function Home({ searchParams }) {
 
             {rows.slice(0, 10).map((s) => {
               const max = Math.max(...rows.slice(0, 10).map((x) => x.streams || 0), 1);
-              const width = (s.streams / max) * 100;
+              const width = ((s.streams || 0) / max) * 100;
 
               return (
                 <div className="barRow" key={`bar-${s.rank}-${s.id}`}>
@@ -810,7 +562,7 @@ export default async function Home({ searchParams }) {
                       {s.artist} - {s.title}
                     </span>
                     <span className="barStreams">
-                      {s.streams.toLocaleString("fr-FR")}
+                      {(s.streams || 0).toLocaleString("fr-FR")}
                     </span>
                   </div>
 
@@ -826,9 +578,7 @@ export default async function Home({ searchParams }) {
         {page === "archives" ? (
           <div>
             <h2>Archives</h2>
-            {archives().map((a) => (
-              <div key={a}>{a}</div>
-            ))}
+            <p>Archives désactivées sur Vercel pour éviter les erreurs serveur.</p>
           </div>
         ) : (
           <>
@@ -860,6 +610,7 @@ export default async function Home({ searchParams }) {
                       <th className="num">Spotify Pts</th>
                     </tr>
                   </thead>
+
                   <tbody>
                     {rows.map((a) => (
                       <tr key={`artist-${a.rank}-${a.id}`}>
@@ -915,23 +666,25 @@ export default async function Home({ searchParams }) {
                           className={
                             s.move === "NEW"
                               ? "new"
-                              : s.move.startsWith("+")
+                              : String(s.move || "").startsWith("+")
                                 ? "up"
-                                : s.move.startsWith("-")
+                                : String(s.move || "").startsWith("-")
                                   ? "down"
                                   : ""
                           }
                         >
-                          {s.move}
+                          {s.move || "="}
                         </td>
+
                         <td className="song">
                           {s.artist} - {s.title}
                         </td>
-                        <td className="num">{s.days}</td>
-                        <td className="num rank">{s.peak}</td>
-                        <td className="num rank">{s.pts}</td>
-                        <td className="num">{s.ptsPlus}</td>
-                        <td className="num">{s.tpts}</td>
+
+                        <td className="num">{s.days || 1}</td>
+                        <td className="num rank">{s.peak || s.rank}</td>
+                        <td className="num rank">{s.pts || 0}</td>
+                        <td className="num">{s.ptsPlus || "—"}</td>
+                        <td className="num">{s.tpts || "0.000"}</td>
 
                         {source === "trending" && (
                           <td className="num rank">{s.trendScore}</td>
@@ -940,21 +693,21 @@ export default async function Home({ searchParams }) {
                         {source === "itunes" &&
                           countries.map((c) => (
                             <td key={c.name} className="num">
-                              {s.countries[c.name] || ""}
+                              {s.countries?.[c.name] || ""}
                             </td>
                           ))}
 
                         {source === "spotify" && (
                           <td className="num">
-                            {s.streams.toLocaleString("fr-FR")}
+                            {(s.streams || 0).toLocaleString("fr-FR")}
                           </td>
                         )}
 
                         {(source === "index" || source === "trending") && (
                           <>
-                            <td className="num">{s.itunesPts}</td>
-                            <td className="num">{s.spotifyPts}</td>
-                            <td className="num">{s.match}</td>
+                            <td className="num">{s.itunesPts || 0}</td>
+                            <td className="num">{s.spotifyPts || 0}</td>
+                            <td className="num">{s.match || ""}</td>
                           </>
                         )}
                       </tr>
@@ -967,8 +720,7 @@ export default async function Home({ searchParams }) {
         )}
 
         <div className="small">
-          Spotify multi-pays activé : Global, US, UK, France, Germany, Japan,
-          Canada, Australia, Brazil, Mexico, Spain.
+          Données mises à jour automatiquement via GitHub Actions.
         </div>
       </div>
     </main>
