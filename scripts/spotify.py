@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import os
 import re
+from datetime import datetime
 
 COUNTRIES = {
     "global": "global",
@@ -18,15 +19,134 @@ COUNTRIES = {
     "es": "es",
 }
 
-os.makedirs("data", exist_ok=True)
+DATA_DIR = "data"
+os.makedirs(DATA_DIR, exist_ok=True)
 
 headers = {
     "User-Agent": "Mozilla/5.0"
 }
 
+
 def to_int(text):
     text = re.sub(r"[^0-9]", "", text)
     return int(text) if text else 0
+
+
+def load_json(path, fallback):
+    if not os.path.exists(path):
+        return fallback
+
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return fallback
+
+
+def save_json(path, data):
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+
+
+def spotify_points(rank, streams, max_streams):
+    stream_score = (streams / max_streams) * 1000 if max_streams else 0
+    rank_score = max(1, 201 - rank) * 2
+    return round(stream_score + rank_score)
+
+
+def movement(old_rank, new_rank):
+    if not old_rank:
+        return "NEW"
+
+    diff = old_rank - new_rank
+
+    if diff > 0:
+        return f"+{diff}"
+    if diff < 0:
+        return str(diff)
+
+    return "="
+
+
+def song_id(song):
+    artist = song.get("artist", "")
+    track = song.get("track", song.get("title", ""))
+    return f"{artist}-{track}".lower().strip()
+
+
+def enrich_rows(source, rows):
+    current_path = f"{DATA_DIR}/{source}-current.json"
+    old_data = load_json(current_path, {})
+    old_songs = old_data.get("songs", {})
+
+    today = datetime.utcnow().strftime("%Y-%m-%d")
+    hour = datetime.utcnow().strftime("%Y-%m-%d-%H")
+
+    max_streams = max([r.get("streams", 0) for r in rows], default=1)
+
+    enriched = []
+    songs = {}
+
+    for i, row in enumerate(rows):
+        rank = row.get("position") or i + 1
+        sid = song_id(row)
+
+        old = old_songs.get(sid)
+
+        pts = spotify_points(rank, row.get("streams", 0), max_streams)
+
+        old_rank = old.get("rank") if old else None
+        old_pts = old.get("pts") if old else 0
+        old_days = old.get("days") if old else 0
+        old_peak = old.get("peak") if old else rank
+        old_total_pts = old.get("totalPts") if old else 0
+        old_peak_count = old.get("peakCount") if old else 0
+
+        peak = min(old_peak, rank)
+        total_pts = old_total_pts + pts
+
+        enriched_song = {
+            "id": sid,
+            "rank": rank,
+            "artist": row.get("artist", ""),
+            "title": row.get("track", row.get("title", "")),
+            "track": row.get("track", row.get("title", "")),
+            "streams": row.get("streams", 0),
+            "pts": pts,
+            "move": movement(old_rank, rank),
+            "days": old_days + 1,
+            "peak": peak,
+            "peakCount": old_peak_count + 1 if peak == rank else old_peak_count,
+            "ptsPlus": "—" if not old else pts - old_pts,
+            "totalPts": total_pts,
+            "tpts": round(total_pts / 1000, 3),
+            "date": today,
+        }
+
+        enriched.append(enriched_song)
+
+        songs[sid] = {
+            "rank": rank,
+            "pts": pts,
+            "days": enriched_song["days"],
+            "peak": enriched_song["peak"],
+            "peakCount": enriched_song["peakCount"],
+            "totalPts": total_pts,
+            "date": today,
+        }
+
+    data = {
+        "source": source,
+        "updatedAt": datetime.utcnow().isoformat(),
+        "songs": songs,
+        "rows": enriched,
+    }
+
+    save_json(current_path, data)
+    save_json(f"{DATA_DIR}/archive-{source}-{hour}.json", data)
+
+    return data
+
 
 def scrape_country(save_code, url_code):
     url = f"https://kworb.net/spotify/country/{url_code}_daily.html"
@@ -35,7 +155,7 @@ def scrape_country(save_code, url_code):
     html = requests.get(url, headers=headers, timeout=30).text
     soup = BeautifulSoup(html, "html.parser")
 
-    data = []
+    rows = []
 
     for tr in soup.select("tr"):
         cells = [td.get_text(" ", strip=True) for td in tr.select("td")]
@@ -45,10 +165,11 @@ def scrape_country(save_code, url_code):
 
         try:
             position = int(cells[0])
-        except:
+        except Exception:
             continue
 
         artist_title = ""
+
         for c in cells:
             if " - " in c:
                 artist_title = c
@@ -66,24 +187,25 @@ def scrape_country(save_code, url_code):
             artist = ""
             track = artist_title
 
-        data.append({
+        rows.append({
             "position": position,
             "artist": artist,
             "track": track,
-            "streams": streams
+            "streams": streams,
         })
 
-        if len(data) >= 200:
+        if len(rows) >= 200:
             break
 
-    with open(f"data/spotify-{save_code}.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
+    save_json(f"{DATA_DIR}/spotify-{save_code}.json", rows)
 
     if save_code == "global":
-        with open("data/spotify.json", "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
+        save_json(f"{DATA_DIR}/spotify.json", rows)
 
-    print(f"{save_code} OK ({len(data)})")
+    enrich_rows(f"spotify-{save_code}", rows)
+
+    print(f"{save_code} OK ({len(rows)})")
+
 
 for save_code, url_code in COUNTRIES.items():
     try:
