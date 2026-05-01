@@ -19,6 +19,10 @@ jobs:
         with:
           python-version: "3.8"
 
+      # 👇 AJOUT IMPORTANT
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 pandas
+
       - name: Run Spotify script
         run: python scripts/spotify.py
 
