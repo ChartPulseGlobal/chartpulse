@@ -10,25 +10,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
-        run: pip install requests beautifulsoup4
+      - run: pip install requests beautifulsoup4
 
-      - name: Run script
-        run: python scripts/spotify.py
+      - run: python scripts/spotify.py
 
-      - name: Save changes
-        run: |
+      - run: |
           git config user.name "ChartPulse Bot"
           git config user.email "bot@chartpulse.com"
           git add data/
-          git commit -m "Update Spotify data" || echo "No changes"
+          git commit -m "Update Spotify data" || exit 0
           git pull --rebase origin main
           git push origin main
