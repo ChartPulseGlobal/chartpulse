@@ -27,9 +27,10 @@ jobs:
         run: python scripts/spotify.py
 
       - name: Save changes
-        run: |
-          git config user.name "ChartPulse Bot"
-          git config user.email "bot@chartpulse.local"
-          git add data/
-          git commit -m "Update Spotify data" || exit 0
-          git push
+    run: |
+     git config user.name "ChartPulse Bot"
+     git config user.email "bot@chartpulse.com"
+     git add data/
+     git commit -m "Update Spotify data" || echo "No changes"
+     git pull --rebase
+     git push
