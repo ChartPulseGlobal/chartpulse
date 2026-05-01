@@ -41,7 +41,9 @@ const countries = [
 
 const dataPath = path.join(process.cwd(), "data");
 
+// ✅ FIX VERCEL AJOUTÉ ICI
 function ensureData() {
+  if (process.env.VERCEL) return;
   if (!fs.existsSync(dataPath)) fs.mkdirSync(dataPath);
 }
 
@@ -56,7 +58,7 @@ function readJSON(name, fallback) {
   }
 }
 
-// ✅ MODIFIÉ ICI
+// ✅ DÉJÀ OK
 function saveJSON(name, data) {
   if (process.env.VERCEL) return;
 
@@ -170,4 +172,4 @@ async function getItunes(country) {
   }
 }
 
-// ... (le reste du code est strictement inchangé)
+// ... (le reste du code reste inchangé)
