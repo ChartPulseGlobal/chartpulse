@@ -1,0 +1,902 @@
+{
+  "159294551": {
+    "rank": 72,
+    "pts": 134,
+    "days": 1,
+    "peak": 55,
+    "peakCount": 5,
+    "totalPts": 727,
+    "lastSeenDate": "2026-04-30"
+  },
+  "186166292": {
+    "rank": 20,
+    "pts": 387,
+    "days": 1,
+    "peak": 20,
+    "peakCount": 3,
+    "totalPts": 1773,
+    "lastSeenDate": "2026-04-30"
+  },
+  "186166358": {
+    "rank": 83,
+    "pts": 119,
+    "days": 1,
+    "peak": 83,
+    "peakCount": 3,
+    "totalPts": 357,
+    "lastSeenDate": "2026-04-30"
+  },
+  "267537169": {
+    "rank": 77,
+    "pts": 124,
+    "days": 1,
+    "peak": 58,
+    "peakCount": 4,
+    "totalPts": 669,
+    "lastSeenDate": "2026-04-30"
+  },
+  "269573303": {
+    "rank": 26,
+    "pts": 340,
+    "days": 1,
+    "peak": 18,
+    "peakCount": 4,
+    "totalPts": 1686,
+    "lastSeenDate": "2026-04-30"
+  },
+  "269573341": {
+    "rank": 23,
+    "pts": 368,
+    "days": 1,
+    "peak": 23,
+    "peakCount": 3,
+    "totalPts": 1622,
+    "lastSeenDate": "2026-04-30"
+  },
+  "269573364": {
+    "rank": 7,
+    "pts": 566,
+    "days": 1,
+    "peak": 7,
+    "peakCount": 3,
+    "totalPts": 2548,
+    "lastSeenDate": "2026-04-30"
+  },
+  "269573405": {
+    "rank": 24,
+    "pts": 354,
+    "days": 1,
+    "peak": 19,
+    "peakCount": 4,
+    "totalPts": 1752,
+    "lastSeenDate": "2026-04-30"
+  },
+  "273048787": {
+    "rank": 92,
+    "pts": 107,
+    "days": 1,
+    "peak": 92,
+    "peakCount": 3,
+    "totalPts": 321,
+    "lastSeenDate": "2026-04-30"
+  },
+  "322847191": {
+    "rank": 68,
+    "pts": 136,
+    "days": 1,
+    "peak": 68,
+    "peakCount": 3,
+    "totalPts": 408,
+    "lastSeenDate": "2026-04-30"
+  },
+  "336644173": {
+    "rank": 73,
+    "pts": 132,
+    "days": 1,
+    "peak": 73,
+    "peakCount": 3,
+    "totalPts": 396,
+    "lastSeenDate": "2026-04-30"
+  },
+  "559334751": {
+    "rank": 33,
+    "pts": 291,
+    "days": 1,
+    "peak": 33,
+    "peakCount": 3,
+    "totalPts": 873,
+    "lastSeenDate": "2026-04-30"
+  },
+  "559334757": {
+    "rank": 74,
+    "pts": 132,
+    "days": 1,
+    "peak": 74,
+    "peakCount": 3,
+    "totalPts": 396,
+    "lastSeenDate": "2026-04-30"
+  },
+  "559334764": {
+    "rank": 99,
+    "pts": 98,
+    "days": 1,
+    "peak": 99,
+    "peakCount": 3,
+    "totalPts": 294,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1201058113": {
+    "rank": 47,
+    "pts": 226,
+    "days": 1,
+    "peak": 47,
+    "peakCount": 3,
+    "totalPts": 678,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1226034393": {
+    "rank": 91,
+    "pts": 109,
+    "days": 1,
+    "peak": 91,
+    "peakCount": 3,
+    "totalPts": 327,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1440650961": {
+    "rank": 16,
+    "pts": 404,
+    "days": 1,
+    "peak": 16,
+    "peakCount": 3,
+    "totalPts": 1638,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1474970500": {
+    "rank": 93,
+    "pts": 105,
+    "days": 1,
+    "peak": 93,
+    "peakCount": 3,
+    "totalPts": 315,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1598431047": {
+    "rank": 45,
+    "pts": 230,
+    "days": 1,
+    "peak": 43,
+    "peakCount": 5,
+    "totalPts": 1113,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1632448108": {
+    "rank": 29,
+    "pts": 313,
+    "days": 1,
+    "peak": 29,
+    "peakCount": 3,
+    "totalPts": 1320,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1691699836": {
+    "rank": 95,
+    "pts": 103,
+    "days": 1,
+    "peak": 95,
+    "peakCount": 3,
+    "totalPts": 309,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1739659142": {
+    "rank": 63,
+    "pts": 148,
+    "days": 1,
+    "peak": 63,
+    "peakCount": 3,
+    "totalPts": 444,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1749121123": {
+    "rank": 53,
+    "pts": 196,
+    "days": 1,
+    "peak": 45,
+    "peakCount": 5,
+    "totalPts": 995,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1752031539": {
+    "rank": 43,
+    "pts": 244,
+    "days": 1,
+    "peak": 43,
+    "peakCount": 3,
+    "totalPts": 732,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1762656732": {
+    "rank": 81,
+    "pts": 122,
+    "days": 1,
+    "peak": 81,
+    "peakCount": 3,
+    "totalPts": 366,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1787022572": {
+    "rank": 56,
+    "pts": 184,
+    "days": 1,
+    "peak": 56,
+    "peakCount": 3,
+    "totalPts": 552,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1793663645": {
+    "rank": 4,
+    "pts": 662,
+    "days": 1,
+    "peak": 4,
+    "peakCount": 3,
+    "totalPts": 2829,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1817609507": {
+    "rank": 19,
+    "pts": 391,
+    "days": 1,
+    "peak": 19,
+    "peakCount": 3,
+    "totalPts": 1739,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1817609509": {
+    "rank": 25,
+    "pts": 345,
+    "days": 1,
+    "peak": 18,
+    "peakCount": 5,
+    "totalPts": 1703,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1820264150": {
+    "rank": 3,
+    "pts": 682,
+    "days": 1,
+    "peak": 3,
+    "peakCount": 3,
+    "totalPts": 2964,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1825994649": {
+    "rank": 21,
+    "pts": 386,
+    "days": 1,
+    "peak": 21,
+    "peakCount": 4,
+    "totalPts": 1808,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1837867614": {
+    "rank": 31,
+    "pts": 297,
+    "days": 1,
+    "peak": 31,
+    "peakCount": 3,
+    "totalPts": 1426,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1838737598": {
+    "rank": 6,
+    "pts": 579,
+    "days": 1,
+    "peak": 6,
+    "peakCount": 3,
+    "totalPts": 2544,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1838810951": {
+    "rank": 36,
+    "pts": 276,
+    "days": 1,
+    "peak": 20,
+    "peakCount": 5,
+    "totalPts": 1473,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1838810953": {
+    "rank": 44,
+    "pts": 242,
+    "days": 1,
+    "peak": 30,
+    "peakCount": 5,
+    "totalPts": 1256,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1843998668": {
+    "rank": 71,
+    "pts": 135,
+    "days": 1,
+    "peak": 71,
+    "peakCount": 3,
+    "totalPts": 405,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1844467180": {
+    "rank": 78,
+    "pts": 124,
+    "days": 1,
+    "peak": 78,
+    "peakCount": 3,
+    "totalPts": 372,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1844932150": {
+    "rank": 17,
+    "pts": 404,
+    "days": 1,
+    "peak": 9,
+    "peakCount": 5,
+    "totalPts": 2050,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1866732797": {
+    "rank": 46,
+    "pts": 228,
+    "days": 1,
+    "peak": 41,
+    "peakCount": 5,
+    "totalPts": 1140,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1866732800": {
+    "rank": 11,
+    "pts": 469,
+    "days": 1,
+    "peak": 11,
+    "peakCount": 3,
+    "totalPts": 2099,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1868482073": {
+    "rank": 51,
+    "pts": 202,
+    "days": 1,
+    "peak": 51,
+    "peakCount": 3,
+    "totalPts": 606,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1868482091": {
+    "rank": 88,
+    "pts": 111,
+    "days": 1,
+    "peak": 88,
+    "peakCount": 3,
+    "totalPts": 333,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1869323374": {
+    "rank": 39,
+    "pts": 260,
+    "days": 1,
+    "peak": 31,
+    "peakCount": 5,
+    "totalPts": 1334,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1869436845": {
+    "rank": 57,
+    "pts": 159,
+    "days": 1,
+    "peak": 50,
+    "peakCount": 4,
+    "totalPts": 810,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1870514330": {
+    "rank": 40,
+    "pts": 249,
+    "days": 1,
+    "peak": 40,
+    "peakCount": 3,
+    "totalPts": 1130,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1870984036": {
+    "rank": 54,
+    "pts": 190,
+    "days": 1,
+    "peak": 50,
+    "peakCount": 5,
+    "totalPts": 905,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1871595253": {
+    "rank": 49,
+    "pts": 205,
+    "days": 1,
+    "peak": 32,
+    "peakCount": 5,
+    "totalPts": 1107,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1872842623": {
+    "rank": 50,
+    "pts": 203,
+    "days": 1,
+    "peak": 39,
+    "peakCount": 5,
+    "totalPts": 1091,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1874672062": {
+    "rank": 100,
+    "pts": 97,
+    "days": 1,
+    "peak": 100,
+    "peakCount": 3,
+    "totalPts": 291,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1874973639": {
+    "rank": 98,
+    "pts": 99,
+    "days": 1,
+    "peak": 98,
+    "peakCount": 3,
+    "totalPts": 297,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1878015314": {
+    "rank": 27,
+    "pts": 334,
+    "days": 1,
+    "peak": 12,
+    "peakCount": 5,
+    "totalPts": 1742,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1879983789": {
+    "rank": 8,
+    "pts": 509,
+    "days": 1,
+    "peak": 6,
+    "peakCount": 5,
+    "totalPts": 2382,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1883679876": {
+    "rank": 52,
+    "pts": 199,
+    "days": 1,
+    "peak": 52,
+    "peakCount": 3,
+    "totalPts": 597,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1883770172": {
+    "rank": 75,
+    "pts": 126,
+    "days": 1,
+    "peak": 75,
+    "peakCount": 3,
+    "totalPts": 378,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1883770179": {
+    "rank": 48,
+    "pts": 211,
+    "days": 1,
+    "peak": 48,
+    "peakCount": 3,
+    "totalPts": 633,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1883770432": {
+    "rank": 61,
+    "pts": 150,
+    "days": 1,
+    "peak": 61,
+    "peakCount": 3,
+    "totalPts": 450,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1883770433": {
+    "rank": 67,
+    "pts": 138,
+    "days": 1,
+    "peak": 67,
+    "peakCount": 3,
+    "totalPts": 414,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1883770443": {
+    "rank": 89,
+    "pts": 111,
+    "days": 1,
+    "peak": 89,
+    "peakCount": 3,
+    "totalPts": 333,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1883770448": {
+    "rank": 87,
+    "pts": 112,
+    "days": 1,
+    "peak": 87,
+    "peakCount": 3,
+    "totalPts": 336,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1884403093": {
+    "rank": 85,
+    "pts": 114,
+    "days": 1,
+    "peak": 60,
+    "peakCount": 4,
+    "totalPts": 618,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1884898399": {
+    "rank": 1,
+    "pts": 870,
+    "days": 1,
+    "peak": 1,
+    "peakCount": 4,
+    "totalPts": 3655,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1885488076": {
+    "rank": 15,
+    "pts": 409,
+    "days": 1,
+    "peak": 5,
+    "peakCount": 5,
+    "totalPts": 2103,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1886794071": {
+    "rank": 62,
+    "pts": 150,
+    "days": 1,
+    "peak": 62,
+    "peakCount": 3,
+    "totalPts": 586,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1887606227": {
+    "rank": 28,
+    "pts": 318,
+    "days": 1,
+    "peak": 21,
+    "peakCount": 5,
+    "totalPts": 1654,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1888967469": {
+    "rank": 9,
+    "pts": 489,
+    "days": 1,
+    "peak": 4,
+    "peakCount": 5,
+    "totalPts": 2401,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1889361602": {
+    "rank": 79,
+    "pts": 124,
+    "days": 1,
+    "peak": 61,
+    "peakCount": 5,
+    "totalPts": 649,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1889379246": {
+    "rank": 90,
+    "pts": 111,
+    "days": 1,
+    "peak": 49,
+    "peakCount": 5,
+    "totalPts": 666,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1889992113": {
+    "rank": 10,
+    "pts": 480,
+    "days": 1,
+    "peak": 10,
+    "peakCount": 4,
+    "totalPts": 2263,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1890058410": {
+    "rank": 58,
+    "pts": 157,
+    "days": 1,
+    "peak": 48,
+    "peakCount": 4,
+    "totalPts": 830,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1890389604": {
+    "rank": 18,
+    "pts": 400,
+    "days": 1,
+    "peak": 10,
+    "peakCount": 5,
+    "totalPts": 2031,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1890468637": {
+    "rank": 14,
+    "pts": 444,
+    "days": 1,
+    "peak": 7,
+    "peakCount": 5,
+    "totalPts": 2195,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1892083308": {
+    "rank": 38,
+    "pts": 261,
+    "days": 1,
+    "peak": 26,
+    "peakCount": 4,
+    "totalPts": 1396,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1892460437": {
+    "rank": 69,
+    "pts": 136,
+    "days": 1,
+    "peak": 69,
+    "peakCount": 3,
+    "totalPts": 408,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1892545101": {
+    "rank": 22,
+    "pts": 385,
+    "days": 1,
+    "peak": 22,
+    "peakCount": 3,
+    "totalPts": 1621,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1892733420": {
+    "rank": 70,
+    "pts": 136,
+    "days": 1,
+    "peak": 70,
+    "peakCount": 3,
+    "totalPts": 408,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1892749971": {
+    "rank": 86,
+    "pts": 113,
+    "days": 1,
+    "peak": 86,
+    "peakCount": 3,
+    "totalPts": 339,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1892870651": {
+    "rank": 13,
+    "pts": 446,
+    "days": 1,
+    "peak": 9,
+    "peakCount": 4,
+    "totalPts": 2139,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1892983044": {
+    "rank": 12,
+    "pts": 455,
+    "days": 1,
+    "peak": 1,
+    "peakCount": 5,
+    "totalPts": 2403,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1893294683": {
+    "rank": 96,
+    "pts": 100,
+    "days": 1,
+    "peak": 77,
+    "peakCount": 5,
+    "totalPts": 448,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1893304832": {
+    "rank": 35,
+    "pts": 281,
+    "days": 1,
+    "peak": 33,
+    "peakCount": 4,
+    "totalPts": 1301,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1893728240": {
+    "rank": 5,
+    "pts": 607,
+    "days": 1,
+    "peak": 3,
+    "peakCount": 4,
+    "totalPts": 2708,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1893838760": {
+    "rank": 60,
+    "pts": 152,
+    "days": 1,
+    "peak": 51,
+    "peakCount": 4,
+    "totalPts": 799,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1893891666": {
+    "rank": 64,
+    "pts": 147,
+    "days": 1,
+    "peak": 53,
+    "peakCount": 5,
+    "totalPts": 781,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1894317686": {
+    "rank": 94,
+    "pts": 105,
+    "days": 1,
+    "peak": 94,
+    "peakCount": 3,
+    "totalPts": 315,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1894792753": {
+    "rank": 59,
+    "pts": 154,
+    "days": 1,
+    "peak": 44,
+    "peakCount": 5,
+    "totalPts": 860,
+    "lastSeenDate": "2026-04-30"
+  },
+  "1894906929": {
+    "rank": 97,
+    "pts": 100,
+    "days": 1,
+    "peak": 97,
+    "peakCount": 3,
+    "totalPts": 300,
+    "lastSeenDate": "2026-04-30"
+  },
+  "6764067724": {
+    "rank": 2,
+    "pts": 857,
+    "days": 1,
+    "peak": 2,
+    "peakCount": 4,
+    "totalPts": 3643,
+    "lastSeenDate": "2026-04-30"
+  },
+  "6764459671": {
+    "rank": 30,
+    "pts": 306,
+    "days": 1,
+    "peak": 26,
+    "peakCount": 5,
+    "totalPts": 1533,
+    "lastSeenDate": "2026-04-30"
+  },
+  "6763094377": {
+    "rank": 32,
+    "pts": 295,
+    "days": 1,
+    "peak": 19,
+    "peakCount": 5,
+    "totalPts": 1606,
+    "lastSeenDate": "2026-04-30"
+  },
+  "6763304246": {
+    "rank": 34,
+    "pts": 282,
+    "days": 1,
+    "peak": 31,
+    "peakCount": 4,
+    "totalPts": 1392,
+    "lastSeenDate": "2026-04-30"
+  },
+  "6763979262": {
+    "rank": 37,
+    "pts": 268,
+    "days": 1,
+    "peak": 23,
+    "peakCount": 5,
+    "totalPts": 1428,
+    "lastSeenDate": "2026-04-30"
+  },
+  "6763360724": {
+    "rank": 41,
+    "pts": 249,
+    "days": 1,
+    "peak": 36,
+    "peakCount": 5,
+    "totalPts": 1255,
+    "lastSeenDate": "2026-04-30"
+  },
+  "6763360727": {
+    "rank": 42,
+    "pts": 247,
+    "days": 1,
+    "peak": 35,
+    "peakCount": 5,
+    "totalPts": 1258,
+    "lastSeenDate": "2026-04-30"
+  },
+  "6764013727": {
+    "rank": 55,
+    "pts": 188,
+    "days": 1,
+    "peak": 55,
+    "peakCount": 3,
+    "totalPts": 812,
+    "lastSeenDate": "2026-04-30"
+  },
+  "6764419428": {
+    "rank": 65,
+    "pts": 145,
+    "days": 1,
+    "peak": 38,
+    "peakCount": 5,
+    "totalPts": 867,
+    "lastSeenDate": "2026-04-30"
+  },
+  "6761851555": {
+    "rank": 66,
+    "pts": 142,
+    "days": 1,
+    "peak": 66,
+    "peakCount": 3,
+    "totalPts": 426,
+    "lastSeenDate": "2026-04-30"
+  },
+  "6763140745": {
+    "rank": 76,
+    "pts": 125,
+    "days": 1,
+    "peak": 76,
+    "peakCount": 3,
+    "totalPts": 375,
+    "lastSeenDate": "2026-04-30"
+  },
+  "6763978138": {
+    "rank": 80,
+    "pts": 123,
+    "days": 1,
+    "peak": 61,
+    "peakCount": 4,
+    "totalPts": 639,
+    "lastSeenDate": "2026-04-30"
+  },
+  "6762388022": {
+    "rank": 82,
+    "pts": 122,
+    "days": 1,
+    "peak": 82,
+    "peakCount": 3,
+    "totalPts": 366,
+    "lastSeenDate": "2026-04-30"
+  },
+  "6763373062": {
+    "rank": 84,
+    "pts": 117,
+    "days": 1,
+    "peak": 59,
+    "peakCount": 4,
+    "totalPts": 628,
+    "lastSeenDate": "2026-04-30"
+  }
+}

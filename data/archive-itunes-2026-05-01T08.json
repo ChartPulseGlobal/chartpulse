@@ -1,0 +1,5638 @@
+{
+  "source": "itunes",
+  "updatedAt": "2026-05-01T08:01:45.705Z",
+  "songs": {
+    "159294478": {
+      "rank": 106,
+      "pts": 1330,
+      "days": 2,
+      "peak": 96,
+      "peakCount": 7,
+      "totalPts": 9896,
+      "date": "2026-05-01"
+    },
+    "159294551": {
+      "rank": 77,
+      "pts": 1610,
+      "days": 2,
+      "peak": 60,
+      "peakCount": 7,
+      "totalPts": 13171,
+      "date": "2026-05-01"
+    },
+    "186166292": {
+      "rank": 39,
+      "pts": 2952,
+      "days": 2,
+      "peak": 20,
+      "peakCount": 11,
+      "totalPts": 30292,
+      "date": "2026-05-01"
+    },
+    "186774469": {
+      "rank": 176,
+      "pts": 872,
+      "days": 1,
+      "peak": 176,
+      "peakCount": 2,
+      "totalPts": 1744,
+      "date": "2026-05-01"
+    },
+    "267537169": {
+      "rank": 59,
+      "pts": 2152,
+      "days": 2,
+      "peak": 58,
+      "peakCount": 7,
+      "totalPts": 14852,
+      "date": "2026-05-01"
+    },
+    "269572927": {
+      "rank": 114,
+      "pts": 1256,
+      "days": 2,
+      "peak": 84,
+      "peakCount": 5,
+      "totalPts": 9450,
+      "date": "2026-05-01"
+    },
+    "269573303": {
+      "rank": 36,
+      "pts": 3202,
+      "days": 2,
+      "peak": 24,
+      "peakCount": 11,
+      "totalPts": 30959,
+      "date": "2026-05-01"
+    },
+    "269573341": {
+      "rank": 48,
+      "pts": 2472,
+      "days": 2,
+      "peak": 25,
+      "peakCount": 11,
+      "totalPts": 26465,
+      "date": "2026-05-01"
+    },
+    "269573364": {
+      "rank": 20,
+      "pts": 5077,
+      "days": 2,
+      "peak": 4,
+      "peakCount": 7,
+      "totalPts": 45310,
+      "date": "2026-05-01"
+    },
+    "269573405": {
+      "rank": 26,
+      "pts": 4541,
+      "days": 2,
+      "peak": 19,
+      "peakCount": 7,
+      "totalPts": 36031,
+      "date": "2026-05-01"
+    },
+    "309646673": {
+      "rank": 138,
+      "pts": 1080,
+      "days": 2,
+      "peak": 132,
+      "peakCount": 5,
+      "totalPts": 6557,
+      "date": "2026-05-01"
+    },
+    "322847191": {
+      "rank": 187,
+      "pts": 831,
+      "days": 2,
+      "peak": 59,
+      "peakCount": 11,
+      "totalPts": 10143,
+      "date": "2026-05-01"
+    },
+    "336644173": {
+      "rank": 184,
+      "pts": 845,
+      "days": 2,
+      "peak": 76,
+      "peakCount": 11,
+      "totalPts": 8714,
+      "date": "2026-05-01"
+    },
+    "348594111": {
+      "rank": 141,
+      "pts": 1062,
+      "days": 2,
+      "peak": 107,
+      "peakCount": 6,
+      "totalPts": 8821,
+      "date": "2026-05-01"
+    },
+    "559334751": {
+      "rank": 56,
+      "pts": 2265,
+      "days": 2,
+      "peak": 30,
+      "peakCount": 11,
+      "totalPts": 19367,
+      "date": "2026-05-01"
+    },
+    "559334757": {
+      "rank": 107,
+      "pts": 1319,
+      "days": 2,
+      "peak": 60,
+      "peakCount": 11,
+      "totalPts": 10414,
+      "date": "2026-05-01"
+    },
+    "559334762": {
+      "rank": 168,
+      "pts": 925,
+      "days": 1,
+      "peak": 168,
+      "peakCount": 2,
+      "totalPts": 1850,
+      "date": "2026-05-01"
+    },
+    "559334764": {
+      "rank": 75,
+      "pts": 1663,
+      "days": 2,
+      "peak": 70,
+      "peakCount": 5,
+      "totalPts": 12171,
+      "date": "2026-05-01"
+    },
+    "604748203": {
+      "rank": 104,
+      "pts": 1336,
+      "days": 2,
+      "peak": 104,
+      "peakCount": 2,
+      "totalPts": 9396,
+      "date": "2026-05-01"
+    },
+    "912995597": {
+      "rank": 70,
+      "pts": 1807,
+      "days": 2,
+      "peak": 70,
+      "peakCount": 2,
+      "totalPts": 8400,
+      "date": "2026-05-01"
+    },
+    "912996236": {
+      "rank": 188,
+      "pts": 830,
+      "days": 1,
+      "peak": 188,
+      "peakCount": 2,
+      "totalPts": 1660,
+      "date": "2026-05-01"
+    },
+    "915326413": {
+      "rank": 76,
+      "pts": 1655,
+      "days": 2,
+      "peak": 76,
+      "peakCount": 2,
+      "totalPts": 6601,
+      "date": "2026-05-01"
+    },
+    "1055074639": {
+      "rank": 143,
+      "pts": 1060,
+      "days": 2,
+      "peak": 143,
+      "peakCount": 2,
+      "totalPts": 6523,
+      "date": "2026-05-01"
+    },
+    "1201058113": {
+      "rank": 49,
+      "pts": 2457,
+      "days": 2,
+      "peak": 48,
+      "peakCount": 11,
+      "totalPts": 18777,
+      "date": "2026-05-01"
+    },
+    "1408505264": {
+      "rank": 169,
+      "pts": 916,
+      "days": 1,
+      "peak": 169,
+      "peakCount": 2,
+      "totalPts": 1832,
+      "date": "2026-05-01"
+    },
+    "1440650961": {
+      "rank": 21,
+      "pts": 4964,
+      "days": 2,
+      "peak": 10,
+      "peakCount": 11,
+      "totalPts": 38842,
+      "date": "2026-05-01"
+    },
+    "1446781788": {
+      "rank": 177,
+      "pts": 872,
+      "days": 2,
+      "peak": 160,
+      "peakCount": 5,
+      "totalPts": 4777,
+      "date": "2026-05-01"
+    },
+    "1474970500": {
+      "rank": 69,
+      "pts": 1837,
+      "days": 2,
+      "peak": 69,
+      "peakCount": 2,
+      "totalPts": 10031,
+      "date": "2026-05-01"
+    },
+    "1475519274": {
+      "rank": 196,
+      "pts": 791,
+      "days": 2,
+      "peak": 171,
+      "peakCount": 6,
+      "totalPts": 5087,
+      "date": "2026-05-01"
+    },
+    "1536259381": {
+      "rank": 120,
+      "pts": 1231,
+      "days": 2,
+      "peak": 97,
+      "peakCount": 5,
+      "totalPts": 6671,
+      "date": "2026-05-01"
+    },
+    "1579439168": {
+      "rank": 128,
+      "pts": 1172,
+      "days": 2,
+      "peak": 121,
+      "peakCount": 5,
+      "totalPts": 6037,
+      "date": "2026-05-01"
+    },
+    "1598431047": {
+      "rank": 50,
+      "pts": 2371,
+      "days": 2,
+      "peak": 47,
+      "peakCount": 11,
+      "totalPts": 19373,
+      "date": "2026-05-01"
+    },
+    "1632448108": {
+      "rank": 45,
+      "pts": 2656,
+      "days": 2,
+      "peak": 31,
+      "peakCount": 11,
+      "totalPts": 24557,
+      "date": "2026-05-01"
+    },
+    "1691699836": {
+      "rank": 73,
+      "pts": 1719,
+      "days": 2,
+      "peak": 73,
+      "peakCount": 2,
+      "totalPts": 6813,
+      "date": "2026-05-01"
+    },
+    "1691699849": {
+      "rank": 82,
+      "pts": 1549,
+      "days": 1,
+      "peak": 82,
+      "peakCount": 2,
+      "totalPts": 3098,
+      "date": "2026-05-01"
+    },
+    "1736951792": {
+      "rank": 183,
+      "pts": 848,
+      "days": 2,
+      "peak": 176,
+      "peakCount": 7,
+      "totalPts": 5877,
+      "date": "2026-05-01"
+    },
+    "1739088799": {
+      "rank": 172,
+      "pts": 901,
+      "days": 2,
+      "peak": 172,
+      "peakCount": 6,
+      "totalPts": 6308,
+      "date": "2026-05-01"
+    },
+    "1739659142": {
+      "rank": 162,
+      "pts": 962,
+      "days": 2,
+      "peak": 65,
+      "peakCount": 11,
+      "totalPts": 8966,
+      "date": "2026-05-01"
+    },
+    "1749121123": {
+      "rank": 41,
+      "pts": 2833,
+      "days": 2,
+      "peak": 41,
+      "peakCount": 2,
+      "totalPts": 20570,
+      "date": "2026-05-01"
+    },
+    "1752031539": {
+      "rank": 97,
+      "pts": 1394,
+      "days": 2,
+      "peak": 45,
+      "peakCount": 11,
+      "totalPts": 14467,
+      "date": "2026-05-01"
+    },
+    "1762656732": {
+      "rank": 152,
+      "pts": 1009,
+      "days": 2,
+      "peak": 152,
+      "peakCount": 2,
+      "totalPts": 5944,
+      "date": "2026-05-01"
+    },
+    "1769025042": {
+      "rank": 171,
+      "pts": 905,
+      "days": 1,
+      "peak": 171,
+      "peakCount": 2,
+      "totalPts": 1810,
+      "date": "2026-05-01"
+    },
+    "1770160814": {
+      "rank": 98,
+      "pts": 1389,
+      "days": 1,
+      "peak": 98,
+      "peakCount": 2,
+      "totalPts": 2778,
+      "date": "2026-05-01"
+    },
+    "1787022572": {
+      "rank": 158,
+      "pts": 972,
+      "days": 2,
+      "peak": 57,
+      "peakCount": 11,
+      "totalPts": 11920,
+      "date": "2026-05-01"
+    },
+    "1793663645": {
+      "rank": 6,
+      "pts": 7103,
+      "days": 2,
+      "peak": 4,
+      "peakCount": 11,
+      "totalPts": 52860,
+      "date": "2026-05-01"
+    },
+    "1795905600": {
+      "rank": 166,
+      "pts": 931,
+      "days": 2,
+      "peak": 162,
+      "peakCount": 7,
+      "totalPts": 6536,
+      "date": "2026-05-01"
+    },
+    "1809000182": {
+      "rank": 167,
+      "pts": 931,
+      "days": 2,
+      "peak": 113,
+      "peakCount": 5,
+      "totalPts": 8266,
+      "date": "2026-05-01"
+    },
+    "1817499251": {
+      "rank": 149,
+      "pts": 1023,
+      "days": 2,
+      "peak": 85,
+      "peakCount": 5,
+      "totalPts": 9374,
+      "date": "2026-05-01"
+    },
+    "1817609507": {
+      "rank": 34,
+      "pts": 3572,
+      "days": 2,
+      "peak": 17,
+      "peakCount": 11,
+      "totalPts": 30271,
+      "date": "2026-05-01"
+    },
+    "1817609509": {
+      "rank": 25,
+      "pts": 4648,
+      "days": 2,
+      "peak": 18,
+      "peakCount": 7,
+      "totalPts": 36514,
+      "date": "2026-05-01"
+    },
+    "1820264150": {
+      "rank": 5,
+      "pts": 7823,
+      "days": 2,
+      "peak": 3,
+      "peakCount": 11,
+      "totalPts": 62106,
+      "date": "2026-05-01"
+    },
+    "1825994649": {
+      "rank": 35,
+      "pts": 3565,
+      "days": 2,
+      "peak": 21,
+      "peakCount": 8,
+      "totalPts": 31065,
+      "date": "2026-05-01"
+    },
+    "1836975393": {
+      "rank": 180,
+      "pts": 858,
+      "days": 2,
+      "peak": 120,
+      "peakCount": 7,
+      "totalPts": 7612,
+      "date": "2026-05-01"
+    },
+    "1837658529": {
+      "rank": 147,
+      "pts": 1028,
+      "days": 2,
+      "peak": 142,
+      "peakCount": 7,
+      "totalPts": 7580,
+      "date": "2026-05-01"
+    },
+    "1837867614": {
+      "rank": 42,
+      "pts": 2794,
+      "days": 2,
+      "peak": 28,
+      "peakCount": 7,
+      "totalPts": 27062,
+      "date": "2026-05-01"
+    },
+    "1838737598": {
+      "rank": 8,
+      "pts": 6903,
+      "days": 2,
+      "peak": 4,
+      "peakCount": 5,
+      "totalPts": 54473,
+      "date": "2026-05-01"
+    },
+    "1838810951": {
+      "rank": 29,
+      "pts": 4190,
+      "days": 2,
+      "peak": 29,
+      "peakCount": 2,
+      "totalPts": 27751,
+      "date": "2026-05-01"
+    },
+    "1838810953": {
+      "rank": 33,
+      "pts": 3605,
+      "days": 2,
+      "peak": 30,
+      "peakCount": 5,
+      "totalPts": 27845,
+      "date": "2026-05-01"
+    },
+    "1841513312": {
+      "rank": 132,
+      "pts": 1146,
+      "days": 1,
+      "peak": 132,
+      "peakCount": 2,
+      "totalPts": 2292,
+      "date": "2026-05-01"
+    },
+    "1842202784": {
+      "rank": 102,
+      "pts": 1348,
+      "days": 2,
+      "peak": 102,
+      "peakCount": 2,
+      "totalPts": 6059,
+      "date": "2026-05-01"
+    },
+    "1842897454": {
+      "rank": 191,
+      "pts": 822,
+      "days": 1,
+      "peak": 191,
+      "peakCount": 2,
+      "totalPts": 1644,
+      "date": "2026-05-01"
+    },
+    "1843159674": {
+      "rank": 170,
+      "pts": 909,
+      "days": 2,
+      "peak": 147,
+      "peakCount": 6,
+      "totalPts": 5686,
+      "date": "2026-05-01"
+    },
+    "1843998668": {
+      "rank": 153,
+      "pts": 995,
+      "days": 2,
+      "peak": 64,
+      "peakCount": 8,
+      "totalPts": 8651,
+      "date": "2026-05-01"
+    },
+    "1844932150": {
+      "rank": 13,
+      "pts": 5988,
+      "days": 2,
+      "peak": 12,
+      "peakCount": 7,
+      "totalPts": 44926,
+      "date": "2026-05-01"
+    },
+    "1846278666": {
+      "rank": 123,
+      "pts": 1211,
+      "days": 2,
+      "peak": 107,
+      "peakCount": 11,
+      "totalPts": 9547,
+      "date": "2026-05-01"
+    },
+    "1846753946": {
+      "rank": 110,
+      "pts": 1293,
+      "days": 2,
+      "peak": 109,
+      "peakCount": 7,
+      "totalPts": 9560,
+      "date": "2026-05-01"
+    },
+    "1847992612": {
+      "rank": 159,
+      "pts": 968,
+      "days": 1,
+      "peak": 159,
+      "peakCount": 2,
+      "totalPts": 1936,
+      "date": "2026-05-01"
+    },
+    "1851953934": {
+      "rank": 148,
+      "pts": 1028,
+      "days": 2,
+      "peak": 129,
+      "peakCount": 6,
+      "totalPts": 8050,
+      "date": "2026-05-01"
+    },
+    "1860538548": {
+      "rank": 139,
+      "pts": 1080,
+      "days": 2,
+      "peak": 137,
+      "peakCount": 7,
+      "totalPts": 7989,
+      "date": "2026-05-01"
+    },
+    "1861663797": {
+      "rank": 181,
+      "pts": 858,
+      "days": 2,
+      "peak": 159,
+      "peakCount": 7,
+      "totalPts": 6513,
+      "date": "2026-05-01"
+    },
+    "1861772195": {
+      "rank": 160,
+      "pts": 964,
+      "days": 1,
+      "peak": 160,
+      "peakCount": 2,
+      "totalPts": 1928,
+      "date": "2026-05-01"
+    },
+    "1862634805": {
+      "rank": 88,
+      "pts": 1509,
+      "days": 2,
+      "peak": 67,
+      "peakCount": 7,
+      "totalPts": 10527,
+      "date": "2026-05-01"
+    },
+    "1866732797": {
+      "rank": 43,
+      "pts": 2794,
+      "days": 2,
+      "peak": 32,
+      "peakCount": 8,
+      "totalPts": 25898,
+      "date": "2026-05-01"
+    },
+    "1866732800": {
+      "rank": 14,
+      "pts": 5898,
+      "days": 2,
+      "peak": 9,
+      "peakCount": 8,
+      "totalPts": 43039,
+      "date": "2026-05-01"
+    },
+    "1867354081": {
+      "rank": 142,
+      "pts": 1062,
+      "days": 2,
+      "peak": 142,
+      "peakCount": 2,
+      "totalPts": 7097,
+      "date": "2026-05-01"
+    },
+    "1867616928": {
+      "rank": 156,
+      "pts": 978,
+      "days": 2,
+      "peak": 96,
+      "peakCount": 8,
+      "totalPts": 8105,
+      "date": "2026-05-01"
+    },
+    "1868482073": {
+      "rank": 68,
+      "pts": 1902,
+      "days": 2,
+      "peak": 51,
+      "peakCount": 8,
+      "totalPts": 16376,
+      "date": "2026-05-01"
+    },
+    "1869323374": {
+      "rank": 66,
+      "pts": 1940,
+      "days": 2,
+      "peak": 36,
+      "peakCount": 11,
+      "totalPts": 21206,
+      "date": "2026-05-01"
+    },
+    "1869436838": {
+      "rank": 72,
+      "pts": 1729,
+      "days": 2,
+      "peak": 72,
+      "peakCount": 2,
+      "totalPts": 11027,
+      "date": "2026-05-01"
+    },
+    "1869436845": {
+      "rank": 109,
+      "pts": 1307,
+      "days": 2,
+      "peak": 53,
+      "peakCount": 6,
+      "totalPts": 16352,
+      "date": "2026-05-01"
+    },
+    "1869436848": {
+      "rank": 178,
+      "pts": 872,
+      "days": 1,
+      "peak": 178,
+      "peakCount": 2,
+      "totalPts": 1744,
+      "date": "2026-05-01"
+    },
+    "1869537742": {
+      "rank": 116,
+      "pts": 1251,
+      "days": 2,
+      "peak": 113,
+      "peakCount": 6,
+      "totalPts": 9278,
+      "date": "2026-05-01"
+    },
+    "1870514330": {
+      "rank": 37,
+      "pts": 3156,
+      "days": 2,
+      "peak": 37,
+      "peakCount": 8,
+      "totalPts": 23121,
+      "date": "2026-05-01"
+    },
+    "1870984036": {
+      "rank": 52,
+      "pts": 2340,
+      "days": 2,
+      "peak": 42,
+      "peakCount": 8,
+      "totalPts": 17172,
+      "date": "2026-05-01"
+    },
+    "1871595253": {
+      "rank": 54,
+      "pts": 2277,
+      "days": 2,
+      "peak": 37,
+      "peakCount": 7,
+      "totalPts": 21586,
+      "date": "2026-05-01"
+    },
+    "1872357072": {
+      "rank": 111,
+      "pts": 1293,
+      "days": 1,
+      "peak": 111,
+      "peakCount": 2,
+      "totalPts": 2586,
+      "date": "2026-05-01"
+    },
+    "1872584473": {
+      "rank": 189,
+      "pts": 830,
+      "days": 1,
+      "peak": 189,
+      "peakCount": 2,
+      "totalPts": 1660,
+      "date": "2026-05-01"
+    },
+    "1875941580": {
+      "rank": 185,
+      "pts": 844,
+      "days": 2,
+      "peak": 185,
+      "peakCount": 2,
+      "totalPts": 4178,
+      "date": "2026-05-01"
+    },
+    "1875941585": {
+      "rank": 129,
+      "pts": 1172,
+      "days": 2,
+      "peak": 129,
+      "peakCount": 2,
+      "totalPts": 5584,
+      "date": "2026-05-01"
+    },
+    "1875941589": {
+      "rank": 144,
+      "pts": 1045,
+      "days": 2,
+      "peak": 144,
+      "peakCount": 2,
+      "totalPts": 5024,
+      "date": "2026-05-01"
+    },
+    "1875941594": {
+      "rank": 83,
+      "pts": 1548,
+      "days": 1,
+      "peak": 83,
+      "peakCount": 2,
+      "totalPts": 3096,
+      "date": "2026-05-01"
+    },
+    "1875941723": {
+      "rank": 173,
+      "pts": 901,
+      "days": 1,
+      "peak": 173,
+      "peakCount": 2,
+      "totalPts": 1802,
+      "date": "2026-05-01"
+    },
+    "1876200975": {
+      "rank": 198,
+      "pts": 787,
+      "days": 1,
+      "peak": 198,
+      "peakCount": 2,
+      "totalPts": 1574,
+      "date": "2026-05-01"
+    },
+    "1876617505": {
+      "rank": 46,
+      "pts": 2587,
+      "days": 2,
+      "peak": 46,
+      "peakCount": 2,
+      "totalPts": 9631,
+      "date": "2026-05-01"
+    },
+    "1877141224": {
+      "rank": 122,
+      "pts": 1230,
+      "days": 2,
+      "peak": 122,
+      "peakCount": 2,
+      "totalPts": 6491,
+      "date": "2026-05-01"
+    },
+    "1878015314": {
+      "rank": 24,
+      "pts": 4653,
+      "days": 2,
+      "peak": 18,
+      "peakCount": 5,
+      "totalPts": 37261,
+      "date": "2026-05-01"
+    },
+    "1879525016": {
+      "rank": 136,
+      "pts": 1116,
+      "days": 2,
+      "peak": 123,
+      "peakCount": 5,
+      "totalPts": 8627,
+      "date": "2026-05-01"
+    },
+    "1879983789": {
+      "rank": 12,
+      "pts": 6478,
+      "days": 2,
+      "peak": 7,
+      "peakCount": 8,
+      "totalPts": 48931,
+      "date": "2026-05-01"
+    },
+    "1880096511": {
+      "rank": 121,
+      "pts": 1231,
+      "days": 1,
+      "peak": 121,
+      "peakCount": 2,
+      "totalPts": 2462,
+      "date": "2026-05-01"
+    },
+    "1880449221": {
+      "rank": 133,
+      "pts": 1134,
+      "days": 2,
+      "peak": 125,
+      "peakCount": 7,
+      "totalPts": 7976,
+      "date": "2026-05-01"
+    },
+    "1883177258": {
+      "rank": 67,
+      "pts": 1909,
+      "days": 2,
+      "peak": 66,
+      "peakCount": 7,
+      "totalPts": 13164,
+      "date": "2026-05-01"
+    },
+    "1883590250": {
+      "rank": 137,
+      "pts": 1097,
+      "days": 2,
+      "peak": 133,
+      "peakCount": 6,
+      "totalPts": 7867,
+      "date": "2026-05-01"
+    },
+    "1883679876": {
+      "rank": 47,
+      "pts": 2509,
+      "days": 2,
+      "peak": 47,
+      "peakCount": 2,
+      "totalPts": 16133,
+      "date": "2026-05-01"
+    },
+    "1883770172": {
+      "rank": 80,
+      "pts": 1578,
+      "days": 2,
+      "peak": 69,
+      "peakCount": 11,
+      "totalPts": 9400,
+      "date": "2026-05-01"
+    },
+    "1883770179": {
+      "rank": 78,
+      "pts": 1607,
+      "days": 2,
+      "peak": 41,
+      "peakCount": 11,
+      "totalPts": 15304,
+      "date": "2026-05-01"
+    },
+    "1883770429": {
+      "rank": 64,
+      "pts": 2022,
+      "days": 1,
+      "peak": 64,
+      "peakCount": 2,
+      "totalPts": 4044,
+      "date": "2026-05-01"
+    },
+    "1883770432": {
+      "rank": 57,
+      "pts": 2255,
+      "days": 2,
+      "peak": 56,
+      "peakCount": 5,
+      "totalPts": 13540,
+      "date": "2026-05-01"
+    },
+    "1884403093": {
+      "rank": 51,
+      "pts": 2361,
+      "days": 2,
+      "peak": 51,
+      "peakCount": 2,
+      "totalPts": 12829,
+      "date": "2026-05-01"
+    },
+    "1884602328": {
+      "rank": 55,
+      "pts": 2276,
+      "days": 1,
+      "peak": 55,
+      "peakCount": 2,
+      "totalPts": 4552,
+      "date": "2026-05-01"
+    },
+    "1884609038": {
+      "rank": 112,
+      "pts": 1272,
+      "days": 2,
+      "peak": 103,
+      "peakCount": 5,
+      "totalPts": 9607,
+      "date": "2026-05-01"
+    },
+    "1884851703": {
+      "rank": 197,
+      "pts": 791,
+      "days": 2,
+      "peak": 170,
+      "peakCount": 7,
+      "totalPts": 6075,
+      "date": "2026-05-01"
+    },
+    "1884898399": {
+      "rank": 2,
+      "pts": 10272,
+      "days": 2,
+      "peak": 1,
+      "peakCount": 11,
+      "totalPts": 79941,
+      "date": "2026-05-01"
+    },
+    "1885488076": {
+      "rank": 11,
+      "pts": 6711,
+      "days": 2,
+      "peak": 11,
+      "peakCount": 2,
+      "totalPts": 45756,
+      "date": "2026-05-01"
+    },
+    "1885807668": {
+      "rank": 95,
+      "pts": 1403,
+      "days": 2,
+      "peak": 74,
+      "peakCount": 7,
+      "totalPts": 11066,
+      "date": "2026-05-01"
+    },
+    "1885807676": {
+      "rank": 105,
+      "pts": 1336,
+      "days": 2,
+      "peak": 83,
+      "peakCount": 7,
+      "totalPts": 10643,
+      "date": "2026-05-01"
+    },
+    "1885807679": {
+      "rank": 194,
+      "pts": 804,
+      "days": 2,
+      "peak": 108,
+      "peakCount": 11,
+      "totalPts": 8161,
+      "date": "2026-05-01"
+    },
+    "1885807682": {
+      "rank": 100,
+      "pts": 1358,
+      "days": 2,
+      "peak": 85,
+      "peakCount": 7,
+      "totalPts": 10317,
+      "date": "2026-05-01"
+    },
+    "1885807686": {
+      "rank": 117,
+      "pts": 1251,
+      "days": 2,
+      "peak": 92,
+      "peakCount": 7,
+      "totalPts": 10074,
+      "date": "2026-05-01"
+    },
+    "1885807960": {
+      "rank": 174,
+      "pts": 887,
+      "days": 2,
+      "peak": 102,
+      "peakCount": 11,
+      "totalPts": 8620,
+      "date": "2026-05-01"
+    },
+    "1886375862": {
+      "rank": 134,
+      "pts": 1134,
+      "days": 2,
+      "peak": 118,
+      "peakCount": 7,
+      "totalPts": 8655,
+      "date": "2026-05-01"
+    },
+    "1886794071": {
+      "rank": 30,
+      "pts": 4126,
+      "days": 2,
+      "peak": 30,
+      "peakCount": 2,
+      "totalPts": 24067,
+      "date": "2026-05-01"
+    },
+    "1887194026": {
+      "rank": 182,
+      "pts": 858,
+      "days": 1,
+      "peak": 182,
+      "peakCount": 2,
+      "totalPts": 1716,
+      "date": "2026-05-01"
+    },
+    "1887385342": {
+      "rank": 192,
+      "pts": 817,
+      "days": 2,
+      "peak": 150,
+      "peakCount": 7,
+      "totalPts": 6842,
+      "date": "2026-05-01"
+    },
+    "1887606227": {
+      "rank": 27,
+      "pts": 4245,
+      "days": 2,
+      "peak": 25,
+      "peakCount": 6,
+      "totalPts": 33196,
+      "date": "2026-05-01"
+    },
+    "1887793931": {
+      "rank": 86,
+      "pts": 1523,
+      "days": 2,
+      "peak": 86,
+      "peakCount": 7,
+      "totalPts": 10832,
+      "date": "2026-05-01"
+    },
+    "1888111006": {
+      "rank": 151,
+      "pts": 1011,
+      "days": 2,
+      "peak": 121,
+      "peakCount": 7,
+      "totalPts": 8314,
+      "date": "2026-05-01"
+    },
+    "1888345144": {
+      "rank": 91,
+      "pts": 1474,
+      "days": 2,
+      "peak": 77,
+      "peakCount": 7,
+      "totalPts": 11043,
+      "date": "2026-05-01"
+    },
+    "1888345146": {
+      "rank": 195,
+      "pts": 804,
+      "days": 2,
+      "peak": 145,
+      "peakCount": 7,
+      "totalPts": 6570,
+      "date": "2026-05-01"
+    },
+    "1888345147": {
+      "rank": 190,
+      "pts": 830,
+      "days": 2,
+      "peak": 133,
+      "peakCount": 7,
+      "totalPts": 7206,
+      "date": "2026-05-01"
+    },
+    "1888345148": {
+      "rank": 145,
+      "pts": 1045,
+      "days": 2,
+      "peak": 108,
+      "peakCount": 7,
+      "totalPts": 8660,
+      "date": "2026-05-01"
+    },
+    "1888454567": {
+      "rank": 96,
+      "pts": 1403,
+      "days": 2,
+      "peak": 96,
+      "peakCount": 5,
+      "totalPts": 10319,
+      "date": "2026-05-01"
+    },
+    "1888467820": {
+      "rank": 140,
+      "pts": 1080,
+      "days": 2,
+      "peak": 140,
+      "peakCount": 2,
+      "totalPts": 5049,
+      "date": "2026-05-01"
+    },
+    "1888967469": {
+      "rank": 15,
+      "pts": 5842,
+      "days": 2,
+      "peak": 9,
+      "peakCount": 11,
+      "totalPts": 47739,
+      "date": "2026-05-01"
+    },
+    "1889361602": {
+      "rank": 61,
+      "pts": 2103,
+      "days": 2,
+      "peak": 59,
+      "peakCount": 6,
+      "totalPts": 15372,
+      "date": "2026-05-01"
+    },
+    "1889379246": {
+      "rank": 90,
+      "pts": 1489,
+      "days": 2,
+      "peak": 71,
+      "peakCount": 7,
+      "totalPts": 11694,
+      "date": "2026-05-01"
+    },
+    "1889387207": {
+      "rank": 119,
+      "pts": 1249,
+      "days": 2,
+      "peak": 119,
+      "peakCount": 2,
+      "totalPts": 8481,
+      "date": "2026-05-01"
+    },
+    "1889425904": {
+      "rank": 99,
+      "pts": 1381,
+      "days": 2,
+      "peak": 93,
+      "peakCount": 7,
+      "totalPts": 10191,
+      "date": "2026-05-01"
+    },
+    "1889992113": {
+      "rank": 9,
+      "pts": 6813,
+      "days": 2,
+      "peak": 7,
+      "peakCount": 5,
+      "totalPts": 47714,
+      "date": "2026-05-01"
+    },
+    "1890058410": {
+      "rank": 115,
+      "pts": 1253,
+      "days": 2,
+      "peak": 41,
+      "peakCount": 5,
+      "totalPts": 18224,
+      "date": "2026-05-01"
+    },
+    "1890060756": {
+      "rank": 108,
+      "pts": 1314,
+      "days": 2,
+      "peak": 105,
+      "peakCount": 7,
+      "totalPts": 9619,
+      "date": "2026-05-01"
+    },
+    "1890389604": {
+      "rank": 10,
+      "pts": 6722,
+      "days": 2,
+      "peak": 4,
+      "peakCount": 6,
+      "totalPts": 51148,
+      "date": "2026-05-01"
+    },
+    "1890389605": {
+      "rank": 163,
+      "pts": 959,
+      "days": 1,
+      "peak": 163,
+      "peakCount": 2,
+      "totalPts": 1918,
+      "date": "2026-05-01"
+    },
+    "1890468637": {
+      "rank": 16,
+      "pts": 5690,
+      "days": 2,
+      "peak": 13,
+      "peakCount": 8,
+      "totalPts": 44621,
+      "date": "2026-05-01"
+    },
+    "1890986173": {
+      "rank": 124,
+      "pts": 1211,
+      "days": 1,
+      "peak": 124,
+      "peakCount": 2,
+      "totalPts": 2422,
+      "date": "2026-05-01"
+    },
+    "1891396141": {
+      "rank": 118,
+      "pts": 1251,
+      "days": 2,
+      "peak": 93,
+      "peakCount": 5,
+      "totalPts": 10079,
+      "date": "2026-05-01"
+    },
+    "1891689523": {
+      "rank": 186,
+      "pts": 844,
+      "days": 2,
+      "peak": 172,
+      "peakCount": 7,
+      "totalPts": 5971,
+      "date": "2026-05-01"
+    },
+    "1891703202": {
+      "rank": 164,
+      "pts": 947,
+      "days": 2,
+      "peak": 164,
+      "peakCount": 2,
+      "totalPts": 5246,
+      "date": "2026-05-01"
+    },
+    "1891928913": {
+      "rank": 154,
+      "pts": 995,
+      "days": 2,
+      "peak": 122,
+      "peakCount": 7,
+      "totalPts": 8203,
+      "date": "2026-05-01"
+    },
+    "1891943326": {
+      "rank": 84,
+      "pts": 1548,
+      "days": 2,
+      "peak": 75,
+      "peakCount": 7,
+      "totalPts": 11428,
+      "date": "2026-05-01"
+    },
+    "1891953336": {
+      "rank": 113,
+      "pts": 1272,
+      "days": 2,
+      "peak": 101,
+      "peakCount": 7,
+      "totalPts": 9778,
+      "date": "2026-05-01"
+    },
+    "1891964092": {
+      "rank": 101,
+      "pts": 1358,
+      "days": 1,
+      "peak": 101,
+      "peakCount": 2,
+      "totalPts": 2716,
+      "date": "2026-05-01"
+    },
+    "1892011904": {
+      "rank": 175,
+      "pts": 887,
+      "days": 2,
+      "peak": 127,
+      "peakCount": 7,
+      "totalPts": 7591,
+      "date": "2026-05-01"
+    },
+    "1892041647": {
+      "rank": 146,
+      "pts": 1042,
+      "days": 2,
+      "peak": 59,
+      "peakCount": 5,
+      "totalPts": 12034,
+      "date": "2026-05-01"
+    },
+    "1892083308": {
+      "rank": 65,
+      "pts": 1943,
+      "days": 2,
+      "peak": 34,
+      "peakCount": 6,
+      "totalPts": 22572,
+      "date": "2026-05-01"
+    },
+    "1892192263": {
+      "rank": 199,
+      "pts": 787,
+      "days": 1,
+      "peak": 199,
+      "peakCount": 2,
+      "totalPts": 1574,
+      "date": "2026-05-01"
+    },
+    "1892545101": {
+      "rank": 18,
+      "pts": 5533,
+      "days": 2,
+      "peak": 16,
+      "peakCount": 8,
+      "totalPts": 37441,
+      "date": "2026-05-01"
+    },
+    "1892545227": {
+      "rank": 1,
+      "pts": 13460,
+      "days": 1,
+      "peak": 1,
+      "peakCount": 2,
+      "totalPts": 26920,
+      "date": "2026-05-01"
+    },
+    "1892749971": {
+      "rank": 125,
+      "pts": 1194,
+      "days": 2,
+      "peak": 88,
+      "peakCount": 8,
+      "totalPts": 9513,
+      "date": "2026-05-01"
+    },
+    "1892870651": {
+      "rank": 23,
+      "pts": 4828,
+      "days": 2,
+      "peak": 12,
+      "peakCount": 8,
+      "totalPts": 43007,
+      "date": "2026-05-01"
+    },
+    "1892983044": {
+      "rank": 7,
+      "pts": 7007,
+      "days": 2,
+      "peak": 5,
+      "peakCount": 6,
+      "totalPts": 51670,
+      "date": "2026-05-01"
+    },
+    "1893294683": {
+      "rank": 126,
+      "pts": 1191,
+      "days": 2,
+      "peak": 98,
+      "peakCount": 7,
+      "totalPts": 9571,
+      "date": "2026-05-01"
+    },
+    "1893304832": {
+      "rank": 53,
+      "pts": 2288,
+      "days": 2,
+      "peak": 31,
+      "peakCount": 5,
+      "totalPts": 24129,
+      "date": "2026-05-01"
+    },
+    "1893428688": {
+      "rank": 150,
+      "pts": 1019,
+      "days": 1,
+      "peak": 150,
+      "peakCount": 2,
+      "totalPts": 2038,
+      "date": "2026-05-01"
+    },
+    "1893501615": {
+      "rank": 193,
+      "pts": 817,
+      "days": 2,
+      "peak": 155,
+      "peakCount": 7,
+      "totalPts": 6417,
+      "date": "2026-05-01"
+    },
+    "1893728240": {
+      "rank": 22,
+      "pts": 4902,
+      "days": 2,
+      "peak": 5,
+      "peakCount": 11,
+      "totalPts": 46550,
+      "date": "2026-05-01"
+    },
+    "1893838760": {
+      "rank": 62,
+      "pts": 2062,
+      "days": 2,
+      "peak": 49,
+      "peakCount": 7,
+      "totalPts": 17613,
+      "date": "2026-05-01"
+    },
+    "1893867023": {
+      "rank": 92,
+      "pts": 1450,
+      "days": 1,
+      "peak": 92,
+      "peakCount": 2,
+      "totalPts": 2900,
+      "date": "2026-05-01"
+    },
+    "1893872763": {
+      "rank": 130,
+      "pts": 1153,
+      "days": 2,
+      "peak": 84,
+      "peakCount": 7,
+      "totalPts": 10079,
+      "date": "2026-05-01"
+    },
+    "1893886955": {
+      "rank": 157,
+      "pts": 978,
+      "days": 2,
+      "peak": 129,
+      "peakCount": 7,
+      "totalPts": 7754,
+      "date": "2026-05-01"
+    },
+    "1893891666": {
+      "rank": 94,
+      "pts": 1409,
+      "days": 2,
+      "peak": 57,
+      "peakCount": 6,
+      "totalPts": 14024,
+      "date": "2026-05-01"
+    },
+    "1893960365": {
+      "rank": 155,
+      "pts": 982,
+      "days": 1,
+      "peak": 155,
+      "peakCount": 2,
+      "totalPts": 1964,
+      "date": "2026-05-01"
+    },
+    "1894272112": {
+      "rank": 131,
+      "pts": 1151,
+      "days": 2,
+      "peak": 120,
+      "peakCount": 11,
+      "totalPts": 7662,
+      "date": "2026-05-01"
+    },
+    "1894317686": {
+      "rank": 63,
+      "pts": 2050,
+      "days": 2,
+      "peak": 60,
+      "peakCount": 6,
+      "totalPts": 14385,
+      "date": "2026-05-01"
+    },
+    "1894792753": {
+      "rank": 71,
+      "pts": 1768,
+      "days": 2,
+      "peak": 59,
+      "peakCount": 7,
+      "totalPts": 14218,
+      "date": "2026-05-01"
+    },
+    "1894837345": {
+      "rank": 165,
+      "pts": 947,
+      "days": 1,
+      "peak": 165,
+      "peakCount": 2,
+      "totalPts": 1894,
+      "date": "2026-05-01"
+    },
+    "6764067724": {
+      "rank": 3,
+      "pts": 8590,
+      "days": 2,
+      "peak": 2,
+      "peakCount": 11,
+      "totalPts": 73133,
+      "date": "2026-05-01"
+    },
+    "6763400211": {
+      "rank": 4,
+      "pts": 8472,
+      "days": 1,
+      "peak": 4,
+      "peakCount": 2,
+      "totalPts": 16944,
+      "date": "2026-05-01"
+    },
+    "6764459671": {
+      "rank": 17,
+      "pts": 5565,
+      "days": 2,
+      "peak": 17,
+      "peakCount": 2,
+      "totalPts": 38301,
+      "date": "2026-05-01"
+    },
+    "6764686279": {
+      "rank": 19,
+      "pts": 5395,
+      "days": 1,
+      "peak": 19,
+      "peakCount": 2,
+      "totalPts": 10790,
+      "date": "2026-05-01"
+    },
+    "6763094377": {
+      "rank": 28,
+      "pts": 4196,
+      "days": 2,
+      "peak": 26,
+      "peakCount": 6,
+      "totalPts": 32273,
+      "date": "2026-05-01"
+    },
+    "6764013727": {
+      "rank": 31,
+      "pts": 3633,
+      "days": 2,
+      "peak": 31,
+      "peakCount": 2,
+      "totalPts": 24214,
+      "date": "2026-05-01"
+    },
+    "6764429252": {
+      "rank": 32,
+      "pts": 3609,
+      "days": 1,
+      "peak": 32,
+      "peakCount": 2,
+      "totalPts": 7218,
+      "date": "2026-05-01"
+    },
+    "6763360727": {
+      "rank": 38,
+      "pts": 3045,
+      "days": 2,
+      "peak": 35,
+      "peakCount": 5,
+      "totalPts": 25137,
+      "date": "2026-05-01"
+    },
+    "6763360724": {
+      "rank": 40,
+      "pts": 2919,
+      "days": 2,
+      "peak": 36,
+      "peakCount": 5,
+      "totalPts": 24791,
+      "date": "2026-05-01"
+    },
+    "6764429255": {
+      "rank": 44,
+      "pts": 2733,
+      "days": 1,
+      "peak": 44,
+      "peakCount": 2,
+      "totalPts": 5466,
+      "date": "2026-05-01"
+    },
+    "6763094072": {
+      "rank": 58,
+      "pts": 2245,
+      "days": 2,
+      "peak": 58,
+      "peakCount": 2,
+      "totalPts": 12033,
+      "date": "2026-05-01"
+    },
+    "6763304246": {
+      "rank": 60,
+      "pts": 2148,
+      "days": 2,
+      "peak": 32,
+      "peakCount": 11,
+      "totalPts": 21868,
+      "date": "2026-05-01"
+    },
+    "6764419428": {
+      "rank": 74,
+      "pts": 1709,
+      "days": 2,
+      "peak": 45,
+      "peakCount": 6,
+      "totalPts": 18840,
+      "date": "2026-05-01"
+    },
+    "6763516678": {
+      "rank": 79,
+      "pts": 1600,
+      "days": 1,
+      "peak": 79,
+      "peakCount": 2,
+      "totalPts": 3200,
+      "date": "2026-05-01"
+    },
+    "6762737233": {
+      "rank": 81,
+      "pts": 1574,
+      "days": 2,
+      "peak": 72,
+      "peakCount": 7,
+      "totalPts": 11644,
+      "date": "2026-05-01"
+    },
+    "6763979262": {
+      "rank": 85,
+      "pts": 1530,
+      "days": 2,
+      "peak": 35,
+      "peakCount": 11,
+      "totalPts": 19734,
+      "date": "2026-05-01"
+    },
+    "6763834283": {
+      "rank": 87,
+      "pts": 1518,
+      "days": 1,
+      "peak": 87,
+      "peakCount": 2,
+      "totalPts": 3036,
+      "date": "2026-05-01"
+    },
+    "6763449153": {
+      "rank": 89,
+      "pts": 1498,
+      "days": 2,
+      "peak": 81,
+      "peakCount": 7,
+      "totalPts": 10959,
+      "date": "2026-05-01"
+    },
+    "6763978138": {
+      "rank": 93,
+      "pts": 1427,
+      "days": 2,
+      "peak": 70,
+      "peakCount": 7,
+      "totalPts": 11929,
+      "date": "2026-05-01"
+    },
+    "6763335416": {
+      "rank": 103,
+      "pts": 1338,
+      "days": 2,
+      "peak": 103,
+      "peakCount": 2,
+      "totalPts": 7884,
+      "date": "2026-05-01"
+    },
+    "6762790073": {
+      "rank": 127,
+      "pts": 1191,
+      "days": 2,
+      "peak": 87,
+      "peakCount": 7,
+      "totalPts": 9658,
+      "date": "2026-05-01"
+    },
+    "6763373062": {
+      "rank": 135,
+      "pts": 1120,
+      "days": 2,
+      "peak": 78,
+      "peakCount": 7,
+      "totalPts": 10217,
+      "date": "2026-05-01"
+    },
+    "6762711963": {
+      "rank": 161,
+      "pts": 963,
+      "days": 2,
+      "peak": 151,
+      "peakCount": 6,
+      "totalPts": 7066,
+      "date": "2026-05-01"
+    },
+    "6764419265": {
+      "rank": 179,
+      "pts": 872,
+      "days": 1,
+      "peak": 179,
+      "peakCount": 2,
+      "totalPts": 1744,
+      "date": "2026-05-01"
+    },
+    "6763140745": {
+      "rank": 200,
+      "pts": 787,
+      "days": 2,
+      "peak": 147,
+      "peakCount": 5,
+      "totalPts": 4787,
+      "date": "2026-05-01"
+    }
+  },
+  "rows": [
+    {
+      "id": "1892545227",
+      "artist": "Madonna & Sabrina Carpenter",
+      "title": "Bring Your Love",
+      "pts": 13460,
+      "countries": {
+        "US": 1,
+        "UK": 1,
+        "DE": 1,
+        "AU": 1,
+        "JP": 77,
+        "CA": 1,
+        "FR": 1,
+        "IT": 1,
+        "ES": 1,
+        "MX": 1,
+        "NL": 1,
+        "BR": 1,
+        "DK": 1,
+        "IE": 1,
+        "NO": 1,
+        "NZ": 1,
+        "SE": 1
+      },
+      "rank": 1,
+      "move": "=",
+      "days": 1,
+      "peak": 1,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 26920,
+      "tpts": "26.920"
+    },
+    {
+      "id": "1884898399",
+      "artist": "The Second Voice",
+      "title": "LET ME BE",
+      "pts": 10272,
+      "countries": {
+        "US": 28,
+        "UK": 6,
+        "DE": 4,
+        "AU": 18,
+        "CA": 14,
+        "FR": 2,
+        "IT": 8,
+        "ES": 19,
+        "MX": 37,
+        "NL": 9,
+        "BR": 28,
+        "DK": 11,
+        "IE": 4,
+        "NO": 2,
+        "SE": 57
+      },
+      "rank": 2,
+      "move": "=",
+      "days": 2,
+      "peak": 1,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 79941,
+      "tpts": "79.941"
+    },
+    {
+      "id": "6764067724",
+      "artist": "Jada Monroe",
+      "title": "Keep Going",
+      "pts": 8590,
+      "countries": {
+        "US": 10,
+        "UK": 8,
+        "DE": 8,
+        "AU": 5,
+        "CA": 10,
+        "FR": 24,
+        "IT": 49,
+        "NL": 21,
+        "DK": 4,
+        "NZ": 2,
+        "SE": 70
+      },
+      "rank": 3,
+      "move": "=",
+      "days": 2,
+      "peak": 2,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 73133,
+      "tpts": "73.133"
+    },
+    {
+      "id": "6763400211",
+      "artist": "Madonna & Sabrina Carpenter",
+      "title": "Bring Your Love",
+      "pts": 8472,
+      "countries": {
+        "US": 52,
+        "UK": 17,
+        "DE": 59,
+        "AU": 14,
+        "CA": 75,
+        "FR": 4,
+        "IT": 7,
+        "ES": 4,
+        "MX": 5,
+        "NL": 19,
+        "BR": 4,
+        "DK": 15,
+        "IE": 5
+      },
+      "rank": 4,
+      "move": "=",
+      "days": 1,
+      "peak": 4,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 16944,
+      "tpts": "16.944"
+    },
+    {
+      "id": "1820264150",
+      "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast",
+      "title": "Golden",
+      "pts": 7823,
+      "countries": {
+        "US": 32,
+        "UK": 27,
+        "DE": 47,
+        "AU": 21,
+        "JP": 46,
+        "CA": 20,
+        "FR": 10,
+        "IT": 32,
+        "ES": 15,
+        "MX": 40,
+        "DK": 93,
+        "NZ": 9
+      },
+      "rank": 5,
+      "move": "=",
+      "days": 2,
+      "peak": 3,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 62106,
+      "tpts": "62.106"
+    },
+    {
+      "id": "1793663645",
+      "artist": "Alex Warren",
+      "title": "Ordinary",
+      "pts": 7103,
+      "countries": {
+        "US": 27,
+        "UK": 9,
+        "DE": 57,
+        "AU": 12,
+        "CA": 18,
+        "FR": 45,
+        "IT": 42,
+        "NL": 6,
+        "BR": 2,
+        "DK": 34,
+        "NO": 89
+      },
+      "rank": 6,
+      "move": "=",
+      "days": 2,
+      "peak": 4,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 52860,
+      "tpts": "52.860"
+    },
+    {
+      "id": "1892983044",
+      "artist": "Josh Fawaz",
+      "title": "Like a Prayer",
+      "pts": 7007,
+      "countries": {
+        "US": 13,
+        "UK": 7,
+        "DE": 7,
+        "AU": 4,
+        "CA": 5,
+        "IE": 16,
+        "NZ": 4
+      },
+      "rank": 7,
+      "move": "=",
+      "days": 2,
+      "peak": 5,
+      "peakCount": 6,
+      "ptsPlus": "—",
+      "totalPts": 51670,
+      "tpts": "51.670"
+    },
+    {
+      "id": "1838737598",
+      "artist": "RAYE",
+      "title": "WHERE IS MY HUSBAND!",
+      "pts": 6903,
+      "countries": {
+        "US": 46,
+        "UK": 11,
+        "DE": 29,
+        "AU": 31,
+        "CA": 19,
+        "FR": 13,
+        "MX": 23,
+        "NL": 5,
+        "IE": 17
+      },
+      "rank": 8,
+      "move": "=",
+      "days": 2,
+      "peak": 4,
+      "peakCount": 5,
+      "ptsPlus": "—",
+      "totalPts": 54473,
+      "tpts": "54.473"
+    },
+    {
+      "id": "1889992113",
+      "artist": "Olivia Rodrigo",
+      "title": "drop dead",
+      "pts": 6813,
+      "countries": {
+        "US": 17,
+        "UK": 22,
+        "DE": 61,
+        "AU": 54,
+        "CA": 8,
+        "FR": 55,
+        "IT": 60,
+        "ES": 24,
+        "MX": 16,
+        "NL": 13
+      },
+      "rank": 9,
+      "move": "=",
+      "days": 2,
+      "peak": 7,
+      "peakCount": 5,
+      "ptsPlus": "—",
+      "totalPts": 47714,
+      "tpts": "47.714"
+    },
+    {
+      "id": "1890389604",
+      "artist": "Eddie Dalton",
+      "title": "Somewhere Along The Way",
+      "pts": 6722,
+      "countries": {
+        "US": 2,
+        "UK": 4,
+        "DE": 87,
+        "AU": 7,
+        "CA": 3,
+        "NL": 15,
+        "DK": 33,
+        "NZ": 27
+      },
+      "rank": 10,
+      "move": "=",
+      "days": 2,
+      "peak": 4,
+      "peakCount": 6,
+      "ptsPlus": "—",
+      "totalPts": 51148,
+      "tpts": "51.148"
+    },
+    {
+      "id": "1885488076",
+      "artist": "Eddie Dalton",
+      "title": "Another Day Old",
+      "pts": 6711,
+      "countries": {
+        "US": 4,
+        "UK": 10,
+        "DE": 60,
+        "AU": 8,
+        "CA": 4,
+        "NL": 87,
+        "DK": 8,
+        "NO": 8,
+        "NZ": 5
+      },
+      "rank": 11,
+      "move": "=",
+      "days": 2,
+      "peak": 11,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 45756,
+      "tpts": "45.756"
+    },
+    {
+      "id": "1879983789",
+      "artist": "Alex Warren",
+      "title": "FEVER DREAM",
+      "pts": 6478,
+      "countries": {
+        "US": 48,
+        "UK": 5,
+        "DE": 21,
+        "AU": 10,
+        "CA": 11,
+        "FR": 33,
+        "IT": 34,
+        "IE": 76
+      },
+      "rank": 12,
+      "move": "=",
+      "days": 2,
+      "peak": 7,
+      "peakCount": 8,
+      "ptsPlus": "—",
+      "totalPts": 48931,
+      "tpts": "48.931"
+    },
+    {
+      "id": "1844932150",
+      "artist": "Ella Langley",
+      "title": "Choosin' Texas",
+      "pts": 5988,
+      "countries": {
+        "US": 3,
+        "UK": 3,
+        "AU": 2,
+        "CA": 2,
+        "IE": 11,
+        "NZ": 6
+      },
+      "rank": 13,
+      "move": "=",
+      "days": 2,
+      "peak": 12,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 44926,
+      "tpts": "44.926"
+    },
+    {
+      "id": "1866732800",
+      "artist": "Bruno Mars",
+      "title": "I Just Might",
+      "pts": 5898,
+      "countries": {
+        "US": 16,
+        "UK": 28,
+        "DE": 41,
+        "CA": 23,
+        "FR": 17,
+        "ES": 36,
+        "MX": 30,
+        "NL": 12
+      },
+      "rank": 14,
+      "move": "=",
+      "days": 2,
+      "peak": 9,
+      "peakCount": 8,
+      "ptsPlus": "—",
+      "totalPts": 43039,
+      "tpts": "43.039"
+    },
+    {
+      "id": "1888967469",
+      "artist": "IngaRose",
+      "title": "Celebrate Me",
+      "pts": 5842,
+      "countries": {
+        "US": 8,
+        "UK": 15,
+        "DE": 30,
+        "AU": 33,
+        "CA": 16,
+        "FR": 71,
+        "DK": 89,
+        "NZ": 12
+      },
+      "rank": 15,
+      "move": "=",
+      "days": 2,
+      "peak": 9,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 47739,
+      "tpts": "47.739"
+    },
+    {
+      "id": "1890468637",
+      "artist": "Ragal Ironbull",
+      "title": "VALHALLA CALLING",
+      "pts": 5690,
+      "countries": {
+        "US": 26,
+        "UK": 23,
+        "DE": 24,
+        "AU": 32,
+        "CA": 17,
+        "FR": 72,
+        "IT": 53,
+        "NO": 13
+      },
+      "rank": 16,
+      "move": "=",
+      "days": 2,
+      "peak": 13,
+      "peakCount": 8,
+      "ptsPlus": "—",
+      "totalPts": 44621,
+      "tpts": "44.621"
+    },
+    {
+      "id": "6764459671",
+      "artist": "Die WBL",
+      "title": "ANGEL ABOVE ME (RUN RUN RIVER)",
+      "pts": 5565,
+      "countries": {
+        "UK": 2,
+        "DE": 2,
+        "AU": 27,
+        "CA": 7,
+        "IE": 3,
+        "NO": 10,
+        "SE": 69
+      },
+      "rank": 17,
+      "move": "=",
+      "days": 2,
+      "peak": 17,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 38301,
+      "tpts": "38.301"
+    },
+    {
+      "id": "1892545101",
+      "artist": "Madonna",
+      "title": "I Feel So Free",
+      "pts": 5533,
+      "countries": {
+        "US": 35,
+        "UK": 63,
+        "DE": 32,
+        "AU": 53,
+        "CA": 45,
+        "FR": 20,
+        "IT": 43,
+        "MX": 3,
+        "BR": 14
+      },
+      "rank": 18,
+      "move": "=",
+      "days": 2,
+      "peak": 16,
+      "peakCount": 8,
+      "ptsPlus": "—",
+      "totalPts": 37441,
+      "tpts": "37.441"
+    },
+    {
+      "id": "6764686279",
+      "artist": "Alex Warren",
+      "title": "FINE PLACE TO DIE",
+      "pts": 5395,
+      "countries": {
+        "US": 14,
+        "UK": 13,
+        "AU": 15,
+        "CA": 12,
+        "IT": 62,
+        "IE": 2,
+        "NZ": 10
+      },
+      "rank": 19,
+      "move": "=",
+      "days": 1,
+      "peak": 19,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 10790,
+      "tpts": "10.790"
+    },
+    {
+      "id": "269573364",
+      "artist": "Michael Jackson",
+      "title": "Billie Jean",
+      "pts": 5077,
+      "countries": {
+        "US": 20,
+        "UK": 26,
+        "DE": 79,
+        "AU": 26,
+        "IT": 13,
+        "ES": 11
+      },
+      "rank": 20,
+      "move": "=",
+      "days": 2,
+      "peak": 4,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 45310,
+      "tpts": "45.310"
+    },
+    {
+      "id": "1440650961",
+      "artist": "Justin Bieber",
+      "title": "Beauty and a Beat (feat. Nicki Minaj)",
+      "pts": 4964,
+      "countries": {
+        "UK": 62,
+        "DE": 6,
+        "AU": 74,
+        "CA": 63,
+        "FR": 50,
+        "IT": 31,
+        "MX": 55,
+        "NL": 23,
+        "NO": 4,
+        "SE": 64
+      },
+      "rank": 21,
+      "move": "=",
+      "days": 2,
+      "peak": 10,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 38842,
+      "tpts": "38.842"
+    },
+    {
+      "id": "1893728240",
+      "artist": "Bob Dominator",
+      "title": "Dragon Style",
+      "pts": 4902,
+      "countries": {
+        "US": 34,
+        "UK": 31,
+        "DE": 55,
+        "AU": 72,
+        "CA": 13,
+        "FR": 11,
+        "IT": 30
+      },
+      "rank": 22,
+      "move": "=",
+      "days": 2,
+      "peak": 5,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 46550,
+      "tpts": "46.550"
+    },
+    {
+      "id": "1892870651",
+      "artist": "Bob Dominator",
+      "title": "Dragons Lair",
+      "pts": 4828,
+      "countries": {
+        "US": 38,
+        "UK": 38,
+        "DE": 44,
+        "AU": 28,
+        "CA": 21,
+        "FR": 34,
+        "DK": 19
+      },
+      "rank": 23,
+      "move": "=",
+      "days": 2,
+      "peak": 12,
+      "peakCount": 8,
+      "ptsPlus": "—",
+      "totalPts": 43007,
+      "tpts": "43.007"
+    },
+    {
+      "id": "1878015314",
+      "artist": "Bebe Rexha & Faithless",
+      "title": "New Religion",
+      "pts": 4653,
+      "countries": {
+        "US": 70,
+        "UK": 12,
+        "DE": 5,
+        "AU": 24,
+        "DK": 24
+      },
+      "rank": 24,
+      "move": "=",
+      "days": 2,
+      "peak": 18,
+      "peakCount": 5,
+      "ptsPlus": "—",
+      "totalPts": 37261,
+      "tpts": "37.261"
+    },
+    {
+      "id": "1817609509",
+      "artist": "Olivia Dean",
+      "title": "Man I Need",
+      "pts": 4648,
+      "countries": {
+        "US": 30,
+        "UK": 14,
+        "AU": 17,
+        "FR": 81,
+        "NL": 14,
+        "NZ": 8
+      },
+      "rank": 25,
+      "move": "=",
+      "days": 2,
+      "peak": 18,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 36514,
+      "tpts": "36.514"
+    },
+    {
+      "id": "269573405",
+      "artist": "Michael Jackson",
+      "title": "Human Nature",
+      "pts": 4541,
+      "countries": {
+        "US": 23,
+        "UK": 19,
+        "AU": 75,
+        "CA": 42,
+        "FR": 28,
+        "IT": 52,
+        "MX": 31
+      },
+      "rank": 26,
+      "move": "=",
+      "days": 2,
+      "peak": 19,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 36031,
+      "tpts": "36.031"
+    },
+    {
+      "id": "1887606227",
+      "artist": "Cameron Whitcomb",
+      "title": "Kingdom of Fear",
+      "pts": 4245,
+      "countries": {
+        "US": 24,
+        "UK": 24,
+        "AU": 13,
+        "CA": 6
+      },
+      "rank": 27,
+      "move": "=",
+      "days": 2,
+      "peak": 25,
+      "peakCount": 6,
+      "ptsPlus": "—",
+      "totalPts": 33196,
+      "tpts": "33.196"
+    },
+    {
+      "id": "6763094377",
+      "artist": "Ella Langley & Morgan Wallen",
+      "title": "I Can't Love You Anymore",
+      "pts": 4196,
+      "countries": {
+        "US": 7,
+        "UK": 64,
+        "AU": 6,
+        "CA": 9
+      },
+      "rank": 28,
+      "move": "=",
+      "days": 2,
+      "peak": 26,
+      "peakCount": 6,
+      "ptsPlus": "—",
+      "totalPts": 32273,
+      "tpts": "32.273"
+    },
+    {
+      "id": "1838810951",
+      "artist": "Taylor Swift",
+      "title": "The Fate of Ophelia",
+      "pts": 4190,
+      "countries": {
+        "UK": 18,
+        "DE": 22,
+        "AU": 25,
+        "CA": 52,
+        "NO": 21,
+        "NZ": 25
+      },
+      "rank": 29,
+      "move": "=",
+      "days": 2,
+      "peak": 29,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 27751,
+      "tpts": "27.751"
+    },
+    {
+      "id": "1886794071",
+      "artist": "iyah may",
+      "title": "Good Citizen",
+      "pts": 4126,
+      "countries": {
+        "US": 80,
+        "UK": 46,
+        "AU": 3,
+        "CA": 55,
+        "NL": 30,
+        "DK": 18,
+        "IE": 18,
+        "SE": 72
+      },
+      "rank": 30,
+      "move": "=",
+      "days": 2,
+      "peak": 30,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 24067,
+      "tpts": "24.067"
+    },
+    {
+      "id": "6764013727",
+      "artist": "DJ Kryos",
+      "title": "Run Run River",
+      "pts": 3633,
+      "countries": {
+        "UK": 16,
+        "DE": 10,
+        "CA": 28,
+        "DK": 73,
+        "IE": 8,
+        "SE": 53
+      },
+      "rank": 31,
+      "move": "=",
+      "days": 2,
+      "peak": 31,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 24214,
+      "tpts": "24.214"
+    },
+    {
+      "id": "6764429252",
+      "artist": "Lady Gaga",
+      "title": "Shape of a Woman",
+      "pts": 3609,
+      "countries": {
+        "UK": 66,
+        "AU": 19,
+        "FR": 59,
+        "IT": 14,
+        "ES": 13,
+        "NZ": 11
+      },
+      "rank": 32,
+      "move": "=",
+      "days": 1,
+      "peak": 32,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 7218,
+      "tpts": "7.218"
+    },
+    {
+      "id": "1838810953",
+      "artist": "Taylor Swift",
+      "title": "Opalite",
+      "pts": 3605,
+      "countries": {
+        "US": 89,
+        "UK": 32,
+        "DE": 49,
+        "AU": 20,
+        "CA": 49
+      },
+      "rank": 33,
+      "move": "=",
+      "days": 2,
+      "peak": 30,
+      "peakCount": 5,
+      "ptsPlus": "—",
+      "totalPts": 27845,
+      "tpts": "27.845"
+    },
+    {
+      "id": "1817609507",
+      "artist": "Olivia Dean",
+      "title": "So Easy (To Fall In Love)",
+      "pts": 3572,
+      "countries": {
+        "US": 39,
+        "UK": 61,
+        "AU": 51,
+        "CA": 39,
+        "IT": 33,
+        "BR": 9,
+        "NZ": 13
+      },
+      "rank": 34,
+      "move": "=",
+      "days": 2,
+      "peak": 17,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 30271,
+      "tpts": "30.271"
+    },
+    {
+      "id": "1825994649",
+      "artist": "Justin Bieber",
+      "title": "DAISIES",
+      "pts": 3565,
+      "countries": {
+        "US": 42,
+        "UK": 37,
+        "AU": 34,
+        "CA": 58,
+        "NL": 29,
+        "SE": 62
+      },
+      "rank": 35,
+      "move": "=",
+      "days": 2,
+      "peak": 21,
+      "peakCount": 8,
+      "ptsPlus": "—",
+      "totalPts": 31065,
+      "tpts": "31.065"
+    },
+    {
+      "id": "269573303",
+      "artist": "Michael Jackson",
+      "title": "Thriller",
+      "pts": 3202,
+      "countries": {
+        "US": 44,
+        "UK": 39,
+        "AU": 59,
+        "CA": 44,
+        "IT": 25
+      },
+      "rank": 36,
+      "move": "=",
+      "days": 2,
+      "peak": 24,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 30959,
+      "tpts": "30.959"
+    },
+    {
+      "id": "1870514330",
+      "artist": "ANOTR",
+      "title": "Talk To You (feat. 54 Ultra)",
+      "pts": 3156,
+      "countries": {
+        "UK": 42,
+        "DE": 23,
+        "IT": 16,
+        "NL": 33,
+        "SE": 55
+      },
+      "rank": 37,
+      "move": "=",
+      "days": 2,
+      "peak": 37,
+      "peakCount": 8,
+      "ptsPlus": "—",
+      "totalPts": 23121,
+      "tpts": "23.121"
+    },
+    {
+      "id": "6763360727",
+      "artist": "Keith Urban",
+      "title": "Summer Breeze",
+      "pts": 3045,
+      "countries": {
+        "US": 15,
+        "AU": 11,
+        "CA": 41
+      },
+      "rank": 38,
+      "move": "=",
+      "days": 2,
+      "peak": 35,
+      "peakCount": 5,
+      "ptsPlus": "—",
+      "totalPts": 25137,
+      "tpts": "25.137"
+    },
+    {
+      "id": "186166292",
+      "artist": "Michael Jackson",
+      "title": "Don't Stop 'Til You Get Enough",
+      "pts": 2952,
+      "countries": {
+        "US": 33,
+        "UK": 35,
+        "FR": 35,
+        "IT": 23,
+        "NO": 87
+      },
+      "rank": 39,
+      "move": "=",
+      "days": 2,
+      "peak": 20,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 30292,
+      "tpts": "30.292"
+    },
+    {
+      "id": "6763360724",
+      "artist": "Keith Urban",
+      "title": "We Go Back (feat. Michael McDonald)",
+      "pts": 2919,
+      "countries": {
+        "US": 19,
+        "AU": 9,
+        "CA": 56
+      },
+      "rank": 40,
+      "move": "=",
+      "days": 2,
+      "peak": 36,
+      "peakCount": 5,
+      "ptsPlus": "—",
+      "totalPts": 24791,
+      "tpts": "24.791"
+    },
+    {
+      "id": "1749121123",
+      "artist": "Ella Langley & Riley Green",
+      "title": "you look like you love me",
+      "pts": 2833,
+      "countries": {
+        "US": 18,
+        "AU": 23,
+        "CA": 29
+      },
+      "rank": 41,
+      "move": "=",
+      "days": 2,
+      "peak": 41,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 20570,
+      "tpts": "20.570"
+    },
+    {
+      "id": "1837867614",
+      "artist": "Justin Bieber",
+      "title": "EVERYTHING HALLELUJAH",
+      "pts": 2794,
+      "countries": {
+        "US": 37,
+        "UK": 77,
+        "AU": 35,
+        "CA": 26
+      },
+      "rank": 42,
+      "move": "=",
+      "days": 2,
+      "peak": 28,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 27062,
+      "tpts": "27.062"
+    },
+    {
+      "id": "1866732797",
+      "artist": "Bruno Mars",
+      "title": "Risk It All",
+      "pts": 2794,
+      "countries": {
+        "US": 49,
+        "CA": 73,
+        "IT": 26,
+        "MX": 21,
+        "NL": 8
+      },
+      "rank": 43,
+      "move": "=",
+      "days": 2,
+      "peak": 32,
+      "peakCount": 8,
+      "ptsPlus": "—",
+      "totalPts": 25898,
+      "tpts": "25.898"
+    },
+    {
+      "id": "6764429255",
+      "artist": "Lady Gaga",
+      "title": "Glamorous Life",
+      "pts": 2733,
+      "countries": {
+        "UK": 81,
+        "AU": 69,
+        "FR": 58,
+        "IT": 19,
+        "ES": 12,
+        "NZ": 26
+      },
+      "rank": 44,
+      "move": "=",
+      "days": 1,
+      "peak": 44,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 5466,
+      "tpts": "5.466"
+    },
+    {
+      "id": "1632448108",
+      "artist": "Djo",
+      "title": "End of Beginning",
+      "pts": 2656,
+      "countries": {
+        "UK": 44,
+        "DE": 88,
+        "FR": 31,
+        "IT": 68,
+        "ES": 7
+      },
+      "rank": 45,
+      "move": "=",
+      "days": 2,
+      "peak": 31,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 24557,
+      "tpts": "24.557"
+    },
+    {
+      "id": "1876617505",
+      "artist": "mikeeysmind, Chill77 & Unjaps",
+      "title": "Papaoutai (Afro Soul)",
+      "pts": 2587,
+      "countries": {
+        "DE": 56,
+        "AU": 61,
+        "FR": 14,
+        "IT": 84,
+        "NL": 31
+      },
+      "rank": 46,
+      "move": "=",
+      "days": 2,
+      "peak": 46,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 9631,
+      "tpts": "9.631"
+    },
+    {
+      "id": "1883679876",
+      "artist": "HUGEL & SOLTO (FR)",
+      "title": "Jamaican (Bam Bam)",
+      "pts": 2509,
+      "countries": {
+        "DE": 45,
+        "FR": 22,
+        "IT": 24,
+        "NL": 17
+      },
+      "rank": 47,
+      "move": "=",
+      "days": 2,
+      "peak": 47,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 16133,
+      "tpts": "16.133"
+    },
+    {
+      "id": "269573341",
+      "artist": "Michael Jackson",
+      "title": "Beat It",
+      "pts": 2472,
+      "countries": {
+        "US": 60,
+        "UK": 76,
+        "CA": 86,
+        "FR": 69,
+        "IT": 44,
+        "MX": 25
+      },
+      "rank": 48,
+      "move": "=",
+      "days": 2,
+      "peak": 25,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 26465,
+      "tpts": "26.465"
+    },
+    {
+      "id": "1201058113",
+      "artist": "Zara Larsson",
+      "title": "Lush Life",
+      "pts": 2457,
+      "countries": {
+        "DE": 42,
+        "AU": 30,
+        "NL": 91,
+        "IE": 75,
+        "NO": 83,
+        "SE": 2
+      },
+      "rank": 49,
+      "move": "=",
+      "days": 2,
+      "peak": 48,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 18777,
+      "tpts": "18.777"
+    },
+    {
+      "id": "1598431047",
+      "artist": "Broers",
+      "title": "Angels Above Me (feat. Cre8tro) [Party Remix]",
+      "pts": 2371,
+      "countries": {
+        "UK": 21,
+        "DE": 52,
+        "CA": 35,
+        "DK": 92
+      },
+      "rank": 50,
+      "move": "=",
+      "days": 2,
+      "peak": 47,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 19373,
+      "tpts": "19.373"
+    },
+    {
+      "id": "1884403093",
+      "artist": "STELLA LEFTY",
+      "title": "Boston",
+      "pts": 2361,
+      "countries": {
+        "US": 22,
+        "UK": 51,
+        "CA": 27
+      },
+      "rank": 51,
+      "move": "=",
+      "days": 2,
+      "peak": 51,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 12829,
+      "tpts": "12.829"
+    },
+    {
+      "id": "1870984036",
+      "artist": "Harry Styles",
+      "title": "American Girls",
+      "pts": 2340,
+      "countries": {
+        "UK": 49,
+        "DE": 34,
+        "MX": 26,
+        "DK": 95,
+        "IE": 77
+      },
+      "rank": 52,
+      "move": "=",
+      "days": 2,
+      "peak": 42,
+      "peakCount": 8,
+      "ptsPlus": "—",
+      "totalPts": 17172,
+      "tpts": "17.172"
+    },
+    {
+      "id": "1893304832",
+      "artist": "Bob Dominator",
+      "title": "Conquer Yourself",
+      "pts": 2288,
+      "countries": {
+        "US": 43,
+        "AU": 46,
+        "CA": 32,
+        "FR": 75
+      },
+      "rank": 53,
+      "move": "=",
+      "days": 2,
+      "peak": 31,
+      "peakCount": 5,
+      "ptsPlus": "—",
+      "totalPts": 24129,
+      "tpts": "24.129"
+    },
+    {
+      "id": "1871595253",
+      "artist": "sombr",
+      "title": "Homewrecker",
+      "pts": 2277,
+      "countries": {
+        "UK": 40,
+        "DE": 81,
+        "AU": 48,
+        "CA": 69
+      },
+      "rank": 54,
+      "move": "=",
+      "days": 2,
+      "peak": 37,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 21586,
+      "tpts": "21.586"
+    },
+    {
+      "id": "1884602328",
+      "artist": "Placebo",
+      "title": "Lady of the Flowers (RE:CREATED VERSION)",
+      "pts": 2276,
+      "countries": {
+        "UK": 47,
+        "DE": 13,
+        "IT": 83
+      },
+      "rank": 55,
+      "move": "=",
+      "days": 1,
+      "peak": 55,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 4552,
+      "tpts": "4.552"
+    },
+    {
+      "id": "559334751",
+      "artist": "Michael Jackson",
+      "title": "Bad",
+      "pts": 2265,
+      "countries": {
+        "US": 75,
+        "UK": 60,
+        "IT": 21,
+        "MX": 18
+      },
+      "rank": 56,
+      "move": "=",
+      "days": 2,
+      "peak": 30,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 19367,
+      "tpts": "19.367"
+    },
+    {
+      "id": "1883770432",
+      "artist": "Michael Jackson",
+      "title": "Billie Jean",
+      "pts": 2255,
+      "countries": {
+        "CA": 36,
+        "FR": 5,
+        "MX": 11,
+        "BR": 5,
+        "IE": 71
+      },
+      "rank": 57,
+      "move": "=",
+      "days": 2,
+      "peak": 56,
+      "peakCount": 5,
+      "ptsPlus": "—",
+      "totalPts": 13540,
+      "tpts": "13.540"
+    },
+    {
+      "id": "6763094072",
+      "artist": "Ella Langley",
+      "title": "Be Her",
+      "pts": 2245,
+      "countries": {
+        "US": 11,
+        "AU": 37
+      },
+      "rank": 58,
+      "move": "=",
+      "days": 2,
+      "peak": 58,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 12033,
+      "tpts": "12.033"
+    },
+    {
+      "id": "267537169",
+      "artist": "The Goo Goo Dolls",
+      "title": "Iris",
+      "pts": 2152,
+      "countries": {
+        "US": 81,
+        "DE": 64,
+        "AU": 43,
+        "MX": 52
+      },
+      "rank": 59,
+      "move": "=",
+      "days": 2,
+      "peak": 58,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 14852,
+      "tpts": "14.852"
+    },
+    {
+      "id": "6763304246",
+      "artist": "Jada Monroe",
+      "title": "Done (Not Angry, Just Done)",
+      "pts": 2148,
+      "countries": {
+        "US": 74,
+        "UK": 50,
+        "AU": 71,
+        "CA": 71,
+        "DK": 30
+      },
+      "rank": 60,
+      "move": "=",
+      "days": 2,
+      "peak": 32,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 21868,
+      "tpts": "21.868"
+    },
+    {
+      "id": "1889361602",
+      "artist": "Teddy Swims",
+      "title": "Mr. Know It All",
+      "pts": 2103,
+      "countries": {
+        "UK": 20,
+        "DE": 58,
+        "CA": 79,
+        "IE": 82
+      },
+      "rank": 61,
+      "move": "=",
+      "days": 2,
+      "peak": 59,
+      "peakCount": 6,
+      "ptsPlus": "—",
+      "totalPts": 15372,
+      "tpts": "15.372"
+    },
+    {
+      "id": "1893838760",
+      "artist": "Silas Thorne Music",
+      "title": "Before I Go",
+      "pts": 2062,
+      "countries": {
+        "US": 61,
+        "UK": 58,
+        "AU": 67,
+        "CA": 62
+      },
+      "rank": 62,
+      "move": "=",
+      "days": 2,
+      "peak": 49,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 17613,
+      "tpts": "17.613"
+    },
+    {
+      "id": "1894317686",
+      "artist": "Imael Angel",
+      "title": "I'M MOVING TO THE SUN",
+      "pts": 2050,
+      "countries": {
+        "UK": 30,
+        "DE": 68,
+        "IT": 27
+      },
+      "rank": 63,
+      "move": "=",
+      "days": 2,
+      "peak": 60,
+      "peakCount": 6,
+      "ptsPlus": "—",
+      "totalPts": 14385,
+      "tpts": "14.385"
+    },
+    {
+      "id": "1883770429",
+      "artist": "Michael Jackson",
+      "title": "Thriller",
+      "pts": 2022,
+      "countries": {
+        "FR": 12,
+        "ES": 26,
+        "MX": 8,
+        "BR": 62
+      },
+      "rank": 64,
+      "move": "=",
+      "days": 1,
+      "peak": 64,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 4044,
+      "tpts": "4.044"
+    },
+    {
+      "id": "1892083308",
+      "artist": "Riley Green",
+      "title": "My Way",
+      "pts": 1943,
+      "countries": {
+        "US": 9,
+        "CA": 25
+      },
+      "rank": 65,
+      "move": "=",
+      "days": 2,
+      "peak": 34,
+      "peakCount": 6,
+      "ptsPlus": "—",
+      "totalPts": 22572,
+      "tpts": "22.572"
+    },
+    {
+      "id": "1869323374",
+      "artist": "Sevendust",
+      "title": "Construct",
+      "pts": 1940,
+      "countries": {
+        "US": 6,
+        "CA": 34
+      },
+      "rank": 66,
+      "move": "=",
+      "days": 2,
+      "peak": 36,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 21206,
+      "tpts": "21.206"
+    },
+    {
+      "id": "1883177258",
+      "artist": "Kacey Musgraves",
+      "title": "Dry Spell",
+      "pts": 1909,
+      "countries": {
+        "US": 31,
+        "UK": 34
+      },
+      "rank": 67,
+      "move": "=",
+      "days": 2,
+      "peak": 66,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 13164,
+      "tpts": "13.164"
+    },
+    {
+      "id": "1868482073",
+      "artist": "BTS",
+      "title": "SWIM",
+      "pts": 1902,
+      "countries": {
+        "DE": 65,
+        "IT": 86,
+        "ES": 30,
+        "BR": 7,
+        "NZ": 53,
+        "SE": 13
+      },
+      "rank": 68,
+      "move": "=",
+      "days": 2,
+      "peak": 51,
+      "peakCount": 8,
+      "ptsPlus": "—",
+      "totalPts": 16376,
+      "tpts": "16.376"
+    },
+    {
+      "id": "1474970500",
+      "artist": "Stick Figure",
+      "title": "Angels Above Me",
+      "pts": 1837,
+      "countries": {
+        "UK": 29,
+        "DE": 82,
+        "CA": 43
+      },
+      "rank": 69,
+      "move": "=",
+      "days": 2,
+      "peak": 69,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 10031,
+      "tpts": "10.031"
+    },
+    {
+      "id": "912995597",
+      "artist": "David Allan Coe",
+      "title": "You Never Even Called Me by My Name",
+      "pts": 1807,
+      "countries": {
+        "US": 5,
+        "CA": 59
+      },
+      "rank": 70,
+      "move": "=",
+      "days": 2,
+      "peak": 70,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 8400,
+      "tpts": "8.400"
+    },
+    {
+      "id": "1894792753",
+      "artist": "Diljit Dosanjh, Chani Nattan & Tru-Skool",
+      "title": "Morni",
+      "pts": 1768,
+      "countries": {
+        "US": 29,
+        "UK": 78,
+        "CA": 60
+      },
+      "rank": 71,
+      "move": "=",
+      "days": 2,
+      "peak": 59,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 14218,
+      "tpts": "14.218"
+    },
+    {
+      "id": "1869436838",
+      "artist": "Ella Langley",
+      "title": "Dandelion",
+      "pts": 1729,
+      "countries": {
+        "US": 25,
+        "AU": 56
+      },
+      "rank": 72,
+      "move": "=",
+      "days": 2,
+      "peak": 72,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 11027,
+      "tpts": "11.027"
+    },
+    {
+      "id": "1691699836",
+      "artist": "Teddy Swims",
+      "title": "Lose Control",
+      "pts": 1719,
+      "countries": {
+        "US": 66,
+        "CA": 24,
+        "FR": 39,
+        "NZ": 29
+      },
+      "rank": 73,
+      "move": "=",
+      "days": 2,
+      "peak": 73,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 6813,
+      "tpts": "6.813"
+    },
+    {
+      "id": "6764419428",
+      "artist": "Chris Brown",
+      "title": "Holy Blindfold",
+      "pts": 1709,
+      "countries": {
+        "US": 54,
+        "UK": 43,
+        "FR": 76
+      },
+      "rank": 74,
+      "move": "=",
+      "days": 2,
+      "peak": 45,
+      "peakCount": 6,
+      "ptsPlus": "—",
+      "totalPts": 18840,
+      "tpts": "18.840"
+    },
+    {
+      "id": "559334764",
+      "artist": "Michael Jackson",
+      "title": "Smooth Criminal",
+      "pts": 1663,
+      "countries": {
+        "UK": 57,
+        "IT": 61,
+        "MX": 7
+      },
+      "rank": 75,
+      "move": "=",
+      "days": 2,
+      "peak": 70,
+      "peakCount": 5,
+      "ptsPlus": "—",
+      "totalPts": 12171,
+      "tpts": "12.171"
+    },
+    {
+      "id": "915326413",
+      "artist": "David Allan Coe",
+      "title": "The Ride",
+      "pts": 1655,
+      "countries": {
+        "US": 12,
+        "CA": 57
+      },
+      "rank": 76,
+      "move": "=",
+      "days": 2,
+      "peak": 76,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 6601,
+      "tpts": "6.601"
+    },
+    {
+      "id": "159294551",
+      "artist": "Michael Jackson",
+      "title": "Smooth Criminal",
+      "pts": 1610,
+      "countries": {
+        "US": 45,
+        "AU": 84,
+        "CA": 40
+      },
+      "rank": 77,
+      "move": "=",
+      "days": 2,
+      "peak": 60,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 13171,
+      "tpts": "13.171"
+    },
+    {
+      "id": "1883770179",
+      "artist": "Michael Jackson",
+      "title": "Beat It",
+      "pts": 1607,
+      "countries": {
+        "FR": 40,
+        "IT": 36,
+        "MX": 28,
+        "BR": 20
+      },
+      "rank": 78,
+      "move": "=",
+      "days": 2,
+      "peak": 41,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 15304,
+      "tpts": "15.304"
+    },
+    {
+      "id": "6763516678",
+      "artist": "MECHATU-A",
+      "title": "The Hearties",
+      "pts": 1600,
+      "countries": {
+        "JP": 1
+      },
+      "rank": 79,
+      "move": "=",
+      "days": 1,
+      "peak": 79,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 3200,
+      "tpts": "3.200"
+    },
+    {
+      "id": "1883770172",
+      "artist": "Michael Jackson",
+      "title": "Don't Stop 'Til You Get Enough",
+      "pts": 1578,
+      "countries": {
+        "ES": 25,
+        "MX": 4,
+        "BR": 6
+      },
+      "rank": 80,
+      "move": "=",
+      "days": 2,
+      "peak": 69,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 9400,
+      "tpts": "9.400"
+    },
+    {
+      "id": "6762737233",
+      "artist": "M!LK",
+      "title": "アイドルパワー",
+      "pts": 1574,
+      "countries": {
+        "JP": 2
+      },
+      "rank": 81,
+      "move": "=",
+      "days": 2,
+      "peak": 72,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 11644,
+      "tpts": "11.644"
+    },
+    {
+      "id": "1691699849",
+      "artist": "Teddy Swims",
+      "title": "The Door",
+      "pts": 1549,
+      "countries": {
+        "US": 76,
+        "UK": 65,
+        "CA": 53,
+        "NZ": 32
+      },
+      "rank": 82,
+      "move": "=",
+      "days": 1,
+      "peak": 82,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 3098,
+      "tpts": "3.098"
+    },
+    {
+      "id": "1875941594",
+      "artist": "Tokio Hotel",
+      "title": "Na und ?!",
+      "pts": 1548,
+      "countries": {
+        "DE": 3
+      },
+      "rank": 83,
+      "move": "=",
+      "days": 1,
+      "peak": 83,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 3096,
+      "tpts": "3.096"
+    },
+    {
+      "id": "1891943326",
+      "artist": "Mrs. GREEN APPLE",
+      "title": "風と町",
+      "pts": 1548,
+      "countries": {
+        "JP": 3
+      },
+      "rank": 84,
+      "move": "=",
+      "days": 2,
+      "peak": 75,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 11428,
+      "tpts": "11.428"
+    },
+    {
+      "id": "6763979262",
+      "artist": "Jada Monroe",
+      "title": "That's The Lesson",
+      "pts": 1530,
+      "countries": {
+        "US": 58,
+        "UK": 67,
+        "CA": 76,
+        "SE": 54
+      },
+      "rank": 85,
+      "move": "=",
+      "days": 2,
+      "peak": 35,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 19734,
+      "tpts": "19.734"
+    },
+    {
+      "id": "1887793931",
+      "artist": "Official髭男dism",
+      "title": "スターダスト",
+      "pts": 1523,
+      "countries": {
+        "JP": 4
+      },
+      "rank": 86,
+      "move": "=",
+      "days": 2,
+      "peak": 86,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 10832,
+      "tpts": "10.832"
+    },
+    {
+      "id": "6763834283",
+      "artist": "DHENYS R J",
+      "title": "All Night Long (2026)",
+      "pts": 1518,
+      "countries": {
+        "DE": 35,
+        "CA": 47,
+        "NL": 78
+      },
+      "rank": 87,
+      "move": "=",
+      "days": 1,
+      "peak": 87,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 3036,
+      "tpts": "3.036"
+    },
+    {
+      "id": "1862634805",
+      "artist": "Luke Combs",
+      "title": "Be By You",
+      "pts": 1509,
+      "countries": {
+        "US": 36,
+        "AU": 60
+      },
+      "rank": 88,
+      "move": "=",
+      "days": 2,
+      "peak": 67,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 10527,
+      "tpts": "10.527"
+    },
+    {
+      "id": "6763449153",
+      "artist": "初星学園 & 秦谷美鈴",
+      "title": "VEIL",
+      "pts": 1498,
+      "countries": {
+        "JP": 5
+      },
+      "rank": 89,
+      "move": "=",
+      "days": 2,
+      "peak": 81,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 10959,
+      "tpts": "10.959"
+    },
+    {
+      "id": "1889379246",
+      "artist": "Eddie Dalton",
+      "title": "Stay a Little Longer",
+      "pts": 1489,
+      "countries": {
+        "US": 21,
+        "CA": 54
+      },
+      "rank": 90,
+      "move": "=",
+      "days": 2,
+      "peak": 71,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 11694,
+      "tpts": "11.694"
+    },
+    {
+      "id": "1888345144",
+      "artist": "Number_i",
+      "title": "3XL",
+      "pts": 1474,
+      "countries": {
+        "JP": 6
+      },
+      "rank": 91,
+      "move": "=",
+      "days": 2,
+      "peak": 77,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 11043,
+      "tpts": "11.043"
+    },
+    {
+      "id": "1893867023",
+      "artist": "ももいろクローバーZ",
+      "title": "ムネモシュネ",
+      "pts": 1450,
+      "countries": {
+        "JP": 7
+      },
+      "rank": 92,
+      "move": "=",
+      "days": 1,
+      "peak": 92,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 2900,
+      "tpts": "2.900"
+    },
+    {
+      "id": "6763978138",
+      "artist": "SOOBIN, TAEHYUN & TOMORROW X TOGETHER",
+      "title": "I Love You I Love You too",
+      "pts": 1427,
+      "countries": {
+        "JP": 8
+      },
+      "rank": 93,
+      "move": "=",
+      "days": 2,
+      "peak": 70,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 11929,
+      "tpts": "11.929"
+    },
+    {
+      "id": "1893891666",
+      "artist": "SOUL ARCHIVE ROOM",
+      "title": "Let Them Talk (feat. Pamela)",
+      "pts": 1409,
+      "countries": {
+        "US": 90,
+        "AU": 40,
+        "NZ": 28
+      },
+      "rank": 94,
+      "move": "=",
+      "days": 2,
+      "peak": 57,
+      "peakCount": 6,
+      "ptsPlus": "—",
+      "totalPts": 14024,
+      "tpts": "14.024"
+    },
+    {
+      "id": "1885807668",
+      "artist": "FRIDA GOLD",
+      "title": "Geboren um zu Leben (aus \"Sing meinen Song, Vol. 13\")",
+      "pts": 1403,
+      "countries": {
+        "DE": 9
+      },
+      "rank": 95,
+      "move": "=",
+      "days": 2,
+      "peak": 74,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 11066,
+      "tpts": "11.066"
+    },
+    {
+      "id": "1888454567",
+      "artist": "MISIA",
+      "title": "ラストダンスあなたと",
+      "pts": 1403,
+      "countries": {
+        "JP": 9
+      },
+      "rank": 96,
+      "move": "=",
+      "days": 2,
+      "peak": 96,
+      "peakCount": 5,
+      "ptsPlus": "—",
+      "totalPts": 10319,
+      "tpts": "10.319"
+    },
+    {
+      "id": "1752031539",
+      "artist": "KAROL G",
+      "title": "Si Antes Te Hubiera Conocido",
+      "pts": 1394,
+      "countries": {
+        "ES": 6,
+        "MX": 13
+      },
+      "rank": 97,
+      "move": "=",
+      "days": 2,
+      "peak": 45,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 14467,
+      "tpts": "14.467"
+    },
+    {
+      "id": "1770160814",
+      "artist": "Ella Langley",
+      "title": "weren't for the wind",
+      "pts": 1389,
+      "countries": {
+        "US": 84,
+        "AU": 47,
+        "CA": 78
+      },
+      "rank": 98,
+      "move": "=",
+      "days": 1,
+      "peak": 98,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 2778,
+      "tpts": "2.778"
+    },
+    {
+      "id": "1889425904",
+      "artist": "ヨルシカ",
+      "title": "あぶく",
+      "pts": 1381,
+      "countries": {
+        "JP": 10
+      },
+      "rank": 99,
+      "move": "=",
+      "days": 2,
+      "peak": 93,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 10191,
+      "tpts": "10.191"
+    },
+    {
+      "id": "1885807682",
+      "artist": "Deine Cousine",
+      "title": "Große Freiheit (aus \"Sing meinen Song, Vol. 13\")",
+      "pts": 1358,
+      "countries": {
+        "DE": 11
+      },
+      "rank": 100,
+      "move": "=",
+      "days": 2,
+      "peak": 85,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 10317,
+      "tpts": "10.317"
+    },
+    {
+      "id": "1891964092",
+      "artist": "DOMOTO",
+      "title": "愛のかたまり",
+      "pts": 1358,
+      "countries": {
+        "JP": 11
+      },
+      "rank": 101,
+      "move": "=",
+      "days": 1,
+      "peak": 101,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 2716,
+      "tpts": "2.716"
+    },
+    {
+      "id": "1842202784",
+      "artist": "Shakira",
+      "title": "Zoo",
+      "pts": 1348,
+      "countries": {
+        "AU": 45,
+        "JP": 64
+      },
+      "rank": 102,
+      "move": "=",
+      "days": 2,
+      "peak": 102,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 6059,
+      "tpts": "6.059"
+    },
+    {
+      "id": "6763335416",
+      "artist": "Natalie Imbruglia",
+      "title": "Upside Down",
+      "pts": 1338,
+      "countries": {
+        "UK": 33,
+        "AU": 87
+      },
+      "rank": 103,
+      "move": "=",
+      "days": 2,
+      "peak": 103,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 7884,
+      "tpts": "7.884"
+    },
+    {
+      "id": "604748203",
+      "artist": "サカナクション",
+      "title": "夜の踊り子",
+      "pts": 1336,
+      "countries": {
+        "JP": 12
+      },
+      "rank": 104,
+      "move": "=",
+      "days": 2,
+      "peak": 104,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 9396,
+      "tpts": "9.396"
+    },
+    {
+      "id": "1885807676",
+      "artist": "Mark Forster",
+      "title": "So wie du warst (aus \"Sing meinen Song, Vol. 13\")",
+      "pts": 1336,
+      "countries": {
+        "DE": 12
+      },
+      "rank": 105,
+      "move": "=",
+      "days": 2,
+      "peak": 83,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 10643,
+      "tpts": "10.643"
+    },
+    {
+      "id": "159294478",
+      "artist": "Michael Jackson",
+      "title": "Man In the Mirror",
+      "pts": 1330,
+      "countries": {
+        "US": 72,
+        "AU": 41
+      },
+      "rank": 106,
+      "move": "=",
+      "days": 2,
+      "peak": 96,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 9896,
+      "tpts": "9.896"
+    },
+    {
+      "id": "559334757",
+      "artist": "Michael Jackson",
+      "title": "Man In the Mirror",
+      "pts": 1319,
+      "countries": {
+        "UK": 75,
+        "FR": 48,
+        "MX": 33
+      },
+      "rank": 107,
+      "move": "=",
+      "days": 2,
+      "peak": 60,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 10414,
+      "tpts": "10.414"
+    },
+    {
+      "id": "1890060756",
+      "artist": "Vaundy",
+      "title": "飛ぶ時",
+      "pts": 1314,
+      "countries": {
+        "JP": 13
+      },
+      "rank": 108,
+      "move": "=",
+      "days": 2,
+      "peak": 105,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 9619,
+      "tpts": "9.619"
+    },
+    {
+      "id": "1869436845",
+      "artist": "Ella Langley",
+      "title": "Be Her",
+      "pts": 1307,
+      "countries": {
+        "UK": 54,
+        "CA": 15
+      },
+      "rank": 109,
+      "move": "=",
+      "days": 2,
+      "peak": 53,
+      "peakCount": 6,
+      "ptsPlus": "—",
+      "totalPts": 16352,
+      "tpts": "16.352"
+    },
+    {
+      "id": "1846753946",
+      "artist": "M!LK",
+      "title": "好きすぎて滅!",
+      "pts": 1293,
+      "countries": {
+        "JP": 14
+      },
+      "rank": 110,
+      "move": "=",
+      "days": 2,
+      "peak": 109,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 9560,
+      "tpts": "9.560"
+    },
+    {
+      "id": "1872357072",
+      "artist": "Florian Künstler",
+      "title": "Groß geworden",
+      "pts": 1293,
+      "countries": {
+        "DE": 14
+      },
+      "rank": 111,
+      "move": "=",
+      "days": 1,
+      "peak": 111,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 2586,
+      "tpts": "2.586"
+    },
+    {
+      "id": "1884609038",
+      "artist": "Tobee",
+      "title": "Mon Amour (So lang ich noch Luft in meiner Lunge hab) [Party Version]",
+      "pts": 1272,
+      "countries": {
+        "DE": 15
+      },
+      "rank": 112,
+      "move": "=",
+      "days": 2,
+      "peak": 103,
+      "peakCount": 5,
+      "ptsPlus": "—",
+      "totalPts": 9607,
+      "tpts": "9.607"
+    },
+    {
+      "id": "1891953336",
+      "artist": "ORANGE RANGE",
+      "title": "ドラマティック平凡",
+      "pts": 1272,
+      "countries": {
+        "JP": 15
+      },
+      "rank": 113,
+      "move": "=",
+      "days": 2,
+      "peak": 101,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 9778,
+      "tpts": "9.778"
+    },
+    {
+      "id": "269572927",
+      "artist": "Michael Jackson",
+      "title": "Wanna Be Startin' Somethin'",
+      "pts": 1256,
+      "countries": {
+        "US": 67,
+        "FR": 37,
+        "MX": 67
+      },
+      "rank": 114,
+      "move": "=",
+      "days": 2,
+      "peak": 84,
+      "peakCount": 5,
+      "ptsPlus": "—",
+      "totalPts": 9450,
+      "tpts": "9.450"
+    },
+    {
+      "id": "1890058410",
+      "artist": "Jada Monroe",
+      "title": "Too Late To Leave",
+      "pts": 1253,
+      "countries": {
+        "UK": 59,
+        "AU": 85,
+        "NZ": 17
+      },
+      "rank": 115,
+      "move": "=",
+      "days": 2,
+      "peak": 41,
+      "peakCount": 5,
+      "ptsPlus": "—",
+      "totalPts": 18224,
+      "tpts": "18.224"
+    },
+    {
+      "id": "1869537742",
+      "artist": "M!LK",
+      "title": "爆裂愛してる",
+      "pts": 1251,
+      "countries": {
+        "JP": 16
+      },
+      "rank": 116,
+      "move": "=",
+      "days": 2,
+      "peak": 113,
+      "peakCount": 6,
+      "ptsPlus": "—",
+      "totalPts": 9278,
+      "tpts": "9.278"
+    },
+    {
+      "id": "1885807686",
+      "artist": "Johannes Oerding",
+      "title": "Ein guter Weg (aus \"Sing meinen Song, Vol. 13\")",
+      "pts": 1251,
+      "countries": {
+        "DE": 16
+      },
+      "rank": 117,
+      "move": "=",
+      "days": 2,
+      "peak": 92,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 10074,
+      "tpts": "10.074"
+    },
+    {
+      "id": "1891396141",
+      "artist": "Australian Idol",
+      "title": "All Night Long (Top 12 2026)",
+      "pts": 1251,
+      "countries": {
+        "AU": 16
+      },
+      "rank": 118,
+      "move": "=",
+      "days": 2,
+      "peak": 93,
+      "peakCount": 5,
+      "ptsPlus": "—",
+      "totalPts": 10079,
+      "tpts": "10.079"
+    },
+    {
+      "id": "1889387207",
+      "artist": "Teddy Swims",
+      "title": "Mr. Know It All",
+      "pts": 1249,
+      "countries": {
+        "AU": 29,
+        "NZ": 15
+      },
+      "rank": 119,
+      "move": "=",
+      "days": 2,
+      "peak": 119,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 8481,
+      "tpts": "8.481"
+    },
+    {
+      "id": "1536259381",
+      "artist": "Aqua Timez",
+      "title": "決意の朝に",
+      "pts": 1231,
+      "countries": {
+        "JP": 17
+      },
+      "rank": 120,
+      "move": "=",
+      "days": 2,
+      "peak": 97,
+      "peakCount": 5,
+      "ptsPlus": "—",
+      "totalPts": 6671,
+      "tpts": "6.671"
+    },
+    {
+      "id": "1880096511",
+      "artist": "Marc Eggers, Aditotoro & Paul Frege",
+      "title": "Mon Amour",
+      "pts": 1231,
+      "countries": {
+        "DE": 17
+      },
+      "rank": 121,
+      "move": "=",
+      "days": 1,
+      "peak": 121,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 2462,
+      "tpts": "2.462"
+    },
+    {
+      "id": "1877141224",
+      "artist": "The Bausa",
+      "title": "Magnetic",
+      "pts": 1230,
+      "countries": {
+        "IT": 64,
+        "NL": 7,
+        "DK": 20
+      },
+      "rank": 122,
+      "move": "=",
+      "days": 2,
+      "peak": 122,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 6491,
+      "tpts": "6.491"
+    },
+    {
+      "id": "1846278666",
+      "artist": "Maite Kelly",
+      "title": "Ein Kuss in Paris",
+      "pts": 1211,
+      "countries": {
+        "DE": 18
+      },
+      "rank": 123,
+      "move": "=",
+      "days": 2,
+      "peak": 107,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 9547,
+      "tpts": "9.547"
+    },
+    {
+      "id": "1890986173",
+      "artist": "ゴールドシップ (CV. 上田 瞳), ナカヤマフェスタ (CV. 下地紫野), オルフェーヴル (CV. 日笠陽子), ドリームジャーニー (CV. 吉岡茉祐), フェノーメノ (CV. 日比優理香), ステイゴールド (CV. 松田颯水) & ウマ娘 プリティーダービー",
+      "title": "Gold-Triumph",
+      "pts": 1211,
+      "countries": {
+        "JP": 18
+      },
+      "rank": 124,
+      "move": "=",
+      "days": 1,
+      "peak": 124,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 2422,
+      "tpts": "2.422"
+    },
+    {
+      "id": "1892749971",
+      "artist": "BURNIN' BRIDGES Ai Music",
+      "title": "BLACK WATER DAMNED",
+      "pts": 1194,
+      "countries": {
+        "US": 51,
+        "CA": 31
+      },
+      "rank": 125,
+      "move": "=",
+      "days": 2,
+      "peak": 88,
+      "peakCount": 8,
+      "ptsPlus": "—",
+      "totalPts": 9513,
+      "tpts": "9.513"
+    },
+    {
+      "id": "1893294683",
+      "artist": "Joey Heindle",
+      "title": "Schwer zu erklären (Words)",
+      "pts": 1191,
+      "countries": {
+        "DE": 19
+      },
+      "rank": 126,
+      "move": "=",
+      "days": 2,
+      "peak": 98,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 9571,
+      "tpts": "9.571"
+    },
+    {
+      "id": "6762790073",
+      "artist": "大森元貴",
+      "title": "催し",
+      "pts": 1191,
+      "countries": {
+        "JP": 19
+      },
+      "rank": 127,
+      "move": "=",
+      "days": 2,
+      "peak": 87,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 9658,
+      "tpts": "9.658"
+    },
+    {
+      "id": "1579439168",
+      "artist": "back number",
+      "title": "水平線",
+      "pts": 1172,
+      "countries": {
+        "JP": 20
+      },
+      "rank": 128,
+      "move": "=",
+      "days": 2,
+      "peak": 121,
+      "peakCount": 5,
+      "ptsPlus": "—",
+      "totalPts": 6037,
+      "tpts": "6.037"
+    },
+    {
+      "id": "1875941585",
+      "artist": "Max Giesinger",
+      "title": "Ich lieb' dich überhaupt nicht mehr",
+      "pts": 1172,
+      "countries": {
+        "DE": 20
+      },
+      "rank": 129,
+      "move": "=",
+      "days": 2,
+      "peak": 129,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 5584,
+      "tpts": "5.584"
+    },
+    {
+      "id": "1893872763",
+      "artist": "テニプリ“D\"オールスターズ",
+      "title": "SUPREME DOUBLES(アニメ「新テニスの王子様」)",
+      "pts": 1153,
+      "countries": {
+        "JP": 21
+      },
+      "rank": 130,
+      "move": "=",
+      "days": 2,
+      "peak": 84,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 10079,
+      "tpts": "10.079"
+    },
+    {
+      "id": "1894272112",
+      "artist": "Quevedo & Elvis Crespo",
+      "title": "LA GRACIOSA",
+      "pts": 1151,
+      "countries": {
+        "ES": 5,
+        "MX": 43
+      },
+      "rank": 131,
+      "move": "=",
+      "days": 2,
+      "peak": 120,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 7662,
+      "tpts": "7.662"
+    },
+    {
+      "id": "1841513312",
+      "artist": "Luke Combs",
+      "title": "Days Like These",
+      "pts": 1146,
+      "countries": {
+        "US": 56,
+        "CA": 30
+      },
+      "rank": 132,
+      "move": "=",
+      "days": 1,
+      "peak": 132,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 2292,
+      "tpts": "2.292"
+    },
+    {
+      "id": "1880449221",
+      "artist": "Bruno Mars",
+      "title": "I Just Might",
+      "pts": 1134,
+      "countries": {
+        "AU": 22
+      },
+      "rank": 133,
+      "move": "=",
+      "days": 2,
+      "peak": 125,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 7976,
+      "tpts": "7.976"
+    },
+    {
+      "id": "1886375862",
+      "artist": "キタニタツヤ",
+      "title": "火種",
+      "pts": 1134,
+      "countries": {
+        "JP": 22
+      },
+      "rank": 134,
+      "move": "=",
+      "days": 2,
+      "peak": 118,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 8655,
+      "tpts": "8.655"
+    },
+    {
+      "id": "6763373062",
+      "artist": "Noah Kahan",
+      "title": "Staying Still",
+      "pts": 1120,
+      "countries": {
+        "US": 40,
+        "CA": 66
+      },
+      "rank": 135,
+      "move": "=",
+      "days": 2,
+      "peak": 78,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 10217,
+      "tpts": "10.217"
+    },
+    {
+      "id": "1879525016",
+      "artist": "嵐",
+      "title": "Five",
+      "pts": 1116,
+      "countries": {
+        "JP": 23
+      },
+      "rank": 136,
+      "move": "=",
+      "days": 2,
+      "peak": 123,
+      "peakCount": 5,
+      "ptsPlus": "—",
+      "totalPts": 8627,
+      "tpts": "8.627"
+    },
+    {
+      "id": "1883590250",
+      "artist": "Official髭男dism",
+      "title": "エルダーフラワー",
+      "pts": 1097,
+      "countries": {
+        "JP": 24
+      },
+      "rank": 137,
+      "move": "=",
+      "days": 2,
+      "peak": 133,
+      "peakCount": 6,
+      "ptsPlus": "—",
+      "totalPts": 7867,
+      "tpts": "7.867"
+    },
+    {
+      "id": "309646673",
+      "artist": "Fleetwood Mac",
+      "title": "Landslide",
+      "pts": 1080,
+      "countries": {
+        "UK": 25
+      },
+      "rank": 138,
+      "move": "=",
+      "days": 2,
+      "peak": 132,
+      "peakCount": 5,
+      "ptsPlus": "—",
+      "totalPts": 6557,
+      "tpts": "6.557"
+    },
+    {
+      "id": "1860538548",
+      "artist": "King Gnu",
+      "title": "AIZO",
+      "pts": 1080,
+      "countries": {
+        "JP": 25
+      },
+      "rank": 139,
+      "move": "=",
+      "days": 2,
+      "peak": 137,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 7989,
+      "tpts": "7.989"
+    },
+    {
+      "id": "1888467820",
+      "artist": "Blasterjaxx & Kate Ryan",
+      "title": "Désenchantée 3000",
+      "pts": 1080,
+      "countries": {
+        "DE": 25
+      },
+      "rank": 140,
+      "move": "=",
+      "days": 2,
+      "peak": 140,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 5049,
+      "tpts": "5.049"
+    },
+    {
+      "id": "348594111",
+      "artist": "KATO & Jon",
+      "title": "Turn the Lights Off (Radio Edit)",
+      "pts": 1062,
+      "countries": {
+        "DE": 26
+      },
+      "rank": 141,
+      "move": "=",
+      "days": 2,
+      "peak": 107,
+      "peakCount": 6,
+      "ptsPlus": "—",
+      "totalPts": 8821,
+      "tpts": "8.821"
+    },
+    {
+      "id": "1867354081",
+      "artist": "Mrs. GREEN APPLE",
+      "title": "lulu.",
+      "pts": 1062,
+      "countries": {
+        "JP": 26
+      },
+      "rank": 142,
+      "move": "=",
+      "days": 2,
+      "peak": 142,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 7097,
+      "tpts": "7.097"
+    },
+    {
+      "id": "1055074639",
+      "artist": "Sia",
+      "title": "Unstoppable",
+      "pts": 1060,
+      "countries": {
+        "UK": 79,
+        "ES": 17
+      },
+      "rank": 143,
+      "move": "=",
+      "days": 2,
+      "peak": 143,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 6523,
+      "tpts": "6.523"
+    },
+    {
+      "id": "1875941589",
+      "artist": "Alli Neumann",
+      "title": "Ein Herz kann man nicht reparieren",
+      "pts": 1045,
+      "countries": {
+        "DE": 27
+      },
+      "rank": 144,
+      "move": "=",
+      "days": 2,
+      "peak": 144,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 5024,
+      "tpts": "5.024"
+    },
+    {
+      "id": "1888345148",
+      "artist": "Number_i",
+      "title": "インフル",
+      "pts": 1045,
+      "countries": {
+        "JP": 27
+      },
+      "rank": 145,
+      "move": "=",
+      "days": 2,
+      "peak": 108,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 8660,
+      "tpts": "8.660"
+    },
+    {
+      "id": "1892041647",
+      "artist": "Jada Monroe",
+      "title": "Slow Ruin",
+      "pts": 1042,
+      "countries": {
+        "UK": 73,
+        "AU": 66
+      },
+      "rank": 146,
+      "move": "=",
+      "days": 2,
+      "peak": 59,
+      "peakCount": 5,
+      "ptsPlus": "—",
+      "totalPts": 12034,
+      "tpts": "12.034"
+    },
+    {
+      "id": "1837658529",
+      "artist": "米津玄師",
+      "title": "IRIS OUT",
+      "pts": 1028,
+      "countries": {
+        "JP": 28
+      },
+      "rank": 147,
+      "move": "=",
+      "days": 2,
+      "peak": 142,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 7580,
+      "tpts": "7.580"
+    },
+    {
+      "id": "1851953934",
+      "artist": "GroßstadtEngel",
+      "title": "Gute Laune",
+      "pts": 1028,
+      "countries": {
+        "DE": 28
+      },
+      "rank": 148,
+      "move": "=",
+      "days": 2,
+      "peak": 129,
+      "peakCount": 6,
+      "ptsPlus": "—",
+      "totalPts": 8050,
+      "tpts": "8.050"
+    },
+    {
+      "id": "1817499251",
+      "artist": "Zara Larsson",
+      "title": "Midnight Sun",
+      "pts": 1023,
+      "countries": {
+        "UK": 36,
+        "SE": 56
+      },
+      "rank": 149,
+      "move": "=",
+      "days": 2,
+      "peak": 85,
+      "peakCount": 5,
+      "ptsPlus": "—",
+      "totalPts": 9374,
+      "tpts": "9.374"
+    },
+    {
+      "id": "1893428688",
+      "artist": "Cammy Barnes",
+      "title": "Let Me Down",
+      "pts": 1019,
+      "countries": {
+        "AU": 36,
+        "IE": 58
+      },
+      "rank": 150,
+      "move": "=",
+      "days": 1,
+      "peak": 150,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 2038,
+      "tpts": "2.038"
+    },
+    {
+      "id": "1888111006",
+      "artist": "Kis-My-Ft2",
+      "title": "夜の向こうへ",
+      "pts": 1011,
+      "countries": {
+        "JP": 29
+      },
+      "rank": 151,
+      "move": "=",
+      "days": 2,
+      "peak": 121,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 8314,
+      "tpts": "8.314"
+    },
+    {
+      "id": "1762656732",
+      "artist": "Lady Gaga & Bruno Mars",
+      "title": "Die With A Smile",
+      "pts": 1009,
+      "countries": {
+        "AU": 57,
+        "CA": 48
+      },
+      "rank": 152,
+      "move": "=",
+      "days": 2,
+      "peak": 152,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 5944,
+      "tpts": "5.944"
+    },
+    {
+      "id": "1843998668",
+      "artist": "Taylor Swift",
+      "title": "The Fate of Ophelia",
+      "pts": 995,
+      "countries": {
+        "FR": 32,
+        "NL": 28
+      },
+      "rank": 153,
+      "move": "=",
+      "days": 2,
+      "peak": 64,
+      "peakCount": 8,
+      "ptsPlus": "—",
+      "totalPts": 8651,
+      "tpts": "8.651"
+    },
+    {
+      "id": "1891928913",
+      "artist": "Ado",
+      "title": "綺羅",
+      "pts": 995,
+      "countries": {
+        "JP": 30
+      },
+      "rank": 154,
+      "move": "=",
+      "days": 2,
+      "peak": 122,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 8203,
+      "tpts": "8.203"
+    },
+    {
+      "id": "1893960365",
+      "artist": "Becky Hill",
+      "title": ">>>hands on me<<<",
+      "pts": 982,
+      "countries": {
+        "UK": 48,
+        "IE": 14
+      },
+      "rank": 155,
+      "move": "=",
+      "days": 1,
+      "peak": 155,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 1964,
+      "tpts": "1.964"
+    },
+    {
+      "id": "1867616928",
+      "artist": "Dermot Kennedy",
+      "title": "Funeral",
+      "pts": 978,
+      "countries": {
+        "DE": 31
+      },
+      "rank": 156,
+      "move": "=",
+      "days": 2,
+      "peak": 96,
+      "peakCount": 8,
+      "ptsPlus": "—",
+      "totalPts": 8105,
+      "tpts": "8.105"
+    },
+    {
+      "id": "1893886955",
+      "artist": "[Alexandros]",
+      "title": "Hallelujah",
+      "pts": 978,
+      "countries": {
+        "JP": 31
+      },
+      "rank": 157,
+      "move": "=",
+      "days": 2,
+      "peak": 129,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 7754,
+      "tpts": "7.754"
+    },
+    {
+      "id": "1787022572",
+      "artist": "Bad Bunny",
+      "title": "NUEVAYoL",
+      "pts": 972,
+      "countries": {
+        "FR": 19,
+        "MX": 47
+      },
+      "rank": 158,
+      "move": "=",
+      "days": 2,
+      "peak": 57,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 11920,
+      "tpts": "11.920"
+    },
+    {
+      "id": "1847992612",
+      "artist": "Dave & Tems",
+      "title": "Raindance",
+      "pts": 968,
+      "countries": {
+        "UK": 69,
+        "ES": 37
+      },
+      "rank": 159,
+      "move": "=",
+      "days": 1,
+      "peak": 159,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 1936,
+      "tpts": "1.936"
+    },
+    {
+      "id": "1861772195",
+      "artist": "Dimitri Vegas & Like Mike, Marlon Hoffstadt & DJ Konik",
+      "title": "Makina Time",
+      "pts": 964,
+      "countries": {
+        "DE": 86,
+        "NL": 22
+      },
+      "rank": 160,
+      "move": "=",
+      "days": 1,
+      "peak": 160,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 1928,
+      "tpts": "1.928"
+    },
+    {
+      "id": "6762711963",
+      "artist": "LE SSERAFIM",
+      "title": "CELEBRATION",
+      "pts": 963,
+      "countries": {
+        "JP": 32
+      },
+      "rank": 161,
+      "move": "=",
+      "days": 2,
+      "peak": 151,
+      "peakCount": 6,
+      "ptsPlus": "—",
+      "totalPts": 7066,
+      "tpts": "7.066"
+    },
+    {
+      "id": "1739659142",
+      "artist": "Billie Eilish",
+      "title": "BIRDS OF A FEATHER",
+      "pts": 962,
+      "countries": {
+        "DE": 73,
+        "CA": 88,
+        "BR": 64,
+        "DK": 35
+      },
+      "rank": 162,
+      "move": "=",
+      "days": 2,
+      "peak": 65,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 8966,
+      "tpts": "8.966"
+    },
+    {
+      "id": "1890389605",
+      "artist": "Eddie Dalton",
+      "title": "Dreaming Of You",
+      "pts": 959,
+      "countries": {
+        "US": 50,
+        "CA": 74
+      },
+      "rank": 163,
+      "move": "=",
+      "days": 1,
+      "peak": 163,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 1918,
+      "tpts": "1.918"
+    },
+    {
+      "id": "1891703202",
+      "artist": "Blondee",
+      "title": "Ocean Drive",
+      "pts": 947,
+      "countries": {
+        "DE": 33
+      },
+      "rank": 164,
+      "move": "=",
+      "days": 2,
+      "peak": 164,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 5246,
+      "tpts": "5.246"
+    },
+    {
+      "id": "1894837345",
+      "artist": "ILLIT",
+      "title": "It's Me",
+      "pts": 947,
+      "countries": {
+        "JP": 33
+      },
+      "rank": 165,
+      "move": "=",
+      "days": 1,
+      "peak": 165,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 1894,
+      "tpts": "1.894"
+    },
+    {
+      "id": "1795905600",
+      "artist": "サカナクション",
+      "title": "怪獣",
+      "pts": 931,
+      "countries": {
+        "JP": 34
+      },
+      "rank": 166,
+      "move": "=",
+      "days": 2,
+      "peak": 162,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 6536,
+      "tpts": "6.536"
+    },
+    {
+      "id": "1809000182",
+      "artist": "YUNGBLUD",
+      "title": "Zombie",
+      "pts": 931,
+      "countries": {
+        "UK": 55,
+        "CA": 67
+      },
+      "rank": 167,
+      "move": "=",
+      "days": 2,
+      "peak": 113,
+      "peakCount": 5,
+      "ptsPlus": "—",
+      "totalPts": 8266,
+      "tpts": "8.266"
+    },
+    {
+      "id": "559334762",
+      "artist": "Michael Jackson",
+      "title": "Dirty Diana",
+      "pts": 925,
+      "countries": {
+        "FR": 41,
+        "IT": 85,
+        "IE": 87,
+        "NZ": 16
+      },
+      "rank": 168,
+      "move": "=",
+      "days": 1,
+      "peak": 168,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 1850,
+      "tpts": "1.850"
+    },
+    {
+      "id": "1408505264",
+      "artist": "Mrs. GREEN APPLE",
+      "title": "青と夏",
+      "pts": 916,
+      "countries": {
+        "JP": 35
+      },
+      "rank": 169,
+      "move": "=",
+      "days": 1,
+      "peak": 169,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 1832,
+      "tpts": "1.832"
+    },
+    {
+      "id": "1843159674",
+      "artist": "David Guetta, Teddy Swims & Tones And I",
+      "title": "Gone Gone Gone",
+      "pts": 909,
+      "countries": {
+        "FR": 77,
+        "NL": 11
+      },
+      "rank": 170,
+      "move": "=",
+      "days": 2,
+      "peak": 147,
+      "peakCount": 6,
+      "ptsPlus": "—",
+      "totalPts": 5686,
+      "tpts": "5.686"
+    },
+    {
+      "id": "1769025042",
+      "artist": "Cody Johnson",
+      "title": "The Fall",
+      "pts": 905,
+      "countries": {
+        "US": 87,
+        "CA": 65,
+        "NL": 76
+      },
+      "rank": 171,
+      "move": "=",
+      "days": 1,
+      "peak": 171,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 1810,
+      "tpts": "1.810"
+    },
+    {
+      "id": "1739088799",
+      "artist": "Mrs. GREEN APPLE",
+      "title": "ライラック",
+      "pts": 901,
+      "countries": {
+        "JP": 36
+      },
+      "rank": 172,
+      "move": "=",
+      "days": 2,
+      "peak": 172,
+      "peakCount": 6,
+      "ptsPlus": "—",
+      "totalPts": 6308,
+      "tpts": "6.308"
+    },
+    {
+      "id": "1875941723",
+      "artist": "Lara Hulo",
+      "title": "Was hat die Zeit mit uns gemacht",
+      "pts": 901,
+      "countries": {
+        "DE": 36
+      },
+      "rank": 173,
+      "move": "=",
+      "days": 1,
+      "peak": 173,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 1802,
+      "tpts": "1.802"
+    },
+    {
+      "id": "1885807960",
+      "artist": "Giovanni Zarrella",
+      "title": "Du bist meine Heimat (aus \"Sing meinen Song, Vol. 13\")",
+      "pts": 887,
+      "countries": {
+        "DE": 37
+      },
+      "rank": 174,
+      "move": "=",
+      "days": 2,
+      "peak": 102,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 8620,
+      "tpts": "8.620"
+    },
+    {
+      "id": "1892011904",
+      "artist": "ROF-MAO",
+      "title": "FLIPPER",
+      "pts": 887,
+      "countries": {
+        "JP": 37
+      },
+      "rank": 175,
+      "move": "=",
+      "days": 2,
+      "peak": 127,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 7591,
+      "tpts": "7.591"
+    },
+    {
+      "id": "186774469",
+      "artist": "Sean Paul featuring Keyshia Cole",
+      "title": "(When You Gonna) Give It Up to Me [Radio Version] [feat. Keyshia Cole]",
+      "pts": 872,
+      "countries": {
+        "DE": 38
+      },
+      "rank": 176,
+      "move": "=",
+      "days": 1,
+      "peak": 176,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 1744,
+      "tpts": "1.744"
+    },
+    {
+      "id": "1446781788",
+      "artist": "あいみょん",
+      "title": "ら、のはなし",
+      "pts": 872,
+      "countries": {
+        "JP": 38
+      },
+      "rank": 177,
+      "move": "=",
+      "days": 2,
+      "peak": 160,
+      "peakCount": 5,
+      "ptsPlus": "—",
+      "totalPts": 4777,
+      "tpts": "4.777"
+    },
+    {
+      "id": "1869436848",
+      "artist": "Ella Langley",
+      "title": "Bottom Of Your Boots",
+      "pts": 872,
+      "countries": {
+        "AU": 38
+      },
+      "rank": 178,
+      "move": "=",
+      "days": 1,
+      "peak": 178,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 1744,
+      "tpts": "1.744"
+    },
+    {
+      "id": "6764419265",
+      "artist": "Chris Brown",
+      "title": "Fallin' (feat. Leon Thomas)",
+      "pts": 872,
+      "countries": {
+        "UK": 45,
+        "DK": 72
+      },
+      "rank": 179,
+      "move": "=",
+      "days": 1,
+      "peak": 179,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 1744,
+      "tpts": "1.744"
+    },
+    {
+      "id": "1836975393",
+      "artist": "Unheilig",
+      "title": "Spiegel",
+      "pts": 858,
+      "countries": {
+        "DE": 39
+      },
+      "rank": 180,
+      "move": "=",
+      "days": 2,
+      "peak": 120,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 7612,
+      "tpts": "7.612"
+    },
+    {
+      "id": "1861663797",
+      "artist": "Mr.Children",
+      "title": "Again",
+      "pts": 858,
+      "countries": {
+        "JP": 39
+      },
+      "rank": 181,
+      "move": "=",
+      "days": 2,
+      "peak": 159,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 6513,
+      "tpts": "6.513"
+    },
+    {
+      "id": "1887194026",
+      "artist": "ILLIT",
+      "title": "It's Me",
+      "pts": 858,
+      "countries": {
+        "AU": 39
+      },
+      "rank": 182,
+      "move": "=",
+      "days": 1,
+      "peak": 182,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 1716,
+      "tpts": "1.716"
+    },
+    {
+      "id": "1736951792",
+      "artist": "Riley Green",
+      "title": "Worst Way",
+      "pts": 848,
+      "countries": {
+        "US": 59,
+        "CA": 77
+      },
+      "rank": 183,
+      "move": "=",
+      "days": 2,
+      "peak": 176,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 5877,
+      "tpts": "5.877"
+    },
+    {
+      "id": "336644173",
+      "artist": "Michael Jackson",
+      "title": "They Don't Care About Us",
+      "pts": 845,
+      "countries": {
+        "FR": 46,
+        "IT": 90,
+        "MX": 66
+      },
+      "rank": 184,
+      "move": "=",
+      "days": 2,
+      "peak": 76,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 8714,
+      "tpts": "8.714"
+    },
+    {
+      "id": "1875941580",
+      "artist": "CÉLINE",
+      "title": "Plan B",
+      "pts": 844,
+      "countries": {
+        "DE": 40
+      },
+      "rank": 185,
+      "move": "=",
+      "days": 2,
+      "peak": 185,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 4178,
+      "tpts": "4.178"
+    },
+    {
+      "id": "1891689523",
+      "artist": "鈴木このみ & Ashnikko",
+      "title": "Recollect",
+      "pts": 844,
+      "countries": {
+        "JP": 40
+      },
+      "rank": 186,
+      "move": "=",
+      "days": 2,
+      "peak": 172,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 5971,
+      "tpts": "5.971"
+    },
+    {
+      "id": "322847191",
+      "artist": "Michael Jackson",
+      "title": "Black or White",
+      "pts": 831,
+      "countries": {
+        "FR": 44,
+        "MX": 38
+      },
+      "rank": 187,
+      "move": "=",
+      "days": 2,
+      "peak": 59,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 10143,
+      "tpts": "10.143"
+    },
+    {
+      "id": "912996236",
+      "artist": "David Allan Coe",
+      "title": "Longhaired Redneck",
+      "pts": 830,
+      "countries": {
+        "US": 41
+      },
+      "rank": 188,
+      "move": "=",
+      "days": 1,
+      "peak": 188,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 1660,
+      "tpts": "1.660"
+    },
+    {
+      "id": "1872584473",
+      "artist": "Two Connors",
+      "title": "Familiar Faces",
+      "pts": 830,
+      "countries": {
+        "UK": 41
+      },
+      "rank": 189,
+      "move": "=",
+      "days": 1,
+      "peak": 189,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 1660,
+      "tpts": "1.660"
+    },
+    {
+      "id": "1888345147",
+      "artist": "Number_i",
+      "title": "サイケSHOCK",
+      "pts": 830,
+      "countries": {
+        "JP": 41
+      },
+      "rank": 190,
+      "move": "=",
+      "days": 2,
+      "peak": 133,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 7206,
+      "tpts": "7.206"
+    },
+    {
+      "id": "1842897454",
+      "artist": "Taylor Swift",
+      "title": "The Fate of Ophelia",
+      "pts": 822,
+      "countries": {
+        "MX": 15,
+        "BR": 30
+      },
+      "rank": 191,
+      "move": "=",
+      "days": 1,
+      "peak": 191,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 1644,
+      "tpts": "1.644"
+    },
+    {
+      "id": "1887385342",
+      "artist": "Miley Cyrus",
+      "title": "Younger You (From the \"Hannah Montana 20th Anniversary Special\")",
+      "pts": 817,
+      "countries": {
+        "AU": 42
+      },
+      "rank": 192,
+      "move": "=",
+      "days": 2,
+      "peak": 150,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 6842,
+      "tpts": "6.842"
+    },
+    {
+      "id": "1893501615",
+      "artist": "MYTH & ROID & TK from 凛として時雨",
+      "title": "Ender Ember",
+      "pts": 817,
+      "countries": {
+        "JP": 42
+      },
+      "rank": 193,
+      "move": "=",
+      "days": 2,
+      "peak": 155,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 6417,
+      "tpts": "6.417"
+    },
+    {
+      "id": "1885807679",
+      "artist": "treamiboii",
+      "title": "Strawanza (Unter deiner Flagge) (aus \"Sing meinen Song, Vol. 13\")",
+      "pts": 804,
+      "countries": {
+        "DE": 43
+      },
+      "rank": 194,
+      "move": "=",
+      "days": 2,
+      "peak": 108,
+      "peakCount": 11,
+      "ptsPlus": "—",
+      "totalPts": 8161,
+      "tpts": "8.161"
+    },
+    {
+      "id": "1888345146",
+      "artist": "Number_i",
+      "title": "Supa Bro",
+      "pts": 804,
+      "countries": {
+        "JP": 43
+      },
+      "rank": 195,
+      "move": "=",
+      "days": 2,
+      "peak": 145,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 6570,
+      "tpts": "6.570"
+    },
+    {
+      "id": "1475519274",
+      "artist": "Stick Figure",
+      "title": "Angels Above Me",
+      "pts": 791,
+      "countries": {
+        "AU": 44
+      },
+      "rank": 196,
+      "move": "=",
+      "days": 2,
+      "peak": 171,
+      "peakCount": 6,
+      "ptsPlus": "—",
+      "totalPts": 5087,
+      "tpts": "5.087"
+    },
+    {
+      "id": "1884851703",
+      "artist": "桑田佳祐",
+      "title": "人誑し / ひとたらし",
+      "pts": 791,
+      "countries": {
+        "JP": 44
+      },
+      "rank": 197,
+      "move": "=",
+      "days": 2,
+      "peak": 170,
+      "peakCount": 7,
+      "ptsPlus": "—",
+      "totalPts": 6075,
+      "tpts": "6.075"
+    },
+    {
+      "id": "1876200975",
+      "artist": "Justen de Wildt",
+      "title": "Cheerio",
+      "pts": 787,
+      "countries": {
+        "NL": 2
+      },
+      "rank": 198,
+      "move": "=",
+      "days": 1,
+      "peak": 198,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 1574,
+      "tpts": "1.574"
+    },
+    {
+      "id": "1892192263",
+      "artist": "Mar Lara",
+      "title": "Juramento",
+      "pts": 787,
+      "countries": {
+        "MX": 2
+      },
+      "rank": 199,
+      "move": "=",
+      "days": 1,
+      "peak": 199,
+      "peakCount": 2,
+      "ptsPlus": "—",
+      "totalPts": 1574,
+      "tpts": "1.574"
+    },
+    {
+      "id": "6763140745",
+      "artist": "Ultimo",
+      "title": "QUESTA INSENSATA VOGLIA DI TE",
+      "pts": 787,
+      "countries": {
+        "IT": 2
+      },
+      "rank": 200,
+      "move": "=",
+      "days": 2,
+      "peak": 147,
+      "peakCount": 5,
+      "ptsPlus": "—",
+      "totalPts": 4787,
+      "tpts": "4.787"
+    }
+  ]
+}
