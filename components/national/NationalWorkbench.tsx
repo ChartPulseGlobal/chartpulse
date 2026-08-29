@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import type { OfficialDataset } from "@/lib/national/official-data";
 import { DISTINCTIONS } from "@/lib/national/sources";
 import { AgeProfilePanel, AssociationsPanel, DataExplorer, EmploymentPanel, JusticePanel, NationalityPanel, ObservationOverview, QualityPanel, TrendPanel, VictimRankingPanel } from "./ObservableNationalViews";
@@ -15,7 +15,36 @@ function Stat({ label, value, detail }: { label: string; value: string; detail: 
   return <div className="headlineStat"><span>{label}</span><strong>{value}</strong><small>{detail}</small></div>;
 }
 
-export default function NationalWorkbench({ dataset }: { dataset: OfficialDataset }) {
+export default function NationalWorkbench() {
+  const [dataset, setDataset] = useState<OfficialDataset | null>(null);
+  const [error, setError] = useState<string | null>(null);
+
+  useEffect(() => {
+    const controller = new AbortController();
+    fetch("/data/official-national-observations.json", { signal: controller.signal })
+      .then(async (response) => {
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        return await response.json() as OfficialDataset;
+      })
+      .then(setDataset)
+      .catch((reason: unknown) => {
+        if (reason instanceof DOMException && reason.name === "AbortError") return;
+        setError(reason instanceof Error ? reason.message : "Erreur de chargement inconnue");
+      });
+    return () => controller.abort();
+  }, []);
+
+  if (error) {
+    return <main style={{ minHeight: "100vh", display: "grid", placeItems: "center", padding: 24, fontFamily: "system-ui" }}><div><strong>Impossible de charger les données officielles.</strong><p>{error}</p></div></main>;
+  }
+  if (!dataset) {
+    return <main style={{ minHeight: "100vh", display: "grid", placeItems: "center", padding: 24, fontFamily: "system-ui" }}><div><strong>Chargement des données officielles…</strong><p>INSEE · SSMSI · France entière</p></div></main>;
+  }
+
+  return <WorkbenchBody dataset={dataset} />;
+}
+
+function WorkbenchBody({ dataset }: { dataset: OfficialDataset }) {
   const [tab, setTab] = useState<TabKey>("observatoire");
   const immigrants = dataset.insee.observations.find((r) => r.group === "Immigrés");
   const years = dataset.ssmsi.years;
