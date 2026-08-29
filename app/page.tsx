@@ -11,6 +11,25 @@ function loadDataset(): OfficialDataset {
   return JSON.parse(raw) as OfficialDataset;
 }
 
+function compactForInitialRender(dataset: OfficialDataset): OfficialDataset {
+  return {
+    ...dataset,
+    insee: {
+      ...dataset.insee,
+      melodi: {
+        ...dataset.insee.melodi,
+        auditableSubset: dataset.insee.melodi.auditableSubset.slice(0, 25),
+      },
+    },
+    ssmsi: {
+      ...dataset.ssmsi,
+      observations: dataset.ssmsi.observations.slice(0, 200),
+      sexProfiles: [],
+    },
+  };
+}
+
 export default function Home() {
-  return <NationalWorkbench dataset={loadDataset()} />;
+  const dataset = loadDataset();
+  return <NationalWorkbench dataset={compactForInitialRender(dataset)} />;
 }
