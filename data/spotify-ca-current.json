@@ -1,1806 +1,1806 @@
 {
   "source": "spotify-ca",
-  "updatedAt": "2026-10-22T22:07:38.066690",
+  "updatedAt": "2026-10-23T01:14:11.571694",
   "songs": {
     "tate mcrae-housewife": {
       "rank": 1,
       "pts": 412,
-      "days": 29,
+      "days": 30,
       "peak": 1,
-      "peakCount": 29,
-      "totalPts": 11754,
-      "date": "2026-10-22"
+      "peakCount": 30,
+      "totalPts": 12166,
+      "date": "2026-10-23"
     },
     "zach bryan-lies (w/ lana del rey )": {
       "rank": 2,
       "pts": 405,
-      "days": 29,
+      "days": 30,
       "peak": 2,
-      "peakCount": 13,
-      "totalPts": 11622,
-      "date": "2026-10-22"
+      "peakCount": 14,
+      "totalPts": 12027,
+      "date": "2026-10-23"
     },
     "ella langley-choosin' texas": {
       "rank": 3,
       "pts": 795,
-      "days": 1639,
+      "days": 1640,
       "peak": 1,
       "peakCount": 1250,
-      "totalPts": 1115219,
-      "date": "2026-10-22"
+      "totalPts": 1116014,
+      "date": "2026-10-23"
     },
     "adãla-nicole kidman": {
       "rank": 4,
       "pts": 434,
-      "days": 251,
+      "days": 252,
       "peak": 1,
       "peakCount": 132,
-      "totalPts": 94317,
-      "date": "2026-10-22"
+      "totalPts": 94751,
+      "date": "2026-10-23"
     },
     "olivia rodrigo-expectations (w/ chappell roan )": {
       "rank": 5,
       "pts": 397,
-      "days": 29,
+      "days": 30,
       "peak": 3,
       "peakCount": 8,
-      "totalPts": 11445,
-      "date": "2026-10-22"
+      "totalPts": 11842,
+      "date": "2026-10-23"
     },
     "olivia rodrigo-stupid song": {
       "rank": 6,
       "pts": 490,
-      "days": 1229,
+      "days": 1230,
       "peak": 1,
       "peakCount": 50,
-      "totalPts": 531872,
-      "date": "2026-10-22"
+      "totalPts": 532362,
+      "date": "2026-10-23"
     },
     "ashe-stop the wedding!": {
       "rank": 7,
       "pts": 408,
-      "days": 223,
+      "days": 224,
       "peak": 7,
-      "peakCount": 77,
-      "totalPts": 59224,
-      "date": "2026-10-22"
+      "peakCount": 78,
+      "totalPts": 59632,
+      "date": "2026-10-23"
     },
     "olivia rodrigo-the cure": {
       "rank": 8,
       "pts": 496,
-      "days": 1396,
+      "days": 1397,
       "peak": 3,
       "peakCount": 25,
-      "totalPts": 598905,
-      "date": "2026-10-22"
+      "totalPts": 599401,
+      "date": "2026-10-23"
     },
     "the killers-mr. brightside": {
       "rank": 9,
       "pts": 1180,
-      "days": 1639,
+      "days": 1640,
       "peak": 5,
       "peakCount": 237,
-      "totalPts": 1858678,
-      "date": "2026-10-22"
+      "totalPts": 1859858,
+      "date": "2026-10-23"
     },
     "stella lefty-boston": {
       "rank": 10,
       "pts": 515,
-      "days": 1639,
+      "days": 1640,
       "peak": 2,
       "peakCount": 520,
-      "totalPts": 726686,
-      "date": "2026-10-22"
+      "totalPts": 727201,
+      "date": "2026-10-23"
     },
     "adãla-ain't in la": {
       "rank": 11,
       "pts": 423,
-      "days": 787,
+      "days": 788,
       "peak": 6,
       "peakCount": 250,
-      "totalPts": 226585,
-      "date": "2026-10-22"
+      "totalPts": 227008,
+      "date": "2026-10-23"
     },
     "zach bryan-lodi when": {
       "rank": 12,
       "pts": 382,
-      "days": 29,
+      "days": 30,
       "peak": 5,
       "peakCount": 8,
-      "totalPts": 11029,
-      "date": "2026-10-22"
+      "totalPts": 11411,
+      "date": "2026-10-23"
     },
     "taylor swift-patient zero": {
       "rank": 13,
       "pts": 408,
-      "days": 124,
+      "days": 125,
       "peak": 1,
       "peakCount": 32,
-      "totalPts": 51457,
-      "date": "2026-10-22"
+      "totalPts": 51865,
+      "date": "2026-10-23"
     },
     "malcolm todd-earrings": {
       "rank": 14,
       "pts": 545,
-      "days": 1639,
+      "days": 1640,
       "peak": 2,
       "peakCount": 327,
-      "totalPts": 802224,
-      "date": "2026-10-22"
+      "totalPts": 802769,
+      "date": "2026-10-23"
     },
     "whiskey myers-broken window serenade": {
       "rank": 15,
       "pts": 502,
-      "days": 1639,
+      "days": 1640,
       "peak": 15,
-      "peakCount": 289,
-      "totalPts": 645780,
-      "date": "2026-10-22"
+      "peakCount": 290,
+      "totalPts": 646282,
+      "date": "2026-10-23"
     },
     "drake-janice stfu": {
       "rank": 16,
       "pts": 565,
-      "days": 1460,
+      "days": 1461,
       "peak": 1,
       "peakCount": 248,
-      "totalPts": 762581,
-      "date": "2026-10-22"
+      "totalPts": 763146,
+      "date": "2026-10-23"
     },
     "the goo goo dolls-iris": {
       "rank": 17,
       "pts": 1035,
-      "days": 1639,
+      "days": 1640,
       "peak": 6,
       "peakCount": 136,
-      "totalPts": 1624012,
-      "date": "2026-10-22"
+      "totalPts": 1625047,
+      "date": "2026-10-23"
     },
     "tame impala-loser": {
       "rank": 18,
       "pts": 418,
-      "days": 735,
+      "days": 736,
       "peak": 2,
       "peakCount": 243,
-      "totalPts": 292063,
-      "date": "2026-10-22"
+      "totalPts": 292481,
+      "date": "2026-10-23"
     },
     "drake-quebec": {
       "rank": 19,
       "pts": 380,
-      "days": 92,
+      "days": 93,
       "peak": 1,
       "peakCount": 9,
-      "totalPts": 36282,
-      "date": "2026-10-22"
+      "totalPts": 36662,
+      "date": "2026-10-23"
     },
     "p!nk-just give me a reason (w/ nate ruess )": {
       "rank": 20,
       "pts": 385,
-      "days": 347,
+      "days": 348,
       "peak": 19,
       "peakCount": 151,
-      "totalPts": 71579,
-      "date": "2026-10-22"
+      "totalPts": 71964,
+      "date": "2026-10-23"
     },
     "olivia dean-man i need": {
       "rank": 21,
       "pts": 724,
-      "days": 1639,
+      "days": 1640,
       "peak": 7,
       "peakCount": 55,
-      "totalPts": 1126115,
-      "date": "2026-10-22"
+      "totalPts": 1126839,
+      "date": "2026-10-23"
     },
     "cameron whitcomb-kingdom of fear": {
       "rank": 22,
       "pts": 460,
-      "days": 1639,
+      "days": 1640,
       "peak": 8,
       "peakCount": 440,
-      "totalPts": 596421,
-      "date": "2026-10-22"
+      "totalPts": 596881,
+      "date": "2026-10-23"
     },
     "the neighbourhood-sweater weather": {
       "rank": 23,
       "pts": 1232,
-      "days": 1639,
+      "days": 1640,
       "peak": 17,
       "peakCount": 244,
-      "totalPts": 1856152,
-      "date": "2026-10-22"
+      "totalPts": 1857384,
+      "date": "2026-10-23"
     },
     "alex warren-ordinary": {
       "rank": 24,
       "pts": 961,
-      "days": 1639,
+      "days": 1640,
       "peak": 8,
       "peakCount": 127,
-      "totalPts": 1531964,
-      "date": "2026-10-22"
+      "totalPts": 1532925,
+      "date": "2026-10-23"
     },
     "dominic fike-babydoll": {
       "rank": 25,
       "pts": 632,
-      "days": 1639,
+      "days": 1640,
       "peak": 2,
       "peakCount": 136,
-      "totalPts": 992940,
-      "date": "2026-10-22"
+      "totalPts": 993572,
+      "date": "2026-10-23"
     },
     "morgan wallen-been by now": {
       "rank": 26,
       "pts": 406,
-      "days": 832,
+      "days": 833,
       "peak": 2,
       "peakCount": 64,
-      "totalPts": 334590,
-      "date": "2026-10-22"
+      "totalPts": 334996,
+      "date": "2026-10-23"
     },
     "ella langley-weren't for the wind": {
       "rank": 27,
       "pts": 604,
-      "days": 1639,
+      "days": 1640,
       "peak": 5,
       "peakCount": 167,
-      "totalPts": 902434,
-      "date": "2026-10-22"
+      "totalPts": 903038,
+      "date": "2026-10-23"
     },
     "noah kahan-orbiter": {
       "rank": 28,
       "pts": 426,
-      "days": 1639,
+      "days": 1640,
       "peak": 20,
       "peakCount": 132,
-      "totalPts": 514769,
-      "date": "2026-10-22"
+      "totalPts": 515195,
+      "date": "2026-10-23"
     },
     "drake-solar eclipse (w/ don toliver )": {
       "rank": 29,
       "pts": 359,
-      "days": 92,
+      "days": 93,
       "peak": 1,
       "peakCount": 4,
-      "totalPts": 35276,
-      "date": "2026-10-22"
+      "totalPts": 35635,
+      "date": "2026-10-23"
     },
     "ella langley-be her": {
       "rank": 30,
       "pts": 504,
-      "days": 1639,
+      "days": 1640,
       "peak": 4,
       "peakCount": 107,
-      "totalPts": 790368,
-      "date": "2026-10-22"
+      "totalPts": 790872,
+      "date": "2026-10-23"
     },
     "zach bryan-i remember everything (w/ kacey musgraves )": {
       "rank": 31,
       "pts": 1182,
-      "days": 1639,
+      "days": 1640,
       "peak": 13,
       "peakCount": 200,
-      "totalPts": 1851975,
-      "date": "2026-10-22"
+      "totalPts": 1853157,
+      "date": "2026-10-23"
     },
     "temper city-self aware": {
       "rank": 32,
       "pts": 453,
-      "days": 1639,
+      "days": 1640,
       "peak": 6,
       "peakCount": 297,
-      "totalPts": 687505,
-      "date": "2026-10-22"
+      "totalPts": 687958,
+      "date": "2026-10-23"
     },
     "olivia rodrigo-drop dead": {
       "rank": 33,
       "pts": 458,
-      "days": 1639,
+      "days": 1640,
       "peak": 3,
       "peakCount": 75,
-      "totalPts": 684051,
-      "date": "2026-10-22"
+      "totalPts": 684509,
+      "date": "2026-10-23"
     },
     "sombr-back to friends": {
       "rank": 34,
       "pts": 764,
-      "days": 1639,
+      "days": 1640,
       "peak": 19,
       "peakCount": 78,
-      "totalPts": 1193504,
-      "date": "2026-10-22"
+      "totalPts": 1194268,
+      "date": "2026-10-23"
     },
     "tlc-no scrubs": {
       "rank": 35,
       "pts": 415,
-      "days": 1077,
+      "days": 1078,
       "peak": 19,
       "peakCount": 224,
-      "totalPts": 222818,
-      "date": "2026-10-22"
+      "totalPts": 223233,
+      "date": "2026-10-23"
     },
     "fleetwood mac-dreams - 2001 remaster": {
       "rank": 36,
       "pts": 439,
-      "days": 1639,
+      "days": 1640,
       "peak": 8,
       "peakCount": 174,
-      "totalPts": 667503,
-      "date": "2026-10-22"
+      "totalPts": 667942,
+      "date": "2026-10-23"
     },
     "zach bryan-something in the orange": {
       "rank": 37,
       "pts": 1230,
-      "days": 1639,
+      "days": 1640,
       "peak": 16,
       "peakCount": 219,
-      "totalPts": 1901968,
-      "date": "2026-10-22"
+      "totalPts": 1903198,
+      "date": "2026-10-23"
     },
     "bruno mars-risk it all": {
       "rank": 38,
       "pts": 448,
-      "days": 1639,
+      "days": 1640,
       "peak": 15,
       "peakCount": 63,
-      "totalPts": 504562,
-      "date": "2026-10-22"
+      "totalPts": 505010,
+      "date": "2026-10-23"
     },
     "mac miller-cinderella (w/ ty dolla $ign )": {
       "rank": 39,
       "pts": 419,
-      "days": 1584,
+      "days": 1585,
       "peak": 12,
       "peakCount": 160,
-      "totalPts": 598254,
-      "date": "2026-10-22"
+      "totalPts": 598673,
+      "date": "2026-10-23"
     },
     "k/da-firestarter (w/ league of legends , i-dle , mimi webb , sophie powers , miyeon , soyeon )": {
       "rank": 40,
       "pts": 323,
-      "days": 10,
+      "days": 11,
       "peak": 40,
-      "peakCount": 10,
-      "totalPts": 2109,
-      "date": "2026-10-22"
+      "peakCount": 11,
+      "totalPts": 2432,
+      "date": "2026-10-23"
     },
     "noah kahan-willing and able": {
       "rank": 41,
       "pts": 400,
-      "days": 1639,
+      "days": 1640,
       "peak": 18,
       "peakCount": 35,
-      "totalPts": 485168,
-      "date": "2026-10-22"
+      "totalPts": 485568,
+      "date": "2026-10-23"
     },
     "sienna spiro-great expectation": {
       "rank": 42,
       "pts": 353,
-      "days": 637,
+      "days": 638,
       "peak": 27,
       "peakCount": 194,
-      "totalPts": 142261,
-      "date": "2026-10-22"
+      "totalPts": 142614,
+      "date": "2026-10-23"
     },
     "ariana grande-hate that i made you love me": {
       "rank": 43,
       "pts": 426,
-      "days": 1338,
+      "days": 1339,
       "peak": 2,
       "peakCount": 65,
-      "totalPts": 591330,
-      "date": "2026-10-22"
+      "totalPts": 591756,
+      "date": "2026-10-23"
     },
     "zach bryan-robot killed the working man": {
       "rank": 44,
       "pts": 317,
-      "days": 29,
+      "days": 30,
       "peak": 7,
       "peakCount": 8,
-      "totalPts": 9537,
-      "date": "2026-10-22"
+      "totalPts": 9854,
+      "date": "2026-10-23"
     },
     "sombr-homewrecker": {
       "rank": 45,
       "pts": 445,
-      "days": 1639,
+      "days": 1640,
       "peak": 35,
       "peakCount": 80,
-      "totalPts": 657894,
-      "date": "2026-10-22"
+      "totalPts": 658339,
+      "date": "2026-10-23"
     },
     "sombr-my body isn't ready": {
       "rank": 46,
       "pts": 334,
-      "days": 164,
+      "days": 165,
       "peak": 46,
-      "peakCount": 46,
-      "totalPts": 37637,
-      "date": "2026-10-22"
+      "peakCount": 47,
+      "totalPts": 37971,
+      "date": "2026-10-23"
     },
     "drake-cold shoulder (w/ don toliver , yebba )": {
       "rank": 47,
       "pts": 320,
-      "days": 92,
+      "days": 93,
       "peak": 5,
       "peakCount": 13,
-      "totalPts": 33100,
-      "date": "2026-10-22"
+      "totalPts": 33420,
+      "date": "2026-10-23"
     },
     "tate mcrae-sports car": {
       "rank": 48,
       "pts": 622,
-      "days": 46,
+      "days": 47,
       "peak": 48,
-      "peakCount": 35,
-      "totalPts": 19410,
-      "date": "2026-10-22"
+      "peakCount": 36,
+      "totalPts": 20032,
+      "date": "2026-10-23"
     },
     "shaboozey-a bar song (tipsy)": {
       "rank": 49,
       "pts": 1271,
-      "days": 1639,
+      "days": 1640,
       "peak": 12,
       "peakCount": 198,
-      "totalPts": 2118365,
-      "date": "2026-10-22"
+      "totalPts": 2119636,
+      "date": "2026-10-23"
     },
     "karol g-bby wow (w/ judeline , rusowsky )": {
       "rank": 50,
       "pts": 316,
-      "days": 188,
+      "days": 189,
       "peak": 50,
-      "peakCount": 98,
-      "totalPts": 36596,
-      "date": "2026-10-22"
+      "peakCount": 99,
+      "totalPts": 36912,
+      "date": "2026-10-23"
     },
     "cody johnson-take me back (leave me there)": {
       "rank": 51,
       "pts": 326,
-      "days": 550,
+      "days": 551,
       "peak": 36,
       "peakCount": 173,
-      "totalPts": 133136,
-      "date": "2026-10-22"
+      "totalPts": 133462,
+      "date": "2026-10-23"
     },
     "noah kahan-stick season": {
       "rank": 52,
       "pts": 1122,
-      "days": 1639,
+      "days": 1640,
       "peak": 27,
       "peakCount": 111,
-      "totalPts": 1765452,
-      "date": "2026-10-22"
+      "totalPts": 1766574,
+      "date": "2026-10-23"
     },
     "ravyn lenae-love me not": {
       "rank": 53,
       "pts": 647,
-      "days": 1639,
+      "days": 1640,
       "peak": 21,
       "peakCount": 199,
-      "totalPts": 1040116,
-      "date": "2026-10-22"
+      "totalPts": 1040763,
+      "date": "2026-10-23"
     },
     "olivia rodrigo-expectations": {
       "rank": 54,
       "pts": 323,
-      "days": 51,
+      "days": 52,
       "peak": 25,
       "peakCount": 25,
-      "totalPts": 11829,
-      "date": "2026-10-22"
+      "totalPts": 12152,
+      "date": "2026-10-23"
     },
     "comehelpglo-onsra": {
       "rank": 55,
       "pts": 314,
-      "days": 263,
+      "days": 264,
       "peak": 16,
       "peakCount": 87,
-      "totalPts": 74765,
-      "date": "2026-10-22"
+      "totalPts": 75079,
+      "date": "2026-10-23"
     },
     "disco lines-no broke boys (w/ tinashe )": {
       "rank": 56,
       "pts": 634,
-      "days": 1639,
+      "days": 1640,
       "peak": 18,
       "peakCount": 79,
-      "totalPts": 1049468,
-      "date": "2026-10-22"
+      "totalPts": 1050102,
+      "date": "2026-10-23"
     },
     "harry styles-sign of the times": {
       "rank": 57,
       "pts": 418,
-      "days": 1639,
+      "days": 1640,
       "peak": 46,
       "peakCount": 107,
-      "totalPts": 463267,
-      "date": "2026-10-22"
+      "totalPts": 463685,
+      "date": "2026-10-23"
     },
     "lady gaga-die with a smile (w/ bruno mars )": {
       "rank": 58,
       "pts": 905,
-      "days": 1639,
+      "days": 1640,
       "peak": 35,
       "peakCount": 76,
-      "totalPts": 1275207,
-      "date": "2026-10-22"
+      "totalPts": 1276112,
+      "date": "2026-10-23"
     },
     "journey-don't stop believin' (2022 remaster)": {
       "rank": 59,
       "pts": 709,
-      "days": 1639,
+      "days": 1640,
       "peak": 18,
       "peakCount": 147,
-      "totalPts": 1100449,
-      "date": "2026-10-22"
+      "totalPts": 1101158,
+      "date": "2026-10-23"
     },
     "benson boone-beautiful things": {
       "rank": 60,
       "pts": 1237,
-      "days": 1639,
+      "days": 1640,
       "peak": 21,
       "peakCount": 56,
-      "totalPts": 2078176,
-      "date": "2026-10-22"
+      "totalPts": 2079413,
+      "date": "2026-10-23"
     },
     "arctic monkeys-505": {
       "rank": 61,
       "pts": 688,
-      "days": 954,
+      "days": 955,
       "peak": 38,
       "peakCount": 231,
-      "totalPts": 585636,
-      "date": "2026-10-22"
+      "totalPts": 586324,
+      "date": "2026-10-23"
     },
     "miguel-sure thing": {
       "rank": 62,
       "pts": 539,
-      "days": 282,
+      "days": 283,
       "peak": 44,
       "peakCount": 54,
-      "totalPts": 139225,
-      "date": "2026-10-22"
+      "totalPts": 139764,
+      "date": "2026-10-23"
     },
     "tove lo-talking body": {
       "rank": 63,
       "pts": 316,
-      "days": 433,
+      "days": 434,
       "peak": 56,
       "peakCount": 76,
-      "totalPts": 85101,
-      "date": "2026-10-22"
+      "totalPts": 85417,
+      "date": "2026-10-23"
     },
     "steve lacy-oh yeah?": {
       "rank": 64,
       "pts": 315,
-      "days": 713,
+      "days": 714,
       "peak": 6,
       "peakCount": 234,
-      "totalPts": 263806,
-      "date": "2026-10-22"
+      "totalPts": 264121,
+      "date": "2026-10-23"
     },
     "nickelback-how you remind me": {
       "rank": 65,
       "pts": 599,
-      "days": 1639,
+      "days": 1640,
       "peak": 44,
       "peakCount": 204,
-      "totalPts": 864372,
-      "date": "2026-10-22"
+      "totalPts": 864971,
+      "date": "2026-10-23"
     },
     "justin bieber-beauty and a beat (w/ nicki minaj )": {
       "rank": 66,
       "pts": 405,
-      "days": 1639,
+      "days": 1640,
       "peak": 2,
       "peakCount": 109,
-      "totalPts": 729864,
-      "date": "2026-10-22"
+      "totalPts": 730269,
+      "date": "2026-10-23"
     },
     "the cranberries-zombie - 2025 remastered": {
       "rank": 67,
       "pts": 283,
-      "days": 40,
+      "days": 41,
       "peak": 67,
-      "peakCount": 24,
-      "totalPts": 1994,
-      "date": "2026-10-22"
+      "peakCount": 25,
+      "totalPts": 2277,
+      "date": "2026-10-23"
     },
     "vance joy-riptide": {
       "rank": 68,
       "pts": 1095,
-      "days": 1639,
+      "days": 1640,
       "peak": 18,
       "peakCount": 127,
-      "totalPts": 1884067,
-      "date": "2026-10-22"
+      "totalPts": 1885162,
+      "date": "2026-10-23"
     },
     "bruno mars-locked out of heaven": {
       "rank": 69,
       "pts": 448,
-      "days": 67,
+      "days": 68,
       "peak": 39,
       "peakCount": 40,
-      "totalPts": 24803,
-      "date": "2026-10-22"
+      "totalPts": 25251,
+      "date": "2026-10-23"
     },
     "radiohead-creep": {
       "rank": 70,
       "pts": 542,
-      "days": 1639,
+      "days": 1640,
       "peak": 49,
       "peakCount": 80,
-      "totalPts": 768529,
-      "date": "2026-10-22"
+      "totalPts": 769071,
+      "date": "2026-10-23"
     },
     "zach bryan-plainsman (w/ turnpike troubadours )": {
       "rank": 71,
       "pts": 263,
-      "days": 29,
+      "days": 30,
       "peak": 14,
       "peakCount": 8,
-      "totalPts": 8827,
-      "date": "2026-10-22"
+      "totalPts": 9090,
+      "date": "2026-10-23"
     },
     "alyssa grace-bloodstream": {
       "rank": 72,
       "pts": 300,
-      "days": 968,
+      "days": 969,
       "peak": 38,
       "peakCount": 229,
-      "totalPts": 254531,
-      "date": "2026-10-22"
+      "totalPts": 254831,
+      "date": "2026-10-23"
     },
     "djo-end of beginning": {
       "rank": 73,
       "pts": 772,
-      "days": 1639,
+      "days": 1640,
       "peak": 20,
       "peakCount": 117,
-      "totalPts": 1331302,
-      "date": "2026-10-22"
+      "totalPts": 1332074,
+      "date": "2026-10-23"
     },
     "mazzy star-fade into you": {
       "rank": 74,
       "pts": 314,
-      "days": 297,
+      "days": 298,
       "peak": 65,
       "peakCount": 84,
-      "totalPts": 71436,
-      "date": "2026-10-22"
+      "totalPts": 71750,
+      "date": "2026-10-23"
     },
     "kings of leon-wait for me": {
       "rank": 75,
       "pts": 261,
-      "days": 115,
+      "days": 116,
       "peak": 75,
-      "peakCount": 28,
-      "totalPts": 15981,
-      "date": "2026-10-22"
+      "peakCount": 29,
+      "totalPts": 16242,
+      "date": "2026-10-23"
     },
     "bruno mars-i just might": {
       "rank": 76,
       "pts": 414,
-      "days": 1639,
+      "days": 1640,
       "peak": 14,
       "peakCount": 110,
-      "totalPts": 628618,
-      "date": "2026-10-22"
+      "totalPts": 629032,
+      "date": "2026-10-23"
     },
     "steve lacy-the feeling": {
       "rank": 77,
       "pts": 257,
-      "days": 111,
+      "days": 112,
       "peak": 60,
       "peakCount": 23,
-      "totalPts": 21119,
-      "date": "2026-10-22"
+      "totalPts": 21376,
+      "date": "2026-10-23"
     },
     "sam fender-rein me in (w/ olivia dean )": {
       "rank": 78,
       "pts": 335,
-      "days": 1639,
+      "days": 1640,
       "peak": 30,
       "peakCount": 132,
-      "totalPts": 498905,
-      "date": "2026-10-22"
+      "totalPts": 499240,
+      "date": "2026-10-23"
     },
     "morgan wallen-last thing you need (from gtavi: the album) (w/ grand theft auto vi )": {
       "rank": 79,
       "pts": 260,
-      "days": 170,
+      "days": 171,
       "peak": 6,
       "peakCount": 13,
-      "totalPts": 54058,
-      "date": "2026-10-22"
+      "totalPts": 54318,
+      "date": "2026-10-23"
     },
     "coldplay-yellow": {
       "rank": 80,
       "pts": 723,
-      "days": 1639,
+      "days": 1640,
       "peak": 43,
       "peakCount": 175,
-      "totalPts": 1104170,
-      "date": "2026-10-22"
+      "totalPts": 1104893,
+      "date": "2026-10-23"
     },
     "taylor swift-the fate of ophelia": {
       "rank": 81,
       "pts": 622,
-      "days": 1639,
+      "days": 1640,
       "peak": 7,
       "peakCount": 121,
-      "totalPts": 1100413,
-      "date": "2026-10-22"
+      "totalPts": 1101035,
+      "date": "2026-10-23"
     },
     "girl in red-we fell in love in october": {
       "rank": 82,
       "pts": 296,
-      "days": 115,
+      "days": 116,
       "peak": 47,
       "peakCount": 33,
-      "totalPts": 34708,
-      "date": "2026-10-22"
+      "totalPts": 35004,
+      "date": "2026-10-23"
     },
     "kings of leon-sex on fire": {
       "rank": 83,
       "pts": 361,
-      "days": 1639,
+      "days": 1640,
       "peak": 57,
       "peakCount": 176,
-      "totalPts": 527439,
-      "date": "2026-10-22"
+      "totalPts": 527800,
+      "date": "2026-10-23"
     },
     "gigi perez-sailor song": {
       "rank": 84,
       "pts": 731,
-      "days": 1639,
+      "days": 1640,
       "peak": 44,
       "peakCount": 82,
-      "totalPts": 1110353,
-      "date": "2026-10-22"
+      "totalPts": 1111084,
+      "date": "2026-10-23"
     },
     "drake-hold on, we're going home (w/ majid jordan )": {
       "rank": 85,
       "pts": 240,
-      "days": 17,
+      "days": 18,
       "peak": 85,
-      "peakCount": 17,
-      "totalPts": 1730,
-      "date": "2026-10-22"
+      "peakCount": 18,
+      "totalPts": 1970,
+      "date": "2026-10-23"
     },
     "jamie miller-babydoll": {
       "rank": 86,
       "pts": 237,
-      "days": 99,
+      "days": 100,
       "peak": 51,
       "peakCount": 7,
-      "totalPts": 21231,
-      "date": "2026-10-22"
+      "totalPts": 21468,
+      "date": "2026-10-23"
     },
     "three days grace-i hate everything about you": {
       "rank": 87,
       "pts": 318,
-      "days": 10,
+      "days": 11,
       "peak": 87,
-      "peakCount": 10,
-      "totalPts": 1581,
-      "date": "2026-10-22"
+      "peakCount": 11,
+      "totalPts": 1899,
+      "date": "2026-10-23"
     },
     "olivia dean-so easy (to fall in love)": {
       "rank": 88,
       "pts": 467,
-      "days": 1639,
+      "days": 1640,
       "peak": 20,
       "peakCount": 26,
-      "totalPts": 851487,
-      "date": "2026-10-22"
+      "totalPts": 851954,
+      "date": "2026-10-23"
     },
     "zach bryan-backwards": {
       "rank": 89,
       "pts": 227,
-      "days": 29,
+      "days": 30,
       "peak": 16,
       "peakCount": 8,
-      "totalPts": 8046,
-      "date": "2026-10-22"
+      "totalPts": 8273,
+      "date": "2026-10-23"
     },
     "dexter and the moonrocks-freakinâ out": {
       "rank": 90,
       "pts": 307,
-      "days": 1639,
+      "days": 1640,
       "peak": 19,
       "peakCount": 120,
-      "totalPts": 483096,
-      "date": "2026-10-22"
+      "totalPts": 483403,
+      "date": "2026-10-23"
     },
     "pinkpantheress-stateside + zara larsson (w/ zara larsson )": {
       "rank": 91,
       "pts": 404,
-      "days": 1639,
+      "days": 1640,
       "peak": 8,
       "peakCount": 55,
-      "totalPts": 730507,
-      "date": "2026-10-22"
+      "totalPts": 730911,
+      "date": "2026-10-23"
     },
     "zach bryan-pink skies": {
       "rank": 92,
       "pts": 710,
-      "days": 1639,
+      "days": 1640,
       "peak": 31,
       "peakCount": 92,
-      "totalPts": 1141475,
-      "date": "2026-10-22"
+      "totalPts": 1142185,
+      "date": "2026-10-23"
     },
     "jade-angel of my dreams": {
       "rank": 93,
       "pts": 217,
-      "days": 5,
+      "days": 6,
       "peak": 93,
-      "peakCount": 5,
-      "totalPts": 457,
-      "date": "2026-10-22"
+      "peakCount": 6,
+      "totalPts": 674,
+      "date": "2026-10-23"
     },
     "fleetwood mac-landslide": {
       "rank": 94,
       "pts": 367,
-      "days": 818,
+      "days": 819,
       "peak": 63,
       "peakCount": 141,
-      "totalPts": 244186,
-      "date": "2026-10-22"
+      "totalPts": 244553,
+      "date": "2026-10-23"
     },
     "noah kahan-draw you out (w/ the hunger games )": {
       "rank": 95,
       "pts": 222,
-      "days": 92,
+      "days": 93,
       "peak": 4,
       "peakCount": 4,
-      "totalPts": 28507,
-      "date": "2026-10-22"
+      "totalPts": 28729,
+      "date": "2026-10-23"
     },
     "thekidszn-impulsive": {
       "rank": 96,
       "pts": 213,
-      "days": 46,
+      "days": 47,
       "peak": 95,
       "peakCount": 22,
-      "totalPts": 4384,
-      "date": "2026-10-22"
+      "totalPts": 4597,
+      "date": "2026-10-23"
     },
     "wheatus-teenage dirtbag": {
       "rank": 97,
       "pts": 277,
-      "days": 968,
+      "days": 969,
       "peak": 79,
       "peakCount": 130,
-      "totalPts": 173696,
-      "date": "2026-10-22"
+      "totalPts": 173973,
+      "date": "2026-10-23"
     },
     "teddy swims-lose control": {
       "rank": 98,
       "pts": 982,
-      "days": 1639,
+      "days": 1640,
       "peak": 51,
       "peakCount": 78,
-      "totalPts": 1682207,
-      "date": "2026-10-22"
+      "totalPts": 1683189,
+      "date": "2026-10-23"
     },
     "drake-one dance (w/ wizkid , kyla )": {
       "rank": 99,
       "pts": 1057,
-      "days": 1639,
+      "days": 1640,
       "peak": 38,
       "peakCount": 134,
-      "totalPts": 1830553,
-      "date": "2026-10-22"
+      "totalPts": 1831610,
+      "date": "2026-10-23"
     },
     "creedence clearwater revival-have you ever seen the rain": {
       "rank": 100,
       "pts": 692,
-      "days": 1639,
+      "days": 1640,
       "peak": 36,
       "peakCount": 135,
-      "totalPts": 1168454,
-      "date": "2026-10-22"
+      "totalPts": 1169146,
+      "date": "2026-10-23"
     },
     "drake-headlines": {
       "rank": 101,
       "pts": 404,
-      "days": 527,
+      "days": 528,
       "peak": 75,
       "peakCount": 186,
-      "totalPts": 178918,
-      "date": "2026-10-22"
+      "totalPts": 179322,
+      "date": "2026-10-23"
     },
     "morgan wallen-what i want (w/ tate mcrae )": {
       "rank": 102,
       "pts": 509,
-      "days": 71,
+      "days": 72,
       "peak": 102,
-      "peakCount": 28,
-      "totalPts": 25829,
-      "date": "2026-10-22"
+      "peakCount": 29,
+      "totalPts": 26338,
+      "date": "2026-10-23"
     },
     "oasis-wonderwall - remastered": {
       "rank": 103,
       "pts": 279,
-      "days": 1077,
+      "days": 1078,
       "peak": 11,
       "peakCount": 99,
-      "totalPts": 372567,
-      "date": "2026-10-22"
+      "totalPts": 372846,
+      "date": "2026-10-23"
     },
     "chris stapleton-tennessee whiskey": {
       "rank": 104,
       "pts": 821,
-      "days": 1639,
+      "days": 1640,
       "peak": 39,
       "peakCount": 182,
-      "totalPts": 1399579,
-      "date": "2026-10-22"
+      "totalPts": 1400400,
+      "date": "2026-10-23"
     },
     "ella langley-i can't love you anymore (w/ morgan wallen )": {
       "rank": 105,
       "pts": 281,
-      "days": 1639,
+      "days": 1640,
       "peak": 23,
       "peakCount": 61,
-      "totalPts": 599125,
-      "date": "2026-10-22"
+      "totalPts": 599406,
+      "date": "2026-10-23"
     },
     "evanescence-bring me to life": {
       "rank": 106,
       "pts": 248,
-      "days": 275,
+      "days": 276,
       "peak": 106,
-      "peakCount": 62,
-      "totalPts": 47931,
-      "date": "2026-10-22"
+      "peakCount": 63,
+      "totalPts": 48179,
+      "date": "2026-10-23"
     },
     "tate mcrae-just keep watching (from f1â® the movie) (w/ f1 the album )": {
       "rank": 107,
       "pts": 386,
-      "days": 10,
+      "days": 11,
       "peak": 107,
-      "peakCount": 10,
-      "totalPts": 3399,
-      "date": "2026-10-22"
+      "peakCount": 11,
+      "totalPts": 3785,
+      "date": "2026-10-23"
     },
     "bruno mars-just the way you are": {
       "rank": 108,
       "pts": 342,
-      "days": 103,
+      "days": 104,
       "peak": 84,
       "peakCount": 36,
-      "totalPts": 28619,
-      "date": "2026-10-22"
+      "totalPts": 28961,
+      "date": "2026-10-23"
     },
     "3 doors down-kryptonite": {
       "rank": 109,
       "pts": 242,
-      "days": 10,
+      "days": 11,
       "peak": 109,
-      "peakCount": 10,
-      "totalPts": 1346,
-      "date": "2026-10-22"
+      "peakCount": 11,
+      "totalPts": 1588,
+      "date": "2026-10-23"
     },
     "bella kay-iloveitiloveitiloveit": {
       "rank": 110,
       "pts": 326,
-      "days": 1639,
+      "days": 1640,
       "peak": 10,
       "peakCount": 64,
-      "totalPts": 603910,
-      "date": "2026-10-22"
+      "totalPts": 604236,
+      "date": "2026-10-23"
     },
     "justice-flower in a hurricane (w/ tame impala , sza , grand theft auto vi , king gizzard & the lizard wizard )": {
       "rank": 111,
       "pts": 182,
-      "days": 29,
+      "days": 30,
       "peak": 24,
       "peakCount": 8,
-      "totalPts": 7153,
-      "date": "2026-10-22"
+      "totalPts": 7335,
+      "date": "2026-10-23"
     },
     "f3miii-noble": {
       "rank": 112,
       "pts": 255,
-      "days": 1639,
+      "days": 1640,
       "peak": 17,
       "peakCount": 163,
-      "totalPts": 498762,
-      "date": "2026-10-22"
+      "totalPts": 499017,
+      "date": "2026-10-23"
     },
     "foo fighters-everlong": {
       "rank": 113,
       "pts": 363,
-      "days": 968,
+      "days": 969,
       "peak": 61,
       "peakCount": 166,
-      "totalPts": 319728,
-      "date": "2026-10-22"
+      "totalPts": 320091,
+      "date": "2026-10-23"
     },
     "macklemore & ryan lewis-can't hold us (w/ macklemore , ryan lewis , ray dalton )": {
       "rank": 114,
       "pts": 683,
-      "days": 1639,
+      "days": 1640,
       "peak": 28,
       "peakCount": 143,
-      "totalPts": 1166387,
-      "date": "2026-10-22"
+      "totalPts": 1167070,
+      "date": "2026-10-23"
     },
     "michael jackson-billie jean": {
       "rank": 115,
       "pts": 338,
-      "days": 1639,
+      "days": 1640,
       "peak": 4,
       "peakCount": 112,
-      "totalPts": 776773,
-      "date": "2026-10-22"
+      "totalPts": 777111,
+      "date": "2026-10-23"
     },
     "shakira-dai dai (w/ burna boy )": {
       "rank": 116,
       "pts": 253,
-      "days": 1290,
+      "days": 1291,
       "peak": 2,
       "peakCount": 239,
-      "totalPts": 507821,
-      "date": "2026-10-22"
+      "totalPts": 508074,
+      "date": "2026-10-23"
     },
     "zach bryan-you'll get by": {
       "rank": 117,
       "pts": 170,
-      "days": 29,
+      "days": 30,
       "peak": 22,
       "peakCount": 8,
-      "totalPts": 7211,
-      "date": "2026-10-22"
+      "totalPts": 7381,
+      "date": "2026-10-23"
     },
     "riley green-worst way": {
       "rank": 118,
       "pts": 430,
-      "days": 176,
+      "days": 177,
       "peak": 85,
       "peakCount": 32,
-      "totalPts": 76713,
-      "date": "2026-10-22"
+      "totalPts": 77143,
+      "date": "2026-10-23"
     },
     "the police-every breath you take": {
       "rank": 119,
       "pts": 467,
-      "days": 1639,
+      "days": 1640,
       "peak": 58,
       "peakCount": 103,
-      "totalPts": 742907,
-      "date": "2026-10-22"
+      "totalPts": 743374,
+      "date": "2026-10-23"
     },
     "sombr-12 to 12": {
       "rank": 120,
       "pts": 373,
-      "days": 1639,
+      "days": 1640,
       "peak": 61,
       "peakCount": 107,
-      "totalPts": 669154,
-      "date": "2026-10-22"
+      "totalPts": 669527,
+      "date": "2026-10-23"
     },
     "olivia rodrigo-honeybee": {
       "rank": 121,
       "pts": 210,
-      "days": 83,
+      "days": 84,
       "peak": 99,
       "peakCount": 22,
-      "totalPts": 15791,
-      "date": "2026-10-22"
+      "totalPts": 16001,
+      "date": "2026-10-23"
     },
     "zach bryan-dog days": {
       "rank": 122,
       "pts": 160,
-      "days": 29,
+      "days": 30,
       "peak": 12,
       "peakCount": 8,
-      "totalPts": 7461,
-      "date": "2026-10-22"
+      "totalPts": 7621,
+      "date": "2026-10-23"
     },
     "olivia rodrigo-maggots for brains": {
       "rank": 123,
       "pts": 192,
-      "days": 10,
+      "days": 11,
       "peak": 123,
-      "peakCount": 10,
-      "totalPts": 1227,
-      "date": "2026-10-22"
+      "peakCount": 11,
+      "totalPts": 1419,
+      "date": "2026-10-23"
     },
     "steve lacy-nothing": {
       "rank": 124,
       "pts": 159,
-      "days": 55,
+      "days": 56,
       "peak": 84,
       "peakCount": 15,
-      "totalPts": 9095,
-      "date": "2026-10-22"
+      "totalPts": 9254,
+      "date": "2026-10-23"
     },
     "bruno mars-that's what i like": {
       "rank": 125,
       "pts": 434,
-      "days": 63,
+      "days": 64,
       "peak": 73,
       "peakCount": 43,
-      "totalPts": 27314,
-      "date": "2026-10-22"
+      "totalPts": 27748,
+      "date": "2026-10-23"
     },
     "huntr/x-golden (w/ ejae , audrey nuna , rei ami , kpop demon hunters cast )": {
       "rank": 126,
       "pts": 614,
-      "days": 1639,
+      "days": 1640,
       "peak": 19,
       "peakCount": 67,
-      "totalPts": 1189461,
-      "date": "2026-10-22"
+      "totalPts": 1190075,
+      "date": "2026-10-23"
     },
     "raye-where is my husband!": {
       "rank": 127,
       "pts": 373,
-      "days": 1639,
+      "days": 1640,
       "peak": 27,
       "peakCount": 107,
-      "totalPts": 768719,
-      "date": "2026-10-22"
+      "totalPts": 769092,
+      "date": "2026-10-23"
     },
     "nirvana-smells like teen spirit - remastered": {
       "rank": 128,
       "pts": 381,
-      "days": 1639,
+      "days": 1640,
       "peak": 86,
       "peakCount": 65,
-      "totalPts": 577303,
-      "date": "2026-10-22"
+      "totalPts": 577684,
+      "date": "2026-10-23"
     },
     "katy perry-the one that got away": {
       "rank": 129,
       "pts": 226,
-      "days": 1639,
+      "days": 1640,
       "peak": 35,
       "peakCount": 103,
-      "totalPts": 520611,
-      "date": "2026-10-22"
+      "totalPts": 520837,
+      "date": "2026-10-23"
     },
     "nickelback-burn it to the ground": {
       "rank": 130,
       "pts": 166,
-      "days": 1,
+      "days": 2,
       "peak": 130,
-      "peakCount": 1,
-      "totalPts": 166,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "totalPts": 332,
+      "date": "2026-10-23"
     },
     "zara larsson-midnight sun": {
       "rank": 131,
       "pts": 244,
-      "days": 1639,
+      "days": 1640,
       "peak": 30,
       "peakCount": 149,
-      "totalPts": 549945,
-      "date": "2026-10-22"
+      "totalPts": 550189,
+      "date": "2026-10-23"
     },
     "morgan wallen-i got better": {
       "rank": 132,
       "pts": 397,
-      "days": 1639,
+      "days": 1640,
       "peak": 43,
       "peakCount": 101,
-      "totalPts": 816366,
-      "date": "2026-10-22"
+      "totalPts": 816763,
+      "date": "2026-10-23"
     },
     "rihanna-don't stop the music": {
       "rank": 133,
       "pts": 304,
-      "days": 1639,
+      "days": 1640,
       "peak": 44,
       "peakCount": 157,
-      "totalPts": 586288,
-      "date": "2026-10-22"
+      "totalPts": 586592,
+      "date": "2026-10-23"
     },
     "linkin park-in the end": {
       "rank": 134,
       "pts": 339,
-      "days": 1639,
+      "days": 1640,
       "peak": 65,
       "peakCount": 182,
-      "totalPts": 582803,
-      "date": "2026-10-22"
+      "totalPts": 583142,
+      "date": "2026-10-23"
     },
     "don toliver-e85": {
       "rank": 135,
       "pts": 273,
-      "days": 1639,
+      "days": 1640,
       "peak": 22,
       "peakCount": 28,
-      "totalPts": 613127,
-      "date": "2026-10-22"
+      "totalPts": 613400,
+      "date": "2026-10-23"
     },
     "the cranberries-linger - remastered 2026": {
       "rank": 136,
       "pts": 145,
-      "days": 192,
+      "days": 193,
       "peak": 115,
       "peakCount": 21,
-      "totalPts": 22438,
-      "date": "2026-10-22"
+      "totalPts": 22583,
+      "date": "2026-10-23"
     },
     "hozier-too sweet": {
       "rank": 137,
       "pts": 775,
-      "days": 1639,
+      "days": 1640,
       "peak": 52,
       "peakCount": 112,
-      "totalPts": 1434252,
-      "date": "2026-10-22"
+      "totalPts": 1435027,
+      "date": "2026-10-23"
     },
     "lord huron-the night we met": {
       "rank": 138,
       "pts": 574,
-      "days": 231,
+      "days": 232,
       "peak": 80,
       "peakCount": 61,
-      "totalPts": 140966,
-      "date": "2026-10-22"
+      "totalPts": 141540,
+      "date": "2026-10-23"
     },
     "zara larsson-lush life": {
       "rank": 139,
       "pts": 381,
-      "days": 1639,
+      "days": 1640,
       "peak": 13,
       "peakCount": 67,
-      "totalPts": 896198,
-      "date": "2026-10-22"
+      "totalPts": 896579,
+      "date": "2026-10-23"
     },
     "post malone-i had some help (feat. morgan wallen) (w/ morgan wallen )": {
       "rank": 140,
       "pts": 959,
-      "days": 1639,
+      "days": 1640,
       "peak": 20,
       "peakCount": 95,
-      "totalPts": 1853898,
-      "date": "2026-10-22"
+      "totalPts": 1854857,
+      "date": "2026-10-23"
     },
     "linkin park-numb": {
       "rank": 141,
       "pts": 367,
-      "days": 1093,
+      "days": 1094,
       "peak": 86,
       "peakCount": 189,
-      "totalPts": 411282,
-      "date": "2026-10-22"
+      "totalPts": 411649,
+      "date": "2026-10-23"
     },
     "natasha bedingfield-unwritten": {
       "rank": 142,
       "pts": 347,
-      "days": 1639,
+      "days": 1640,
       "peak": 38,
       "peakCount": 119,
-      "totalPts": 625666,
-      "date": "2026-10-22"
+      "totalPts": 626013,
+      "date": "2026-10-23"
     },
     "rihanna-we found love (w/ calvin harris )": {
       "rank": 143,
       "pts": 288,
-      "days": 46,
+      "days": 47,
       "peak": 105,
       "peakCount": 22,
-      "totalPts": 13925,
-      "date": "2026-10-22"
+      "totalPts": 14213,
+      "date": "2026-10-23"
     },
     "calvin harris-outside (w/ ellie goulding )": {
       "rank": 144,
       "pts": 141,
-      "days": 46,
+      "days": 47,
       "peak": 81,
       "peakCount": 27,
-      "totalPts": 6170,
-      "date": "2026-10-22"
+      "totalPts": 6311,
+      "date": "2026-10-23"
     },
     "katseye-animal": {
       "rank": 145,
       "pts": 149,
-      "days": 832,
+      "days": 833,
       "peak": 7,
       "peakCount": 14,
-      "totalPts": 260361,
-      "date": "2026-10-22"
+      "totalPts": 260510,
+      "date": "2026-10-23"
     },
     "faouzia-unethical": {
       "rank": 146,
       "pts": 113,
-      "days": 10,
+      "days": 11,
       "peak": 106,
       "peakCount": 5,
-      "totalPts": 1593,
-      "date": "2026-10-22"
+      "totalPts": 1706,
+      "date": "2026-10-23"
     },
     "metallica-enter sandman - remastered 2021": {
       "rank": 147,
       "pts": 257,
-      "days": 231,
+      "days": 232,
       "peak": 127,
       "peakCount": 58,
-      "totalPts": 55383,
-      "date": "2026-10-22"
+      "totalPts": 55640,
+      "date": "2026-10-23"
     },
     "gener8ion-storm ii (w/ yung lean )": {
       "rank": 148,
       "pts": 113,
-      "days": 10,
+      "days": 11,
       "peak": 148,
-      "peakCount": 10,
-      "totalPts": 971,
-      "date": "2026-10-22"
+      "peakCount": 11,
+      "totalPts": 1084,
+      "date": "2026-10-23"
     },
     "sixpence none the richer-kiss me": {
       "rank": 149,
       "pts": 121,
-      "days": 271,
+      "days": 272,
       "peak": 81,
       "peakCount": 14,
-      "totalPts": 41039,
-      "date": "2026-10-22"
+      "totalPts": 41160,
+      "date": "2026-10-23"
     },
     "justin bieber-daisies": {
       "rank": 150,
       "pts": 417,
-      "days": 1639,
+      "days": 1640,
       "peak": 5,
       "peakCount": 55,
-      "totalPts": 988215,
-      "date": "2026-10-22"
+      "totalPts": 988632,
+      "date": "2026-10-23"
     },
     "the outfield-your love": {
       "rank": 151,
       "pts": 186,
-      "days": 1077,
+      "days": 1078,
       "peak": 49,
       "peakCount": 105,
-      "totalPts": 311105,
-      "date": "2026-10-22"
+      "totalPts": 311291,
+      "date": "2026-10-23"
     },
     "robyn-dancing on my own": {
       "rank": 152,
       "pts": 99,
-      "days": 1,
+      "days": 2,
       "peak": 152,
-      "peakCount": 1,
-      "totalPts": 99,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "totalPts": 198,
+      "date": "2026-10-23"
     },
     "staind-it's been awhile": {
       "rank": 153,
       "pts": 110,
-      "days": 188,
+      "days": 189,
       "peak": 87,
       "peakCount": 49,
-      "totalPts": 25581,
-      "date": "2026-10-22"
+      "totalPts": 25691,
+      "date": "2026-10-23"
     },
     "buffalo traffic jam-fool's gold": {
       "rank": 154,
       "pts": 103,
-      "days": 83,
+      "days": 84,
       "peak": 73,
       "peakCount": 37,
-      "totalPts": 10146,
-      "date": "2026-10-22"
+      "totalPts": 10249,
+      "date": "2026-10-23"
     },
     "harry styles-coming up roses": {
       "rank": 155,
       "pts": 105,
-      "days": 17,
+      "days": 18,
       "peak": 155,
-      "peakCount": 13,
-      "totalPts": 1045,
-      "date": "2026-10-22"
+      "peakCount": 14,
+      "totalPts": 1150,
+      "date": "2026-10-23"
     },
     "zach bryan-is the blue tangled in you?": {
       "rank": 156,
       "pts": 92,
-      "days": 29,
+      "days": 30,
       "peak": 30,
       "peakCount": 8,
-      "totalPts": 5385,
-      "date": "2026-10-22"
+      "totalPts": 5477,
+      "date": "2026-10-23"
     },
     "sombr-undressed": {
       "rank": 157,
       "pts": 366,
-      "days": 17,
+      "days": 18,
       "peak": 136,
       "peakCount": 16,
-      "totalPts": 6629,
-      "date": "2026-10-22"
+      "totalPts": 6995,
+      "date": "2026-10-23"
     },
     "coldplay-viva la vida": {
       "rank": 158,
       "pts": 523,
-      "days": 1315,
+      "days": 1316,
       "peak": 68,
       "peakCount": 71,
-      "totalPts": 833351,
-      "date": "2026-10-22"
+      "totalPts": 833874,
+      "date": "2026-10-23"
     },
     "hozier-take me to church": {
       "rank": 159,
       "pts": 626,
-      "days": 153,
+      "days": 154,
       "peak": 88,
       "peakCount": 48,
-      "totalPts": 100763,
-      "date": "2026-10-22"
+      "totalPts": 101389,
+      "date": "2026-10-23"
     },
     "dua lipa-training season": {
       "rank": 160,
       "pts": 149,
-      "days": 297,
+      "days": 298,
       "peak": 43,
       "peakCount": 41,
-      "totalPts": 88133,
-      "date": "2026-10-22"
+      "totalPts": 88282,
+      "date": "2026-10-23"
     },
     "post malone-circles": {
       "rank": 161,
       "pts": 705,
-      "days": 17,
+      "days": 18,
       "peak": 132,
       "peakCount": 16,
-      "totalPts": 12493,
-      "date": "2026-10-22"
+      "totalPts": 13198,
+      "date": "2026-10-23"
     },
     "creed-one last breath": {
       "rank": 162,
       "pts": 188,
-      "days": 1,
+      "days": 2,
       "peak": 162,
-      "peakCount": 1,
-      "totalPts": 188,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "totalPts": 376,
+      "date": "2026-10-23"
     },
     "three days grace-animal i have become": {
       "rank": 163,
       "pts": 162,
-      "days": 1,
+      "days": 2,
       "peak": 163,
-      "peakCount": 1,
-      "totalPts": 162,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "totalPts": 324,
+      "date": "2026-10-23"
     },
     "olivia rodrigo-cigarette smoke": {
       "rank": 164,
       "pts": 84,
-      "days": 1,
+      "days": 2,
       "peak": 164,
-      "peakCount": 1,
-      "totalPts": 84,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "totalPts": 168,
+      "date": "2026-10-23"
     },
     "nelly furtado-promiscuous (w/ timbaland )": {
       "rank": 165,
       "pts": 266,
-      "days": 297,
+      "days": 298,
       "peak": 86,
       "peakCount": 50,
-      "totalPts": 98200,
-      "date": "2026-10-22"
+      "totalPts": 98466,
+      "date": "2026-10-23"
     },
     "bigxthaplug-hell at night (w/ ella langley )": {
       "rank": 166,
       "pts": 196,
-      "days": 1639,
+      "days": 1640,
       "peak": 43,
       "peakCount": 157,
-      "totalPts": 472910,
-      "date": "2026-10-22"
+      "totalPts": 473106,
+      "date": "2026-10-23"
     },
     "kanye west-flashing lights (w/ dwele )": {
       "rank": 167,
       "pts": 238,
-      "days": 17,
+      "days": 18,
       "peak": 167,
-      "peakCount": 13,
-      "totalPts": 3356,
-      "date": "2026-10-22"
+      "peakCount": 14,
+      "totalPts": 3594,
+      "date": "2026-10-23"
     },
     "arctic monkeys-do i wanna know?": {
       "rank": 168,
       "pts": 90,
-      "days": 1,
+      "days": 2,
       "peak": 168,
-      "peakCount": 1,
-      "totalPts": 90,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "totalPts": 180,
+      "date": "2026-10-23"
     },
     "tory lanez-the color violet": {
       "rank": 169,
       "pts": 593,
-      "days": 282,
+      "days": 283,
       "peak": 100,
       "peakCount": 57,
-      "totalPts": 181838,
-      "date": "2026-10-22"
+      "totalPts": 182431,
+      "date": "2026-10-23"
     },
     "miguel-damned": {
       "rank": 170,
       "pts": 68,
-      "days": 1,
+      "days": 2,
       "peak": 170,
-      "peakCount": 1,
-      "totalPts": 68,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "totalPts": 136,
+      "date": "2026-10-23"
     },
     "dj goja-mi chico - official - jason derulo x melody (w/ jason derulo , melody )": {
       "rank": 171,
       "pts": 65,
-      "days": 71,
+      "days": 72,
       "peak": 108,
       "peakCount": 14,
-      "totalPts": 7366,
-      "date": "2026-10-22"
+      "totalPts": 7431,
+      "date": "2026-10-23"
     },
     "ac/dc-thunderstruck": {
       "rank": 172,
       "pts": 329,
-      "days": 1,
+      "days": 2,
       "peak": 172,
-      "peakCount": 1,
-      "totalPts": 329,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "totalPts": 658,
+      "date": "2026-10-23"
     },
     "drake-passionfruit": {
       "rank": 173,
       "pts": 450,
-      "days": 17,
+      "days": 18,
       "peak": 151,
       "peakCount": 16,
-      "totalPts": 8178,
-      "date": "2026-10-22"
+      "totalPts": 8628,
+      "date": "2026-10-23"
     },
     "cigarettes after sex-apocalypse": {
       "rank": 174,
       "pts": 322,
-      "days": 10,
+      "days": 11,
       "peak": 162,
       "peakCount": 5,
-      "totalPts": 3340,
-      "date": "2026-10-22"
+      "totalPts": 3662,
+      "date": "2026-10-23"
     },
     "j. cole-no role modelz": {
       "rank": 175,
       "pts": 820,
-      "days": 5,
+      "days": 6,
       "peak": 175,
-      "peakCount": 5,
-      "totalPts": 4004,
-      "date": "2026-10-22"
+      "peakCount": 6,
+      "totalPts": 4824,
+      "date": "2026-10-23"
     },
     "tate mcrae-greedy": {
       "rank": 176,
       "pts": 600,
-      "days": 5,
+      "days": 6,
       "peak": 176,
-      "peakCount": 5,
-      "totalPts": 2856,
-      "date": "2026-10-22"
+      "peakCount": 6,
+      "totalPts": 3456,
+      "date": "2026-10-23"
     },
     "french montana-unforgettable (w/ swae lee )": {
       "rank": 177,
       "pts": 602,
-      "days": 1639,
+      "days": 1640,
       "peak": 87,
       "peakCount": 92,
-      "totalPts": 1111977,
-      "date": "2026-10-22"
+      "totalPts": 1112579,
+      "date": "2026-10-23"
     },
     "calvin harris-feel so close": {
       "rank": 178,
       "pts": 69,
-      "days": 5,
+      "days": 6,
       "peak": 141,
       "peakCount": 4,
-      "totalPts": 637,
-      "date": "2026-10-22"
+      "totalPts": 706,
+      "date": "2026-10-23"
     },
     "prince-purple rain": {
       "rank": 179,
       "pts": 84,
-      "days": 286,
+      "days": 287,
       "peak": 102,
       "peakCount": 43,
-      "totalPts": 42853,
-      "date": "2026-10-22"
+      "totalPts": 42937,
+      "date": "2026-10-23"
     },
     "bruno mars-when i was your man": {
       "rank": 180,
       "pts": 110,
-      "days": 5,
+      "days": 6,
       "peak": 180,
-      "peakCount": 5,
-      "totalPts": 402,
-      "date": "2026-10-22"
+      "peakCount": 6,
+      "totalPts": 512,
+      "date": "2026-10-23"
     },
     "luke combs-fast car": {
       "rank": 181,
       "pts": 671,
-      "days": 35,
+      "days": 36,
       "peak": 132,
       "peakCount": 25,
-      "totalPts": 24215,
-      "date": "2026-10-22"
+      "totalPts": 24886,
+      "date": "2026-10-23"
     },
     "treaty oak revival-missed call": {
       "rank": 182,
       "pts": 69,
-      "days": 83,
+      "days": 84,
       "peak": 146,
       "peakCount": 30,
-      "totalPts": 8180,
-      "date": "2026-10-22"
+      "totalPts": 8249,
+      "date": "2026-10-23"
     },
     "billie eilish-birds of a feather": {
       "rank": 183,
       "pts": 751,
-      "days": 481,
+      "days": 482,
       "peak": 112,
       "peakCount": 90,
-      "totalPts": 375330,
-      "date": "2026-10-22"
+      "totalPts": 376081,
+      "date": "2026-10-23"
     },
     "bon jovi-livin' on a prayer": {
       "rank": 184,
       "pts": 58,
-      "days": 1,
+      "days": 2,
       "peak": 184,
-      "peakCount": 1,
-      "totalPts": 58,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "totalPts": 116,
+      "date": "2026-10-23"
     },
     "morgan wallen-last night": {
       "rank": 185,
       "pts": 1032,
-      "days": 1639,
+      "days": 1640,
       "peak": 48,
       "peakCount": 128,
-      "totalPts": 2023709,
-      "date": "2026-10-22"
+      "totalPts": 2024741,
+      "date": "2026-10-23"
     },
     "gracie abrams-thatâs so true": {
       "rank": 186,
       "pts": 474,
-      "days": 99,
+      "days": 100,
       "peak": 113,
       "peakCount": 11,
-      "totalPts": 55152,
-      "date": "2026-10-22"
+      "totalPts": 55626,
+      "date": "2026-10-23"
     },
     "tove lo-habits (stay high)": {
       "rank": 187,
       "pts": 34,
-      "days": 1,
+      "days": 2,
       "peak": 187,
-      "peakCount": 1,
-      "totalPts": 34,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "totalPts": 68,
+      "date": "2026-10-23"
     },
     "bã´a-duvet": {
       "rank": 188,
       "pts": 34,
-      "days": 17,
+      "days": 18,
       "peak": 128,
       "peakCount": 12,
-      "totalPts": 2129,
-      "date": "2026-10-22"
+      "totalPts": 2163,
+      "date": "2026-10-23"
     },
     "dave-raindance (w/ tems )": {
       "rank": 189,
       "pts": 153,
-      "days": 17,
+      "days": 18,
       "peak": 172,
       "peakCount": 12,
-      "totalPts": 3005,
-      "date": "2026-10-22"
+      "totalPts": 3158,
+      "date": "2026-10-23"
     },
     "mark ronson-uptown funk (w/ bruno mars )": {
       "rank": 190,
       "pts": 90,
-      "days": 1,
+      "days": 2,
       "peak": 190,
-      "peakCount": 1,
-      "totalPts": 90,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "totalPts": 180,
+      "date": "2026-10-23"
     },
     "linkin park-faint": {
       "rank": 191,
       "pts": 41,
-      "days": 1,
+      "days": 2,
       "peak": 191,
-      "peakCount": 1,
-      "totalPts": 41,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "totalPts": 82,
+      "date": "2026-10-23"
     },
     "childish gambino-les": {
       "rank": 192,
       "pts": 39,
-      "days": 10,
+      "days": 11,
       "peak": 186,
       "peakCount": 9,
-      "totalPts": 448,
-      "date": "2026-10-22"
+      "totalPts": 487,
+      "date": "2026-10-23"
     },
     "linkin park-somewhere i belong": {
       "rank": 193,
       "pts": 80,
-      "days": 1,
+      "days": 2,
       "peak": 193,
-      "peakCount": 1,
-      "totalPts": 80,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "totalPts": 160,
+      "date": "2026-10-23"
     },
     "michael jackson-thriller": {
       "rank": 194,
       "pts": 43,
-      "days": 1,
+      "days": 2,
       "peak": 194,
-      "peakCount": 1,
-      "totalPts": 43,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "totalPts": 86,
+      "date": "2026-10-23"
     },
     "pitbull-give me everything (w/ ne-yo , afrojack , nayer )": {
       "rank": 195,
       "pts": 264,
-      "days": 1639,
+      "days": 1640,
       "peak": 65,
       "peakCount": 222,
-      "totalPts": 671163,
-      "date": "2026-10-22"
+      "totalPts": 671427,
+      "date": "2026-10-23"
     },
     "olivia rodrigo-deja vu": {
       "rank": 196,
       "pts": 207,
-      "days": 1,
+      "days": 2,
       "peak": 196,
-      "peakCount": 1,
-      "totalPts": 207,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "totalPts": 414,
+      "date": "2026-10-23"
     },
     "kanye west-heartless": {
       "rank": 197,
       "pts": 378,
-      "days": 1,
+      "days": 2,
       "peak": 197,
-      "peakCount": 1,
-      "totalPts": 378,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "totalPts": 756,
+      "date": "2026-10-23"
     },
     "t.a.t.u.-all the things she said": {
       "rank": 198,
       "pts": 19,
-      "days": 1,
+      "days": 2,
       "peak": 198,
-      "peakCount": 1,
-      "totalPts": 19,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "totalPts": 38,
+      "date": "2026-10-23"
     },
     "michael jackson-beat it": {
       "rank": 199,
       "pts": 88,
-      "days": 1639,
+      "days": 1640,
       "peak": 17,
       "peakCount": 138,
-      "totalPts": 537171,
-      "date": "2026-10-22"
+      "totalPts": 537259,
+      "date": "2026-10-23"
     },
     "noah kahan-northern attitude": {
       "rank": 200,
       "pts": 109,
-      "days": 83,
+      "days": 84,
       "peak": 118,
       "peakCount": 23,
-      "totalPts": 14744,
-      "date": "2026-10-22"
+      "totalPts": 14853,
+      "date": "2026-10-23"
     }
   },
   "rows": [
@@ -1813,13 +1813,13 @@
       "streams": 1966330,
       "pts": 412,
       "move": "=",
-      "days": 29,
+      "days": 30,
       "peak": 1,
-      "peakCount": 29,
-      "ptsPlus": 2,
-      "totalPts": 11754,
-      "tpts": 11.754,
-      "date": "2026-10-22"
+      "peakCount": 30,
+      "ptsPlus": 0,
+      "totalPts": 12166,
+      "tpts": 12.166,
+      "date": "2026-10-23"
     },
     {
       "id": "zach bryan-lies (w/ lana del rey )",
@@ -1829,14 +1829,14 @@
       "track": "Lies (w/ Lana Del Rey )",
       "streams": 1161738,
       "pts": 405,
-      "move": "+1",
-      "days": 29,
+      "move": "=",
+      "days": 30,
       "peak": 2,
-      "peakCount": 13,
-      "ptsPlus": 3,
-      "totalPts": 11622,
-      "tpts": 11.622,
-      "date": "2026-10-22"
+      "peakCount": 14,
+      "ptsPlus": 0,
+      "totalPts": 12027,
+      "tpts": 12.027,
+      "date": "2026-10-23"
     },
     {
       "id": "ella langley-choosin' texas",
@@ -1846,14 +1846,14 @@
       "track": "Choosin' Texas",
       "streams": 66033237,
       "pts": 795,
-      "move": "-1",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 1,
       "peakCount": 1250,
-      "ptsPlus": -1,
-      "totalPts": 1115219,
-      "tpts": 1115.219,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1116014,
+      "tpts": 1116.014,
+      "date": "2026-10-23"
     },
     {
       "id": "adãla-nicole kidman",
@@ -1864,13 +1864,13 @@
       "streams": 6548070,
       "pts": 434,
       "move": "=",
-      "days": 251,
+      "days": 252,
       "peak": 1,
       "peakCount": 132,
-      "ptsPlus": 2,
-      "totalPts": 94317,
-      "tpts": 94.317,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 94751,
+      "tpts": 94.751,
+      "date": "2026-10-23"
     },
     {
       "id": "olivia rodrigo-expectations (w/ chappell roan )",
@@ -1881,13 +1881,13 @@
       "streams": 854283,
       "pts": 397,
       "move": "=",
-      "days": 29,
+      "days": 30,
       "peak": 3,
       "peakCount": 8,
-      "ptsPlus": 1,
-      "totalPts": 11445,
-      "tpts": 11.445,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 11842,
+      "tpts": 11.842,
+      "date": "2026-10-23"
     },
     {
       "id": "olivia rodrigo-stupid song",
@@ -1898,13 +1898,13 @@
       "streams": 16645355,
       "pts": 490,
       "move": "=",
-      "days": 1229,
+      "days": 1230,
       "peak": 1,
       "peakCount": 50,
       "ptsPlus": 0,
-      "totalPts": 531872,
-      "tpts": 531.872,
-      "date": "2026-10-22"
+      "totalPts": 532362,
+      "tpts": 532.362,
+      "date": "2026-10-23"
     },
     {
       "id": "ashe-stop the wedding!",
@@ -1914,14 +1914,14 @@
       "track": "Stop The Wedding!",
       "streams": 3372416,
       "pts": 408,
-      "move": "+3",
-      "days": 223,
+      "move": "=",
+      "days": 224,
       "peak": 7,
-      "peakCount": 77,
-      "ptsPlus": 6,
-      "totalPts": 59224,
-      "tpts": 59.224,
-      "date": "2026-10-22"
+      "peakCount": 78,
+      "ptsPlus": 0,
+      "totalPts": 59632,
+      "tpts": 59.632,
+      "date": "2026-10-23"
     },
     {
       "id": "olivia rodrigo-the cure",
@@ -1931,14 +1931,14 @@
       "track": "the cure",
       "streams": 18266085,
       "pts": 496,
-      "move": "-1",
-      "days": 1396,
+      "move": "=",
+      "days": 1397,
       "peak": 3,
       "peakCount": 25,
-      "ptsPlus": -2,
-      "totalPts": 598905,
-      "tpts": 598.905,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 599401,
+      "tpts": 599.401,
+      "date": "2026-10-23"
     },
     {
       "id": "the killers-mr. brightside",
@@ -1948,14 +1948,14 @@
       "track": "Mr. Brightside",
       "streams": 131786871,
       "pts": 1180,
-      "move": "-1",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 5,
       "peakCount": 237,
-      "ptsPlus": -1,
-      "totalPts": 1858678,
-      "tpts": 1858.678,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1859858,
+      "tpts": 1859.858,
+      "date": "2026-10-23"
     },
     {
       "id": "stella lefty-boston",
@@ -1965,14 +1965,14 @@
       "track": "Boston",
       "streams": 22095236,
       "pts": 515,
-      "move": "-1",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 2,
       "peakCount": 520,
-      "ptsPlus": -2,
-      "totalPts": 726686,
-      "tpts": 726.686,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 727201,
+      "tpts": 727.201,
+      "date": "2026-10-23"
     },
     {
       "id": "adãla-ain't in la",
@@ -1983,13 +1983,13 @@
       "streams": 7173511,
       "pts": 423,
       "move": "=",
-      "days": 787,
+      "days": 788,
       "peak": 6,
       "peakCount": 250,
       "ptsPlus": 0,
-      "totalPts": 226585,
-      "tpts": 226.585,
-      "date": "2026-10-22"
+      "totalPts": 227008,
+      "tpts": 227.008,
+      "date": "2026-10-23"
     },
     {
       "id": "zach bryan-lodi when",
@@ -1999,14 +1999,14 @@
       "track": "Lodi When",
       "streams": 682484,
       "pts": 382,
-      "move": "+6",
-      "days": 29,
+      "move": "=",
+      "days": 30,
       "peak": 5,
       "peakCount": 8,
-      "ptsPlus": 13,
-      "totalPts": 11029,
-      "tpts": 11.029,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 11411,
+      "tpts": 11.411,
+      "date": "2026-10-23"
     },
     {
       "id": "taylor swift-patient zero",
@@ -2016,14 +2016,14 @@
       "track": "Patient Zero",
       "streams": 5375436,
       "pts": 408,
-      "move": "+1",
-      "days": 124,
+      "move": "=",
+      "days": 125,
       "peak": 1,
       "peakCount": 32,
-      "ptsPlus": 2,
-      "totalPts": 51457,
-      "tpts": 51.457,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 51865,
+      "tpts": 51.865,
+      "date": "2026-10-23"
     },
     {
       "id": "malcolm todd-earrings",
@@ -2033,14 +2033,14 @@
       "track": "Earrings",
       "streams": 28303553,
       "pts": 545,
-      "move": "-2",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 2,
       "peakCount": 327,
-      "ptsPlus": -3,
-      "totalPts": 802224,
-      "tpts": 802.224,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 802769,
+      "tpts": 802.769,
+      "date": "2026-10-23"
     },
     {
       "id": "whiskey myers-broken window serenade",
@@ -2050,14 +2050,14 @@
       "track": "Broken Window Serenade",
       "streams": 21488862,
       "pts": 502,
-      "move": "+1",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 15,
-      "peakCount": 289,
-      "ptsPlus": 3,
-      "totalPts": 645780,
-      "tpts": 645.78,
-      "date": "2026-10-22"
+      "peakCount": 290,
+      "ptsPlus": 0,
+      "totalPts": 646282,
+      "tpts": 646.282,
+      "date": "2026-10-23"
     },
     {
       "id": "drake-janice stfu",
@@ -2067,14 +2067,14 @@
       "track": "Janice STFU",
       "streams": 32349228,
       "pts": 565,
-      "move": "+1",
-      "days": 1460,
+      "move": "=",
+      "days": 1461,
       "peak": 1,
       "peakCount": 248,
-      "ptsPlus": 2,
-      "totalPts": 762581,
-      "tpts": 762.581,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 763146,
+      "tpts": 763.146,
+      "date": "2026-10-23"
     },
     {
       "id": "the goo goo dolls-iris",
@@ -2084,14 +2084,14 @@
       "track": "Iris",
       "streams": 110403086,
       "pts": 1035,
-      "move": "-2",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 6,
       "peakCount": 136,
-      "ptsPlus": -3,
-      "totalPts": 1624012,
-      "tpts": 1624.012,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1625047,
+      "tpts": 1625.047,
+      "date": "2026-10-23"
     },
     {
       "id": "tame impala-loser",
@@ -2101,14 +2101,14 @@
       "track": "Loser",
       "streams": 8629987,
       "pts": 418,
-      "move": "+5",
-      "days": 735,
+      "move": "=",
+      "days": 736,
       "peak": 2,
       "peakCount": 243,
-      "ptsPlus": 10,
-      "totalPts": 292063,
-      "tpts": 292.063,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 292481,
+      "tpts": 292.481,
+      "date": "2026-10-23"
     },
     {
       "id": "drake-quebec",
@@ -2119,13 +2119,13 @@
       "streams": 2710395,
       "pts": 380,
       "move": "=",
-      "days": 92,
+      "days": 93,
       "peak": 1,
       "peakCount": 9,
       "ptsPlus": 0,
-      "totalPts": 36282,
-      "tpts": 36.282,
-      "date": "2026-10-22"
+      "totalPts": 36662,
+      "tpts": 36.662,
+      "date": "2026-10-23"
     },
     {
       "id": "p!nk-just give me a reason (w/ nate ruess )",
@@ -2136,13 +2136,13 @@
       "streams": 3731262,
       "pts": 385,
       "move": "=",
-      "days": 347,
+      "days": 348,
       "peak": 19,
       "peakCount": 151,
-      "ptsPlus": 1,
-      "totalPts": 71579,
-      "tpts": 71.579,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 71964,
+      "tpts": 71.964,
+      "date": "2026-10-23"
     },
     {
       "id": "olivia dean-man i need",
@@ -2152,14 +2152,14 @@
       "track": "Man I Need",
       "streams": 60272458,
       "pts": 724,
-      "move": "-8",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 7,
       "peakCount": 55,
-      "ptsPlus": -15,
-      "totalPts": 1126115,
-      "tpts": 1126.115,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1126839,
+      "tpts": 1126.839,
+      "date": "2026-10-23"
     },
     {
       "id": "cameron whitcomb-kingdom of fear",
@@ -2170,13 +2170,13 @@
       "streams": 16836691,
       "pts": 460,
       "move": "=",
-      "days": 1639,
+      "days": 1640,
       "peak": 8,
       "peakCount": 440,
-      "ptsPlus": 1,
-      "totalPts": 596421,
-      "tpts": 596.421,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 596881,
+      "tpts": 596.881,
+      "date": "2026-10-23"
     },
     {
       "id": "the neighbourhood-sweater weather",
@@ -2186,14 +2186,14 @@
       "track": "Sweater Weather",
       "streams": 145015426,
       "pts": 1232,
-      "move": "+1",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 17,
       "peakCount": 244,
-      "ptsPlus": 3,
-      "totalPts": 1856152,
-      "tpts": 1856.152,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1857384,
+      "tpts": 1857.384,
+      "date": "2026-10-23"
     },
     {
       "id": "alex warren-ordinary",
@@ -2203,14 +2203,14 @@
       "track": "Ordinary",
       "streams": 100600424,
       "pts": 961,
-      "move": "-3",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 8,
       "peakCount": 127,
-      "ptsPlus": -6,
-      "totalPts": 1531964,
-      "tpts": 1531.964,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1532925,
+      "tpts": 1532.925,
+      "date": "2026-10-23"
     },
     {
       "id": "dominic fike-babydoll",
@@ -2220,14 +2220,14 @@
       "track": "Babydoll",
       "streams": 46431785,
       "pts": 632,
-      "move": "+4",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 2,
       "peakCount": 136,
-      "ptsPlus": 8,
-      "totalPts": 992940,
-      "tpts": 992.94,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 993572,
+      "tpts": 993.572,
+      "date": "2026-10-23"
     },
     {
       "id": "morgan wallen-been by now",
@@ -2237,14 +2237,14 @@
       "track": "Been By Now",
       "streams": 9277482,
       "pts": 406,
-      "move": "+6",
-      "days": 832,
+      "move": "=",
+      "days": 833,
       "peak": 2,
       "peakCount": 64,
-      "ptsPlus": 12,
-      "totalPts": 334590,
-      "tpts": 334.59,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 334996,
+      "tpts": 334.996,
+      "date": "2026-10-23"
     },
     {
       "id": "ella langley-weren't for the wind",
@@ -2254,14 +2254,14 @@
       "track": "weren't for the wind",
       "streams": 42463939,
       "pts": 604,
-      "move": "+1",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 5,
       "peakCount": 167,
-      "ptsPlus": 2,
-      "totalPts": 902434,
-      "tpts": 902.434,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 903038,
+      "tpts": 903.038,
+      "date": "2026-10-23"
     },
     {
       "id": "noah kahan-orbiter",
@@ -2271,14 +2271,14 @@
       "track": "Orbiter",
       "streams": 13189029,
       "pts": 426,
-      "move": "-1",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 20,
       "peakCount": 132,
-      "ptsPlus": -1,
-      "totalPts": 514769,
-      "tpts": 514.769,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 515195,
+      "tpts": 515.195,
+      "date": "2026-10-23"
     },
     {
       "id": "drake-solar eclipse (w/ don toliver )",
@@ -2288,14 +2288,14 @@
       "track": "Solar Eclipse (w/ Don Toliver )",
       "streams": 2468209,
       "pts": 359,
-      "move": "+2",
-      "days": 92,
+      "move": "=",
+      "days": 93,
       "peak": 1,
       "peakCount": 4,
-      "ptsPlus": 5,
-      "totalPts": 35276,
-      "tpts": 35.276,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 35635,
+      "tpts": 35.635,
+      "date": "2026-10-23"
     },
     {
       "id": "ella langley-be her",
@@ -2305,14 +2305,14 @@
       "track": "Be Her",
       "streams": 26760844,
       "pts": 504,
-      "move": "+7",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 4,
       "peakCount": 107,
-      "ptsPlus": 15,
-      "totalPts": 790368,
-      "tpts": 790.368,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 790872,
+      "tpts": 790.872,
+      "date": "2026-10-23"
     },
     {
       "id": "zach bryan-i remember everything (w/ kacey musgraves )",
@@ -2322,14 +2322,14 @@
       "track": "I Remember Everything (w/ Kacey Musgraves )",
       "streams": 139439211,
       "pts": 1182,
-      "move": "+8",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 13,
       "peakCount": 200,
-      "ptsPlus": 16,
-      "totalPts": 1851975,
-      "tpts": 1851.975,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1853157,
+      "tpts": 1853.157,
+      "date": "2026-10-23"
     },
     {
       "id": "temper city-self aware",
@@ -2339,14 +2339,14 @@
       "track": "Self Aware",
       "streams": 19049278,
       "pts": 453,
-      "move": "-2",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 6,
       "peakCount": 297,
-      "ptsPlus": -4,
-      "totalPts": 687505,
-      "tpts": 687.505,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 687958,
+      "tpts": 687.958,
+      "date": "2026-10-23"
     },
     {
       "id": "olivia rodrigo-drop dead",
@@ -2356,14 +2356,14 @@
       "track": "drop dead",
       "streams": 20263159,
       "pts": 458,
-      "move": "+13",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 3,
       "peakCount": 75,
-      "ptsPlus": 26,
-      "totalPts": 684051,
-      "tpts": 684.051,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 684509,
+      "tpts": 684.509,
+      "date": "2026-10-23"
     },
     {
       "id": "sombr-back to friends",
@@ -2373,14 +2373,14 @@
       "track": "back to friends",
       "streams": 71187878,
       "pts": 764,
-      "move": "-9",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 19,
       "peakCount": 78,
-      "ptsPlus": -17,
-      "totalPts": 1193504,
-      "tpts": 1193.504,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1194268,
+      "tpts": 1194.268,
+      "date": "2026-10-23"
     },
     {
       "id": "tlc-no scrubs",
@@ -2390,14 +2390,14 @@
       "track": "No Scrubs",
       "streams": 13820726,
       "pts": 415,
-      "move": "+6",
-      "days": 1077,
+      "move": "=",
+      "days": 1078,
       "peak": 19,
       "peakCount": 224,
-      "ptsPlus": 12,
-      "totalPts": 222818,
-      "tpts": 222.818,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 223233,
+      "tpts": 223.233,
+      "date": "2026-10-23"
     },
     {
       "id": "fleetwood mac-dreams - 2001 remaster",
@@ -2407,14 +2407,14 @@
       "track": "Dreams - 2001 Remaster",
       "streams": 18020858,
       "pts": 439,
-      "move": "-10",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 8,
       "peakCount": 174,
-      "ptsPlus": -19,
-      "totalPts": 667503,
-      "tpts": 667.503,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 667942,
+      "tpts": 667.942,
+      "date": "2026-10-23"
     },
     {
       "id": "zach bryan-something in the orange",
@@ -2424,14 +2424,14 @@
       "track": "Something in the Orange",
       "streams": 149444466,
       "pts": 1230,
-      "move": "-2",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 16,
       "peakCount": 219,
-      "ptsPlus": -4,
-      "totalPts": 1901968,
-      "tpts": 1901.968,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1903198,
+      "tpts": 1903.198,
+      "date": "2026-10-23"
     },
     {
       "id": "bruno mars-risk it all",
@@ -2441,14 +2441,14 @@
       "track": "Risk It All",
       "streams": 20240738,
       "pts": 448,
-      "move": "+14",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 15,
       "peakCount": 63,
-      "ptsPlus": 28,
-      "totalPts": 504562,
-      "tpts": 504.562,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 505010,
+      "tpts": 505.01,
+      "date": "2026-10-23"
     },
     {
       "id": "mac miller-cinderella (w/ ty dolla $ign )",
@@ -2458,14 +2458,14 @@
       "track": "Cinderella (w/ Ty Dolla $ign )",
       "streams": 15734027,
       "pts": 419,
-      "move": "+3",
-      "days": 1584,
+      "move": "=",
+      "days": 1585,
       "peak": 12,
       "peakCount": 160,
-      "ptsPlus": 6,
-      "totalPts": 598254,
-      "tpts": 598.254,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 598673,
+      "tpts": 598.673,
+      "date": "2026-10-23"
     },
     {
       "id": "k/da-firestarter (w/ league of legends , i-dle , mimi webb , sophie powers , miyeon , soyeon )",
@@ -2475,14 +2475,14 @@
       "track": "FIRESTARTER (w/ League of Legends , i-dle , Mimi Webb , Sophie Powers , MIYEON , SOYEON )",
       "streams": 192395,
       "pts": 323,
-      "move": "+7",
-      "days": 10,
+      "move": "=",
+      "days": 11,
       "peak": 40,
-      "peakCount": 10,
-      "ptsPlus": 14,
-      "totalPts": 2109,
-      "tpts": 2.109,
-      "date": "2026-10-22"
+      "peakCount": 11,
+      "ptsPlus": 0,
+      "totalPts": 2432,
+      "tpts": 2.432,
+      "date": "2026-10-23"
     },
     {
       "id": "noah kahan-willing and able",
@@ -2492,14 +2492,14 @@
       "track": "Willing and Able",
       "streams": 13307527,
       "pts": 400,
-      "move": "-8",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 18,
       "peakCount": 35,
-      "ptsPlus": -16,
-      "totalPts": 485168,
-      "tpts": 485.168,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 485568,
+      "tpts": 485.568,
+      "date": "2026-10-23"
     },
     {
       "id": "sienna spiro-great expectation",
@@ -2509,14 +2509,14 @@
       "track": "Great Expectation",
       "streams": 5858444,
       "pts": 353,
-      "move": "+9",
-      "days": 637,
+      "move": "=",
+      "days": 638,
       "peak": 27,
       "peakCount": 194,
-      "ptsPlus": 18,
-      "totalPts": 142261,
-      "tpts": 142.261,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 142614,
+      "tpts": 142.614,
+      "date": "2026-10-23"
     },
     {
       "id": "ariana grande-hate that i made you love me",
@@ -2526,14 +2526,14 @@
       "track": "hate that i made you love me",
       "streams": 18227821,
       "pts": 426,
-      "move": "+17",
-      "days": 1338,
+      "move": "=",
+      "days": 1339,
       "peak": 2,
       "peakCount": 65,
-      "ptsPlus": 34,
-      "totalPts": 591330,
-      "tpts": 591.33,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 591756,
+      "tpts": 591.756,
+      "date": "2026-10-23"
     },
     {
       "id": "zach bryan-robot killed the working man",
@@ -2543,14 +2543,14 @@
       "track": "Robot Killed The Working Man",
       "streams": 482005,
       "pts": 317,
-      "move": "+30",
-      "days": 29,
+      "move": "=",
+      "days": 30,
       "peak": 7,
       "peakCount": 8,
-      "ptsPlus": 60,
-      "totalPts": 9537,
-      "tpts": 9.537,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 9854,
+      "tpts": 9.854,
+      "date": "2026-10-23"
     },
     {
       "id": "sombr-homewrecker",
@@ -2560,14 +2560,14 @@
       "track": "Homewrecker",
       "streams": 22008332,
       "pts": 445,
-      "move": "-9",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 35,
       "peakCount": 80,
-      "ptsPlus": -18,
-      "totalPts": 657894,
-      "tpts": 657.894,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 658339,
+      "tpts": 658.339,
+      "date": "2026-10-23"
     },
     {
       "id": "sombr-my body isn't ready",
@@ -2577,14 +2577,14 @@
       "track": "My Body Isn't Ready",
       "streams": 3985251,
       "pts": 334,
-      "move": "+56",
-      "days": 164,
+      "move": "=",
+      "days": 165,
       "peak": 46,
-      "peakCount": 46,
-      "ptsPlus": 112,
-      "totalPts": 37637,
-      "tpts": 37.637,
-      "date": "2026-10-22"
+      "peakCount": 47,
+      "ptsPlus": 0,
+      "totalPts": 37971,
+      "tpts": 37.971,
+      "date": "2026-10-23"
     },
     {
       "id": "drake-cold shoulder (w/ don toliver , yebba )",
@@ -2594,14 +2594,14 @@
       "track": "Cold Shoulder (w/ Don Toliver , Yebba )",
       "streams": 2067110,
       "pts": 320,
-      "move": "+6",
-      "days": 92,
+      "move": "=",
+      "days": 93,
       "peak": 5,
       "peakCount": 13,
-      "ptsPlus": 12,
-      "totalPts": 33100,
-      "tpts": 33.1,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 33420,
+      "tpts": 33.42,
+      "date": "2026-10-23"
     },
     {
       "id": "tate mcrae-sports car",
@@ -2611,14 +2611,14 @@
       "track": "Sports car",
       "streams": 52291784,
       "pts": 622,
-      "move": "+10",
-      "days": 46,
+      "move": "=",
+      "days": 47,
       "peak": 48,
-      "peakCount": 35,
-      "ptsPlus": 21,
-      "totalPts": 19410,
-      "tpts": 19.41,
-      "date": "2026-10-22"
+      "peakCount": 36,
+      "ptsPlus": 0,
+      "totalPts": 20032,
+      "tpts": 20.032,
+      "date": "2026-10-23"
     },
     {
       "id": "shaboozey-a bar song (tipsy)",
@@ -2628,14 +2628,14 @@
       "track": "A Bar Song (Tipsy)",
       "streams": 160146259,
       "pts": 1271,
-      "move": "+7",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 12,
       "peakCount": 198,
-      "ptsPlus": 14,
-      "totalPts": 2118365,
-      "tpts": 2118.365,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 2119636,
+      "tpts": 2119.636,
+      "date": "2026-10-23"
     },
     {
       "id": "karol g-bby wow (w/ judeline , rusowsky )",
@@ -2645,14 +2645,14 @@
       "track": "BbY WOW (w/ Judeline , rusowsky )",
       "streams": 2236374,
       "pts": 316,
-      "move": "+14",
-      "days": 188,
+      "move": "=",
+      "days": 189,
       "peak": 50,
-      "peakCount": 98,
-      "ptsPlus": 29,
-      "totalPts": 36596,
-      "tpts": 36.596,
-      "date": "2026-10-22"
+      "peakCount": 99,
+      "ptsPlus": 0,
+      "totalPts": 36912,
+      "tpts": 36.912,
+      "date": "2026-10-23"
     },
     {
       "id": "cody johnson-take me back (leave me there)",
@@ -2662,14 +2662,14 @@
       "track": "Take Me Back (Leave Me There)",
       "streams": 4331412,
       "pts": 326,
-      "move": "+45",
-      "days": 550,
+      "move": "=",
+      "days": 551,
       "peak": 36,
       "peakCount": 173,
-      "ptsPlus": 90,
-      "totalPts": 133136,
-      "tpts": 133.136,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 133462,
+      "tpts": 133.462,
+      "date": "2026-10-23"
     },
     {
       "id": "noah kahan-stick season",
@@ -2679,14 +2679,14 @@
       "track": "Stick Season",
       "streams": 136564382,
       "pts": 1122,
-      "move": "-18",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 27,
       "peakCount": 111,
-      "ptsPlus": -36,
-      "totalPts": 1765452,
-      "tpts": 1765.452,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1766574,
+      "tpts": 1766.574,
+      "date": "2026-10-23"
     },
     {
       "id": "ravyn lenae-love me not",
@@ -2696,14 +2696,14 @@
       "track": "Love Me Not",
       "streams": 58173188,
       "pts": 647,
-      "move": "-15",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 21,
       "peakCount": 199,
-      "ptsPlus": -30,
-      "totalPts": 1040116,
-      "tpts": 1040.116,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1040763,
+      "tpts": 1040.763,
+      "date": "2026-10-23"
     },
     {
       "id": "olivia rodrigo-expectations",
@@ -2713,14 +2713,14 @@
       "track": "expectations",
       "streams": 4846022,
       "pts": 323,
-      "move": "+41",
-      "days": 51,
+      "move": "=",
+      "days": 52,
       "peak": 25,
       "peakCount": 25,
-      "ptsPlus": 82,
-      "totalPts": 11829,
-      "tpts": 11.829,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 12152,
+      "tpts": 12.152,
+      "date": "2026-10-23"
     },
     {
       "id": "comehelpglo-onsra",
@@ -2730,14 +2730,14 @@
       "track": "onsra",
       "streams": 3584963,
       "pts": 314,
-      "move": "+2",
-      "days": 263,
+      "move": "=",
+      "days": 264,
       "peak": 16,
       "peakCount": 87,
-      "ptsPlus": 5,
-      "totalPts": 74765,
-      "tpts": 74.765,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 75079,
+      "tpts": 75.079,
+      "date": "2026-10-23"
     },
     {
       "id": "disco lines-no broke boys (w/ tinashe )",
@@ -2747,14 +2747,14 @@
       "track": "No Broke Boys (w/ Tinashe )",
       "streams": 57052937,
       "pts": 634,
-      "move": "+33",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 18,
       "peakCount": 79,
-      "ptsPlus": 66,
-      "totalPts": 1049468,
-      "tpts": 1049.468,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1050102,
+      "tpts": 1050.102,
+      "date": "2026-10-23"
     },
     {
       "id": "harry styles-sign of the times",
@@ -2764,14 +2764,14 @@
       "track": "Sign of the Times",
       "streams": 21543389,
       "pts": 418,
-      "move": "+4",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 46,
       "peakCount": 107,
-      "ptsPlus": 8,
-      "totalPts": 463267,
-      "tpts": 463.267,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 463685,
+      "tpts": 463.685,
+      "date": "2026-10-23"
     },
     {
       "id": "lady gaga-die with a smile (w/ bruno mars )",
@@ -2781,14 +2781,14 @@
       "track": "Die With A Smile (w/ Bruno Mars )",
       "streams": 102511485,
       "pts": 905,
-      "move": "-14",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 35,
       "peakCount": 76,
-      "ptsPlus": -28,
-      "totalPts": 1275207,
-      "tpts": 1275.207,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1276112,
+      "tpts": 1276.112,
+      "date": "2026-10-23"
     },
     {
       "id": "journey-don't stop believin' (2022 remaster)",
@@ -2798,14 +2798,14 @@
       "track": "Don't Stop Believin' (2022 Remaster)",
       "streams": 70469800,
       "pts": 709,
-      "move": "+3",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 18,
       "peakCount": 147,
-      "ptsPlus": 6,
-      "totalPts": 1100449,
-      "tpts": 1100.449,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1101158,
+      "tpts": 1101.158,
+      "date": "2026-10-23"
     },
     {
       "id": "benson boone-beautiful things",
@@ -2815,14 +2815,14 @@
       "track": "Beautiful Things",
       "streams": 158229348,
       "pts": 1237,
-      "move": "-5",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 21,
       "peakCount": 56,
-      "ptsPlus": -10,
-      "totalPts": 2078176,
-      "tpts": 2078.176,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 2079413,
+      "tpts": 2079.413,
+      "date": "2026-10-23"
     },
     {
       "id": "arctic monkeys-505",
@@ -2832,14 +2832,14 @@
       "track": "505",
       "streams": 67567342,
       "pts": 688,
-      "move": "-16",
-      "days": 954,
+      "move": "=",
+      "days": 955,
       "peak": 38,
       "peakCount": 231,
-      "ptsPlus": -32,
-      "totalPts": 585636,
-      "tpts": 585.636,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 586324,
+      "tpts": 586.324,
+      "date": "2026-10-23"
     },
     {
       "id": "miguel-sure thing",
@@ -2849,14 +2849,14 @@
       "track": "Sure Thing",
       "streams": 43182785,
       "pts": 539,
-      "move": "+14",
-      "days": 282,
+      "move": "=",
+      "days": 283,
       "peak": 44,
       "peakCount": 54,
-      "ptsPlus": 29,
-      "totalPts": 139225,
-      "tpts": 139.225,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 139764,
+      "tpts": 139.764,
+      "date": "2026-10-23"
     },
     {
       "id": "tove lo-talking body",
@@ -2866,14 +2866,14 @@
       "track": "Talking Body",
       "streams": 6614684,
       "pts": 316,
-      "move": "+4",
-      "days": 433,
+      "move": "=",
+      "days": 434,
       "peak": 56,
       "peakCount": 76,
-      "ptsPlus": 8,
-      "totalPts": 85101,
-      "tpts": 85.101,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 85417,
+      "tpts": 85.417,
+      "date": "2026-10-23"
     },
     {
       "id": "steve lacy-oh yeah?",
@@ -2883,14 +2883,14 @@
       "track": "oh yeah?",
       "streams": 6817377,
       "pts": 315,
-      "move": "-24",
-      "days": 713,
+      "move": "=",
+      "days": 714,
       "peak": 6,
       "peakCount": 234,
-      "ptsPlus": -48,
-      "totalPts": 263806,
-      "tpts": 263.806,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 264121,
+      "tpts": 264.121,
+      "date": "2026-10-23"
     },
     {
       "id": "nickelback-how you remind me",
@@ -2900,14 +2900,14 @@
       "track": "How You Remind Me",
       "streams": 54186684,
       "pts": 599,
-      "move": "+15",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 44,
       "peakCount": 204,
-      "ptsPlus": 30,
-      "totalPts": 864372,
-      "tpts": 864.372,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 864971,
+      "tpts": 864.971,
+      "date": "2026-10-23"
     },
     {
       "id": "justin bieber-beauty and a beat (w/ nicki minaj )",
@@ -2917,14 +2917,14 @@
       "track": "Beauty And A Beat (w/ Nicki Minaj )",
       "streams": 22343459,
       "pts": 405,
-      "move": "-17",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 2,
       "peakCount": 109,
-      "ptsPlus": -34,
-      "totalPts": 729864,
-      "tpts": 729.864,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 730269,
+      "tpts": 730.269,
+      "date": "2026-10-23"
     },
     {
       "id": "the cranberries-zombie - 2025 remastered",
@@ -2934,14 +2934,14 @@
       "track": "Zombie - 2025 Remastered",
       "streams": 2450377,
       "pts": 283,
-      "move": "+130",
-      "days": 40,
+      "move": "=",
+      "days": 41,
       "peak": 67,
-      "peakCount": 24,
-      "ptsPlus": 261,
-      "totalPts": 1994,
-      "tpts": 1.994,
-      "date": "2026-10-22"
+      "peakCount": 25,
+      "ptsPlus": 0,
+      "totalPts": 2277,
+      "tpts": 2.277,
+      "date": "2026-10-23"
     },
     {
       "id": "vance joy-riptide",
@@ -2951,14 +2951,14 @@
       "track": "Riptide",
       "streams": 137309439,
       "pts": 1095,
-      "move": "-25",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 18,
       "peakCount": 127,
-      "ptsPlus": -50,
-      "totalPts": 1884067,
-      "tpts": 1884.067,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1885162,
+      "tpts": 1885.162,
+      "date": "2026-10-23"
     },
     {
       "id": "bruno mars-locked out of heaven",
@@ -2968,14 +2968,14 @@
       "track": "Locked out of Heaven",
       "streams": 30545077,
       "pts": 448,
-      "move": "-21",
-      "days": 67,
+      "move": "=",
+      "days": 68,
       "peak": 39,
       "peakCount": 40,
-      "ptsPlus": -42,
-      "totalPts": 24803,
-      "tpts": 24.803,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 25251,
+      "tpts": 25.251,
+      "date": "2026-10-23"
     },
     {
       "id": "radiohead-creep",
@@ -2985,14 +2985,14 @@
       "track": "Creep",
       "streams": 46311402,
       "pts": 542,
-      "move": "+3",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 49,
       "peakCount": 80,
-      "ptsPlus": 7,
-      "totalPts": 768529,
-      "tpts": 768.529,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 769071,
+      "tpts": 769.071,
+      "date": "2026-10-23"
     },
     {
       "id": "zach bryan-plainsman (w/ turnpike troubadours )",
@@ -3002,14 +3002,14 @@
       "track": "Plainsman (w/ Turnpike Troubadours )",
       "streams": 441504,
       "pts": 263,
-      "move": "+35",
-      "days": 29,
+      "move": "=",
+      "days": 30,
       "peak": 14,
       "peakCount": 8,
-      "ptsPlus": 71,
-      "totalPts": 8827,
-      "tpts": 8.827,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 9090,
+      "tpts": 9.09,
+      "date": "2026-10-23"
     },
     {
       "id": "alyssa grace-bloodstream",
@@ -3019,14 +3019,14 @@
       "track": "bloodstream",
       "streams": 6915794,
       "pts": 300,
-      "move": "-1",
-      "days": 968,
+      "move": "=",
+      "days": 969,
       "peak": 38,
       "peakCount": 229,
-      "ptsPlus": -1,
-      "totalPts": 254531,
-      "tpts": 254.531,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 254831,
+      "tpts": 254.831,
+      "date": "2026-10-23"
     },
     {
       "id": "djo-end of beginning",
@@ -3036,14 +3036,14 @@
       "track": "End of Beginning",
       "streams": 85522729,
       "pts": 772,
-      "move": "-8",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 20,
       "peakCount": 117,
-      "ptsPlus": -16,
-      "totalPts": 1331302,
-      "tpts": 1331.302,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1332074,
+      "tpts": 1332.074,
+      "date": "2026-10-23"
     },
     {
       "id": "mazzy star-fade into you",
@@ -3053,14 +3053,14 @@
       "track": "Fade Into You",
       "streams": 9982591,
       "pts": 314,
-      "move": "+5",
-      "days": 297,
+      "move": "=",
+      "days": 298,
       "peak": 65,
       "peakCount": 84,
-      "ptsPlus": 10,
-      "totalPts": 71436,
-      "tpts": 71.436,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 71750,
+      "tpts": 71.75,
+      "date": "2026-10-23"
     },
     {
       "id": "kings of leon-wait for me",
@@ -3070,14 +3070,14 @@
       "track": "Wait for Me",
       "streams": 1428686,
       "pts": 261,
-      "move": "+11",
-      "days": 115,
+      "move": "=",
+      "days": 116,
       "peak": 75,
-      "peakCount": 28,
-      "ptsPlus": 23,
-      "totalPts": 15981,
-      "tpts": 15.981,
-      "date": "2026-10-22"
+      "peakCount": 29,
+      "ptsPlus": 0,
+      "totalPts": 16242,
+      "tpts": 16.242,
+      "date": "2026-10-23"
     },
     {
       "id": "bruno mars-i just might",
@@ -3087,14 +3087,14 @@
       "track": "I Just Might",
       "streams": 27137808,
       "pts": 414,
-      "move": "+6",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 14,
       "peakCount": 110,
-      "ptsPlus": 12,
-      "totalPts": 628618,
-      "tpts": 628.618,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 629032,
+      "tpts": 629.032,
+      "date": "2026-10-23"
     },
     {
       "id": "steve lacy-the feeling",
@@ -3104,14 +3104,14 @@
       "track": "the feeling",
       "streams": 1468406,
       "pts": 257,
-      "move": "+6",
-      "days": 111,
+      "move": "=",
+      "days": 112,
       "peak": 60,
       "peakCount": 23,
-      "ptsPlus": 13,
-      "totalPts": 21119,
-      "tpts": 21.119,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 21376,
+      "tpts": 21.376,
+      "date": "2026-10-23"
     },
     {
       "id": "sam fender-rein me in (w/ olivia dean )",
@@ -3121,14 +3121,14 @@
       "track": "Rein Me In (w/ Olivia Dean )",
       "streams": 14661701,
       "pts": 335,
-      "move": "-28",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 30,
       "peakCount": 132,
-      "ptsPlus": -55,
-      "totalPts": 498905,
-      "tpts": 498.905,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 499240,
+      "tpts": 499.24,
+      "date": "2026-10-23"
     },
     {
       "id": "morgan wallen-last thing you need (from gtavi: the album) (w/ grand theft auto vi )",
@@ -3138,14 +3138,14 @@
       "track": "Last Thing You Need (from GTAVI: The Album) (w/ Grand Theft Auto VI )",
       "streams": 2664582,
       "pts": 260,
-      "move": "+41",
-      "days": 170,
+      "move": "=",
+      "days": 171,
       "peak": 6,
       "peakCount": 13,
-      "ptsPlus": 82,
-      "totalPts": 54058,
-      "tpts": 54.058,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 54318,
+      "tpts": 54.318,
+      "date": "2026-10-23"
     },
     {
       "id": "coldplay-yellow",
@@ -3155,14 +3155,14 @@
       "track": "Yellow",
       "streams": 79702569,
       "pts": 723,
-      "move": "-14",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 43,
       "peakCount": 175,
-      "ptsPlus": -28,
-      "totalPts": 1104170,
-      "tpts": 1104.17,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1104893,
+      "tpts": 1104.893,
+      "date": "2026-10-23"
     },
     {
       "id": "taylor swift-the fate of ophelia",
@@ -3172,14 +3172,14 @@
       "track": "The Fate of Ophelia",
       "streams": 63260057,
       "pts": 622,
-      "move": "-27",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 7,
       "peakCount": 121,
-      "ptsPlus": -54,
-      "totalPts": 1100413,
-      "tpts": 1100.413,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1101035,
+      "tpts": 1101.035,
+      "date": "2026-10-23"
     },
     {
       "id": "girl in red-we fell in love in october",
@@ -3189,14 +3189,14 @@
       "track": "we fell in love in october",
       "streams": 9558026,
       "pts": 296,
-      "move": "+22",
-      "days": 115,
+      "move": "=",
+      "days": 116,
       "peak": 47,
       "peakCount": 33,
-      "ptsPlus": 45,
-      "totalPts": 34708,
-      "tpts": 34.708,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 35004,
+      "tpts": 35.004,
+      "date": "2026-10-23"
     },
     {
       "id": "kings of leon-sex on fire",
@@ -3206,14 +3206,14 @@
       "track": "Sex on Fire",
       "streams": 20731102,
       "pts": 361,
-      "move": "+7",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 57,
       "peakCount": 176,
-      "ptsPlus": 14,
-      "totalPts": 527439,
-      "tpts": 527.439,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 527800,
+      "tpts": 527.8,
+      "date": "2026-10-23"
     },
     {
       "id": "gigi perez-sailor song",
@@ -3223,14 +3223,14 @@
       "track": "Sailor Song",
       "streams": 82292297,
       "pts": 731,
-      "move": "-21",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 44,
       "peakCount": 82,
-      "ptsPlus": -42,
-      "totalPts": 1110353,
-      "tpts": 1110.353,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1111084,
+      "tpts": 1111.084,
+      "date": "2026-10-23"
     },
     {
       "id": "drake-hold on, we're going home (w/ majid jordan )",
@@ -3240,14 +3240,14 @@
       "track": "Hold On, We're Going Home (w/ Majid Jordan )",
       "streams": 1287743,
       "pts": 240,
-      "move": "+69",
-      "days": 17,
+      "move": "=",
+      "days": 18,
       "peak": 85,
-      "peakCount": 17,
-      "ptsPlus": 139,
-      "totalPts": 1730,
-      "tpts": 1.73,
-      "date": "2026-10-22"
+      "peakCount": 18,
+      "ptsPlus": 0,
+      "totalPts": 1970,
+      "tpts": 1.97,
+      "date": "2026-10-23"
     },
     {
       "id": "jamie miller-babydoll",
@@ -3257,14 +3257,14 @@
       "track": "Babydoll",
       "streams": 1171722,
       "pts": 237,
-      "move": "+27",
-      "days": 99,
+      "move": "=",
+      "days": 100,
       "peak": 51,
       "peakCount": 7,
-      "ptsPlus": 54,
-      "totalPts": 21231,
-      "tpts": 21.231,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 21468,
+      "tpts": 21.468,
+      "date": "2026-10-23"
     },
     {
       "id": "three days grace-i hate everything about you",
@@ -3274,14 +3274,14 @@
       "track": "I Hate Everything About You",
       "streams": 14890551,
       "pts": 318,
-      "move": "+83",
-      "days": 10,
+      "move": "=",
+      "days": 11,
       "peak": 87,
-      "peakCount": 10,
-      "ptsPlus": 166,
-      "totalPts": 1581,
-      "tpts": 1.581,
-      "date": "2026-10-22"
+      "peakCount": 11,
+      "ptsPlus": 0,
+      "totalPts": 1899,
+      "tpts": 1.899,
+      "date": "2026-10-23"
     },
     {
       "id": "olivia dean-so easy (to fall in love)",
@@ -3291,14 +3291,14 @@
       "track": "So Easy (To Fall In Love)",
       "streams": 39959001,
       "pts": 467,
-      "move": "-18",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 20,
       "peakCount": 26,
-      "ptsPlus": -36,
-      "totalPts": 851487,
-      "tpts": 851.487,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 851954,
+      "tpts": 851.954,
+      "date": "2026-10-23"
     },
     {
       "id": "zach bryan-backwards",
@@ -3308,14 +3308,14 @@
       "track": "Backwards",
       "streams": 418540,
       "pts": 227,
-      "move": "+35",
-      "days": 29,
+      "move": "=",
+      "days": 30,
       "peak": 16,
       "peakCount": 8,
-      "ptsPlus": 71,
-      "totalPts": 8046,
-      "tpts": 8.046,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 8273,
+      "tpts": 8.273,
+      "date": "2026-10-23"
     },
     {
       "id": "dexter and the moonrocks-freakinâ out",
@@ -3325,14 +3325,14 @@
       "track": "Freakinâ Out",
       "streams": 14125937,
       "pts": 307,
-      "move": "-5",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 19,
       "peakCount": 120,
-      "ptsPlus": -10,
-      "totalPts": 483096,
-      "tpts": 483.096,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 483403,
+      "tpts": 483.403,
+      "date": "2026-10-23"
     },
     {
       "id": "pinkpantheress-stateside + zara larsson (w/ zara larsson )",
@@ -3342,14 +3342,14 @@
       "track": "Stateside + Zara Larsson (w/ Zara Larsson )",
       "streams": 30443476,
       "pts": 404,
-      "move": "+6",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 8,
       "peakCount": 55,
-      "ptsPlus": 12,
-      "totalPts": 730507,
-      "tpts": 730.507,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 730911,
+      "tpts": 730.911,
+      "date": "2026-10-23"
     },
     {
       "id": "zach bryan-pink skies",
@@ -3359,14 +3359,14 @@
       "track": "Pink Skies",
       "streams": 81466375,
       "pts": 710,
-      "move": "-15",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 31,
       "peakCount": 92,
-      "ptsPlus": -30,
-      "totalPts": 1141475,
-      "tpts": 1141.475,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1142185,
+      "tpts": 1142.185,
+      "date": "2026-10-23"
     },
     {
       "id": "jade-angel of my dreams",
@@ -3376,14 +3376,14 @@
       "track": "Angel Of My Dreams",
       "streams": 105832,
       "pts": 217,
-      "move": "+78",
-      "days": 5,
+      "move": "=",
+      "days": 6,
       "peak": 93,
-      "peakCount": 5,
-      "ptsPlus": 157,
-      "totalPts": 457,
-      "tpts": 0.457,
-      "date": "2026-10-22"
+      "peakCount": 6,
+      "ptsPlus": 0,
+      "totalPts": 674,
+      "tpts": 0.674,
+      "date": "2026-10-23"
     },
     {
       "id": "fleetwood mac-landslide",
@@ -3393,14 +3393,14 @@
       "track": "Landslide",
       "streams": 25335126,
       "pts": 367,
-      "move": "+33",
-      "days": 818,
+      "move": "=",
+      "days": 819,
       "peak": 63,
       "peakCount": 141,
-      "ptsPlus": 66,
-      "totalPts": 244186,
-      "tpts": 244.186,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 244553,
+      "tpts": 244.553,
+      "date": "2026-10-23"
     },
     {
       "id": "noah kahan-draw you out (w/ the hunger games )",
@@ -3410,14 +3410,14 @@
       "track": "Draw You Out (w/ The Hunger Games )",
       "streams": 1682848,
       "pts": 222,
-      "move": "+4",
-      "days": 92,
+      "move": "=",
+      "days": 93,
       "peak": 4,
       "peakCount": 4,
-      "ptsPlus": 8,
-      "totalPts": 28507,
-      "tpts": 28.507,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 28729,
+      "tpts": 28.729,
+      "date": "2026-10-23"
     },
     {
       "id": "thekidszn-impulsive",
@@ -3427,14 +3427,14 @@
       "track": "IMPULSIVE",
       "streams": 441784,
       "pts": 213,
-      "move": "+13",
-      "days": 46,
+      "move": "=",
+      "days": 47,
       "peak": 95,
       "peakCount": 22,
-      "ptsPlus": 27,
-      "totalPts": 4384,
-      "tpts": 4.384,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 4597,
+      "tpts": 4.597,
+      "date": "2026-10-23"
     },
     {
       "id": "wheatus-teenage dirtbag",
@@ -3444,14 +3444,14 @@
       "track": "Teenage Dirtbag",
       "streams": 11355421,
       "pts": 277,
-      "move": "+36",
-      "days": 968,
+      "move": "=",
+      "days": 969,
       "peak": 79,
       "peakCount": 130,
-      "ptsPlus": 73,
-      "totalPts": 173696,
-      "tpts": 173.696,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 173973,
+      "tpts": 173.973,
+      "date": "2026-10-23"
     },
     {
       "id": "teddy swims-lose control",
@@ -3461,14 +3461,14 @@
       "track": "Lose Control",
       "streams": 128591279,
       "pts": 982,
-      "move": "-23",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 51,
       "peakCount": 78,
-      "ptsPlus": -46,
-      "totalPts": 1682207,
-      "tpts": 1682.207,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1683189,
+      "tpts": 1683.189,
+      "date": "2026-10-23"
     },
     {
       "id": "drake-one dance (w/ wizkid , kyla )",
@@ -3478,14 +3478,14 @@
       "track": "One Dance (w/ Wizkid , Kyla )",
       "streams": 141348933,
       "pts": 1057,
-      "move": "+1",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 38,
       "peakCount": 134,
-      "ptsPlus": 2,
-      "totalPts": 1830553,
-      "tpts": 1830.553,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1831610,
+      "tpts": 1831.61,
+      "date": "2026-10-23"
     },
     {
       "id": "creedence clearwater revival-have you ever seen the rain",
@@ -3495,14 +3495,14 @@
       "track": "Have You Ever Seen The Rain",
       "streams": 81187823,
       "pts": 692,
-      "move": "+44",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 36,
       "peakCount": 135,
-      "ptsPlus": 88,
-      "totalPts": 1168454,
-      "tpts": 1168.454,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1169146,
+      "tpts": 1169.146,
+      "date": "2026-10-23"
     },
     {
       "id": "drake-headlines",
@@ -3512,14 +3512,14 @@
       "track": "Headlines",
       "streams": 33831263,
       "pts": 404,
-      "move": "+21",
-      "days": 527,
+      "move": "=",
+      "days": 528,
       "peak": 75,
       "peakCount": 186,
-      "ptsPlus": 42,
-      "totalPts": 178918,
-      "tpts": 178.918,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 179322,
+      "tpts": 179.322,
+      "date": "2026-10-23"
     },
     {
       "id": "morgan wallen-what i want (w/ tate mcrae )",
@@ -3529,14 +3529,14 @@
       "track": "What I Want (w/ Tate McRae )",
       "streams": 51504400,
       "pts": 509,
-      "move": "+62",
-      "days": 71,
+      "move": "=",
+      "days": 72,
       "peak": 102,
-      "peakCount": 28,
-      "ptsPlus": 124,
-      "totalPts": 25829,
-      "tpts": 25.829,
-      "date": "2026-10-22"
+      "peakCount": 29,
+      "ptsPlus": 0,
+      "totalPts": 26338,
+      "tpts": 26.338,
+      "date": "2026-10-23"
     },
     {
       "id": "oasis-wonderwall - remastered",
@@ -3546,14 +3546,14 @@
       "track": "Wonderwall - Remastered",
       "streams": 13747911,
       "pts": 279,
-      "move": "+32",
-      "days": 1077,
+      "move": "=",
+      "days": 1078,
       "peak": 11,
       "peakCount": 99,
-      "ptsPlus": 64,
-      "totalPts": 372567,
-      "tpts": 372.567,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 372846,
+      "tpts": 372.846,
+      "date": "2026-10-23"
     },
     {
       "id": "chris stapleton-tennessee whiskey",
@@ -3563,14 +3563,14 @@
       "track": "Tennessee Whiskey",
       "streams": 103894806,
       "pts": 821,
-      "move": "+3",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 39,
       "peakCount": 182,
-      "ptsPlus": 6,
-      "totalPts": 1399579,
-      "tpts": 1399.579,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1400400,
+      "tpts": 1400.4,
+      "date": "2026-10-23"
     },
     {
       "id": "ella langley-i can't love you anymore (w/ morgan wallen )",
@@ -3580,14 +3580,14 @@
       "track": "I Can't Love You Anymore (w/ Morgan Wallen )",
       "streams": 14673724,
       "pts": 281,
-      "move": "-21",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 23,
       "peakCount": 61,
-      "ptsPlus": -41,
-      "totalPts": 599125,
-      "tpts": 599.125,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 599406,
+      "tpts": 599.406,
+      "date": "2026-10-23"
     },
     {
       "id": "evanescence-bring me to life",
@@ -3597,14 +3597,14 @@
       "track": "Bring Me To Life",
       "streams": 9662647,
       "pts": 248,
-      "move": "+20",
-      "days": 275,
+      "move": "=",
+      "days": 276,
       "peak": 106,
-      "peakCount": 62,
-      "ptsPlus": 40,
-      "totalPts": 47931,
-      "tpts": 47.931,
-      "date": "2026-10-22"
+      "peakCount": 63,
+      "ptsPlus": 0,
+      "totalPts": 48179,
+      "tpts": 48.179,
+      "date": "2026-10-23"
     },
     {
       "id": "tate mcrae-just keep watching (from f1â® the movie) (w/ f1 the album )",
@@ -3614,14 +3614,14 @@
       "track": "Just Keep Watching (From F1Â® The Movie) (w/ F1 The Album )",
       "streams": 32745577,
       "pts": 386,
-      "move": "+4",
-      "days": 10,
+      "move": "=",
+      "days": 11,
       "peak": 107,
-      "peakCount": 10,
-      "ptsPlus": 9,
-      "totalPts": 3399,
-      "tpts": 3.399,
-      "date": "2026-10-22"
+      "peakCount": 11,
+      "ptsPlus": 0,
+      "totalPts": 3785,
+      "tpts": 3.785,
+      "date": "2026-10-23"
     },
     {
       "id": "bruno mars-just the way you are",
@@ -3631,14 +3631,14 @@
       "track": "Just the Way You Are",
       "streams": 25916852,
       "pts": 342,
-      "move": "-21",
-      "days": 103,
+      "move": "=",
+      "days": 104,
       "peak": 84,
       "peakCount": 36,
-      "ptsPlus": -42,
-      "totalPts": 28619,
-      "tpts": 28.619,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 28961,
+      "tpts": 28.961,
+      "date": "2026-10-23"
     },
     {
       "id": "3 doors down-kryptonite",
@@ -3648,14 +3648,14 @@
       "track": "Kryptonite",
       "streams": 9641866,
       "pts": 242,
-      "move": "+58",
-      "days": 10,
+      "move": "=",
+      "days": 11,
       "peak": 109,
-      "peakCount": 10,
-      "ptsPlus": 116,
-      "totalPts": 1346,
-      "tpts": 1.346,
-      "date": "2026-10-22"
+      "peakCount": 11,
+      "ptsPlus": 0,
+      "totalPts": 1588,
+      "tpts": 1.588,
+      "date": "2026-10-23"
     },
     {
       "id": "bella kay-iloveitiloveitiloveit",
@@ -3665,14 +3665,14 @@
       "track": "iloveitiloveitiloveit",
       "streams": 23810018,
       "pts": 326,
-      "move": "+2",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 10,
       "peakCount": 64,
-      "ptsPlus": 5,
-      "totalPts": 603910,
-      "tpts": 603.91,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 604236,
+      "tpts": 604.236,
+      "date": "2026-10-23"
     },
     {
       "id": "justice-flower in a hurricane (w/ tame impala , sza , grand theft auto vi , king gizzard & the lizard wizard )",
@@ -3682,14 +3682,14 @@
       "track": "Flower In A Hurricane (w/ Tame Impala , SZA , Grand Theft Auto VI , King Gizzard & The Lizard Wizard )",
       "streams": 384338,
       "pts": 182,
-      "move": "-18",
-      "days": 29,
+      "move": "=",
+      "days": 30,
       "peak": 24,
       "peakCount": 8,
-      "ptsPlus": -36,
-      "totalPts": 7153,
-      "tpts": 7.153,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 7335,
+      "tpts": 7.335,
+      "date": "2026-10-23"
     },
     {
       "id": "f3miii-noble",
@@ -3699,14 +3699,14 @@
       "track": "NOBLE",
       "streams": 12810808,
       "pts": 255,
-      "move": "-40",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 17,
       "peakCount": 163,
-      "ptsPlus": -80,
-      "totalPts": 498762,
-      "tpts": 498.762,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 499017,
+      "tpts": 499.017,
+      "date": "2026-10-23"
     },
     {
       "id": "foo fighters-everlong",
@@ -3716,14 +3716,14 @@
       "track": "Everlong",
       "streams": 30912033,
       "pts": 363,
-      "move": "-10",
-      "days": 968,
+      "move": "=",
+      "days": 969,
       "peak": 61,
       "peakCount": 166,
-      "ptsPlus": -19,
-      "totalPts": 319728,
-      "tpts": 319.728,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 320091,
+      "tpts": 320.091,
+      "date": "2026-10-23"
     },
     {
       "id": "macklemore & ryan lewis-can't hold us (w/ macklemore , ryan lewis , ray dalton )",
@@ -3733,14 +3733,14 @@
       "track": "Can't Hold Us (w/ Macklemore , Ryan Lewis , Ray Dalton )",
       "streams": 84355776,
       "pts": 683,
-      "move": "-6",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 28,
       "peakCount": 143,
-      "ptsPlus": -12,
-      "totalPts": 1166387,
-      "tpts": 1166.387,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1167070,
+      "tpts": 1167.07,
+      "date": "2026-10-23"
     },
     {
       "id": "michael jackson-billie jean",
@@ -3750,14 +3750,14 @@
       "track": "Billie Jean",
       "streams": 27532206,
       "pts": 338,
-      "move": "-37",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 4,
       "peakCount": 112,
-      "ptsPlus": -74,
-      "totalPts": 776773,
-      "tpts": 776.773,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 777111,
+      "tpts": 777.111,
+      "date": "2026-10-23"
     },
     {
       "id": "shakira-dai dai (w/ burna boy )",
@@ -3767,14 +3767,14 @@
       "track": "Dai Dai (w/ Burna Boy )",
       "streams": 13799004,
       "pts": 253,
-      "move": "-2",
-      "days": 1290,
+      "move": "=",
+      "days": 1291,
       "peak": 2,
       "peakCount": 239,
-      "ptsPlus": -4,
-      "totalPts": 507821,
-      "tpts": 507.821,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 508074,
+      "tpts": 508.074,
+      "date": "2026-10-23"
     },
     {
       "id": "zach bryan-you'll get by",
@@ -3784,14 +3784,14 @@
       "track": "You'll Get By",
       "streams": 389316,
       "pts": 170,
-      "move": "+21",
-      "days": 29,
+      "move": "=",
+      "days": 30,
       "peak": 22,
       "peakCount": 8,
-      "ptsPlus": 42,
-      "totalPts": 7211,
-      "tpts": 7.211,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 7381,
+      "tpts": 7.381,
+      "date": "2026-10-23"
     },
     {
       "id": "riley green-worst way",
@@ -3801,14 +3801,14 @@
       "track": "Worst Way",
       "streams": 43693029,
       "pts": 430,
-      "move": "+13",
-      "days": 176,
+      "move": "=",
+      "days": 177,
       "peak": 85,
       "peakCount": 32,
-      "ptsPlus": 26,
-      "totalPts": 76713,
-      "tpts": 76.713,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 77143,
+      "tpts": 77.143,
+      "date": "2026-10-23"
     },
     {
       "id": "the police-every breath you take",
@@ -3818,14 +3818,14 @@
       "track": "Every Breath You Take",
       "streams": 50244771,
       "pts": 467,
-      "move": "+23",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 58,
       "peakCount": 103,
-      "ptsPlus": 46,
-      "totalPts": 742907,
-      "tpts": 742.907,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 743374,
+      "tpts": 743.374,
+      "date": "2026-10-23"
     },
     {
       "id": "sombr-12 to 12",
@@ -3835,14 +3835,14 @@
       "track": "12 to 12",
       "streams": 35017473,
       "pts": 373,
-      "move": "-51",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 61,
       "peakCount": 107,
-      "ptsPlus": -102,
-      "totalPts": 669154,
-      "tpts": 669.154,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 669527,
+      "tpts": 669.527,
+      "date": "2026-10-23"
     },
     {
       "id": "olivia rodrigo-honeybee",
@@ -3852,14 +3852,14 @@
       "track": "honeybee",
       "streams": 8269632,
       "pts": 210,
-      "move": "-2",
-      "days": 83,
+      "move": "=",
+      "days": 84,
       "peak": 99,
       "peakCount": 22,
-      "ptsPlus": -4,
-      "totalPts": 15791,
-      "tpts": 15.791,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 16001,
+      "tpts": 16.001,
+      "date": "2026-10-23"
     },
     {
       "id": "zach bryan-dog days",
@@ -3869,14 +3869,14 @@
       "track": "Dog Days",
       "streams": 409675,
       "pts": 160,
-      "move": "+37",
-      "days": 29,
+      "move": "=",
+      "days": 30,
       "peak": 12,
       "peakCount": 8,
-      "ptsPlus": 74,
-      "totalPts": 7461,
-      "tpts": 7.461,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 7621,
+      "tpts": 7.621,
+      "date": "2026-10-23"
     },
     {
       "id": "olivia rodrigo-maggots for brains",
@@ -3886,14 +3886,14 @@
       "track": "maggots for brains",
       "streams": 5970285,
       "pts": 192,
-      "move": "+26",
-      "days": 10,
+      "move": "=",
+      "days": 11,
       "peak": 123,
-      "peakCount": 10,
-      "ptsPlus": 52,
-      "totalPts": 1227,
-      "tpts": 1.227,
-      "date": "2026-10-22"
+      "peakCount": 11,
+      "ptsPlus": 0,
+      "totalPts": 1419,
+      "tpts": 1.419,
+      "date": "2026-10-23"
     },
     {
       "id": "steve lacy-nothing",
@@ -3903,14 +3903,14 @@
       "track": "nothing",
       "streams": 860548,
       "pts": 159,
-      "move": "-7",
-      "days": 55,
+      "move": "=",
+      "days": 56,
       "peak": 84,
       "peakCount": 15,
-      "ptsPlus": -14,
-      "totalPts": 9095,
-      "tpts": 9.095,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 9254,
+      "tpts": 9.254,
+      "date": "2026-10-23"
     },
     {
       "id": "bruno mars-that's what i like",
@@ -3920,14 +3920,14 @@
       "track": "That's What I Like",
       "streams": 46713535,
       "pts": 434,
-      "move": "-34",
-      "days": 63,
+      "move": "=",
+      "days": 64,
       "peak": 73,
       "peakCount": 43,
-      "ptsPlus": -68,
-      "totalPts": 27314,
-      "tpts": 27.314,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 27748,
+      "tpts": 27.748,
+      "date": "2026-10-23"
     },
     {
       "id": "huntr/x-golden (w/ ejae , audrey nuna , rei ami , kpop demon hunters cast )",
@@ -3937,14 +3937,14 @@
       "track": "Golden (w/ EJae , AUDREY NUNA , REI AMI , KPop Demon Hunters Cast )",
       "streams": 76805166,
       "pts": 614,
-      "move": "+17",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 19,
       "peakCount": 67,
-      "ptsPlus": 34,
-      "totalPts": 1189461,
-      "tpts": 1189.461,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1190075,
+      "tpts": 1190.075,
+      "date": "2026-10-23"
     },
     {
       "id": "raye-where is my husband!",
@@ -3954,14 +3954,14 @@
       "track": "WHERE IS MY HUSBAND!",
       "streams": 37231602,
       "pts": 373,
-      "move": "-6",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 27,
       "peakCount": 107,
-      "ptsPlus": -12,
-      "totalPts": 768719,
-      "tpts": 768.719,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 769092,
+      "tpts": 769.092,
+      "date": "2026-10-23"
     },
     {
       "id": "nirvana-smells like teen spirit - remastered",
@@ -3971,14 +3971,14 @@
       "track": "Smells Like Teen Spirit - Remastered",
       "streams": 38856180,
       "pts": 381,
-      "move": "-12",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 86,
       "peakCount": 65,
-      "ptsPlus": -23,
-      "totalPts": 577303,
-      "tpts": 577.303,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 577684,
+      "tpts": 577.684,
+      "date": "2026-10-23"
     },
     {
       "id": "katy perry-the one that got away",
@@ -3988,14 +3988,14 @@
       "track": "The One That Got Away",
       "streams": 13624485,
       "pts": 226,
-      "move": "-61",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 35,
       "peakCount": 103,
-      "ptsPlus": -122,
-      "totalPts": 520611,
-      "tpts": 520.611,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 520837,
+      "tpts": 520.837,
+      "date": "2026-10-23"
     },
     {
       "id": "nickelback-burn it to the ground",
@@ -4005,14 +4005,14 @@
       "track": "Burn It to the Ground",
       "streams": 3895188,
       "pts": 166,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 130,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 166,
-      "tpts": 0.166,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 332,
+      "tpts": 0.332,
+      "date": "2026-10-23"
     },
     {
       "id": "zara larsson-midnight sun",
@@ -4022,14 +4022,14 @@
       "track": "Midnight Sun",
       "streams": 17217210,
       "pts": 244,
-      "move": "-3",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 30,
       "peakCount": 149,
-      "ptsPlus": -6,
-      "totalPts": 549945,
-      "tpts": 549.945,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 550189,
+      "tpts": 550.189,
+      "date": "2026-10-23"
     },
     {
       "id": "morgan wallen-i got better",
@@ -4039,14 +4039,14 @@
       "track": "I Got Better",
       "streams": 42966196,
       "pts": 397,
-      "move": "-14",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 43,
       "peakCount": 101,
-      "ptsPlus": -28,
-      "totalPts": 816366,
-      "tpts": 816.366,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 816763,
+      "tpts": 816.763,
+      "date": "2026-10-23"
     },
     {
       "id": "rihanna-don't stop the music",
@@ -4056,14 +4056,14 @@
       "track": "Don't Stop The Music",
       "streams": 27889403,
       "pts": 304,
-      "move": "-35",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 44,
       "peakCount": 157,
-      "ptsPlus": -70,
-      "totalPts": 586288,
-      "tpts": 586.288,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 586592,
+      "tpts": 586.592,
+      "date": "2026-10-23"
     },
     {
       "id": "linkin park-in the end",
@@ -4073,14 +4073,14 @@
       "track": "In the End",
       "streams": 34026167,
       "pts": 339,
-      "move": "-33",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 65,
       "peakCount": 182,
-      "ptsPlus": -66,
-      "totalPts": 582803,
-      "tpts": 582.803,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 583142,
+      "tpts": 583.142,
+      "date": "2026-10-23"
     },
     {
       "id": "don toliver-e85",
@@ -4090,14 +4090,14 @@
       "track": "E85",
       "streams": 23352934,
       "pts": 273,
-      "move": "-10",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 22,
       "peakCount": 28,
-      "ptsPlus": -20,
-      "totalPts": 613127,
-      "tpts": 613.127,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 613400,
+      "tpts": 613.4,
+      "date": "2026-10-23"
     },
     {
       "id": "the cranberries-linger - remastered 2026",
@@ -4107,14 +4107,14 @@
       "track": "Linger - Remastered 2026",
       "streams": 2412836,
       "pts": 145,
-      "move": "+14",
-      "days": 192,
+      "move": "=",
+      "days": 193,
       "peak": 115,
       "peakCount": 21,
-      "ptsPlus": 29,
-      "totalPts": 22438,
-      "tpts": 22.438,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 22583,
+      "tpts": 22.583,
+      "date": "2026-10-23"
     },
     {
       "id": "hozier-too sweet",
@@ -4124,14 +4124,14 @@
       "track": "Too Sweet",
       "streams": 107224181,
       "pts": 775,
-      "move": "-78",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 52,
       "peakCount": 112,
-      "ptsPlus": -156,
-      "totalPts": 1434252,
-      "tpts": 1434.252,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1435027,
+      "tpts": 1435.027,
+      "date": "2026-10-23"
     },
     {
       "id": "lord huron-the night we met",
@@ -4141,14 +4141,14 @@
       "track": "The Night We Met",
       "streams": 74223130,
       "pts": 574,
-      "move": "-8",
-      "days": 231,
+      "move": "=",
+      "days": 232,
       "peak": 80,
       "peakCount": 61,
-      "ptsPlus": -16,
-      "totalPts": 140966,
-      "tpts": 140.966,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 141540,
+      "tpts": 141.54,
+      "date": "2026-10-23"
     },
     {
       "id": "zara larsson-lush life",
@@ -4158,14 +4158,14 @@
       "track": "Lush Life",
       "streams": 42531077,
       "pts": 381,
-      "move": "+16",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 13,
       "peakCount": 67,
-      "ptsPlus": 32,
-      "totalPts": 896198,
-      "tpts": 896.198,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 896579,
+      "tpts": 896.579,
+      "date": "2026-10-23"
     },
     {
       "id": "post malone-i had some help (feat. morgan wallen) (w/ morgan wallen )",
@@ -4175,14 +4175,14 @@
       "track": "I Had Some Help (Feat. Morgan Wallen) (w/ Morgan Wallen )",
       "streams": 138702764,
       "pts": 959,
-      "move": "-48",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 20,
       "peakCount": 95,
-      "ptsPlus": -96,
-      "totalPts": 1853898,
-      "tpts": 1853.898,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1854857,
+      "tpts": 1854.857,
+      "date": "2026-10-23"
     },
     {
       "id": "linkin park-numb",
@@ -4192,14 +4192,14 @@
       "track": "Numb",
       "streams": 40945750,
       "pts": 367,
-      "move": "-18",
-      "days": 1093,
+      "move": "=",
+      "days": 1094,
       "peak": 86,
       "peakCount": 189,
-      "ptsPlus": -36,
-      "totalPts": 411282,
-      "tpts": 411.282,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 411649,
+      "tpts": 411.649,
+      "date": "2026-10-23"
     },
     {
       "id": "natasha bedingfield-unwritten",
@@ -4209,14 +4209,14 @@
       "track": "Unwritten",
       "streams": 37926831,
       "pts": 347,
-      "move": "+14",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 38,
       "peakCount": 119,
-      "ptsPlus": 28,
-      "totalPts": 625666,
-      "tpts": 625.666,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 626013,
+      "tpts": 626.013,
+      "date": "2026-10-23"
     },
     {
       "id": "rihanna-we found love (w/ calvin harris )",
@@ -4226,14 +4226,14 @@
       "track": "We Found Love (w/ Calvin Harris )",
       "streams": 28526463,
       "pts": 288,
-      "move": "-38",
-      "days": 46,
+      "move": "=",
+      "days": 47,
       "peak": 105,
       "peakCount": 22,
-      "ptsPlus": -76,
-      "totalPts": 13925,
-      "tpts": 13.925,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 14213,
+      "tpts": 14.213,
+      "date": "2026-10-23"
     },
     {
       "id": "calvin harris-outside (w/ ellie goulding )",
@@ -4243,14 +4243,14 @@
       "track": "Outside (w/ Ellie Goulding )",
       "streams": 4442913,
       "pts": 141,
-      "move": "-63",
-      "days": 46,
+      "move": "=",
+      "days": 47,
       "peak": 81,
       "peakCount": 27,
-      "ptsPlus": -126,
-      "totalPts": 6170,
-      "tpts": 6.17,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 6311,
+      "tpts": 6.311,
+      "date": "2026-10-23"
     },
     {
       "id": "katseye-animal",
@@ -4260,14 +4260,14 @@
       "track": "Animal",
       "streams": 6174978,
       "pts": 149,
-      "move": "+31",
-      "days": 832,
+      "move": "=",
+      "days": 833,
       "peak": 7,
       "peakCount": 14,
-      "ptsPlus": 62,
-      "totalPts": 260361,
-      "tpts": 260.361,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 260510,
+      "tpts": 260.51,
+      "date": "2026-10-23"
     },
     {
       "id": "faouzia-unethical",
@@ -4277,14 +4277,14 @@
       "track": "UNETHICAL",
       "streams": 435719,
       "pts": 113,
-      "move": "-9",
-      "days": 10,
+      "move": "=",
+      "days": 11,
       "peak": 106,
       "peakCount": 5,
-      "ptsPlus": -17,
-      "totalPts": 1593,
-      "tpts": 1.593,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1706,
+      "tpts": 1.706,
+      "date": "2026-10-23"
     },
     {
       "id": "metallica-enter sandman - remastered 2021",
@@ -4294,14 +4294,14 @@
       "track": "Enter Sandman - Remastered 2021",
       "streams": 24661927,
       "pts": 257,
-      "move": "+42",
-      "days": 231,
+      "move": "=",
+      "days": 232,
       "peak": 127,
       "peakCount": 58,
-      "ptsPlus": 84,
-      "totalPts": 55383,
-      "tpts": 55.383,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 55640,
+      "tpts": 55.64,
+      "date": "2026-10-23"
     },
     {
       "id": "gener8ion-storm ii (w/ yung lean )",
@@ -4311,14 +4311,14 @@
       "track": "STORM II (w/ Yung Lean )",
       "streams": 1112590,
       "pts": 113,
-      "move": "+5",
-      "days": 10,
+      "move": "=",
+      "days": 11,
       "peak": 148,
-      "peakCount": 10,
-      "ptsPlus": 11,
-      "totalPts": 971,
-      "tpts": 0.971,
-      "date": "2026-10-22"
+      "peakCount": 11,
+      "ptsPlus": 0,
+      "totalPts": 1084,
+      "tpts": 1.084,
+      "date": "2026-10-23"
     },
     {
       "id": "sixpence none the richer-kiss me",
@@ -4328,14 +4328,14 @@
       "track": "Kiss Me",
       "streams": 2850062,
       "pts": 121,
-      "move": "-3",
-      "days": 271,
+      "move": "=",
+      "days": 272,
       "peak": 81,
       "peakCount": 14,
-      "ptsPlus": -6,
-      "totalPts": 41039,
-      "tpts": 41.039,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 41160,
+      "tpts": 41.16,
+      "date": "2026-10-23"
     },
     {
       "id": "justin bieber-daisies",
@@ -4345,14 +4345,14 @@
       "track": "DAISIES",
       "streams": 52216474,
       "pts": 417,
-      "move": "-40",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 5,
       "peakCount": 55,
-      "ptsPlus": -80,
-      "totalPts": 988215,
-      "tpts": 988.215,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 988632,
+      "tpts": 988.632,
+      "date": "2026-10-23"
     },
     {
       "id": "the outfield-your love",
@@ -4362,14 +4362,14 @@
       "track": "Your Love",
       "streams": 14237800,
       "pts": 186,
-      "move": "+31",
-      "days": 1077,
+      "move": "=",
+      "days": 1078,
       "peak": 49,
       "peakCount": 105,
-      "ptsPlus": 62,
-      "totalPts": 311105,
-      "tpts": 311.105,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 311291,
+      "tpts": 311.291,
+      "date": "2026-10-23"
     },
     {
       "id": "robyn-dancing on my own",
@@ -4379,14 +4379,14 @@
       "track": "Dancing On My Own",
       "streams": 89210,
       "pts": 99,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 152,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 99,
-      "tpts": 0.099,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 198,
+      "tpts": 0.198,
+      "date": "2026-10-23"
     },
     {
       "id": "staind-it's been awhile",
@@ -4396,14 +4396,14 @@
       "track": "It's Been Awhile",
       "streams": 2367792,
       "pts": 110,
-      "move": "+4",
-      "days": 188,
+      "move": "=",
+      "days": 189,
       "peak": 87,
       "peakCount": 49,
-      "ptsPlus": 8,
-      "totalPts": 25581,
-      "tpts": 25.581,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 25691,
+      "tpts": 25.691,
+      "date": "2026-10-23"
     },
     {
       "id": "buffalo traffic jam-fool's gold",
@@ -4413,14 +4413,14 @@
       "track": "Fool's Gold",
       "streams": 1481873,
       "pts": 103,
-      "move": "-60",
-      "days": 83,
+      "move": "=",
+      "days": 84,
       "peak": 73,
       "peakCount": 37,
-      "ptsPlus": -120,
-      "totalPts": 10146,
-      "tpts": 10.146,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 10249,
+      "tpts": 10.249,
+      "date": "2026-10-23"
     },
     {
       "id": "harry styles-coming up roses",
@@ -4430,14 +4430,14 @@
       "track": "Coming Up Roses",
       "streams": 2080109,
       "pts": 105,
-      "move": "+8",
-      "days": 17,
+      "move": "=",
+      "days": 18,
       "peak": 155,
-      "peakCount": 13,
-      "ptsPlus": 17,
-      "totalPts": 1045,
-      "tpts": 1.045,
-      "date": "2026-10-22"
+      "peakCount": 14,
+      "ptsPlus": 0,
+      "totalPts": 1150,
+      "tpts": 1.15,
+      "date": "2026-10-23"
     },
     {
       "id": "zach bryan-is the blue tangled in you?",
@@ -4447,14 +4447,14 @@
       "track": "Is The Blue Tangled In You?",
       "streams": 350869,
       "pts": 92,
-      "move": "+36",
-      "days": 29,
+      "move": "=",
+      "days": 30,
       "peak": 30,
       "peakCount": 8,
-      "ptsPlus": 72,
-      "totalPts": 5385,
-      "tpts": 5.385,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 5477,
+      "tpts": 5.477,
+      "date": "2026-10-23"
     },
     {
       "id": "sombr-undressed",
@@ -4464,14 +4464,14 @@
       "track": "undressed",
       "streams": 46041647,
       "pts": 366,
-      "move": "-21",
-      "days": 17,
+      "move": "=",
+      "days": 18,
       "peak": 136,
       "peakCount": 16,
-      "ptsPlus": -42,
-      "totalPts": 6629,
-      "tpts": 6.629,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 6995,
+      "tpts": 6.995,
+      "date": "2026-10-23"
     },
     {
       "id": "coldplay-viva la vida",
@@ -4481,14 +4481,14 @@
       "track": "Viva La Vida",
       "streams": 72433744,
       "pts": 523,
-      "move": "-43",
-      "days": 1315,
+      "move": "=",
+      "days": 1316,
       "peak": 68,
       "peakCount": 71,
-      "ptsPlus": -86,
-      "totalPts": 833351,
-      "tpts": 833.351,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 833874,
+      "tpts": 833.874,
+      "date": "2026-10-23"
     },
     {
       "id": "hozier-take me to church",
@@ -4498,14 +4498,14 @@
       "track": "Take Me To Church",
       "streams": 89788849,
       "pts": 626,
-      "move": "+1",
-      "days": 153,
+      "move": "=",
+      "days": 154,
       "peak": 88,
       "peakCount": 48,
-      "ptsPlus": 2,
-      "totalPts": 100763,
-      "tpts": 100.763,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 101389,
+      "tpts": 101.389,
+      "date": "2026-10-23"
     },
     {
       "id": "dua lipa-training season",
@@ -4515,14 +4515,14 @@
       "track": "Training Season",
       "streams": 11050763,
       "pts": 149,
-      "move": "+23",
-      "days": 297,
+      "move": "=",
+      "days": 298,
       "peak": 43,
       "peakCount": 41,
-      "ptsPlus": 47,
-      "totalPts": 88133,
-      "tpts": 88.133,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 88282,
+      "tpts": 88.282,
+      "date": "2026-10-23"
     },
     {
       "id": "post malone-circles",
@@ -4532,14 +4532,14 @@
       "track": "Circles",
       "streams": 103582934,
       "pts": 705,
-      "move": "-29",
-      "days": 17,
+      "move": "=",
+      "days": 18,
       "peak": 132,
       "peakCount": 16,
-      "ptsPlus": -58,
-      "totalPts": 12493,
-      "tpts": 12.493,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 13198,
+      "tpts": 13.198,
+      "date": "2026-10-23"
     },
     {
       "id": "creed-one last breath",
@@ -4549,14 +4549,14 @@
       "track": "One Last Breath",
       "streams": 18276659,
       "pts": 188,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 162,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 188,
-      "tpts": 0.188,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 376,
+      "tpts": 0.376,
+      "date": "2026-10-23"
     },
     {
       "id": "three days grace-animal i have become",
@@ -4566,14 +4566,14 @@
       "track": "Animal I Have Become",
       "streams": 14323886,
       "pts": 162,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 163,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 162,
-      "tpts": 0.162,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 324,
+      "tpts": 0.324,
+      "date": "2026-10-23"
     },
     {
       "id": "olivia rodrigo-cigarette smoke",
@@ -4583,14 +4583,14 @@
       "track": "cigarette smoke",
       "streams": 1619224,
       "pts": 84,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 164,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 84,
-      "tpts": 0.084,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 168,
+      "tpts": 0.168,
+      "date": "2026-10-23"
     },
     {
       "id": "nelly furtado-promiscuous (w/ timbaland )",
@@ -4600,14 +4600,14 @@
       "track": "Promiscuous (w/ Timbaland )",
       "streams": 32118057,
       "pts": 266,
-      "move": "-77",
-      "days": 297,
+      "move": "=",
+      "days": 298,
       "peak": 86,
       "peakCount": 50,
-      "ptsPlus": -154,
-      "totalPts": 98200,
-      "tpts": 98.2,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 98466,
+      "tpts": 98.466,
+      "date": "2026-10-23"
     },
     {
       "id": "bigxthaplug-hell at night (w/ ella langley )",
@@ -4617,14 +4617,14 @@
       "track": "Hell At Night (w/ Ella Langley )",
       "streams": 20941477,
       "pts": 196,
-      "move": "+6",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 43,
       "peakCount": 157,
-      "ptsPlus": 12,
-      "totalPts": 472910,
-      "tpts": 472.91,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 473106,
+      "tpts": 473.106,
+      "date": "2026-10-23"
     },
     {
       "id": "kanye west-flashing lights (w/ dwele )",
@@ -4634,14 +4634,14 @@
       "track": "Flashing Lights (w/ Dwele )",
       "streams": 28216136,
       "pts": 238,
-      "move": "+21",
-      "days": 17,
+      "move": "=",
+      "days": 18,
       "peak": 167,
-      "peakCount": 13,
-      "ptsPlus": 42,
-      "totalPts": 3356,
-      "tpts": 3.356,
-      "date": "2026-10-22"
+      "peakCount": 14,
+      "ptsPlus": 0,
+      "totalPts": 3594,
+      "tpts": 3.594,
+      "date": "2026-10-23"
     },
     {
       "id": "arctic monkeys-do i wanna know?",
@@ -4651,14 +4651,14 @@
       "track": "Do I Wanna Know?",
       "streams": 3900950,
       "pts": 90,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 168,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 90,
-      "tpts": 0.09,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 180,
+      "tpts": 0.18,
+      "date": "2026-10-23"
     },
     {
       "id": "tory lanez-the color violet",
@@ -4668,14 +4668,14 @@
       "track": "The Color Violet",
       "streams": 87647500,
       "pts": 593,
-      "move": "-35",
-      "days": 282,
+      "move": "=",
+      "days": 283,
       "peak": 100,
       "peakCount": 57,
-      "ptsPlus": -70,
-      "totalPts": 181838,
-      "tpts": 181.838,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 182431,
+      "tpts": 182.431,
+      "date": "2026-10-23"
     },
     {
       "id": "miguel-damned",
@@ -4685,14 +4685,14 @@
       "track": "damned",
       "streams": 959618,
       "pts": 68,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 170,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 68,
-      "tpts": 0.068,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 136,
+      "tpts": 0.136,
+      "date": "2026-10-23"
     },
     {
       "id": "dj goja-mi chico - official - jason derulo x melody (w/ jason derulo , melody )",
@@ -4702,14 +4702,14 @@
       "track": "Mi Chico - Official - Jason Derulo x Melody (w/ Jason Derulo , Melody )",
       "streams": 805038,
       "pts": 65,
-      "move": "-26",
-      "days": 71,
+      "move": "=",
+      "days": 72,
       "peak": 108,
       "peakCount": 14,
-      "ptsPlus": -52,
-      "totalPts": 7366,
-      "tpts": 7.366,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 7431,
+      "tpts": 7.431,
+      "date": "2026-10-23"
     },
     {
       "id": "ac/dc-thunderstruck",
@@ -4719,14 +4719,14 @@
       "track": "Thunderstruck",
       "streams": 44901453,
       "pts": 329,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 172,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 329,
-      "tpts": 0.329,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 658,
+      "tpts": 0.658,
+      "date": "2026-10-23"
     },
     {
       "id": "drake-passionfruit",
@@ -4736,14 +4736,14 @@
       "track": "Passionfruit",
       "streams": 65227163,
       "pts": 450,
-      "move": "-22",
-      "days": 17,
+      "move": "=",
+      "days": 18,
       "peak": 151,
       "peakCount": 16,
-      "ptsPlus": -44,
-      "totalPts": 8178,
-      "tpts": 8.178,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 8628,
+      "tpts": 8.628,
+      "date": "2026-10-23"
     },
     {
       "id": "cigarettes after sex-apocalypse",
@@ -4754,13 +4754,13 @@
       "streams": 44405587,
       "pts": 322,
       "move": "=",
-      "days": 10,
+      "days": 11,
       "peak": 162,
       "peakCount": 5,
       "ptsPlus": 0,
-      "totalPts": 3340,
-      "tpts": 3.34,
-      "date": "2026-10-22"
+      "totalPts": 3662,
+      "tpts": 3.662,
+      "date": "2026-10-23"
     },
     {
       "id": "j. cole-no role modelz",
@@ -4770,14 +4770,14 @@
       "track": "No Role Modelz",
       "streams": 127150688,
       "pts": 820,
-      "move": "+12",
-      "days": 5,
+      "move": "=",
+      "days": 6,
       "peak": 175,
-      "peakCount": 5,
-      "ptsPlus": 24,
-      "totalPts": 4004,
-      "tpts": 4.004,
-      "date": "2026-10-22"
+      "peakCount": 6,
+      "ptsPlus": 0,
+      "totalPts": 4824,
+      "tpts": 4.824,
+      "date": "2026-10-23"
     },
     {
       "id": "tate mcrae-greedy",
@@ -4787,14 +4787,14 @@
       "track": "greedy",
       "streams": 91061284,
       "pts": 600,
-      "move": "+18",
-      "days": 5,
+      "move": "=",
+      "days": 6,
       "peak": 176,
-      "peakCount": 5,
-      "ptsPlus": 36,
-      "totalPts": 2856,
-      "tpts": 2.856,
-      "date": "2026-10-22"
+      "peakCount": 6,
+      "ptsPlus": 0,
+      "totalPts": 3456,
+      "tpts": 3.456,
+      "date": "2026-10-23"
     },
     {
       "id": "french montana-unforgettable (w/ swae lee )",
@@ -4804,14 +4804,14 @@
       "track": "Unforgettable (w/ Swae Lee )",
       "streams": 91709661,
       "pts": 602,
-      "move": "-38",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 87,
       "peakCount": 92,
-      "ptsPlus": -76,
-      "totalPts": 1111977,
-      "tpts": 1111.977,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 1112579,
+      "tpts": 1112.579,
+      "date": "2026-10-23"
     },
     {
       "id": "calvin harris-feel so close",
@@ -4821,14 +4821,14 @@
       "track": "Feel So Close",
       "streams": 3750709,
       "pts": 69,
-      "move": "-37",
-      "days": 5,
+      "move": "=",
+      "days": 6,
       "peak": 141,
       "peakCount": 4,
-      "ptsPlus": -73,
-      "totalPts": 637,
-      "tpts": 0.637,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 706,
+      "tpts": 0.706,
+      "date": "2026-10-23"
     },
     {
       "id": "prince-purple rain",
@@ -4838,14 +4838,14 @@
       "track": "Purple Rain",
       "streams": 6557017,
       "pts": 84,
-      "move": "+1",
-      "days": 286,
+      "move": "=",
+      "days": 287,
       "peak": 102,
       "peakCount": 43,
-      "ptsPlus": 3,
-      "totalPts": 42853,
-      "tpts": 42.853,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 42937,
+      "tpts": 42.937,
+      "date": "2026-10-23"
     },
     {
       "id": "bruno mars-when i was your man",
@@ -4855,14 +4855,14 @@
       "track": "When I Was Your Man",
       "streams": 11203730,
       "pts": 110,
-      "move": "+18",
-      "days": 5,
+      "move": "=",
+      "days": 6,
       "peak": 180,
-      "peakCount": 5,
-      "ptsPlus": 37,
-      "totalPts": 402,
-      "tpts": 0.402,
-      "date": "2026-10-22"
+      "peakCount": 6,
+      "ptsPlus": 0,
+      "totalPts": 512,
+      "tpts": 0.512,
+      "date": "2026-10-23"
     },
     {
       "id": "luke combs-fast car",
@@ -4872,14 +4872,14 @@
       "track": "Fast Car",
       "streams": 104444454,
       "pts": 671,
-      "move": "-12",
-      "days": 35,
+      "move": "=",
+      "days": 36,
       "peak": 132,
       "peakCount": 25,
-      "ptsPlus": -23,
-      "totalPts": 24215,
-      "tpts": 24.215,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 24886,
+      "tpts": 24.886,
+      "date": "2026-10-23"
     },
     {
       "id": "treaty oak revival-missed call",
@@ -4889,14 +4889,14 @@
       "track": "Missed Call",
       "streams": 5154325,
       "pts": 69,
-      "move": "-21",
-      "days": 83,
+      "move": "=",
+      "days": 84,
       "peak": 146,
       "peakCount": 30,
-      "ptsPlus": -42,
-      "totalPts": 8180,
-      "tpts": 8.18,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 8249,
+      "tpts": 8.249,
+      "date": "2026-10-23"
     },
     {
       "id": "billie eilish-birds of a feather",
@@ -4906,14 +4906,14 @@
       "track": "BIRDS OF A FEATHER",
       "streams": 118450439,
       "pts": 751,
-      "move": "-43",
-      "days": 481,
+      "move": "=",
+      "days": 482,
       "peak": 112,
       "peakCount": 90,
-      "ptsPlus": -86,
-      "totalPts": 375330,
-      "tpts": 375.33,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 376081,
+      "tpts": 376.081,
+      "date": "2026-10-23"
     },
     {
       "id": "bon jovi-livin' on a prayer",
@@ -4923,14 +4923,14 @@
       "track": "Livin' On A Prayer",
       "streams": 3965712,
       "pts": 58,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 184,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 58,
-      "tpts": 0.058,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 116,
+      "tpts": 0.116,
+      "date": "2026-10-23"
     },
     {
       "id": "morgan wallen-last night",
@@ -4940,14 +4940,14 @@
       "track": "Last Night",
       "streams": 165636912,
       "pts": 1032,
-      "move": "+6",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 48,
       "peakCount": 128,
-      "ptsPlus": 12,
-      "totalPts": 2023709,
-      "tpts": 2023.709,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 2024741,
+      "tpts": 2024.741,
+      "date": "2026-10-23"
     },
     {
       "id": "gracie abrams-thatâs so true",
@@ -4957,14 +4957,14 @@
       "track": "Thatâs So True",
       "streams": 73559328,
       "pts": 474,
-      "move": "-34",
-      "days": 99,
+      "move": "=",
+      "days": 100,
       "peak": 113,
       "peakCount": 11,
-      "ptsPlus": -68,
-      "totalPts": 55152,
-      "tpts": 55.152,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 55626,
+      "tpts": 55.626,
+      "date": "2026-10-23"
     },
     {
       "id": "tove lo-habits (stay high)",
@@ -4974,14 +4974,14 @@
       "track": "Habits (Stay High)",
       "streams": 976414,
       "pts": 34,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 187,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 34,
-      "tpts": 0.034,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 68,
+      "tpts": 0.068,
+      "date": "2026-10-23"
     },
     {
       "id": "bã´a-duvet",
@@ -4991,14 +4991,14 @@
       "track": "Duvet",
       "streams": 1360616,
       "pts": 34,
-      "move": "-41",
-      "days": 17,
+      "move": "=",
+      "days": 18,
       "peak": 128,
       "peakCount": 12,
-      "ptsPlus": -82,
-      "totalPts": 2129,
-      "tpts": 2.129,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 2163,
+      "tpts": 2.163,
+      "date": "2026-10-23"
     },
     {
       "id": "dave-raindance (w/ tems )",
@@ -5008,14 +5008,14 @@
       "track": "Raindance (w/ Tems )",
       "streams": 21364482,
       "pts": 153,
-      "move": "-8",
-      "days": 17,
+      "move": "=",
+      "days": 18,
       "peak": 172,
       "peakCount": 12,
-      "ptsPlus": -16,
-      "totalPts": 3005,
-      "tpts": 3.005,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 3158,
+      "tpts": 3.158,
+      "date": "2026-10-23"
     },
     {
       "id": "mark ronson-uptown funk (w/ bruno mars )",
@@ -5025,14 +5025,14 @@
       "track": "Uptown Funk (w/ Bruno Mars )",
       "streams": 11250860,
       "pts": 90,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 190,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 90,
-      "tpts": 0.09,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 180,
+      "tpts": 0.18,
+      "date": "2026-10-23"
     },
     {
       "id": "linkin park-faint",
@@ -5042,14 +5042,14 @@
       "track": "Faint",
       "streams": 3499640,
       "pts": 41,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 191,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 41,
-      "tpts": 0.041,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 82,
+      "tpts": 0.082,
+      "date": "2026-10-23"
     },
     {
       "id": "childish gambino-les",
@@ -5059,14 +5059,14 @@
       "track": "Les",
       "streams": 3496401,
       "pts": 39,
-      "move": "-6",
-      "days": 10,
+      "move": "=",
+      "days": 11,
       "peak": 186,
       "peakCount": 9,
-      "ptsPlus": -12,
-      "totalPts": 448,
-      "tpts": 0.448,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 487,
+      "tpts": 0.487,
+      "date": "2026-10-23"
     },
     {
       "id": "linkin park-somewhere i belong",
@@ -5076,14 +5076,14 @@
       "track": "Somewhere I Belong",
       "streams": 10672228,
       "pts": 80,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 193,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 80,
-      "tpts": 0.08,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 160,
+      "tpts": 0.16,
+      "date": "2026-10-23"
     },
     {
       "id": "michael jackson-thriller",
@@ -5093,14 +5093,14 @@
       "track": "Thriller",
       "streams": 4824296,
       "pts": 43,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 194,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 43,
-      "tpts": 0.043,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 86,
+      "tpts": 0.086,
+      "date": "2026-10-23"
     },
     {
       "id": "pitbull-give me everything (w/ ne-yo , afrojack , nayer )",
@@ -5110,14 +5110,14 @@
       "track": "Give Me Everything (w/ Ne-Yo , AFROJACK , Nayer )",
       "streams": 41776067,
       "pts": 264,
-      "move": "-33",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 65,
       "peakCount": 222,
-      "ptsPlus": -66,
-      "totalPts": 671163,
-      "tpts": 671.163,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 671427,
+      "tpts": 671.427,
+      "date": "2026-10-23"
     },
     {
       "id": "olivia rodrigo-deja vu",
@@ -5127,14 +5127,14 @@
       "track": "deja vu",
       "streams": 32604090,
       "pts": 207,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 196,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 207,
-      "tpts": 0.207,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 414,
+      "tpts": 0.414,
+      "date": "2026-10-23"
     },
     {
       "id": "kanye west-heartless",
@@ -5144,14 +5144,14 @@
       "track": "Heartless",
       "streams": 61338799,
       "pts": 378,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 197,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 378,
-      "tpts": 0.378,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 756,
+      "tpts": 0.756,
+      "date": "2026-10-23"
     },
     {
       "id": "t.a.t.u.-all the things she said",
@@ -5161,14 +5161,14 @@
       "track": "All The Things She Said",
       "streams": 2076377,
       "pts": 19,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 198,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 19,
-      "tpts": 0.019,
-      "date": "2026-10-22"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 38,
+      "tpts": 0.038,
+      "date": "2026-10-23"
     },
     {
       "id": "michael jackson-beat it",
@@ -5178,14 +5178,14 @@
       "track": "Beat It",
       "streams": 13884902,
       "pts": 88,
-      "move": "-3",
-      "days": 1639,
+      "move": "=",
+      "days": 1640,
       "peak": 17,
       "peakCount": 138,
-      "ptsPlus": -6,
-      "totalPts": 537171,
-      "tpts": 537.171,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 537259,
+      "tpts": 537.259,
+      "date": "2026-10-23"
     },
     {
       "id": "noah kahan-northern attitude",
@@ -5195,14 +5195,14 @@
       "track": "Northern Attitude",
       "streams": 17677448,
       "pts": 109,
-      "move": "-10",
-      "days": 83,
+      "move": "=",
+      "days": 84,
       "peak": 118,
       "peakCount": 23,
-      "ptsPlus": -19,
-      "totalPts": 14744,
-      "tpts": 14.744,
-      "date": "2026-10-22"
+      "ptsPlus": 0,
+      "totalPts": 14853,
+      "tpts": 14.853,
+      "date": "2026-10-23"
     }
   ]
 }
