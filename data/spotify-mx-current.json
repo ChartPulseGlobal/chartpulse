@@ -1,1806 +1,1806 @@
 {
   "source": "spotify-mx",
-  "updatedAt": "2026-10-24T22:55:03.897499",
+  "updatedAt": "2026-10-25T00:51:48.459945",
   "songs": {
     "karol g-bby wow (w/ judeline , rusowsky )": {
       "rank": 1,
       "pts": 547,
-      "days": 629,
+      "days": 630,
       "peak": 1,
-      "peakCount": 625,
-      "totalPts": 262195,
-      "date": "2026-10-24"
+      "peakCount": 626,
+      "totalPts": 262742,
+      "date": "2026-10-25"
     },
     "fuerza regida-suzuki (from gtavi: the album) (w/ grand theft auto vi )": {
       "rank": 2,
       "pts": 411,
-      "days": 75,
+      "days": 76,
       "peak": 2,
-      "peakCount": 75,
-      "totalPts": 26846,
-      "date": "2026-10-24"
+      "peakCount": 76,
+      "totalPts": 27257,
+      "date": "2026-10-25"
     },
     "natanael cano-olivia la flaka (w/ tito double p , victor mendivil , ovi )": {
       "rank": 3,
       "pts": 449,
-      "days": 136,
+      "days": 137,
       "peak": 1,
       "peakCount": 4,
-      "totalPts": 58257,
-      "date": "2026-10-24"
+      "totalPts": 58706,
+      "date": "2026-10-25"
     },
     "victor mendivil-cansada (w/ victoria mendivil )": {
       "rank": 4,
       "pts": 395,
-      "days": 1,
+      "days": 2,
       "peak": 4,
-      "peakCount": 1,
-      "totalPts": 395,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "totalPts": 790,
+      "date": "2026-10-25"
     },
     "neton vega-riki": {
       "rank": 5,
       "pts": 508,
-      "days": 682,
+      "days": 683,
       "peak": 1,
       "peakCount": 395,
-      "totalPts": 297212,
-      "date": "2026-10-24"
+      "totalPts": 297720,
+      "date": "2026-10-25"
     },
     "victor mendivil-fes (w/ omar camacho )": {
       "rank": 6,
       "pts": 391,
-      "days": 1,
+      "days": 2,
       "peak": 6,
-      "peakCount": 1,
-      "totalPts": 391,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "totalPts": 782,
+      "date": "2026-10-25"
     },
     "neton vega-nalguita y teta": {
       "rank": 7,
       "pts": 679,
-      "days": 1651,
+      "days": 1652,
       "peak": 1,
       "peakCount": 972,
-      "totalPts": 947094,
-      "date": "2026-10-24"
+      "totalPts": 947773,
+      "date": "2026-10-25"
     },
     "omar camacho-king of watches": {
       "rank": 8,
       "pts": 488,
-      "days": 1314,
+      "days": 1315,
       "peak": 6,
       "peakCount": 407,
-      "totalPts": 504884,
-      "date": "2026-10-24"
+      "totalPts": 505372,
+      "date": "2026-10-25"
     },
     "los dos de tamaulipas-ayãºdame": {
       "rank": 9,
       "pts": 588,
-      "days": 1651,
+      "days": 1652,
       "peak": 2,
       "peakCount": 621,
-      "totalPts": 812368,
-      "date": "2026-10-24"
+      "totalPts": 812956,
+      "date": "2026-10-25"
     },
     "junior h-demencia (w/ gael valenzuela )": {
       "rank": 10,
       "pts": 586,
-      "days": 1651,
+      "days": 1652,
       "peak": 4,
       "peakCount": 590,
-      "totalPts": 828527,
-      "date": "2026-10-24"
+      "totalPts": 829113,
+      "date": "2026-10-25"
     },
     "victor mendivil-afr1n (w/ omar camacho , $hupe )": {
       "rank": 11,
       "pts": 389,
-      "days": 75,
+      "days": 76,
       "peak": 11,
-      "peakCount": 27,
-      "totalPts": 25743,
-      "date": "2026-10-24"
+      "peakCount": 28,
+      "totalPts": 26132,
+      "date": "2026-10-25"
     },
     "natanael cano-mar azul": {
       "rank": 12,
       "pts": 420,
-      "days": 304,
+      "days": 305,
       "peak": 6,
       "peakCount": 7,
-      "totalPts": 119516,
-      "date": "2026-10-24"
+      "totalPts": 119936,
+      "date": "2026-10-25"
     },
     "el rabbanito-dandy hats": {
       "rank": 13,
       "pts": 444,
-      "days": 780,
+      "days": 781,
       "peak": 4,
       "peakCount": 486,
-      "totalPts": 277780,
-      "date": "2026-10-24"
+      "totalPts": 278224,
+      "date": "2026-10-25"
     },
     "victor mendivil-beretta (w/ tito double p )": {
       "rank": 14,
       "pts": 375,
-      "days": 1,
+      "days": 2,
       "peak": 14,
-      "peakCount": 1,
-      "totalPts": 375,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "totalPts": 750,
+      "date": "2026-10-25"
     },
     "victor mendivil-goldi": {
       "rank": 15,
       "pts": 373,
-      "days": 1,
+      "days": 2,
       "peak": 15,
-      "peakCount": 1,
-      "totalPts": 373,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "totalPts": 746,
+      "date": "2026-10-25"
     },
     "neton vega-pvta luna": {
       "rank": 16,
       "pts": 818,
-      "days": 1651,
+      "days": 1652,
       "peak": 3,
       "peakCount": 175,
-      "totalPts": 1268183,
-      "date": "2026-10-24"
+      "totalPts": 1269001,
+      "date": "2026-10-25"
     },
     "fuerza regida-caperuza": {
       "rank": 17,
       "pts": 695,
-      "days": 1651,
+      "days": 1652,
       "peak": 11,
       "peakCount": 141,
-      "totalPts": 1059569,
-      "date": "2026-10-24"
+      "totalPts": 1060264,
+      "date": "2026-10-25"
     },
     "victor mendivil-mira como vengo (w/ natanael cano , ovi )": {
       "rank": 18,
       "pts": 367,
-      "days": 1,
+      "days": 2,
       "peak": 18,
-      "peakCount": 1,
-      "totalPts": 367,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "totalPts": 734,
+      "date": "2026-10-25"
     },
     "aitana-superestrella": {
       "rank": 19,
       "pts": 525,
-      "days": 1651,
+      "days": 1652,
       "peak": 3,
       "peakCount": 175,
-      "totalPts": 735454,
-      "date": "2026-10-24"
+      "totalPts": 735979,
+      "date": "2026-10-25"
     },
     "latin mafia-te estoy correteando (w/ fred again.. )": {
       "rank": 20,
       "pts": 443,
-      "days": 755,
+      "days": 756,
       "peak": 3,
       "peakCount": 247,
-      "totalPts": 315731,
-      "date": "2026-10-24"
+      "totalPts": 316174,
+      "date": "2026-10-25"
     },
     "el bogueto-cuando no era cantante rmx - remix (w/ anuel aa , fuerza regida , yung beef )": {
       "rank": 21,
       "pts": 440,
-      "days": 1160,
+      "days": 1161,
       "peak": 4,
       "peakCount": 23,
-      "totalPts": 459360,
-      "date": "2026-10-24"
+      "totalPts": 459800,
+      "date": "2026-10-25"
     },
     "victor mendivil-niã±a mafia": {
       "rank": 22,
       "pts": 359,
-      "days": 1,
+      "days": 2,
       "peak": 22,
-      "peakCount": 1,
-      "totalPts": 359,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "totalPts": 718,
+      "date": "2026-10-25"
     },
     "lenin ramã­rez-todo lo fue": {
       "rank": 23,
       "pts": 678,
-      "days": 1651,
+      "days": 1652,
       "peak": 2,
       "peakCount": 234,
-      "totalPts": 1049737,
-      "date": "2026-10-24"
+      "totalPts": 1050415,
+      "date": "2026-10-25"
     },
     "oscar maydon-tu boda (w/ fuerza regida )": {
       "rank": 24,
       "pts": 1163,
-      "days": 1651,
+      "days": 1652,
       "peak": 9,
       "peakCount": 47,
-      "totalPts": 1850390,
-      "date": "2026-10-24"
+      "totalPts": 1851553,
+      "date": "2026-10-25"
     },
     "victor mendivil-ganã© (w/ gabito ballesteros )": {
       "rank": 25,
       "pts": 427,
-      "days": 1249,
+      "days": 1250,
       "peak": 15,
       "peakCount": 76,
-      "totalPts": 466277,
-      "date": "2026-10-24"
+      "totalPts": 466704,
+      "date": "2026-10-25"
     },
     "calle 24-noche perfecta (w/ fuerza regida )": {
       "rank": 26,
       "pts": 486,
-      "days": 1651,
+      "days": 1652,
       "peak": 4,
       "peakCount": 247,
-      "totalPts": 709766,
-      "date": "2026-10-24"
+      "totalPts": 710252,
+      "date": "2026-10-25"
     },
     "la arrolladora banda el limã³n de rene camacho-el final de nuestra historia": {
       "rank": 27,
       "pts": 950,
-      "days": 1651,
+      "days": 1652,
       "peak": 11,
       "peakCount": 186,
-      "totalPts": 1513777,
-      "date": "2026-10-24"
+      "totalPts": 1514727,
+      "date": "2026-10-25"
     },
     "lenin ramã­rez-polvo rosita": {
       "rank": 28,
       "pts": 537,
-      "days": 1651,
+      "days": 1652,
       "peak": 4,
       "peakCount": 209,
-      "totalPts": 826036,
-      "date": "2026-10-24"
+      "totalPts": 826573,
+      "date": "2026-10-25"
     },
     "el rabbanito-la formula": {
       "rank": 29,
       "pts": 429,
-      "days": 1183,
+      "days": 1184,
       "peak": 7,
       "peakCount": 155,
-      "totalPts": 467886,
-      "date": "2026-10-24"
+      "totalPts": 468315,
+      "date": "2026-10-25"
     },
     "peso pluma-daã±o (w/ tito double p )": {
       "rank": 30,
       "pts": 713,
-      "days": 1651,
+      "days": 1652,
       "peak": 2,
       "peakCount": 27,
-      "totalPts": 1139145,
-      "date": "2026-10-24"
+      "totalPts": 1139858,
+      "date": "2026-10-25"
     },
     "victor mendivil-amã©n": {
       "rank": 31,
       "pts": 341,
-      "days": 1,
+      "days": 2,
       "peak": 31,
-      "peakCount": 1,
-      "totalPts": 341,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "totalPts": 682,
+      "date": "2026-10-25"
     },
     "omar camacho-2+2 (w/ victor mendivil )": {
       "rank": 32,
       "pts": 857,
-      "days": 1651,
+      "days": 1652,
       "peak": 9,
       "peakCount": 84,
-      "totalPts": 1380465,
-      "date": "2026-10-24"
+      "totalPts": 1381322,
+      "date": "2026-10-25"
     },
     "moy bobadilla-tus mentiras (en vivo) (w/ grupo firme , max peraza )": {
       "rank": 33,
       "pts": 528,
-      "days": 1651,
+      "days": 1652,
       "peak": 10,
       "peakCount": 148,
-      "totalPts": 819539,
-      "date": "2026-10-24"
+      "totalPts": 820067,
+      "date": "2026-10-25"
     },
     "emmanuel cortes-amor": {
       "rank": 34,
       "pts": 790,
-      "days": 1651,
+      "days": 1652,
       "peak": 10,
       "peakCount": 253,
-      "totalPts": 1274640,
-      "date": "2026-10-24"
+      "totalPts": 1275430,
+      "date": "2026-10-25"
     },
     "fuerza regida-tu sancho": {
       "rank": 35,
       "pts": 1044,
-      "days": 1651,
+      "days": 1652,
       "peak": 1,
       "peakCount": 373,
-      "totalPts": 1732038,
-      "date": "2026-10-24"
+      "totalPts": 1733082,
+      "date": "2026-10-25"
     },
     "la santa grifa-table dance (w/ chino el don )": {
       "rank": 36,
       "pts": 379,
-      "days": 799,
+      "days": 800,
       "peak": 11,
       "peakCount": 333,
-      "totalPts": 205875,
-      "date": "2026-10-24"
+      "totalPts": 206254,
+      "date": "2026-10-25"
     },
     "victor mendivil-lindsay lohan": {
       "rank": 37,
       "pts": 329,
-      "days": 1,
+      "days": 2,
       "peak": 37,
-      "peakCount": 1,
-      "totalPts": 329,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "totalPts": 658,
+      "date": "2026-10-25"
     },
     "victor mendivil-3 pa' 3 (w/ cris mj , floyymenor )": {
       "rank": 38,
       "pts": 327,
-      "days": 1,
+      "days": 2,
       "peak": 38,
-      "peakCount": 1,
-      "totalPts": 327,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "totalPts": 654,
+      "date": "2026-10-25"
     },
     "fuerza regida-marlboro rojo": {
       "rank": 39,
       "pts": 1007,
-      "days": 1651,
+      "days": 1652,
       "peak": 3,
       "peakCount": 282,
-      "totalPts": 1681019,
-      "date": "2026-10-24"
+      "totalPts": 1682026,
+      "date": "2026-10-25"
     },
     "fuerza regida-excesos": {
       "rank": 40,
       "pts": 704,
-      "days": 1651,
+      "days": 1652,
       "peak": 14,
       "peakCount": 187,
-      "totalPts": 1126953,
-      "date": "2026-10-24"
+      "totalPts": 1127657,
+      "date": "2026-10-25"
     },
     "victor mendivil-que cosas": {
       "rank": 41,
       "pts": 321,
-      "days": 1,
+      "days": 2,
       "peak": 41,
-      "peakCount": 1,
-      "totalPts": 321,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "totalPts": 642,
+      "date": "2026-10-25"
     },
     "barbas-dã³nde estã¡s (w/ omar camacho )": {
       "rank": 42,
       "pts": 340,
-      "days": 235,
+      "days": 236,
       "peak": 27,
       "peakCount": 35,
-      "totalPts": 72840,
-      "date": "2026-10-24"
+      "totalPts": 73180,
+      "date": "2026-10-25"
     },
     "omar camacho-la ciudad del sol (w/ oscar maydon )": {
       "rank": 43,
       "pts": 573,
-      "days": 1651,
+      "days": 1652,
       "peak": 33,
       "peakCount": 37,
-      "totalPts": 792149,
-      "date": "2026-10-24"
+      "totalPts": 792722,
+      "date": "2026-10-25"
     },
     "omar camacho-4x4 (w/ victor mendivil , angel almaguer , $hupe )": {
       "rank": 44,
       "pts": 528,
-      "days": 1651,
+      "days": 1652,
       "peak": 12,
       "peakCount": 28,
-      "totalPts": 821383,
-      "date": "2026-10-24"
+      "totalPts": 821911,
+      "date": "2026-10-25"
     },
     "eon-ni tan santx (w/ neton vega , de la rose , l prince )": {
       "rank": 45,
       "pts": 319,
-      "days": 75,
+      "days": 76,
       "peak": 30,
       "peakCount": 39,
-      "totalPts": 21870,
-      "date": "2026-10-24"
+      "totalPts": 22189,
+      "date": "2026-10-25"
     },
     "victor mendivil-vã¡monos": {
       "rank": 46,
       "pts": 311,
-      "days": 1,
+      "days": 2,
       "peak": 46,
-      "peakCount": 1,
-      "totalPts": 311,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "totalPts": 622,
+      "date": "2026-10-25"
     },
     "fuerza regida-coqueta (w/ grupo frontera )": {
       "rank": 47,
       "pts": 784,
-      "days": 1651,
+      "days": 1652,
       "peak": 12,
       "peakCount": 140,
-      "totalPts": 1307167,
-      "date": "2026-10-24"
+      "totalPts": 1307951,
+      "date": "2026-10-25"
     },
     "chuyin-pues ya ni pedo (w/ fuerza regida )": {
       "rank": 48,
       "pts": 387,
-      "days": 1547,
+      "days": 1548,
       "peak": 26,
       "peakCount": 118,
-      "totalPts": 531286,
-      "date": "2026-10-24"
+      "totalPts": 531673,
+      "date": "2026-10-25"
     },
     "hermanos espinoza-freestyle": {
       "rank": 49,
       "pts": 393,
-      "days": 1651,
+      "days": 1652,
       "peak": 23,
       "peakCount": 227,
-      "totalPts": 562522,
-      "date": "2026-10-24"
+      "totalPts": 562915,
+      "date": "2026-10-25"
     },
     "victor mendivil-cereza": {
       "rank": 50,
       "pts": 302,
-      "days": 1,
+      "days": 2,
       "peak": 50,
-      "peakCount": 1,
-      "totalPts": 302,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "totalPts": 604,
+      "date": "2026-10-25"
     },
     "junior h-y lloro": {
       "rank": 51,
       "pts": 1222,
-      "days": 1651,
+      "days": 1652,
       "peak": 19,
       "peakCount": 174,
-      "totalPts": 2059816,
-      "date": "2026-10-24"
+      "totalPts": 2061038,
+      "date": "2026-10-25"
     },
     "marc seguã­-tiroteo - remix (w/ rauw alejandro , pol granch )": {
       "rank": 52,
       "pts": 738,
-      "days": 1651,
+      "days": 1652,
       "peak": 17,
       "peakCount": 270,
-      "totalPts": 1188883,
-      "date": "2026-10-24"
+      "totalPts": 1189621,
+      "date": "2026-10-25"
     },
     "danny ocean-me rehãºso": {
       "rank": 53,
       "pts": 1296,
-      "days": 1651,
+      "days": 1652,
       "peak": 13,
       "peakCount": 207,
-      "totalPts": 2196924,
-      "date": "2026-10-24"
+      "totalPts": 2198220,
+      "date": "2026-10-25"
     },
     "calle 24-tãxicos": {
       "rank": 54,
       "pts": 376,
-      "days": 1651,
+      "days": 1652,
       "peak": 41,
       "peakCount": 184,
-      "totalPts": 528226,
-      "date": "2026-10-24"
+      "totalPts": 528602,
+      "date": "2026-10-25"
     },
     "jã³sean log-doma": {
       "rank": 55,
       "pts": 421,
-      "days": 1651,
+      "days": 1652,
       "peak": 9,
       "peakCount": 290,
-      "totalPts": 706182,
-      "date": "2026-10-24"
+      "totalPts": 706603,
+      "date": "2026-10-25"
     },
     "victor mendivil-peter parker (w/ poncho lkd )": {
       "rank": 56,
       "pts": 290,
-      "days": 1,
+      "days": 2,
       "peak": 56,
-      "peakCount": 1,
-      "totalPts": 290,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "totalPts": 580,
+      "date": "2026-10-25"
     },
     "manã¡-oye mi amor": {
       "rank": 57,
       "pts": 507,
-      "days": 1651,
+      "days": 1652,
       "peak": 9,
       "peakCount": 264,
-      "totalPts": 807491,
-      "date": "2026-10-24"
+      "totalPts": 807998,
+      "date": "2026-10-25"
     },
     "cardenales de nuevo leã³n-que nadie sepa (w/ los carnales de nuevo leã³n )": {
       "rank": 58,
       "pts": 320,
-      "days": 444,
+      "days": 445,
       "peak": 17,
       "peakCount": 132,
-      "totalPts": 139996,
-      "date": "2026-10-24"
+      "totalPts": 140316,
+      "date": "2026-10-25"
     },
     "victor mendivil-nunca pierdo": {
       "rank": 59,
       "pts": 284,
-      "days": 1,
+      "days": 2,
       "peak": 59,
-      "peakCount": 1,
-      "totalPts": 284,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "totalPts": 568,
+      "date": "2026-10-25"
     },
     "calle 24-que onda (w/ chino pacas , fuerza regida )": {
       "rank": 60,
       "pts": 1232,
-      "days": 1651,
+      "days": 1652,
       "peak": 23,
       "peakCount": 110,
-      "totalPts": 2093463,
-      "date": "2026-10-24"
+      "totalPts": 2094695,
+      "date": "2026-10-25"
     },
     "herencia de grandes-ya borracho": {
       "rank": 61,
       "pts": 622,
-      "days": 1651,
+      "days": 1652,
       "peak": 8,
       "peakCount": 111,
-      "totalPts": 1094936,
-      "date": "2026-10-24"
+      "totalPts": 1095558,
+      "date": "2026-10-25"
     },
     "la la love you-el fin del mundo (w/ axolotes mexicanos )": {
       "rank": 62,
       "pts": 369,
-      "days": 1514,
+      "days": 1515,
       "peak": 9,
       "peakCount": 245,
-      "totalPts": 546742,
-      "date": "2026-10-24"
+      "totalPts": 547111,
+      "date": "2026-10-25"
     },
     "grupo feroz-condenados": {
       "rank": 63,
       "pts": 306,
-      "days": 444,
+      "days": 445,
       "peak": 30,
       "peakCount": 118,
-      "totalPts": 137663,
-      "date": "2026-10-24"
+      "totalPts": 137969,
+      "date": "2026-10-25"
     },
     "berner-el chivo (w/ t3r elemento )": {
       "rank": 64,
       "pts": 293,
-      "days": 254,
+      "days": 255,
       "peak": 50,
       "peakCount": 63,
-      "totalPts": 61178,
-      "date": "2026-10-24"
+      "totalPts": 61471,
+      "date": "2026-10-25"
     },
     "el bogueto-cuando no era cantante (w/ yung beef )": {
       "rank": 65,
       "pts": 777,
-      "days": 1651,
+      "days": 1652,
       "peak": 12,
       "peakCount": 55,
-      "totalPts": 1316653,
-      "date": "2026-10-24"
+      "totalPts": 1317430,
+      "date": "2026-10-25"
     },
     "neton vega-/90 60 90 (w/ myke towers )": {
       "rank": 66,
       "pts": 307,
-      "days": 844,
+      "days": 845,
       "peak": 28,
       "peakCount": 232,
-      "totalPts": 211688,
-      "date": "2026-10-24"
+      "totalPts": 211995,
+      "date": "2026-10-25"
     },
     "tito double p-entre tu y yo": {
       "rank": 67,
       "pts": 290,
-      "days": 217,
+      "days": 218,
       "peak": 12,
       "peakCount": 37,
-      "totalPts": 69293,
-      "date": "2026-10-24"
+      "totalPts": 69583,
+      "date": "2026-10-25"
     },
     "fuerza regida-ansiedad": {
       "rank": 68,
       "pts": 705,
-      "days": 1651,
+      "days": 1652,
       "peak": 20,
       "peakCount": 85,
-      "totalPts": 1205657,
-      "date": "2026-10-24"
+      "totalPts": 1206362,
+      "date": "2026-10-25"
     },
     "victor mendivil-coco bongo (w/ malan )": {
       "rank": 69,
       "pts": 264,
-      "days": 1,
+      "days": 2,
       "peak": 69,
-      "peakCount": 1,
-      "totalPts": 264,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "totalPts": 528,
+      "date": "2026-10-25"
     },
     "grupo frontera-el amor de su vida (w/ grupo firme )": {
       "rank": 70,
       "pts": 1030,
-      "days": 1651,
+      "days": 1652,
       "peak": 25,
       "peakCount": 203,
-      "totalPts": 1709431,
-      "date": "2026-10-24"
+      "totalPts": 1710461,
+      "date": "2026-10-25"
     },
     "karol g-si antes te hubiera conocido": {
       "rank": 71,
       "pts": 779,
-      "days": 1651,
+      "days": 1652,
       "peak": 46,
       "peakCount": 27,
-      "totalPts": 1252189,
-      "date": "2026-10-24"
+      "totalPts": 1252968,
+      "date": "2026-10-25"
     },
     "rusowsky-neo roneo (w/ latin mafia )": {
       "rank": 72,
       "pts": 297,
-      "days": 811,
+      "days": 812,
       "peak": 29,
       "peakCount": 297,
-      "totalPts": 223760,
-      "date": "2026-10-24"
+      "totalPts": 224057,
+      "date": "2026-10-25"
     },
     "bts-swim": {
       "rank": 73,
       "pts": 418,
-      "days": 1651,
+      "days": 1652,
       "peak": 8,
       "peakCount": 27,
-      "totalPts": 767060,
-      "date": "2026-10-24"
+      "totalPts": 767478,
+      "date": "2026-10-25"
     },
     "jorsshh-taco el flaco (w/ luis r conriquez , neton vega )": {
       "rank": 74,
       "pts": 272,
-      "days": 297,
+      "days": 298,
       "peak": 59,
       "peakCount": 62,
-      "totalPts": 46410,
-      "date": "2026-10-24"
+      "totalPts": 46682,
+      "date": "2026-10-25"
     },
     "natanael cano-perlas negras (w/ gabito ballesteros )": {
       "rank": 75,
       "pts": 693,
-      "days": 1651,
+      "days": 1652,
       "peak": 23,
       "peakCount": 145,
-      "totalPts": 1211043,
-      "date": "2026-10-24"
+      "totalPts": 1211736,
+      "date": "2026-10-25"
     },
     "neton vega-morena (w/ peso pluma )": {
       "rank": 76,
       "pts": 802,
-      "days": 1651,
+      "days": 1652,
       "peak": 61,
       "peakCount": 28,
-      "totalPts": 1256955,
-      "date": "2026-10-24"
+      "totalPts": 1257757,
+      "date": "2026-10-25"
     },
     "bad bunny-baile inolvidable": {
       "rank": 77,
       "pts": 747,
-      "days": 1651,
+      "days": 1652,
       "peak": 26,
       "peakCount": 50,
-      "totalPts": 1294255,
-      "date": "2026-10-24"
+      "totalPts": 1295002,
+      "date": "2026-10-25"
     },
     "victor mendivil-loco x otra": {
       "rank": 78,
       "pts": 246,
-      "days": 1,
+      "days": 2,
       "peak": 78,
-      "peakCount": 1,
-      "totalPts": 246,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "totalPts": 492,
+      "date": "2026-10-25"
     },
     "neton vega-/turistico": {
       "rank": 79,
       "pts": 360,
-      "days": 47,
+      "days": 48,
       "peak": 65,
       "peakCount": 27,
-      "totalPts": 11333,
-      "date": "2026-10-24"
+      "totalPts": 11693,
+      "date": "2026-10-25"
     },
     "grupo firme-el beneficio de la duda": {
       "rank": 80,
       "pts": 633,
-      "days": 1651,
+      "days": 1652,
       "peak": 39,
       "peakCount": 135,
-      "totalPts": 1029633,
-      "date": "2026-10-24"
+      "totalPts": 1030266,
+      "date": "2026-10-25"
     },
     "junior h-las noches": {
       "rank": 81,
       "pts": 524,
-      "days": 1651,
+      "days": 1652,
       "peak": 29,
       "peakCount": 100,
-      "totalPts": 926020,
-      "date": "2026-10-24"
+      "totalPts": 926544,
+      "date": "2026-10-25"
     },
     "bad bunny-dtmf": {
       "rank": 82,
       "pts": 765,
-      "days": 1651,
+      "days": 1652,
       "peak": 35,
       "peakCount": 46,
-      "totalPts": 1310290,
-      "date": "2026-10-24"
+      "totalPts": 1311055,
+      "date": "2026-10-25"
     },
     "victor mendivil-king of watches (w/ neton vega )": {
       "rank": 83,
       "pts": 417,
-      "days": 17,
+      "days": 18,
       "peak": 83,
-      "peakCount": 17,
-      "totalPts": 5201,
-      "date": "2026-10-24"
+      "peakCount": 18,
+      "totalPts": 5618,
+      "date": "2026-10-25"
     },
     "victor mendivil-tj (w/ axel rulay )": {
       "rank": 84,
       "pts": 234,
-      "days": 1,
+      "days": 2,
       "peak": 84,
-      "peakCount": 1,
-      "totalPts": 234,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "totalPts": 468,
+      "date": "2026-10-25"
     },
     "tito double p-por sus besos": {
       "rank": 85,
       "pts": 656,
-      "days": 1651,
+      "days": 1652,
       "peak": 12,
       "peakCount": 27,
-      "totalPts": 1179534,
-      "date": "2026-10-24"
+      "totalPts": 1180190,
+      "date": "2026-10-25"
     },
     "junior h-mientras duermes": {
       "rank": 86,
       "pts": 715,
-      "days": 1651,
+      "days": 1652,
       "peak": 23,
       "peakCount": 111,
-      "totalPts": 1286678,
-      "date": "2026-10-24"
+      "totalPts": 1287393,
+      "date": "2026-10-25"
     },
     "espinoza paz-lo intentamos": {
       "rank": 87,
       "pts": 262,
-      "days": 79,
+      "days": 80,
       "peak": 77,
       "peakCount": 34,
-      "totalPts": 13106,
-      "date": "2026-10-24"
+      "totalPts": 13368,
+      "date": "2026-10-25"
     },
     "plan b-es un secreto": {
       "rank": 88,
       "pts": 866,
-      "days": 1651,
+      "days": 1652,
       "peak": 42,
       "peakCount": 99,
-      "totalPts": 1464537,
-      "date": "2026-10-24"
+      "totalPts": 1465403,
+      "date": "2026-10-25"
     },
     "natanael cano-me gusta": {
       "rank": 89,
       "pts": 226,
-      "days": 13,
+      "days": 14,
       "peak": 82,
       "peakCount": 12,
-      "totalPts": 3064,
-      "date": "2026-10-24"
+      "totalPts": 3290,
+      "date": "2026-10-25"
     },
     "karol g-coleccionando heridas (w/ marco antonio solã­s )": {
       "rank": 90,
       "pts": 428,
-      "days": 1651,
+      "days": 1652,
       "peak": 54,
       "peakCount": 116,
-      "totalPts": 628405,
-      "date": "2026-10-24"
+      "totalPts": 628833,
+      "date": "2026-10-25"
     },
     "peso pluma-tu con el (w/ tito double p )": {
       "rank": 91,
       "pts": 427,
-      "days": 1651,
+      "days": 1652,
       "peak": 16,
       "peakCount": 32,
-      "totalPts": 792878,
-      "date": "2026-10-24"
+      "totalPts": 793305,
+      "date": "2026-10-25"
     },
     "peso pluma-dopamina (w/ tito double p )": {
       "rank": 92,
       "pts": 559,
-      "days": 1651,
+      "days": 1652,
       "peak": 4,
       "peakCount": 16,
-      "totalPts": 1057358,
-      "date": "2026-10-24"
+      "totalPts": 1057917,
+      "date": "2026-10-25"
     },
     "neton vega-todo a su tiempo": {
       "rank": 93,
       "pts": 551,
-      "days": 1651,
+      "days": 1652,
       "peak": 50,
       "peakCount": 69,
-      "totalPts": 910359,
-      "date": "2026-10-24"
+      "totalPts": 910910,
+      "date": "2026-10-25"
     },
     "la factoria-perdã³name (w/ eddy lover )": {
       "rank": 94,
       "pts": 328,
-      "days": 87,
+      "days": 88,
       "peak": 62,
       "peakCount": 28,
-      "totalPts": 27746,
-      "date": "2026-10-24"
+      "totalPts": 28074,
+      "date": "2026-10-25"
     },
     "junior h-extssy model": {
       "rank": 95,
       "pts": 944,
-      "days": 1651,
+      "days": 1652,
       "peak": 57,
       "peakCount": 64,
-      "totalPts": 1552659,
-      "date": "2026-10-24"
+      "totalPts": 1553603,
+      "date": "2026-10-25"
     },
     "victor mendivil-goet": {
       "rank": 96,
       "pts": 603,
-      "days": 28,
+      "days": 29,
       "peak": 96,
-      "peakCount": 23,
-      "totalPts": 12952,
-      "date": "2026-10-24"
+      "peakCount": 24,
+      "totalPts": 13555,
+      "date": "2026-10-25"
     },
     "junior h-piãnsalo": {
       "rank": 97,
       "pts": 745,
-      "days": 1651,
+      "days": 1652,
       "peak": 37,
       "peakCount": 86,
-      "totalPts": 1322996,
-      "date": "2026-10-24"
+      "totalPts": 1323741,
+      "date": "2026-10-25"
     },
     "colmillo norteã±o-sueã±o guajiro": {
       "rank": 98,
       "pts": 260,
-      "days": 83,
+      "days": 84,
       "peak": 31,
       "peakCount": 30,
-      "totalPts": 21303,
-      "date": "2026-10-24"
+      "totalPts": 21563,
+      "date": "2026-10-25"
     },
     "bad bunny-eoo": {
       "rank": 99,
       "pts": 604,
-      "days": 1651,
+      "days": 1652,
       "peak": 23,
       "peakCount": 167,
-      "totalPts": 1081653,
-      "date": "2026-10-24"
+      "totalPts": 1082257,
+      "date": "2026-10-25"
     },
     "victor mendivil-bling bling (w/ oscar maydon )": {
       "rank": 100,
       "pts": 202,
-      "days": 1,
+      "days": 2,
       "peak": 100,
-      "peakCount": 1,
-      "totalPts": 202,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "totalPts": 404,
+      "date": "2026-10-25"
     },
     "banda ms de sergio lizã¡rraga-a lo mejor": {
       "rank": 101,
       "pts": 325,
-      "days": 1651,
+      "days": 1652,
       "peak": 48,
       "peakCount": 183,
-      "totalPts": 524455,
-      "date": "2026-10-24"
+      "totalPts": 524780,
+      "date": "2026-10-25"
     },
     "tito double p-nadie": {
       "rank": 102,
       "pts": 710,
-      "days": 115,
+      "days": 116,
       "peak": 74,
       "peakCount": 52,
-      "totalPts": 75469,
-      "date": "2026-10-24"
+      "totalPts": 76179,
+      "date": "2026-10-25"
     },
     "victor mendivil-alã­state (w/ anuel aa )": {
       "rank": 103,
       "pts": 196,
-      "days": 1,
+      "days": 2,
       "peak": 103,
-      "peakCount": 1,
-      "totalPts": 196,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "totalPts": 392,
+      "date": "2026-10-25"
     },
     "5050-ando en la disco (da players town)": {
       "rank": 104,
       "pts": 201,
-      "days": 95,
+      "days": 96,
       "peak": 68,
       "peakCount": 52,
-      "totalPts": 18912,
-      "date": "2026-10-24"
+      "totalPts": 19113,
+      "date": "2026-10-25"
     },
     "victor mendivil-la casa del terror": {
       "rank": 105,
       "pts": 192,
-      "days": 1,
+      "days": 2,
       "peak": 105,
-      "peakCount": 1,
-      "totalPts": 192,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "totalPts": 384,
+      "date": "2026-10-25"
     },
     "victor mendivil-p.v. (w/ fenix flexin )": {
       "rank": 106,
       "pts": 329,
-      "days": 123,
+      "days": 124,
       "peak": 85,
       "peakCount": 26,
-      "totalPts": 33800,
-      "date": "2026-10-24"
+      "totalPts": 34129,
+      "date": "2026-10-25"
     },
     "victor mendivil-el nueve (w/ $oul9 )": {
       "rank": 107,
       "pts": 188,
-      "days": 1,
+      "days": 2,
       "peak": 107,
-      "peakCount": 1,
-      "totalPts": 188,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "totalPts": 376,
+      "date": "2026-10-25"
     },
     "los dos de tamaulipas-gastando verdes": {
       "rank": 108,
       "pts": 215,
-      "days": 115,
+      "days": 116,
       "peak": 77,
       "peakCount": 26,
-      "totalPts": 20663,
-      "date": "2026-10-24"
+      "totalPts": 20878,
+      "date": "2026-10-25"
     },
     "belanova-rosa pastel": {
       "rank": 109,
       "pts": 751,
-      "days": 1651,
+      "days": 1652,
       "peak": 74,
       "peakCount": 68,
-      "totalPts": 1228644,
-      "date": "2026-10-24"
+      "totalPts": 1229395,
+      "date": "2026-10-25"
     },
     "juliã³n ãlvarez y su norteã±o banda-regalo de dios": {
       "rank": 110,
       "pts": 889,
-      "days": 1651,
+      "days": 1652,
       "peak": 37,
       "peakCount": 78,
-      "totalPts": 1604559,
-      "date": "2026-10-24"
+      "totalPts": 1605448,
+      "date": "2026-10-25"
     },
     "cardenales de nuevo leã³n-belleza de cantina": {
       "rank": 111,
       "pts": 710,
-      "days": 1651,
+      "days": 1652,
       "peak": 37,
       "peakCount": 126,
-      "totalPts": 1219640,
-      "date": "2026-10-24"
+      "totalPts": 1220350,
+      "date": "2026-10-25"
     },
     "tito double p-me vale v": {
       "rank": 112,
       "pts": 263,
-      "days": 1349,
+      "days": 1350,
       "peak": 8,
       "peakCount": 11,
-      "totalPts": 526072,
-      "date": "2026-10-24"
+      "totalPts": 526335,
+      "date": "2026-10-25"
     },
     "bobby pulido-se muriã³ de amor": {
       "rank": 113,
       "pts": 196,
-      "days": 52,
+      "days": 53,
       "peak": 86,
       "peakCount": 42,
-      "totalPts": 6415,
-      "date": "2026-10-24"
+      "totalPts": 6611,
+      "date": "2026-10-25"
     },
     "caifanes-afuera": {
       "rank": 114,
       "pts": 382,
-      "days": 1514,
+      "days": 1515,
       "peak": 61,
       "peakCount": 129,
-      "totalPts": 537346,
-      "date": "2026-10-24"
+      "totalPts": 537728,
+      "date": "2026-10-25"
     },
     "moy bobadilla-corazã³n": {
       "rank": 115,
       "pts": 219,
-      "days": 13,
+      "days": 14,
       "peak": 110,
       "peakCount": 12,
-      "totalPts": 2745,
-      "date": "2026-10-24"
+      "totalPts": 2964,
+      "date": "2026-10-25"
     },
     "peso pluma-hollywood (w/ estevan plazola )": {
       "rank": 116,
       "pts": 713,
-      "days": 1651,
+      "days": 1652,
       "peak": 49,
       "peakCount": 116,
-      "totalPts": 1318990,
-      "date": "2026-10-24"
+      "totalPts": 1319703,
+      "date": "2026-10-25"
     },
     "los dos de tamaulipas-paciencia": {
       "rank": 117,
       "pts": 170,
-      "days": 28,
+      "days": 29,
       "peak": 83,
       "peakCount": 16,
-      "totalPts": 4134,
-      "date": "2026-10-24"
+      "totalPts": 4304,
+      "date": "2026-10-25"
     },
     "victor mendivil-la manera (w/ snow tha product )": {
       "rank": 118,
       "pts": 166,
-      "days": 1,
+      "days": 2,
       "peak": 118,
-      "peakCount": 1,
-      "totalPts": 166,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "totalPts": 332,
+      "date": "2026-10-25"
     },
     "la arrolladora banda el limã³n de rene camacho-mi segunda vida": {
       "rank": 119,
       "pts": 463,
-      "days": 1651,
+      "days": 1652,
       "peak": 62,
       "peakCount": 108,
-      "totalPts": 778788,
-      "date": "2026-10-24"
+      "totalPts": 779251,
+      "date": "2026-10-25"
     },
     "alfredo olivas-el precio de la soledad": {
       "rank": 120,
       "pts": 793,
-      "days": 1651,
+      "days": 1652,
       "peak": 38,
       "peakCount": 111,
-      "totalPts": 1410079,
-      "date": "2026-10-24"
+      "totalPts": 1410872,
+      "date": "2026-10-25"
     },
     "peso pluma-ni pedo (w/ tito double p )": {
       "rank": 121,
       "pts": 347,
-      "days": 17,
+      "days": 18,
       "peak": 84,
       "peakCount": 9,
-      "totalPts": 6179,
-      "date": "2026-10-24"
+      "totalPts": 6526,
+      "date": "2026-10-25"
     },
     "bobby pulido-desvelado": {
       "rank": 122,
       "pts": 416,
-      "days": 1651,
+      "days": 1652,
       "peak": 37,
       "peakCount": 136,
-      "totalPts": 748703,
-      "date": "2026-10-24"
+      "totalPts": 749119,
+      "date": "2026-10-25"
     },
     "junior h-tres botellas": {
       "rank": 123,
       "pts": 621,
-      "days": 1088,
+      "days": 1089,
       "peak": 56,
       "peakCount": 41,
-      "totalPts": 710243,
-      "date": "2026-10-24"
+      "totalPts": 710864,
+      "date": "2026-10-25"
     },
     "fuerza regida-chavalitas": {
       "rank": 124,
       "pts": 522,
-      "days": 1651,
+      "days": 1652,
       "peak": 4,
       "peakCount": 137,
-      "totalPts": 1060702,
-      "date": "2026-10-24"
+      "totalPts": 1061224,
+      "date": "2026-10-25"
     },
     "calle 24-suiza": {
       "rank": 125,
       "pts": 573,
-      "days": 1651,
+      "days": 1652,
       "peak": 52,
       "peakCount": 129,
-      "totalPts": 1088968,
-      "date": "2026-10-24"
+      "totalPts": 1089541,
+      "date": "2026-10-25"
     },
     "gabito ballesteros-7 dãas (w/ tito double p )": {
       "rank": 126,
       "pts": 316,
-      "days": 169,
+      "days": 170,
       "peak": 109,
       "peakCount": 43,
-      "totalPts": 44642,
-      "date": "2026-10-24"
+      "totalPts": 44958,
+      "date": "2026-10-25"
     },
     "peso pluma-7-3 (w/ tito double p )": {
       "rank": 127,
       "pts": 422,
-      "days": 1651,
+      "days": 1652,
       "peak": 8,
       "peakCount": 16,
-      "totalPts": 892280,
-      "date": "2026-10-24"
+      "totalPts": 892702,
+      "date": "2026-10-25"
     },
     "la mosca-para no verte mã¡s": {
       "rank": 128,
       "pts": 172,
-      "days": 32,
+      "days": 33,
       "peak": 79,
       "peakCount": 15,
-      "totalPts": 6620,
-      "date": "2026-10-24"
+      "totalPts": 6792,
+      "date": "2026-10-25"
     },
     "calle 24-ultimamente (w/ fuerza regida , chino pacas )": {
       "rank": 129,
       "pts": 299,
-      "days": 127,
+      "days": 128,
       "peak": 79,
       "peakCount": 23,
-      "totalPts": 39933,
-      "date": "2026-10-24"
+      "totalPts": 40232,
+      "date": "2026-10-25"
     },
     "edicion especial-si es posible": {
       "rank": 130,
       "pts": 175,
-      "days": 187,
+      "days": 188,
       "peak": 43,
       "peakCount": 32,
-      "totalPts": 37486,
-      "date": "2026-10-24"
+      "totalPts": 37661,
+      "date": "2026-10-25"
     },
     "fuerza regida-pero no te enamores": {
       "rank": 131,
       "pts": 461,
-      "days": 1651,
+      "days": 1652,
       "peak": 38,
       "peakCount": 81,
-      "totalPts": 909609,
-      "date": "2026-10-24"
+      "totalPts": 910070,
+      "date": "2026-10-25"
     },
     "los dareyes de la sierra-matcha": {
       "rank": 132,
       "pts": 221,
-      "days": 1535,
+      "days": 1536,
       "peak": 18,
       "peakCount": 222,
-      "totalPts": 534461,
-      "date": "2026-10-24"
+      "totalPts": 534682,
+      "date": "2026-10-25"
     },
     "j balvin-la canciãn (w/ bad bunny )": {
       "rank": 133,
       "pts": 1123,
-      "days": 1651,
+      "days": 1652,
       "peak": 62,
       "peakCount": 53,
-      "totalPts": 2000190,
-      "date": "2026-10-24"
+      "totalPts": 2001313,
+      "date": "2026-10-25"
     },
     "zoã©-luna - live": {
       "rank": 134,
       "pts": 186,
-      "days": 159,
+      "days": 160,
       "peak": 66,
       "peakCount": 27,
-      "totalPts": 33686,
-      "date": "2026-10-24"
+      "totalPts": 33872,
+      "date": "2026-10-25"
     },
     "maluma-borro cassette": {
       "rank": 135,
       "pts": 534,
-      "days": 1651,
+      "days": 1652,
       "peak": 63,
       "peakCount": 186,
-      "totalPts": 934709,
-      "date": "2026-10-24"
+      "totalPts": 935243,
+      "date": "2026-10-25"
     },
     "bad bunny-diles (w/ ozuna , farruko , arcã¡ngel , ãengo flow , dj luian , mambo kingz )": {
       "rank": 136,
       "pts": 404,
-      "days": 1651,
+      "days": 1652,
       "peak": 56,
       "peakCount": 184,
-      "totalPts": 723814,
-      "date": "2026-10-24"
+      "totalPts": 724218,
+      "date": "2026-10-25"
     },
     "chuyin-pues que le hago ?": {
       "rank": 137,
       "pts": 306,
-      "days": 1651,
+      "days": 1652,
       "peak": 10,
       "peakCount": 50,
-      "totalPts": 729254,
-      "date": "2026-10-24"
+      "totalPts": 729560,
+      "date": "2026-10-25"
     },
     "neton vega-loco": {
       "rank": 138,
       "pts": 623,
-      "days": 1651,
+      "days": 1652,
       "peak": 81,
       "peakCount": 156,
-      "totalPts": 1038771,
-      "date": "2026-10-24"
+      "totalPts": 1039394,
+      "date": "2026-10-25"
     },
     "peso pluma-chiclona (w/ tito double p , lencho )": {
       "rank": 139,
       "pts": 295,
-      "days": 1651,
+      "days": 1652,
       "peak": 10,
       "peakCount": 55,
-      "totalPts": 726636,
-      "date": "2026-10-24"
+      "totalPts": 726931,
+      "date": "2026-10-25"
     },
     "feid-luna (w/ atl jacob )": {
       "rank": 140,
       "pts": 630,
-      "days": 115,
+      "days": 116,
       "peak": 85,
       "peakCount": 22,
-      "totalPts": 78697,
-      "date": "2026-10-24"
+      "totalPts": 79327,
+      "date": "2026-10-25"
     },
     "luis r conriquez-que gacho (w/ neton vega )": {
       "rank": 141,
       "pts": 162,
-      "days": 32,
+      "days": 33,
       "peak": 101,
       "peakCount": 15,
-      "totalPts": 5828,
-      "date": "2026-10-24"
+      "totalPts": 5990,
+      "date": "2026-10-25"
     },
     "eden muã±oz-como en los viejos tiempos": {
       "rank": 142,
       "pts": 252,
-      "days": 1651,
+      "days": 1652,
       "peak": 65,
       "peakCount": 102,
-      "totalPts": 508396,
-      "date": "2026-10-24"
+      "totalPts": 508648,
+      "date": "2026-10-25"
     },
     "juan gabriel-abrã¡zame muy fuerte": {
       "rank": 143,
       "pts": 171,
-      "days": 274,
+      "days": 275,
       "peak": 67,
       "peakCount": 33,
-      "totalPts": 49347,
-      "date": "2026-10-24"
+      "totalPts": 49518,
+      "date": "2026-10-25"
     },
     "virlan garcia-mi entorno": {
       "rank": 144,
       "pts": 354,
-      "days": 1651,
+      "days": 1652,
       "peak": 25,
       "peakCount": 78,
-      "totalPts": 828194,
-      "date": "2026-10-24"
+      "totalPts": 828548,
+      "date": "2026-10-25"
     },
     "tito double p-dos dãas (w/ peso pluma )": {
       "rank": 145,
       "pts": 820,
-      "days": 1651,
+      "days": 1652,
       "peak": 65,
       "peakCount": 58,
-      "totalPts": 1518694,
-      "date": "2026-10-24"
+      "totalPts": 1519514,
+      "date": "2026-10-25"
     },
     "la santa grifa-sabanas blancas": {
       "rank": 146,
       "pts": 265,
-      "days": 1651,
+      "days": 1652,
       "peak": 72,
       "peakCount": 102,
-      "totalPts": 454914,
-      "date": "2026-10-24"
+      "totalPts": 455179,
+      "date": "2026-10-25"
     },
     "hombres g-devuã©lveme a mi chica": {
       "rank": 147,
       "pts": 508,
-      "days": 182,
+      "days": 183,
       "peak": 111,
       "peakCount": 45,
-      "totalPts": 87245,
-      "date": "2026-10-24"
+      "totalPts": 87753,
+      "date": "2026-10-25"
     },
     "la oreja de van gogh-rosas": {
       "rank": 148,
       "pts": 439,
-      "days": 287,
+      "days": 288,
       "peak": 51,
       "peakCount": 33,
-      "totalPts": 150172,
-      "date": "2026-10-24"
+      "totalPts": 150611,
+      "date": "2026-10-25"
     },
     "carã­n leã³n-que vuelvas (w/ grupo frontera )": {
       "rank": 149,
       "pts": 819,
-      "days": 755,
+      "days": 756,
       "peak": 53,
       "peakCount": 42,
-      "totalPts": 710916,
-      "date": "2026-10-24"
+      "totalPts": 711735,
+      "date": "2026-10-25"
     },
     "tito double p-5-7 (w/ junior h )": {
       "rank": 150,
       "pts": 603,
-      "days": 187,
+      "days": 188,
       "peak": 112,
       "peakCount": 39,
-      "totalPts": 107464,
-      "date": "2026-10-24"
+      "totalPts": 108067,
+      "date": "2026-10-25"
     },
     "neton vega-/perro fiel (w/ benny blanco )": {
       "rank": 151,
       "pts": 189,
-      "days": 28,
+      "days": 29,
       "peak": 125,
       "peakCount": 15,
-      "totalPts": 5449,
-      "date": "2026-10-24"
+      "totalPts": 5638,
+      "date": "2026-10-25"
     },
     "luis r conriquez-chula vente (w/ fuerza regida , neton vega )": {
       "rank": 152,
       "pts": 410,
-      "days": 1651,
+      "days": 1652,
       "peak": 64,
       "peakCount": 16,
-      "totalPts": 778250,
-      "date": "2026-10-24"
+      "totalPts": 778660,
+      "date": "2026-10-25"
     },
     "rauw alejandro-khã©? (w/ romeo santos )": {
       "rank": 153,
       "pts": 385,
-      "days": 28,
+      "days": 29,
       "peak": 108,
       "peakCount": 11,
-      "totalPts": 11844,
-      "date": "2026-10-24"
+      "totalPts": 12229,
+      "date": "2026-10-25"
     },
     "alemã¡n-te querã­a ver (w/ neton vega )": {
       "rank": 154,
       "pts": 610,
-      "days": 1651,
+      "days": 1652,
       "peak": 74,
       "peakCount": 61,
-      "totalPts": 1118774,
-      "date": "2026-10-24"
+      "totalPts": 1119384,
+      "date": "2026-10-25"
     },
     "victor mendivil-mia (w/ gabito ballesteros )": {
       "rank": 155,
       "pts": 202,
-      "days": 28,
+      "days": 29,
       "peak": 130,
       "peakCount": 23,
-      "totalPts": 5512,
-      "date": "2026-10-24"
+      "totalPts": 5714,
+      "date": "2026-10-25"
     },
     "grupo firme-al final del dã­a": {
       "rank": 156,
       "pts": 125,
-      "days": 17,
+      "days": 18,
       "peak": 138,
       "peakCount": 9,
-      "totalPts": 2167,
-      "date": "2026-10-24"
+      "totalPts": 2292,
+      "date": "2026-10-25"
     },
     "neton vega-mi vida mi muerte": {
       "rank": 157,
       "pts": 309,
-      "days": 187,
+      "days": 188,
       "peak": 100,
       "peakCount": 31,
-      "totalPts": 62315,
-      "date": "2026-10-24"
+      "totalPts": 62624,
+      "date": "2026-10-25"
     },
     "fuerza regida-una cerveza (w/ manuel turizo )": {
       "rank": 158,
       "pts": 427,
-      "days": 148,
+      "days": 149,
       "peak": 107,
       "peakCount": 49,
-      "totalPts": 66224,
-      "date": "2026-10-24"
+      "totalPts": 66651,
+      "date": "2026-10-25"
     },
     "grupo firme-matcha latte (w/ octavio cuadras )": {
       "rank": 159,
       "pts": 140,
-      "days": 13,
+      "days": 14,
       "peak": 159,
-      "peakCount": 13,
-      "totalPts": 1627,
-      "date": "2026-10-24"
+      "peakCount": 14,
+      "totalPts": 1767,
+      "date": "2026-10-25"
     },
     "la adictiva-despuã©s de ti, â¿quiã©n?": {
       "rank": 160,
       "pts": 353,
-      "days": 274,
+      "days": 275,
       "peak": 76,
       "peakCount": 31,
-      "totalPts": 113228,
-      "date": "2026-10-24"
+      "totalPts": 113581,
+      "date": "2026-10-25"
     },
     "duncan dhu-en algãºn lugar": {
       "rank": 161,
       "pts": 183,
-      "days": 159,
+      "days": 160,
       "peak": 55,
       "peakCount": 39,
-      "totalPts": 48306,
-      "date": "2026-10-24"
+      "totalPts": 48489,
+      "date": "2026-10-25"
     },
     "natanael cano-madonna (w/ oscar maydon )": {
       "rank": 162,
       "pts": 920,
-      "days": 1651,
+      "days": 1652,
       "peak": 59,
       "peakCount": 45,
-      "totalPts": 1743477,
-      "date": "2026-10-24"
+      "totalPts": 1744397,
+      "date": "2026-10-25"
     },
     "tombochio-ãltimamente": {
       "rank": 163,
       "pts": 77,
-      "days": 8,
+      "days": 9,
       "peak": 163,
-      "peakCount": 8,
-      "totalPts": 126,
-      "date": "2026-10-24"
+      "peakCount": 9,
+      "totalPts": 203,
+      "date": "2026-10-25"
     },
     "xavi-en privado (w/ manuel turizo )": {
       "rank": 164,
       "pts": 416,
-      "days": 69,
+      "days": 70,
       "peak": 142,
       "peakCount": 22,
-      "totalPts": 27437,
-      "date": "2026-10-24"
+      "totalPts": 27853,
+      "date": "2026-10-25"
     },
     "gianluca grignani-mi historia entre tus dedos - remastered 2020": {
       "rank": 165,
       "pts": 99,
-      "days": 182,
+      "days": 183,
       "peak": 71,
       "peakCount": 61,
-      "totalPts": 31200,
-      "date": "2026-10-24"
+      "totalPts": 31299,
+      "date": "2026-10-25"
     },
     "fuerza regida-por esos ojos": {
       "rank": 166,
       "pts": 551,
-      "days": 132,
+      "days": 133,
       "peak": 96,
       "peakCount": 43,
-      "totalPts": 81814,
-      "date": "2026-10-24"
+      "totalPts": 82365,
+      "date": "2026-10-25"
     },
     "juan freer-los sueã±os se trabajan (w/ legion rg )": {
       "rank": 167,
       "pts": 75,
-      "days": 104,
+      "days": 105,
       "peak": 116,
       "peakCount": 18,
-      "totalPts": 9577,
-      "date": "2026-10-24"
+      "totalPts": 9652,
+      "date": "2026-10-25"
     },
     "caifanes-viento": {
       "rank": 168,
       "pts": 317,
-      "days": 1651,
+      "days": 1652,
       "peak": 62,
       "peakCount": 117,
-      "totalPts": 648576,
-      "date": "2026-10-24"
+      "totalPts": 648893,
+      "date": "2026-10-25"
     },
     "la uniã³n-lobo-hombre en parã­s": {
       "rank": 169,
       "pts": 96,
-      "days": 22,
+      "days": 23,
       "peak": 152,
       "peakCount": 14,
-      "totalPts": 2192,
-      "date": "2026-10-24"
+      "totalPts": 2288,
+      "date": "2026-10-25"
     },
     "grupo arriesgado-ansiedad": {
       "rank": 170,
       "pts": 208,
-      "days": 13,
+      "days": 14,
       "peak": 133,
       "peakCount": 5,
-      "totalPts": 3503,
-      "date": "2026-10-24"
+      "totalPts": 3711,
+      "date": "2026-10-25"
     },
     "zoã©-labios rotos - en vivo": {
       "rank": 171,
       "pts": 280,
-      "days": 182,
+      "days": 183,
       "peak": 115,
       "peakCount": 40,
-      "totalPts": 58341,
-      "date": "2026-10-24"
+      "totalPts": 58621,
+      "date": "2026-10-25"
     },
     "junior h-droga letal (w/ gael valenzuela , peso pluma )": {
       "rank": 172,
       "pts": 205,
-      "days": 1651,
+      "days": 1652,
       "peak": 22,
       "peakCount": 46,
-      "totalPts": 674906,
-      "date": "2026-10-24"
+      "totalPts": 675111,
+      "date": "2026-10-25"
     },
     "eden muã±oz-recuerdos en comãºn (w/ alfredo olivas )": {
       "rank": 173,
       "pts": 90,
-      "days": 844,
+      "days": 845,
       "peak": 19,
       "peakCount": 14,
-      "totalPts": 210425,
-      "date": "2026-10-24"
+      "totalPts": 210515,
+      "date": "2026-10-25"
     },
     "la arrolladora banda el limã³n de rene camacho-ya es muy tarde": {
       "rank": 174,
       "pts": 314,
-      "days": 13,
+      "days": 14,
       "peak": 167,
       "peakCount": 12,
-      "totalPts": 4078,
-      "date": "2026-10-24"
+      "totalPts": 4392,
+      "date": "2026-10-25"
     },
     "peso pluma-lagunas (w/ jasiel nuã±ez )": {
       "rank": 175,
       "pts": 394,
-      "days": 1505,
+      "days": 1506,
       "peak": 62,
       "peakCount": 116,
-      "totalPts": 787309,
-      "date": "2026-10-24"
+      "totalPts": 787703,
+      "date": "2026-10-25"
     },
     "fuerza regida-me jalo (w/ grupo frontera )": {
       "rank": 176,
       "pts": 492,
-      "days": 118,
+      "days": 119,
       "peak": 108,
       "peakCount": 36,
-      "totalPts": 64686,
-      "date": "2026-10-24"
+      "totalPts": 65178,
+      "date": "2026-10-25"
     },
     "tito double p-corazãn partão": {
       "rank": 177,
       "pts": 175,
-      "days": 13,
+      "days": 14,
       "peak": 124,
       "peakCount": 5,
-      "totalPts": 3393,
-      "date": "2026-10-24"
+      "totalPts": 3568,
+      "date": "2026-10-25"
     },
     "la arrolladora banda el limã³n de rene camacho-el ruido de tus zapatos": {
       "rank": 178,
       "pts": 138,
-      "days": 83,
+      "days": 84,
       "peak": 135,
       "peakCount": 16,
-      "totalPts": 11748,
-      "date": "2026-10-24"
+      "totalPts": 11886,
+      "date": "2026-10-25"
     },
     "carã­n leã³n-desde que te tengo": {
       "rank": 179,
       "pts": 85,
-      "days": 13,
+      "days": 14,
       "peak": 155,
       "peakCount": 12,
-      "totalPts": 1609,
-      "date": "2026-10-24"
+      "totalPts": 1694,
+      "date": "2026-10-25"
     },
     "luis miguel-ahora te puedes marchar": {
       "rank": 180,
       "pts": 719,
-      "days": 1349,
+      "days": 1350,
       "peak": 90,
       "peakCount": 115,
-      "totalPts": 1080487,
-      "date": "2026-10-24"
+      "totalPts": 1081206,
+      "date": "2026-10-25"
     },
     "miranda!-tu misterioso alguien": {
       "rank": 181,
       "pts": 50,
-      "days": 28,
+      "days": 29,
       "peak": 104,
       "peakCount": 11,
-      "totalPts": 3016,
-      "date": "2026-10-24"
+      "totalPts": 3066,
+      "date": "2026-10-25"
     },
     "rauw alejandro-quã© pasarã­a... (w/ bad bunny )": {
       "rank": 182,
       "pts": 423,
-      "days": 1088,
+      "days": 1089,
       "peak": 62,
       "peakCount": 53,
-      "totalPts": 617744,
-      "date": "2026-10-24"
+      "totalPts": 618167,
+      "date": "2026-10-25"
     },
     "mon laferte-tu falta de querer": {
       "rank": 183,
       "pts": 385,
-      "days": 663,
+      "days": 664,
       "peak": 86,
       "peakCount": 99,
-      "totalPts": 312334,
-      "date": "2026-10-24"
+      "totalPts": 312719,
+      "date": "2026-10-25"
     },
     "miranda!-perfecta": {
       "rank": 184,
       "pts": 68,
-      "days": 182,
+      "days": 183,
       "peak": 68,
       "peakCount": 44,
-      "totalPts": 34102,
-      "date": "2026-10-24"
+      "totalPts": 34170,
+      "date": "2026-10-25"
     },
     "mon laferte-mi buen amor (w/ bunbury )": {
       "rank": 185,
       "pts": 238,
-      "days": 95,
+      "days": 96,
       "peak": 97,
       "peakCount": 29,
-      "totalPts": 33865,
-      "date": "2026-10-24"
+      "totalPts": 34103,
+      "date": "2026-10-25"
     },
     "neton vega-olimpo (w/ fuerza regida )": {
       "rank": 186,
       "pts": 30,
-      "days": 1,
+      "days": 2,
       "peak": 186,
-      "peakCount": 1,
-      "totalPts": 30,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "totalPts": 60,
+      "date": "2026-10-25"
     },
     "los dareyes de la sierra-frecuencia": {
       "rank": 187,
       "pts": 370,
-      "days": 13,
+      "days": 14,
       "peak": 166,
       "peakCount": 12,
-      "totalPts": 5214,
-      "date": "2026-10-24"
+      "totalPts": 5584,
+      "date": "2026-10-25"
     },
     "carã­n leã³n-ese vato no te queda (w/ gabito ballesteros )": {
       "rank": 188,
       "pts": 252,
-      "days": 13,
+      "days": 14,
       "peak": 100,
       "peakCount": 5,
-      "totalPts": 5278,
-      "date": "2026-10-24"
+      "totalPts": 5530,
+      "date": "2026-10-25"
     },
     "grupo frontera-un x100to (w/ bad bunny )": {
       "rank": 189,
       "pts": 636,
-      "days": 13,
+      "days": 14,
       "peak": 165,
       "peakCount": 12,
-      "totalPts": 8804,
-      "date": "2026-10-24"
+      "totalPts": 9440,
+      "date": "2026-10-25"
     },
     "alfredo olivas-vete": {
       "rank": 190,
       "pts": 437,
-      "days": 13,
+      "days": 14,
       "peak": 181,
       "peakCount": 12,
-      "totalPts": 5802,
-      "date": "2026-10-24"
+      "totalPts": 6239,
+      "date": "2026-10-25"
     },
     "oscar maydon-amigos? no. (w/ neton vega )": {
       "rank": 191,
       "pts": 378,
-      "days": 13,
+      "days": 14,
       "peak": 172,
       "peakCount": 12,
-      "totalPts": 5290,
-      "date": "2026-10-24"
+      "totalPts": 5668,
+      "date": "2026-10-25"
     },
     "el coyote y su banda tierra santa-encerrado": {
       "rank": 192,
       "pts": 27,
-      "days": 28,
+      "days": 29,
       "peak": 67,
       "peakCount": 6,
-      "totalPts": 4281,
-      "date": "2026-10-24"
+      "totalPts": 4308,
+      "date": "2026-10-25"
     },
     "omar camacho-parka (w/ rey quinto )": {
       "rank": 193,
       "pts": 38,
-      "days": 123,
+      "days": 124,
       "peak": 120,
       "peakCount": 27,
-      "totalPts": 14664,
-      "date": "2026-10-24"
+      "totalPts": 14702,
+      "date": "2026-10-25"
     },
     "los enanitos verdes-lamento boliviano": {
       "rank": 194,
       "pts": 355,
-      "days": 22,
+      "days": 23,
       "peak": 165,
       "peakCount": 14,
-      "totalPts": 8344,
-      "date": "2026-10-24"
+      "totalPts": 8699,
+      "date": "2026-10-25"
     },
     "natanael cano-o me voy o te vas": {
       "rank": 195,
       "pts": 443,
-      "days": 13,
+      "days": 14,
       "peak": 185,
       "peakCount": 12,
-      "totalPts": 5909,
-      "date": "2026-10-24"
+      "totalPts": 6352,
+      "date": "2026-10-25"
     },
     "t3r elemento-que te vas": {
       "rank": 196,
       "pts": 12,
-      "days": 28,
+      "days": 29,
       "peak": 143,
       "peakCount": 20,
-      "totalPts": 2610,
-      "date": "2026-10-24"
+      "totalPts": 2622,
+      "date": "2026-10-25"
     },
     "alta consigna-culpable tãº": {
       "rank": 197,
       "pts": 45,
-      "days": 136,
+      "days": 137,
       "peak": 82,
       "peakCount": 33,
-      "totalPts": 26595,
-      "date": "2026-10-24"
+      "totalPts": 26640,
+      "date": "2026-10-25"
     },
     "calle 24-apaga el cel (w/ chino pacas )": {
       "rank": 198,
       "pts": 272,
-      "days": 765,
+      "days": 766,
       "peak": 18,
       "peakCount": 105,
-      "totalPts": 408835,
-      "date": "2026-10-24"
+      "totalPts": 409107,
+      "date": "2026-10-25"
     },
     "tito double p-linda (w/ neton vega )": {
       "rank": 199,
       "pts": 439,
-      "days": 13,
+      "days": 14,
       "peak": 173,
       "peakCount": 5,
-      "totalPts": 6289,
-      "date": "2026-10-24"
+      "totalPts": 6728,
+      "date": "2026-10-25"
     },
     "eley romero-que se siente (w/ adrian l santos )": {
       "rank": 200,
       "pts": 18,
-      "days": 217,
+      "days": 218,
       "peak": 29,
       "peakCount": 30,
-      "totalPts": 46920,
-      "date": "2026-10-24"
+      "totalPts": 46938,
+      "date": "2026-10-25"
     }
   },
   "rows": [
@@ -1813,13 +1813,13 @@
       "streams": 112121962,
       "pts": 547,
       "move": "=",
-      "days": 629,
+      "days": 630,
       "peak": 1,
-      "peakCount": 625,
-      "ptsPlus": 2,
-      "totalPts": 262195,
-      "tpts": 262.195,
-      "date": "2026-10-24"
+      "peakCount": 626,
+      "ptsPlus": 0,
+      "totalPts": 262742,
+      "tpts": 262.742,
+      "date": "2026-10-25"
     },
     {
       "id": "fuerza regida-suzuki (from gtavi: the album) (w/ grand theft auto vi )",
@@ -1829,14 +1829,14 @@
       "track": "Suzuki (from GTAVI: The Album) (w/ Grand Theft Auto VI )",
       "streams": 9985260,
       "pts": 411,
-      "move": "+1",
-      "days": 75,
+      "move": "=",
+      "days": 76,
       "peak": 2,
-      "peakCount": 75,
-      "ptsPlus": 3,
-      "totalPts": 26846,
-      "tpts": 26.846,
-      "date": "2026-10-24"
+      "peakCount": 76,
+      "ptsPlus": 0,
+      "totalPts": 27257,
+      "tpts": 27.257,
+      "date": "2026-10-25"
     },
     {
       "id": "natanael cano-olivia la flaka (w/ tito double p , victor mendivil , ovi )",
@@ -1846,14 +1846,14 @@
       "track": "OLIVIA LA FLAKA (w/ Tito Double P , Victor Mendivil , Ovi )",
       "streams": 40411615,
       "pts": 449,
-      "move": "-1",
-      "days": 136,
+      "move": "=",
+      "days": 137,
       "peak": 1,
       "peakCount": 4,
       "ptsPlus": 0,
-      "totalPts": 58257,
-      "tpts": 58.257,
-      "date": "2026-10-24"
+      "totalPts": 58706,
+      "tpts": 58.706,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-cansada (w/ victoria mendivil )",
@@ -1863,14 +1863,14 @@
       "track": "Cansada (w/ Victoria Mendivil )",
       "streams": 1050031,
       "pts": 395,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 4,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 395,
-      "tpts": 0.395,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 790,
+      "tpts": 0.79,
+      "date": "2026-10-25"
     },
     {
       "id": "neton vega-riki",
@@ -1880,14 +1880,14 @@
       "track": "RIKI",
       "streams": 88669297,
       "pts": 508,
-      "move": "-1",
-      "days": 682,
+      "move": "=",
+      "days": 683,
       "peak": 1,
       "peakCount": 395,
-      "ptsPlus": -1,
-      "totalPts": 297212,
-      "tpts": 297.212,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 297720,
+      "tpts": 297.72,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-fes (w/ omar camacho )",
@@ -1897,14 +1897,14 @@
       "track": "FES (w/ Omar Camacho )",
       "streams": 880457,
       "pts": 391,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 6,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 391,
-      "tpts": 0.391,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 782,
+      "tpts": 0.782,
+      "date": "2026-10-25"
     },
     {
       "id": "neton vega-nalguita y teta",
@@ -1914,14 +1914,14 @@
       "track": "Nalguita y Teta",
       "streams": 221974135,
       "pts": 679,
-      "move": "-2",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 1,
       "peakCount": 972,
-      "ptsPlus": -3,
-      "totalPts": 947094,
-      "tpts": 947.094,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 947773,
+      "tpts": 947.773,
+      "date": "2026-10-25"
     },
     {
       "id": "omar camacho-king of watches",
@@ -1931,14 +1931,14 @@
       "track": "King of Watches",
       "streams": 77797684,
       "pts": 488,
-      "move": "-2",
-      "days": 1314,
+      "move": "=",
+      "days": 1315,
       "peak": 6,
       "peakCount": 407,
-      "ptsPlus": -3,
-      "totalPts": 504884,
-      "tpts": 504.884,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 505372,
+      "tpts": 505.372,
+      "date": "2026-10-25"
     },
     {
       "id": "los dos de tamaulipas-ayãºdame",
@@ -1948,14 +1948,14 @@
       "track": "AyÃºdame",
       "streams": 155669451,
       "pts": 588,
-      "move": "-2",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 2,
       "peakCount": 621,
-      "ptsPlus": -3,
-      "totalPts": 812368,
-      "tpts": 812.368,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 812956,
+      "tpts": 812.956,
+      "date": "2026-10-25"
     },
     {
       "id": "junior h-demencia (w/ gael valenzuela )",
@@ -1965,14 +1965,14 @@
       "track": "DEMENCIA (w/ Gael Valenzuela )",
       "streams": 155259229,
       "pts": 586,
-      "move": "-1",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 4,
       "peakCount": 590,
-      "ptsPlus": -1,
-      "totalPts": 828527,
-      "tpts": 828.527,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 829113,
+      "tpts": 829.113,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-afr1n (w/ omar camacho , $hupe )",
@@ -1982,14 +1982,14 @@
       "track": "Afr1n (w/ Omar Camacho , $HUPE )",
       "streams": 6545080,
       "pts": 389,
-      "move": "+19",
-      "days": 75,
+      "move": "=",
+      "days": 76,
       "peak": 11,
-      "peakCount": 27,
-      "ptsPlus": 39,
-      "totalPts": 25743,
-      "tpts": 25.743,
-      "date": "2026-10-24"
+      "peakCount": 28,
+      "ptsPlus": 0,
+      "totalPts": 26132,
+      "tpts": 26.132,
+      "date": "2026-10-25"
     },
     {
       "id": "natanael cano-mar azul",
@@ -1999,14 +1999,14 @@
       "track": "Mar Azul",
       "streams": 32285837,
       "pts": 420,
-      "move": "-4",
-      "days": 304,
+      "move": "=",
+      "days": 305,
       "peak": 6,
       "peakCount": 7,
-      "ptsPlus": -7,
-      "totalPts": 119516,
-      "tpts": 119.516,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 119936,
+      "tpts": 119.936,
+      "date": "2026-10-25"
     },
     {
       "id": "el rabbanito-dandy hats",
@@ -2016,14 +2016,14 @@
       "track": "Dandy Hats",
       "streams": 51634311,
       "pts": 444,
-      "move": "-3",
-      "days": 780,
+      "move": "=",
+      "days": 781,
       "peak": 4,
       "peakCount": 486,
-      "ptsPlus": -5,
-      "totalPts": 277780,
-      "tpts": 277.78,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 278224,
+      "tpts": 278.224,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-beretta (w/ tito double p )",
@@ -2033,14 +2033,14 @@
       "track": "Beretta (w/ Tito Double P )",
       "streams": 658648,
       "pts": 375,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 14,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 375,
-      "tpts": 0.375,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 750,
+      "tpts": 0.75,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-goldi",
@@ -2050,14 +2050,14 @@
       "track": "Goldi",
       "streams": 658290,
       "pts": 373,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 15,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 373,
-      "tpts": 0.373,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 746,
+      "tpts": 0.746,
+      "date": "2026-10-25"
     },
     {
       "id": "neton vega-pvta luna",
@@ -2067,14 +2067,14 @@
       "track": "Pvta Luna",
       "streams": 341653436,
       "pts": 818,
-      "move": "-5",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 3,
       "peakCount": 175,
-      "ptsPlus": -9,
-      "totalPts": 1268183,
-      "tpts": 1268.183,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1269001,
+      "tpts": 1269.001,
+      "date": "2026-10-25"
     },
     {
       "id": "fuerza regida-caperuza",
@@ -2084,14 +2084,14 @@
       "track": "caperuza",
       "streams": 249658248,
       "pts": 695,
-      "move": "-5",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 11,
       "peakCount": 141,
-      "ptsPlus": -10,
-      "totalPts": 1059569,
-      "tpts": 1059.569,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1060264,
+      "tpts": 1060.264,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-mira como vengo (w/ natanael cano , ovi )",
@@ -2101,14 +2101,14 @@
       "track": "Mira Como Vengo (w/ Natanael Cano , Ovi )",
       "streams": 597187,
       "pts": 367,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 18,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 367,
-      "tpts": 0.367,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 734,
+      "tpts": 0.734,
+      "date": "2026-10-25"
     },
     {
       "id": "aitana-superestrella",
@@ -2118,14 +2118,14 @@
       "track": "SUPERESTRELLA",
       "streams": 122692320,
       "pts": 525,
-      "move": "-6",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 3,
       "peakCount": 175,
-      "ptsPlus": -11,
-      "totalPts": 735454,
-      "tpts": 735.454,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 735979,
+      "tpts": 735.979,
+      "date": "2026-10-25"
     },
     {
       "id": "latin mafia-te estoy correteando (w/ fred again.. )",
@@ -2135,14 +2135,14 @@
       "track": "Te Estoy Correteando (w/ Fred again.. )",
       "streams": 61755103,
       "pts": 443,
-      "move": "-6",
-      "days": 755,
+      "move": "=",
+      "days": 756,
       "peak": 3,
       "peakCount": 247,
-      "ptsPlus": -11,
-      "totalPts": 315731,
-      "tpts": 315.731,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 316174,
+      "tpts": 316.174,
+      "date": "2026-10-25"
     },
     {
       "id": "el bogueto-cuando no era cantante rmx - remix (w/ anuel aa , fuerza regida , yung beef )",
@@ -2152,14 +2152,14 @@
       "track": "Cuando No Era Cantante RMX - Remix (w/ Anuel AA , Fuerza Regida , Yung Beef )",
       "streams": 60729747,
       "pts": 440,
-      "move": "-6",
-      "days": 1160,
+      "move": "=",
+      "days": 1161,
       "peak": 4,
       "peakCount": 23,
-      "ptsPlus": -11,
-      "totalPts": 459360,
-      "tpts": 459.36,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 459800,
+      "tpts": 459.8,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-niã±a mafia",
@@ -2169,14 +2169,14 @@
       "track": "NiÃ±a Mafia",
       "streams": 569355,
       "pts": 359,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 22,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 359,
-      "tpts": 0.359,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 718,
+      "tpts": 0.718,
+      "date": "2026-10-25"
     },
     {
       "id": "lenin ramã­rez-todo lo fue",
@@ -2186,14 +2186,14 @@
       "track": "Todo Lo Fue",
       "streams": 245498059,
       "pts": 678,
-      "move": "-6",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 2,
       "peakCount": 234,
-      "ptsPlus": -11,
-      "totalPts": 1049737,
-      "tpts": 1049.737,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1050415,
+      "tpts": 1050.415,
+      "date": "2026-10-25"
     },
     {
       "id": "oscar maydon-tu boda (w/ fuerza regida )",
@@ -2203,14 +2203,14 @@
       "track": "Tu Boda (w/ Fuerza Regida )",
       "streams": 617048333,
       "pts": 1163,
-      "move": "-8",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 9,
       "peakCount": 47,
-      "ptsPlus": -16,
-      "totalPts": 1850390,
-      "tpts": 1850.39,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1851553,
+      "tpts": 1851.553,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-ganã© (w/ gabito ballesteros )",
@@ -2220,14 +2220,14 @@
       "track": "GanÃ© (w/ Gabito Ballesteros )",
       "streams": 57379534,
       "pts": 427,
-      "move": "-5",
-      "days": 1249,
+      "move": "=",
+      "days": 1250,
       "peak": 15,
       "peakCount": 76,
-      "ptsPlus": -10,
-      "totalPts": 466277,
-      "tpts": 466.277,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 466704,
+      "tpts": 466.704,
+      "date": "2026-10-25"
     },
     {
       "id": "calle 24-noche perfecta (w/ fuerza regida )",
@@ -2237,14 +2237,14 @@
       "track": "Noche Perfecta (w/ Fuerza Regida )",
       "streams": 103930244,
       "pts": 486,
-      "move": "-8",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 4,
       "peakCount": 247,
-      "ptsPlus": -16,
-      "totalPts": 709766,
-      "tpts": 709.766,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 710252,
+      "tpts": 710.252,
+      "date": "2026-10-25"
     },
     {
       "id": "la arrolladora banda el limã³n de rene camacho-el final de nuestra historia",
@@ -2254,14 +2254,14 @@
       "track": "El Final De Nuestra Historia",
       "streams": 458749562,
       "pts": 950,
-      "move": "-5",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 11,
       "peakCount": 186,
-      "ptsPlus": -9,
-      "totalPts": 1513777,
-      "tpts": 1513.777,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1514727,
+      "tpts": 1514.727,
+      "date": "2026-10-25"
     },
     {
       "id": "lenin ramã­rez-polvo rosita",
@@ -2271,14 +2271,14 @@
       "track": "Polvo Rosita",
       "streams": 145667608,
       "pts": 537,
-      "move": "-5",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 4,
       "peakCount": 209,
-      "ptsPlus": -9,
-      "totalPts": 826036,
-      "tpts": 826.036,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 826573,
+      "tpts": 826.573,
+      "date": "2026-10-25"
     },
     {
       "id": "el rabbanito-la formula",
@@ -2288,14 +2288,14 @@
       "track": "La Formula",
       "streams": 65088083,
       "pts": 429,
-      "move": "-8",
-      "days": 1183,
+      "move": "=",
+      "days": 1184,
       "peak": 7,
       "peakCount": 155,
-      "ptsPlus": -16,
-      "totalPts": 467886,
-      "tpts": 467.886,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 468315,
+      "tpts": 468.315,
+      "date": "2026-10-25"
     },
     {
       "id": "peso pluma-daã±o (w/ tito double p )",
@@ -2305,14 +2305,14 @@
       "track": "daÃ±o (w/ Tito Double P )",
       "streams": 282807863,
       "pts": 713,
-      "move": "-11",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 2,
       "peakCount": 27,
-      "ptsPlus": -21,
-      "totalPts": 1139145,
-      "tpts": 1139.145,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1139858,
+      "tpts": 1139.858,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-amã©n",
@@ -2322,14 +2322,14 @@
       "track": "AmÃ©n",
       "streams": 490694,
       "pts": 341,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 31,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 341,
-      "tpts": 0.341,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 682,
+      "tpts": 0.682,
+      "date": "2026-10-25"
     },
     {
       "id": "omar camacho-2+2 (w/ victor mendivil )",
@@ -2339,14 +2339,14 @@
       "track": "2+2 (w/ Victor Mendivil )",
       "streams": 395558610,
       "pts": 857,
-      "move": "-8",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 9,
       "peakCount": 84,
-      "ptsPlus": -15,
-      "totalPts": 1380465,
-      "tpts": 1380.465,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1381322,
+      "tpts": 1381.322,
+      "date": "2026-10-25"
     },
     {
       "id": "moy bobadilla-tus mentiras (en vivo) (w/ grupo firme , max peraza )",
@@ -2356,14 +2356,14 @@
       "track": "Tus Mentiras (En Vivo) (w/ Grupo Firme , Max Peraza )",
       "streams": 146575451,
       "pts": 528,
-      "move": "-5",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 10,
       "peakCount": 148,
-      "ptsPlus": -10,
-      "totalPts": 819539,
-      "tpts": 819.539,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 820067,
+      "tpts": 820.067,
+      "date": "2026-10-25"
     },
     {
       "id": "emmanuel cortes-amor",
@@ -2373,14 +2373,14 @@
       "track": "Amor",
       "streams": 347409423,
       "pts": 790,
-      "move": "-9",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 10,
       "peakCount": 253,
-      "ptsPlus": -17,
-      "totalPts": 1274640,
-      "tpts": 1274.64,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1275430,
+      "tpts": 1275.43,
+      "date": "2026-10-25"
     },
     {
       "id": "fuerza regida-tu sancho",
@@ -2390,14 +2390,14 @@
       "track": "TU SANCHO",
       "streams": 542571309,
       "pts": 1044,
-      "move": "-8",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 1,
       "peakCount": 373,
-      "ptsPlus": -15,
-      "totalPts": 1732038,
-      "tpts": 1732.038,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1733082,
+      "tpts": 1733.082,
+      "date": "2026-10-25"
     },
     {
       "id": "la santa grifa-table dance (w/ chino el don )",
@@ -2407,14 +2407,14 @@
       "track": "Table Dance (w/ Chino El Don )",
       "streams": 37664056,
       "pts": 379,
-      "move": "-10",
-      "days": 799,
+      "move": "=",
+      "days": 800,
       "peak": 11,
       "peakCount": 333,
-      "ptsPlus": -20,
-      "totalPts": 205875,
-      "tpts": 205.875,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 206254,
+      "tpts": 206.254,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-lindsay lohan",
@@ -2424,14 +2424,14 @@
       "track": "Lindsay Lohan",
       "streams": 460585,
       "pts": 329,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 37,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 329,
-      "tpts": 0.329,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 658,
+      "tpts": 0.658,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-3 pa' 3 (w/ cris mj , floyymenor )",
@@ -2441,14 +2441,14 @@
       "track": "3 PA' 3 (w/ Cris MJ , FloyyMenor )",
       "streams": 453645,
       "pts": 327,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 38,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 327,
-      "tpts": 0.327,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 654,
+      "tpts": 0.654,
+      "date": "2026-10-25"
     },
     {
       "id": "fuerza regida-marlboro rojo",
@@ -2458,14 +2458,14 @@
       "track": "Marlboro Rojo",
       "streams": 520428279,
       "pts": 1007,
-      "move": "-10",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 3,
       "peakCount": 282,
-      "ptsPlus": -19,
-      "totalPts": 1681019,
-      "tpts": 1681.019,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1682026,
+      "tpts": 1682.026,
+      "date": "2026-10-25"
     },
     {
       "id": "fuerza regida-excesos",
@@ -2475,14 +2475,14 @@
       "track": "EXCESOS",
       "streams": 290908940,
       "pts": 704,
-      "move": "-9",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 14,
       "peakCount": 187,
-      "ptsPlus": -17,
-      "totalPts": 1126953,
-      "tpts": 1126.953,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1127657,
+      "tpts": 1127.657,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-que cosas",
@@ -2492,14 +2492,14 @@
       "track": "Que Cosas",
       "streams": 442536,
       "pts": 321,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 41,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 321,
-      "tpts": 0.321,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 642,
+      "tpts": 0.642,
+      "date": "2026-10-25"
     },
     {
       "id": "barbas-dã³nde estã¡s (w/ omar camacho )",
@@ -2509,14 +2509,14 @@
       "track": "DÃ³nde estÃ¡s (w/ Omar Camacho )",
       "streams": 16495716,
       "pts": 340,
-      "move": "-10",
-      "days": 235,
+      "move": "=",
+      "days": 236,
       "peak": 27,
       "peakCount": 35,
-      "ptsPlus": -19,
-      "totalPts": 72840,
-      "tpts": 72.84,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 73180,
+      "tpts": 73.18,
+      "date": "2026-10-25"
     },
     {
       "id": "omar camacho-la ciudad del sol (w/ oscar maydon )",
@@ -2526,14 +2526,14 @@
       "track": "La Ciudad del Sol (w/ Oscar Maydon )",
       "streams": 196095602,
       "pts": 573,
-      "move": "-10",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 33,
       "peakCount": 37,
-      "ptsPlus": -20,
-      "totalPts": 792149,
-      "tpts": 792.149,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 792722,
+      "tpts": 792.722,
+      "date": "2026-10-25"
     },
     {
       "id": "omar camacho-4x4 (w/ victor mendivil , angel almaguer , $hupe )",
@@ -2543,14 +2543,14 @@
       "track": "4x4 (w/ Victor Mendivil , Angel Almaguer , $HUPE )",
       "streams": 163405743,
       "pts": 528,
-      "move": "-10",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 12,
       "peakCount": 28,
-      "ptsPlus": -20,
-      "totalPts": 821383,
-      "tpts": 821.383,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 821911,
+      "tpts": 821.911,
+      "date": "2026-10-25"
     },
     {
       "id": "eon-ni tan santx (w/ neton vega , de la rose , l prince )",
@@ -2560,14 +2560,14 @@
       "track": "NI TAN SANTX (w/ Neton Vega , De La Rose , L Prince )",
       "streams": 5158367,
       "pts": 319,
-      "move": "-10",
-      "days": 75,
+      "move": "=",
+      "days": 76,
       "peak": 30,
       "peakCount": 39,
-      "ptsPlus": -19,
-      "totalPts": 21870,
-      "tpts": 21.87,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 22189,
+      "tpts": 22.189,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-vã¡monos",
@@ -2577,14 +2577,14 @@
       "track": "VÃ¡monos",
       "streams": 405024,
       "pts": 311,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 46,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 311,
-      "tpts": 0.311,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 622,
+      "tpts": 0.622,
+      "date": "2026-10-25"
     },
     {
       "id": "fuerza regida-coqueta (w/ grupo frontera )",
@@ -2594,14 +2594,14 @@
       "track": "COQUETA (w/ Grupo Frontera )",
       "streams": 362834299,
       "pts": 784,
-      "move": "-9",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 12,
       "peakCount": 140,
-      "ptsPlus": -18,
-      "totalPts": 1307167,
-      "tpts": 1307.167,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1307951,
+      "tpts": 1307.951,
+      "date": "2026-10-25"
     },
     {
       "id": "chuyin-pues ya ni pedo (w/ fuerza regida )",
@@ -2611,14 +2611,14 @@
       "track": "PUES YA NI PEDO (w/ Fuerza Regida )",
       "streams": 62110305,
       "pts": 387,
-      "move": "-12",
-      "days": 1547,
+      "move": "=",
+      "days": 1548,
       "peak": 26,
       "peakCount": 118,
-      "ptsPlus": -24,
-      "totalPts": 531286,
-      "tpts": 531.286,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 531673,
+      "tpts": 531.673,
+      "date": "2026-10-25"
     },
     {
       "id": "hermanos espinoza-freestyle",
@@ -2628,14 +2628,14 @@
       "track": "FREESTYLE",
       "streams": 67766953,
       "pts": 393,
-      "move": "-12",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 23,
       "peakCount": 227,
-      "ptsPlus": -23,
-      "totalPts": 562522,
-      "tpts": 562.522,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 562915,
+      "tpts": 562.915,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-cereza",
@@ -2645,14 +2645,14 @@
       "track": "Cereza",
       "streams": 376834,
       "pts": 302,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 50,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 302,
-      "tpts": 0.302,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 604,
+      "tpts": 0.604,
+      "date": "2026-10-25"
     },
     {
       "id": "junior h-y lloro",
@@ -2662,14 +2662,14 @@
       "track": "Y LLORO",
       "streams": 702871555,
       "pts": 1222,
-      "move": "-9",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 19,
       "peakCount": 174,
-      "ptsPlus": -18,
-      "totalPts": 2059816,
-      "tpts": 2059.816,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 2061038,
+      "tpts": 2061.038,
+      "date": "2026-10-25"
     },
     {
       "id": "marc seguã­-tiroteo - remix (w/ rauw alejandro , pol granch )",
@@ -2679,14 +2679,14 @@
       "track": "Tiroteo - Remix (w/ Rauw Alejandro , Pol Granch )",
       "streams": 335716850,
       "pts": 738,
-      "move": "-13",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 17,
       "peakCount": 270,
-      "ptsPlus": -26,
-      "totalPts": 1188883,
-      "tpts": 1188.883,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1189621,
+      "tpts": 1189.621,
+      "date": "2026-10-25"
     },
     {
       "id": "danny ocean-me rehãºso",
@@ -2696,14 +2696,14 @@
       "track": "Me RehÃºso",
       "streams": 762510053,
       "pts": 1296,
-      "move": "-10",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 13,
       "peakCount": 207,
-      "ptsPlus": -20,
-      "totalPts": 2196924,
-      "tpts": 2196.924,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 2198220,
+      "tpts": 2198.22,
+      "date": "2026-10-25"
     },
     {
       "id": "calle 24-tãxicos",
@@ -2713,14 +2713,14 @@
       "track": "TÃXICOS",
       "streams": 62799856,
       "pts": 376,
-      "move": "-13",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 41,
       "peakCount": 184,
-      "ptsPlus": -26,
-      "totalPts": 528226,
-      "tpts": 528.226,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 528602,
+      "tpts": 528.602,
+      "date": "2026-10-25"
     },
     {
       "id": "jã³sean log-doma",
@@ -2730,14 +2730,14 @@
       "track": "Doma",
       "streams": 98149232,
       "pts": 421,
-      "move": "-15",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 9,
       "peakCount": 290,
-      "ptsPlus": -29,
-      "totalPts": 706182,
-      "tpts": 706.182,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 706603,
+      "tpts": 706.603,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-peter parker (w/ poncho lkd )",
@@ -2747,14 +2747,14 @@
       "track": "Peter Parker (w/ Poncho LKD )",
       "streams": 369245,
       "pts": 290,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 56,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 290,
-      "tpts": 0.29,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 580,
+      "tpts": 0.58,
+      "date": "2026-10-25"
     },
     {
       "id": "manã¡-oye mi amor",
@@ -2764,14 +2764,14 @@
       "track": "Oye Mi Amor",
       "streams": 166994367,
       "pts": 507,
-      "move": "-13",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 9,
       "peakCount": 264,
-      "ptsPlus": -26,
-      "totalPts": 807491,
-      "tpts": 807.491,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 807998,
+      "tpts": 807.998,
+      "date": "2026-10-25"
     },
     {
       "id": "cardenales de nuevo leã³n-que nadie sepa (w/ los carnales de nuevo leã³n )",
@@ -2781,14 +2781,14 @@
       "track": "Que Nadie Sepa (w/ Los Carnales de Nuevo LeÃ³n )",
       "streams": 26126024,
       "pts": 320,
-      "move": "-2",
-      "days": 444,
+      "move": "=",
+      "days": 445,
       "peak": 17,
       "peakCount": 132,
-      "ptsPlus": -4,
-      "totalPts": 139996,
-      "tpts": 139.996,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 140316,
+      "tpts": 140.316,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-nunca pierdo",
@@ -2798,14 +2798,14 @@
       "track": "Nunca Pierdo",
       "streams": 364661,
       "pts": 284,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 59,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 284,
-      "tpts": 0.284,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 568,
+      "tpts": 0.568,
+      "date": "2026-10-25"
     },
     {
       "id": "calle 24-que onda (w/ chino pacas , fuerza regida )",
@@ -2815,14 +2815,14 @@
       "track": "Que Onda (w/ Chino Pacas , Fuerza Regida )",
       "streams": 724104934,
       "pts": 1232,
-      "move": "-13",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 23,
       "peakCount": 110,
-      "ptsPlus": -26,
-      "totalPts": 2093463,
-      "tpts": 2093.463,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 2094695,
+      "tpts": 2094.695,
+      "date": "2026-10-25"
     },
     {
       "id": "herencia de grandes-ya borracho",
@@ -2832,14 +2832,14 @@
       "track": "Ya Borracho",
       "streams": 261007786,
       "pts": 622,
-      "move": "-12",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 8,
       "peakCount": 111,
-      "ptsPlus": -24,
-      "totalPts": 1094936,
-      "tpts": 1094.936,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1095558,
+      "tpts": 1095.558,
+      "date": "2026-10-25"
     },
     {
       "id": "la la love you-el fin del mundo (w/ axolotes mexicanos )",
@@ -2849,14 +2849,14 @@
       "track": "El Fin del Mundo (w/ Axolotes Mexicanos )",
       "streams": 69216808,
       "pts": 369,
-      "move": "-14",
-      "days": 1514,
+      "move": "=",
+      "days": 1515,
       "peak": 9,
       "peakCount": 245,
-      "ptsPlus": -27,
-      "totalPts": 546742,
-      "tpts": 546.742,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 547111,
+      "tpts": 547.111,
+      "date": "2026-10-25"
     },
     {
       "id": "grupo feroz-condenados",
@@ -2866,14 +2866,14 @@
       "track": "Condenados",
       "streams": 23112836,
       "pts": 306,
-      "move": "-17",
-      "days": 444,
+      "move": "=",
+      "days": 445,
       "peak": 30,
       "peakCount": 118,
-      "ptsPlus": -34,
-      "totalPts": 137663,
-      "tpts": 137.663,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 137969,
+      "tpts": 137.969,
+      "date": "2026-10-25"
     },
     {
       "id": "berner-el chivo (w/ t3r elemento )",
@@ -2883,14 +2883,14 @@
       "track": "El Chivo (w/ T3R Elemento )",
       "streams": 14199793,
       "pts": 293,
-      "move": "-13",
-      "days": 254,
+      "move": "=",
+      "days": 255,
       "peak": 50,
       "peakCount": 63,
-      "ptsPlus": -25,
-      "totalPts": 61178,
-      "tpts": 61.178,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 61471,
+      "tpts": 61.471,
+      "date": "2026-10-25"
     },
     {
       "id": "el bogueto-cuando no era cantante (w/ yung beef )",
@@ -2900,14 +2900,14 @@
       "track": "Cuando No Era Cantante (w/ Yung Beef )",
       "streams": 385384006,
       "pts": 777,
-      "move": "-10",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 12,
       "peakCount": 55,
-      "ptsPlus": -20,
-      "totalPts": 1316653,
-      "tpts": 1316.653,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1317430,
+      "tpts": 1317.43,
+      "date": "2026-10-25"
     },
     {
       "id": "neton vega-/90 60 90 (w/ myke towers )",
@@ -2917,14 +2917,14 @@
       "track": "/90 60 90 (w/ Myke Towers )",
       "streams": 28119577,
       "pts": 307,
-      "move": "-6",
-      "days": 844,
+      "move": "=",
+      "days": 845,
       "peak": 28,
       "peakCount": 232,
-      "ptsPlus": -11,
-      "totalPts": 211688,
-      "tpts": 211.688,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 211995,
+      "tpts": 211.995,
+      "date": "2026-10-25"
     },
     {
       "id": "tito double p-entre tu y yo",
@@ -2934,14 +2934,14 @@
       "track": "ENTRE TU Y YO",
       "streams": 16997177,
       "pts": 290,
-      "move": "-15",
-      "days": 217,
+      "move": "=",
+      "days": 218,
       "peak": 12,
       "peakCount": 37,
-      "ptsPlus": -30,
-      "totalPts": 69293,
-      "tpts": 69.293,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 69583,
+      "tpts": 69.583,
+      "date": "2026-10-25"
     },
     {
       "id": "fuerza regida-ansiedad",
@@ -2951,14 +2951,14 @@
       "track": "ANSIEDAD",
       "streams": 334556442,
       "pts": 705,
-      "move": "-18",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 20,
       "peakCount": 85,
-      "ptsPlus": -36,
-      "totalPts": 1205657,
-      "tpts": 1205.657,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1206362,
+      "tpts": 1206.362,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-coco bongo (w/ malan )",
@@ -2968,14 +2968,14 @@
       "track": "Coco Bongo (w/ Malan )",
       "streams": 352217,
       "pts": 264,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 69,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 264,
-      "tpts": 0.264,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 528,
+      "tpts": 0.528,
+      "date": "2026-10-25"
     },
     {
       "id": "grupo frontera-el amor de su vida (w/ grupo firme )",
@@ -2985,14 +2985,14 @@
       "track": "EL AMOR DE SU VIDA (w/ Grupo Firme )",
       "streams": 585627597,
       "pts": 1030,
-      "move": "-12",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 25,
       "peakCount": 203,
-      "ptsPlus": -24,
-      "totalPts": 1709431,
-      "tpts": 1709.431,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1710461,
+      "tpts": 1710.461,
+      "date": "2026-10-25"
     },
     {
       "id": "karol g-si antes te hubiera conocido",
@@ -3002,14 +3002,14 @@
       "track": "Si Antes Te Hubiera Conocido",
       "streams": 396011372,
       "pts": 779,
-      "move": "-14",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 46,
       "peakCount": 27,
-      "ptsPlus": -28,
-      "totalPts": 1252189,
-      "tpts": 1252.189,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1252968,
+      "tpts": 1252.968,
+      "date": "2026-10-25"
     },
     {
       "id": "rusowsky-neo roneo (w/ latin mafia )",
@@ -3019,14 +3019,14 @@
       "track": "neo roneo (w/ LATIN MAFIA )",
       "streams": 29770814,
       "pts": 297,
-      "move": "-27",
-      "days": 811,
+      "move": "=",
+      "days": 812,
       "peak": 29,
       "peakCount": 297,
-      "ptsPlus": -54,
-      "totalPts": 223760,
-      "tpts": 223.76,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 224057,
+      "tpts": 224.057,
+      "date": "2026-10-25"
     },
     {
       "id": "bts-swim",
@@ -3036,14 +3036,14 @@
       "track": "SWIM",
       "streams": 123426980,
       "pts": 418,
-      "move": "-20",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 8,
       "peakCount": 27,
-      "ptsPlus": -40,
-      "totalPts": 767060,
-      "tpts": 767.06,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 767478,
+      "tpts": 767.478,
+      "date": "2026-10-25"
     },
     {
       "id": "jorsshh-taco el flaco (w/ luis r conriquez , neton vega )",
@@ -3053,14 +3053,14 @@
       "track": "Taco El Flaco (w/ Luis R Conriquez , Neton Vega )",
       "streams": 13926081,
       "pts": 272,
-      "move": "-15",
-      "days": 297,
+      "move": "=",
+      "days": 298,
       "peak": 59,
       "peakCount": 62,
-      "ptsPlus": -30,
-      "totalPts": 46410,
-      "tpts": 46.41,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 46682,
+      "tpts": 46.682,
+      "date": "2026-10-25"
     },
     {
       "id": "natanael cano-perlas negras (w/ gabito ballesteros )",
@@ -3070,14 +3070,14 @@
       "track": "Perlas Negras (w/ Gabito Ballesteros )",
       "streams": 336129518,
       "pts": 693,
-      "move": "-21",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 23,
       "peakCount": 145,
-      "ptsPlus": -42,
-      "totalPts": 1211043,
-      "tpts": 1211.043,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1211736,
+      "tpts": 1211.736,
+      "date": "2026-10-25"
     },
     {
       "id": "neton vega-morena (w/ peso pluma )",
@@ -3087,14 +3087,14 @@
       "track": "Morena (w/ Peso Pluma )",
       "streams": 420661995,
       "pts": 802,
-      "move": "-15",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 61,
       "peakCount": 28,
-      "ptsPlus": -30,
-      "totalPts": 1256955,
-      "tpts": 1256.955,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1257757,
+      "tpts": 1257.757,
+      "date": "2026-10-25"
     },
     {
       "id": "bad bunny-baile inolvidable",
@@ -3104,14 +3104,14 @@
       "track": "BAILE INoLVIDABLE",
       "streams": 380354315,
       "pts": 747,
-      "move": "-14",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 26,
       "peakCount": 50,
-      "ptsPlus": -28,
-      "totalPts": 1294255,
-      "tpts": 1294.255,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1295002,
+      "tpts": 1295.002,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-loco x otra",
@@ -3121,14 +3121,14 @@
       "track": "Loco X Otra",
       "streams": 326665,
       "pts": 246,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 78,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 246,
-      "tpts": 0.246,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 492,
+      "tpts": 0.492,
+      "date": "2026-10-25"
     },
     {
       "id": "neton vega-/turistico",
@@ -3138,14 +3138,14 @@
       "track": "/Turistico",
       "streams": 88640369,
       "pts": 360,
-      "move": "-13",
-      "days": 47,
+      "move": "=",
+      "days": 48,
       "peak": 65,
       "peakCount": 27,
-      "ptsPlus": -26,
-      "totalPts": 11333,
-      "tpts": 11.333,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 11693,
+      "tpts": 11.693,
+      "date": "2026-10-25"
     },
     {
       "id": "grupo firme-el beneficio de la duda",
@@ -3155,14 +3155,14 @@
       "track": "El Beneficio De La Duda",
       "streams": 298307078,
       "pts": 633,
-      "move": "-4",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 39,
       "peakCount": 135,
-      "ptsPlus": -8,
-      "totalPts": 1029633,
-      "tpts": 1029.633,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1030266,
+      "tpts": 1030.266,
+      "date": "2026-10-25"
     },
     {
       "id": "junior h-las noches",
@@ -3172,14 +3172,14 @@
       "track": "LAS NOCHES",
       "streams": 216855793,
       "pts": 524,
-      "move": "-19",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 29,
       "peakCount": 100,
-      "ptsPlus": -38,
-      "totalPts": 926020,
-      "tpts": 926.02,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 926544,
+      "tpts": 926.544,
+      "date": "2026-10-25"
     },
     {
       "id": "bad bunny-dtmf",
@@ -3189,14 +3189,14 @@
       "track": "DtMF",
       "streams": 402101458,
       "pts": 765,
-      "move": "-18",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 35,
       "peakCount": 46,
-      "ptsPlus": -36,
-      "totalPts": 1310290,
-      "tpts": 1310.29,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1311055,
+      "tpts": 1311.055,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-king of watches (w/ neton vega )",
@@ -3206,14 +3206,14 @@
       "track": "King of Watches (w/ Neton Vega )",
       "streams": 137800491,
       "pts": 417,
-      "move": "+38",
-      "days": 17,
+      "move": "=",
+      "days": 18,
       "peak": 83,
-      "peakCount": 17,
-      "ptsPlus": 77,
-      "totalPts": 5201,
-      "tpts": 5.201,
-      "date": "2026-10-24"
+      "peakCount": 18,
+      "ptsPlus": 0,
+      "totalPts": 5618,
+      "tpts": 5.618,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-tj (w/ axel rulay )",
@@ -3223,14 +3223,14 @@
       "track": "TJ (w/ Axel Rulay )",
       "streams": 315587,
       "pts": 234,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 84,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 234,
-      "tpts": 0.234,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 468,
+      "tpts": 0.468,
+      "date": "2026-10-25"
     },
     {
       "id": "tito double p-por sus besos",
@@ -3240,14 +3240,14 @@
       "track": "POR SUS BESOS",
       "streams": 323499821,
       "pts": 656,
-      "move": "-18",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 12,
       "peakCount": 27,
-      "ptsPlus": -36,
-      "totalPts": 1179534,
-      "tpts": 1179.534,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1180190,
+      "tpts": 1180.19,
+      "date": "2026-10-25"
     },
     {
       "id": "junior h-mientras duermes",
@@ -3257,14 +3257,14 @@
       "track": "MIENTRAS DUERMES",
       "streams": 370125930,
       "pts": 715,
-      "move": "-21",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 23,
       "peakCount": 111,
-      "ptsPlus": -42,
-      "totalPts": 1286678,
-      "tpts": 1286.678,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1287393,
+      "tpts": 1287.393,
+      "date": "2026-10-25"
     },
     {
       "id": "espinoza paz-lo intentamos",
@@ -3274,14 +3274,14 @@
       "track": "Lo Intentamos",
       "streams": 25714916,
       "pts": 262,
-      "move": "-10",
-      "days": 79,
+      "move": "=",
+      "days": 80,
       "peak": 77,
       "peakCount": 34,
-      "ptsPlus": -19,
-      "totalPts": 13106,
-      "tpts": 13.106,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 13368,
+      "tpts": 13.368,
+      "date": "2026-10-25"
     },
     {
       "id": "plan b-es un secreto",
@@ -3291,14 +3291,14 @@
       "track": "Es un Secreto",
       "streams": 487845746,
       "pts": 866,
-      "move": "-18",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 42,
       "peakCount": 99,
-      "ptsPlus": -36,
-      "totalPts": 1464537,
-      "tpts": 1464.537,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1465403,
+      "tpts": 1465.403,
+      "date": "2026-10-25"
     },
     {
       "id": "natanael cano-me gusta",
@@ -3308,14 +3308,14 @@
       "track": "Me Gusta",
       "streams": 1415352,
       "pts": 226,
-      "move": "-7",
-      "days": 13,
+      "move": "=",
+      "days": 14,
       "peak": 82,
       "peakCount": 12,
-      "ptsPlus": -13,
-      "totalPts": 3064,
-      "tpts": 3.064,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 3290,
+      "tpts": 3.29,
+      "date": "2026-10-25"
     },
     {
       "id": "karol g-coleccionando heridas (w/ marco antonio solã­s )",
@@ -3325,14 +3325,14 @@
       "track": "Coleccionando Heridas (w/ Marco Antonio SolÃ­s )",
       "streams": 157245017,
       "pts": 428,
-      "move": "-17",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 54,
       "peakCount": 116,
-      "ptsPlus": -34,
-      "totalPts": 628405,
-      "tpts": 628.405,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 628833,
+      "tpts": 628.833,
+      "date": "2026-10-25"
     },
     {
       "id": "peso pluma-tu con el (w/ tito double p )",
@@ -3342,14 +3342,14 @@
       "track": "tu con el (w/ Tito Double P )",
       "streams": 157919162,
       "pts": 427,
-      "move": "-19",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 16,
       "peakCount": 32,
-      "ptsPlus": -38,
-      "totalPts": 792878,
-      "tpts": 792.878,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 793305,
+      "tpts": 793.305,
+      "date": "2026-10-25"
     },
     {
       "id": "peso pluma-dopamina (w/ tito double p )",
@@ -3359,14 +3359,14 @@
       "track": "dopamina (w/ Tito Double P )",
       "streams": 260385000,
       "pts": 559,
-      "move": "-24",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 4,
       "peakCount": 16,
-      "ptsPlus": -48,
-      "totalPts": 1057358,
-      "tpts": 1057.358,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1057917,
+      "tpts": 1057.917,
+      "date": "2026-10-25"
     },
     {
       "id": "neton vega-todo a su tiempo",
@@ -3376,14 +3376,14 @@
       "track": "Todo a Su Tiempo",
       "streams": 255720087,
       "pts": 551,
-      "move": "-24",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 50,
       "peakCount": 69,
-      "ptsPlus": -48,
-      "totalPts": 910359,
-      "tpts": 910.359,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 910910,
+      "tpts": 910.91,
+      "date": "2026-10-25"
     },
     {
       "id": "la factoria-perdã³name (w/ eddy lover )",
@@ -3393,14 +3393,14 @@
       "track": "PerdÃ³name (w/ Eddy Lover )",
       "streams": 86780098,
       "pts": 328,
-      "move": "-14",
-      "days": 87,
+      "move": "=",
+      "days": 88,
       "peak": 62,
       "peakCount": 28,
-      "ptsPlus": -27,
-      "totalPts": 27746,
-      "tpts": 27.746,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 28074,
+      "tpts": 28.074,
+      "date": "2026-10-25"
     },
     {
       "id": "junior h-extssy model",
@@ -3410,14 +3410,14 @@
       "track": "Extssy Model",
       "streams": 558258779,
       "pts": 944,
-      "move": "-20",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 57,
       "peakCount": 64,
-      "ptsPlus": -40,
-      "totalPts": 1552659,
-      "tpts": 1552.659,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1553603,
+      "tpts": 1553.603,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-goet",
@@ -3427,14 +3427,14 @@
       "track": "GOET",
       "streams": 299788329,
       "pts": 603,
-      "move": "+37",
-      "days": 28,
+      "move": "=",
+      "days": 29,
       "peak": 96,
-      "peakCount": 23,
-      "ptsPlus": 74,
-      "totalPts": 12952,
-      "tpts": 12.952,
-      "date": "2026-10-24"
+      "peakCount": 24,
+      "ptsPlus": 0,
+      "totalPts": 13555,
+      "tpts": 13.555,
+      "date": "2026-10-25"
     },
     {
       "id": "junior h-piãnsalo",
@@ -3444,14 +3444,14 @@
       "track": "PIÃNSALO",
       "streams": 409596852,
       "pts": 745,
-      "move": "-18",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 37,
       "peakCount": 86,
-      "ptsPlus": -36,
-      "totalPts": 1322996,
-      "tpts": 1322.996,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1323741,
+      "tpts": 1323.741,
+      "date": "2026-10-25"
     },
     {
       "id": "colmillo norteã±o-sueã±o guajiro",
@@ -3461,14 +3461,14 @@
       "track": "SueÃ±o Guajiro",
       "streams": 41486030,
       "pts": 260,
-      "move": "+19",
-      "days": 83,
+      "move": "=",
+      "days": 84,
       "peak": 31,
       "peakCount": 30,
-      "ptsPlus": 38,
-      "totalPts": 21303,
-      "tpts": 21.303,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 21563,
+      "tpts": 21.563,
+      "date": "2026-10-25"
     },
     {
       "id": "bad bunny-eoo",
@@ -3478,14 +3478,14 @@
       "track": "EoO",
       "streams": 304797890,
       "pts": 604,
-      "move": "-21",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 23,
       "peakCount": 167,
-      "ptsPlus": -42,
-      "totalPts": 1081653,
-      "tpts": 1081.653,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1082257,
+      "tpts": 1082.257,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-bling bling (w/ oscar maydon )",
@@ -3495,14 +3495,14 @@
       "track": "Bling Bling (w/ Oscar Maydon )",
       "streams": 296503,
       "pts": 202,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 100,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 202,
-      "tpts": 0.202,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 404,
+      "tpts": 0.404,
+      "date": "2026-10-25"
     },
     {
       "id": "banda ms de sergio lizã¡rraga-a lo mejor",
@@ -3512,14 +3512,14 @@
       "track": "A Lo Mejor",
       "streams": 95368678,
       "pts": 325,
-      "move": "-18",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 48,
       "peakCount": 183,
-      "ptsPlus": -36,
-      "totalPts": 524455,
-      "tpts": 524.455,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 524780,
+      "tpts": 524.78,
+      "date": "2026-10-25"
     },
     {
       "id": "tito double p-nadie",
@@ -3529,14 +3529,14 @@
       "track": "NADIE",
       "streams": 390416950,
       "pts": 710,
-      "move": "-28",
-      "days": 115,
+      "move": "=",
+      "days": 116,
       "peak": 74,
       "peakCount": 52,
-      "ptsPlus": -56,
-      "totalPts": 75469,
-      "tpts": 75.469,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 76179,
+      "tpts": 76.179,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-alã­state (w/ anuel aa )",
@@ -3546,14 +3546,14 @@
       "track": "AlÃ­state (w/ Anuel AA )",
       "streams": 293304,
       "pts": 196,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 103,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 196,
-      "tpts": 0.196,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 392,
+      "tpts": 0.392,
+      "date": "2026-10-25"
     },
     {
       "id": "5050-ando en la disco (da players town)",
@@ -3563,14 +3563,14 @@
       "track": "Ando En La Disco (Da Players Town)",
       "streams": 5293027,
       "pts": 201,
-      "move": "-33",
-      "days": 95,
+      "move": "=",
+      "days": 96,
       "peak": 68,
       "peakCount": 52,
-      "ptsPlus": -66,
-      "totalPts": 18912,
-      "tpts": 18.912,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 19113,
+      "tpts": 19.113,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-la casa del terror",
@@ -3580,14 +3580,14 @@
       "track": "La Casa del Terror",
       "streams": 288212,
       "pts": 192,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 105,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 192,
-      "tpts": 0.192,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 384,
+      "tpts": 0.384,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-p.v. (w/ fenix flexin )",
@@ -3597,14 +3597,14 @@
       "track": "P.V. (w/ Fenix Flexin )",
       "streams": 105721765,
       "pts": 329,
-      "move": "-21",
-      "days": 123,
+      "move": "=",
+      "days": 124,
       "peak": 85,
       "peakCount": 26,
-      "ptsPlus": -41,
-      "totalPts": 33800,
-      "tpts": 33.8,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 34129,
+      "tpts": 34.129,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-el nueve (w/ $oul9 )",
@@ -3614,14 +3614,14 @@
       "track": "El Nueve (w/ $oul9 )",
       "streams": 284032,
       "pts": 188,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 107,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 188,
-      "tpts": 0.188,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 376,
+      "tpts": 0.376,
+      "date": "2026-10-25"
     },
     {
       "id": "los dos de tamaulipas-gastando verdes",
@@ -3631,14 +3631,14 @@
       "track": "Gastando Verdes",
       "streams": 22292670,
       "pts": 215,
-      "move": "-21",
-      "days": 115,
+      "move": "=",
+      "days": 116,
       "peak": 77,
       "peakCount": 26,
-      "ptsPlus": -42,
-      "totalPts": 20663,
-      "tpts": 20.663,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 20878,
+      "tpts": 20.878,
+      "date": "2026-10-25"
     },
     {
       "id": "belanova-rosa pastel",
@@ -3648,14 +3648,14 @@
       "track": "Rosa Pastel",
       "streams": 432687941,
       "pts": 751,
-      "move": "-28",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 74,
       "peakCount": 68,
-      "ptsPlus": -56,
-      "totalPts": 1228644,
-      "tpts": 1228.644,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1229395,
+      "tpts": 1229.395,
+      "date": "2026-10-25"
     },
     {
       "id": "juliã³n ãlvarez y su norteã±o banda-regalo de dios",
@@ -3665,14 +3665,14 @@
       "track": "Regalo De Dios",
       "streams": 538967243,
       "pts": 889,
-      "move": "-14",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 37,
       "peakCount": 78,
-      "ptsPlus": -28,
-      "totalPts": 1604559,
-      "tpts": 1604.559,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1605448,
+      "tpts": 1605.448,
+      "date": "2026-10-25"
     },
     {
       "id": "cardenales de nuevo leã³n-belleza de cantina",
@@ -3683,13 +3683,13 @@
       "streams": 404013148,
       "pts": 710,
       "move": "=",
-      "days": 1651,
+      "days": 1652,
       "peak": 37,
       "peakCount": 126,
       "ptsPlus": 0,
-      "totalPts": 1219640,
-      "tpts": 1219.64,
-      "date": "2026-10-24"
+      "totalPts": 1220350,
+      "tpts": 1220.35,
+      "date": "2026-10-25"
     },
     {
       "id": "tito double p-me vale v",
@@ -3699,14 +3699,14 @@
       "track": "ME VALE V",
       "streams": 65058482,
       "pts": 263,
-      "move": "-28",
-      "days": 1349,
+      "move": "=",
+      "days": 1350,
       "peak": 8,
       "peakCount": 11,
-      "ptsPlus": -56,
-      "totalPts": 526072,
-      "tpts": 526.072,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 526335,
+      "tpts": 526.335,
+      "date": "2026-10-25"
     },
     {
       "id": "bobby pulido-se muriã³ de amor",
@@ -3716,14 +3716,14 @@
       "track": "Se MuriÃ³ De Amor",
       "streams": 15299460,
       "pts": 196,
-      "move": "-27",
-      "days": 52,
+      "move": "=",
+      "days": 53,
       "peak": 86,
       "peakCount": 42,
-      "ptsPlus": -54,
-      "totalPts": 6415,
-      "tpts": 6.415,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 6611,
+      "tpts": 6.611,
+      "date": "2026-10-25"
     },
     {
       "id": "caifanes-afuera",
@@ -3733,14 +3733,14 @@
       "track": "Afuera",
       "streams": 158924822,
       "pts": 382,
-      "move": "-24",
-      "days": 1514,
+      "move": "=",
+      "days": 1515,
       "peak": 61,
       "peakCount": 129,
-      "ptsPlus": -48,
-      "totalPts": 537346,
-      "tpts": 537.346,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 537728,
+      "tpts": 537.728,
+      "date": "2026-10-25"
     },
     {
       "id": "moy bobadilla-corazã³n",
@@ -3750,14 +3750,14 @@
       "track": "CorazÃ³n",
       "streams": 35495011,
       "pts": 219,
-      "move": "-5",
-      "days": 13,
+      "move": "=",
+      "days": 14,
       "peak": 110,
       "peakCount": 12,
-      "ptsPlus": -9,
-      "totalPts": 2745,
-      "tpts": 2.745,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 2964,
+      "tpts": 2.964,
+      "date": "2026-10-25"
     },
     {
       "id": "peso pluma-hollywood (w/ estevan plazola )",
@@ -3767,14 +3767,14 @@
       "track": "HOLLYWOOD (w/ Estevan Plazola )",
       "streams": 414198138,
       "pts": 713,
-      "move": "-19",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 49,
       "peakCount": 116,
-      "ptsPlus": -38,
-      "totalPts": 1318990,
-      "tpts": 1318.99,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1319703,
+      "tpts": 1319.703,
+      "date": "2026-10-25"
     },
     {
       "id": "los dos de tamaulipas-paciencia",
@@ -3784,14 +3784,14 @@
       "track": "Paciencia",
       "streams": 1483727,
       "pts": 170,
-      "move": "-28",
-      "days": 28,
+      "move": "=",
+      "days": 29,
       "peak": 83,
       "peakCount": 16,
-      "ptsPlus": -56,
-      "totalPts": 4134,
-      "tpts": 4.134,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 4304,
+      "tpts": 4.304,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-la manera (w/ snow tha product )",
@@ -3801,14 +3801,14 @@
       "track": "La Manera (w/ Snow Tha Product )",
       "streams": 272977,
       "pts": 166,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 118,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 166,
-      "tpts": 0.166,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 332,
+      "tpts": 0.332,
+      "date": "2026-10-25"
     },
     {
       "id": "la arrolladora banda el limã³n de rene camacho-mi segunda vida",
@@ -3818,14 +3818,14 @@
       "track": "Mi Segunda Vida",
       "streams": 228355060,
       "pts": 463,
-      "move": "+10",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 62,
       "peakCount": 108,
-      "ptsPlus": 20,
-      "totalPts": 778788,
-      "tpts": 778.788,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 779251,
+      "tpts": 779.251,
+      "date": "2026-10-25"
     },
     {
       "id": "alfredo olivas-el precio de la soledad",
@@ -3835,14 +3835,14 @@
       "track": "El Precio De La Soledad",
       "streams": 480915464,
       "pts": 793,
-      "move": "-14",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 38,
       "peakCount": 111,
-      "ptsPlus": -28,
-      "totalPts": 1410079,
-      "tpts": 1410.079,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1410872,
+      "tpts": 1410.872,
+      "date": "2026-10-25"
     },
     {
       "id": "peso pluma-ni pedo (w/ tito double p )",
@@ -3852,14 +3852,14 @@
       "track": "ni pedo (w/ Tito Double P )",
       "streams": 142346244,
       "pts": 347,
-      "move": "-33",
-      "days": 17,
+      "move": "=",
+      "days": 18,
       "peak": 84,
       "peakCount": 9,
-      "ptsPlus": -65,
-      "totalPts": 6179,
-      "tpts": 6.179,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 6526,
+      "tpts": 6.526,
+      "date": "2026-10-25"
     },
     {
       "id": "bobby pulido-desvelado",
@@ -3869,14 +3869,14 @@
       "track": "Desvelado",
       "streams": 196451615,
       "pts": 416,
-      "move": "-9",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 37,
       "peakCount": 136,
-      "ptsPlus": -17,
-      "totalPts": 748703,
-      "tpts": 748.703,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 749119,
+      "tpts": 749.119,
+      "date": "2026-10-25"
     },
     {
       "id": "junior h-tres botellas",
@@ -3886,14 +3886,14 @@
       "track": "TRES BOTELLAS",
       "streams": 354559662,
       "pts": 621,
-      "move": "-30",
-      "days": 1088,
+      "move": "=",
+      "days": 1089,
       "peak": 56,
       "peakCount": 41,
-      "ptsPlus": -60,
-      "totalPts": 710243,
-      "tpts": 710.243,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 710864,
+      "tpts": 710.864,
+      "date": "2026-10-25"
     },
     {
       "id": "fuerza regida-chavalitas",
@@ -3903,14 +3903,14 @@
       "track": "CHAVALITAS",
       "streams": 280445478,
       "pts": 522,
-      "move": "-21",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 4,
       "peakCount": 137,
-      "ptsPlus": -42,
-      "totalPts": 1060702,
-      "tpts": 1060.702,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1061224,
+      "tpts": 1061.224,
+      "date": "2026-10-25"
     },
     {
       "id": "calle 24-suiza",
@@ -3920,14 +3920,14 @@
       "track": "SUIZA",
       "streams": 321313700,
       "pts": 573,
-      "move": "-31",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 52,
       "peakCount": 129,
-      "ptsPlus": -62,
-      "totalPts": 1088968,
-      "tpts": 1088.968,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1089541,
+      "tpts": 1089.541,
+      "date": "2026-10-25"
     },
     {
       "id": "gabito ballesteros-7 dãas (w/ tito double p )",
@@ -3937,14 +3937,14 @@
       "track": "7 DÃAS (w/ Tito Double P )",
       "streams": 126659473,
       "pts": 316,
-      "move": "-17",
-      "days": 169,
+      "move": "=",
+      "days": 170,
       "peak": 109,
       "peakCount": 43,
-      "ptsPlus": -34,
-      "totalPts": 44642,
-      "tpts": 44.642,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 44958,
+      "tpts": 44.958,
+      "date": "2026-10-25"
     },
     {
       "id": "peso pluma-7-3 (w/ tito double p )",
@@ -3954,14 +3954,14 @@
       "track": "7-3 (w/ Tito Double P )",
       "streams": 208692589,
       "pts": 422,
-      "move": "-13",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 8,
       "peakCount": 16,
-      "ptsPlus": -25,
-      "totalPts": 892280,
-      "tpts": 892.28,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 892702,
+      "tpts": 892.702,
+      "date": "2026-10-25"
     },
     {
       "id": "la mosca-para no verte mã¡s",
@@ -3971,14 +3971,14 @@
       "track": "Para No Verte MÃ¡s",
       "streams": 19601774,
       "pts": 172,
-      "move": "-26",
-      "days": 32,
+      "move": "=",
+      "days": 33,
       "peak": 79,
       "peakCount": 15,
-      "ptsPlus": -51,
-      "totalPts": 6620,
-      "tpts": 6.62,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 6792,
+      "tpts": 6.792,
+      "date": "2026-10-25"
     },
     {
       "id": "calle 24-ultimamente (w/ fuerza regida , chino pacas )",
@@ -3988,14 +3988,14 @@
       "track": "ULTIMAMENTE (w/ Fuerza Regida , Chino Pacas )",
       "streams": 118137333,
       "pts": 299,
-      "move": "-28",
-      "days": 127,
+      "move": "=",
+      "days": 128,
       "peak": 79,
       "peakCount": 23,
-      "ptsPlus": -56,
-      "totalPts": 39933,
-      "tpts": 39.933,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 40232,
+      "tpts": 40.232,
+      "date": "2026-10-25"
     },
     {
       "id": "edicion especial-si es posible",
@@ -4005,14 +4005,14 @@
       "track": "Si Es Posible",
       "streams": 25523070,
       "pts": 175,
-      "move": "-32",
-      "days": 187,
+      "move": "=",
+      "days": 188,
       "peak": 43,
       "peakCount": 32,
-      "ptsPlus": -64,
-      "totalPts": 37486,
-      "tpts": 37.486,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 37661,
+      "tpts": 37.661,
+      "date": "2026-10-25"
     },
     {
       "id": "fuerza regida-pero no te enamores",
@@ -4022,14 +4022,14 @@
       "track": "PERO NO TE ENAMORES",
       "streams": 244632664,
       "pts": 461,
-      "move": "-36",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 38,
       "peakCount": 81,
-      "ptsPlus": -72,
-      "totalPts": 909609,
-      "tpts": 909.609,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 910070,
+      "tpts": 910.07,
+      "date": "2026-10-25"
     },
     {
       "id": "los dareyes de la sierra-matcha",
@@ -4039,14 +4039,14 @@
       "track": "MATCHA",
       "streams": 63342449,
       "pts": 221,
-      "move": "-40",
-      "days": 1535,
+      "move": "=",
+      "days": 1536,
       "peak": 18,
       "peakCount": 222,
-      "ptsPlus": -80,
-      "totalPts": 534461,
-      "tpts": 534.461,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 534682,
+      "tpts": 534.682,
+      "date": "2026-10-25"
     },
     {
       "id": "j balvin-la canciãn (w/ bad bunny )",
@@ -4056,14 +4056,14 @@
       "track": "LA CANCIÃN (w/ Bad Bunny )",
       "streams": 752970165,
       "pts": 1123,
-      "move": "-34",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 62,
       "peakCount": 53,
-      "ptsPlus": -69,
-      "totalPts": 2000190,
-      "tpts": 2000.19,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 2001313,
+      "tpts": 2001.313,
+      "date": "2026-10-25"
     },
     {
       "id": "zoã©-luna - live",
@@ -4073,14 +4073,14 @@
       "track": "Luna - Live",
       "streams": 39788225,
       "pts": 186,
-      "move": "-3",
-      "days": 159,
+      "move": "=",
+      "days": 160,
       "peak": 66,
       "peakCount": 27,
-      "ptsPlus": -6,
-      "totalPts": 33686,
-      "tpts": 33.686,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 33872,
+      "tpts": 33.872,
+      "date": "2026-10-25"
     },
     {
       "id": "maluma-borro cassette",
@@ -4090,14 +4090,14 @@
       "track": "Borro Cassette",
       "streams": 306506668,
       "pts": 534,
-      "move": "-27",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 63,
       "peakCount": 186,
-      "ptsPlus": -54,
-      "totalPts": 934709,
-      "tpts": 934.709,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 935243,
+      "tpts": 935.243,
+      "date": "2026-10-25"
     },
     {
       "id": "bad bunny-diles (w/ ozuna , farruko , arcã¡ngel , ãengo flow , dj luian , mambo kingz )",
@@ -4107,14 +4107,14 @@
       "track": "Diles (w/ Ozuna , Farruko , ArcÃ¡ngel , Ãengo Flow , DJ Luian , Mambo Kingz )",
       "streams": 209156519,
       "pts": 404,
-      "move": "-24",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 56,
       "peakCount": 184,
-      "ptsPlus": -48,
-      "totalPts": 723814,
-      "tpts": 723.814,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 724218,
+      "tpts": 724.218,
+      "date": "2026-10-25"
     },
     {
       "id": "chuyin-pues que le hago ?",
@@ -4124,14 +4124,14 @@
       "track": "PUES QUE LE HAGO ?",
       "streams": 136038909,
       "pts": 306,
-      "move": "-46",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 10,
       "peakCount": 50,
-      "ptsPlus": -92,
-      "totalPts": 729254,
-      "tpts": 729.254,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 729560,
+      "tpts": 729.56,
+      "date": "2026-10-25"
     },
     {
       "id": "neton vega-loco",
@@ -4141,14 +4141,14 @@
       "track": "Loco",
       "streams": 379181693,
       "pts": 623,
-      "move": "-15",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 81,
       "peakCount": 156,
-      "ptsPlus": -30,
-      "totalPts": 1038771,
-      "tpts": 1038.771,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1039394,
+      "tpts": 1039.394,
+      "date": "2026-10-25"
     },
     {
       "id": "peso pluma-chiclona (w/ tito double p , lencho )",
@@ -4158,14 +4158,14 @@
       "track": "chiclona (w/ Tito Double P , LENCHO )",
       "streams": 130135892,
       "pts": 295,
-      "move": "-7",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 10,
       "peakCount": 55,
-      "ptsPlus": -13,
-      "totalPts": 726636,
-      "tpts": 726.636,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 726931,
+      "tpts": 726.931,
+      "date": "2026-10-25"
     },
     {
       "id": "feid-luna (w/ atl jacob )",
@@ -4175,14 +4175,14 @@
       "track": "LUNA (w/ ATL Jacob )",
       "streams": 387358690,
       "pts": 630,
-      "move": "-15",
-      "days": 115,
+      "move": "=",
+      "days": 116,
       "peak": 85,
       "peakCount": 22,
-      "ptsPlus": -30,
-      "totalPts": 78697,
-      "tpts": 78.697,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 79327,
+      "tpts": 79.327,
+      "date": "2026-10-25"
     },
     {
       "id": "luis r conriquez-que gacho (w/ neton vega )",
@@ -4192,14 +4192,14 @@
       "track": "Que Gacho (w/ Neton Vega )",
       "streams": 32037853,
       "pts": 162,
-      "move": "-37",
-      "days": 32,
+      "move": "=",
+      "days": 33,
       "peak": 101,
       "peakCount": 15,
-      "ptsPlus": -74,
-      "totalPts": 5828,
-      "tpts": 5.828,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 5990,
+      "tpts": 5.99,
+      "date": "2026-10-25"
     },
     {
       "id": "eden muã±oz-como en los viejos tiempos",
@@ -4209,14 +4209,14 @@
       "track": "Como En Los Viejos Tiempos",
       "streams": 102196372,
       "pts": 252,
-      "move": "-22",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 65,
       "peakCount": 102,
-      "ptsPlus": -44,
-      "totalPts": 508396,
-      "tpts": 508.396,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 508648,
+      "tpts": 508.648,
+      "date": "2026-10-25"
     },
     {
       "id": "juan gabriel-abrã¡zame muy fuerte",
@@ -4226,14 +4226,14 @@
       "track": "AbrÃ¡zame Muy Fuerte",
       "streams": 42181901,
       "pts": 171,
-      "move": "+16",
-      "days": 274,
+      "move": "=",
+      "days": 275,
       "peak": 67,
       "peakCount": 33,
-      "ptsPlus": 32,
-      "totalPts": 49347,
-      "tpts": 49.347,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 49518,
+      "tpts": 49.518,
+      "date": "2026-10-25"
     },
     {
       "id": "virlan garcia-mi entorno",
@@ -4243,14 +4243,14 @@
       "track": "Mi Entorno",
       "streams": 183080524,
       "pts": 354,
-      "move": "-28",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 25,
       "peakCount": 78,
-      "ptsPlus": -56,
-      "totalPts": 828194,
-      "tpts": 828.194,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 828548,
+      "tpts": 828.548,
+      "date": "2026-10-25"
     },
     {
       "id": "tito double p-dos dãas (w/ peso pluma )",
@@ -4260,14 +4260,14 @@
       "track": "DOS DÃAS (w/ Peso Pluma )",
       "streams": 539973989,
       "pts": 820,
-      "move": "-26",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 65,
       "peakCount": 58,
-      "ptsPlus": -52,
-      "totalPts": 1518694,
-      "tpts": 1518.694,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1519514,
+      "tpts": 1519.514,
+      "date": "2026-10-25"
     },
     {
       "id": "la santa grifa-sabanas blancas",
@@ -4277,14 +4277,14 @@
       "track": "Sabanas Blancas",
       "streams": 117870537,
       "pts": 265,
-      "move": "-41",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 72,
       "peakCount": 102,
-      "ptsPlus": -81,
-      "totalPts": 454914,
-      "tpts": 454.914,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 455179,
+      "tpts": 455.179,
+      "date": "2026-10-25"
     },
     {
       "id": "hombres g-devuã©lveme a mi chica",
@@ -4294,14 +4294,14 @@
       "track": "DevuÃ©lveme a mi chica",
       "streams": 305220780,
       "pts": 508,
-      "move": "-25",
-      "days": 182,
+      "move": "=",
+      "days": 183,
       "peak": 111,
       "peakCount": 45,
-      "ptsPlus": -50,
-      "totalPts": 87245,
-      "tpts": 87.245,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 87753,
+      "tpts": 87.753,
+      "date": "2026-10-25"
     },
     {
       "id": "la oreja de van gogh-rosas",
@@ -4311,14 +4311,14 @@
       "track": "Rosas",
       "streams": 254269130,
       "pts": 439,
-      "move": "-48",
-      "days": 287,
+      "move": "=",
+      "days": 288,
       "peak": 51,
       "peakCount": 33,
-      "ptsPlus": -96,
-      "totalPts": 150172,
-      "tpts": 150.172,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 150611,
+      "tpts": 150.611,
+      "date": "2026-10-25"
     },
     {
       "id": "carã­n leã³n-que vuelvas (w/ grupo frontera )",
@@ -4328,14 +4328,14 @@
       "track": "Que Vuelvas (w/ Grupo Frontera )",
       "streams": 545419876,
       "pts": 819,
-      "move": "-4",
-      "days": 755,
+      "move": "=",
+      "days": 756,
       "peak": 53,
       "peakCount": 42,
-      "ptsPlus": -8,
-      "totalPts": 710916,
-      "tpts": 710.916,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 711735,
+      "tpts": 711.735,
+      "date": "2026-10-25"
     },
     {
       "id": "tito double p-5-7 (w/ junior h )",
@@ -4345,14 +4345,14 @@
       "track": "5-7 (w/ Junior H )",
       "streams": 381998818,
       "pts": 603,
-      "move": "-24",
-      "days": 187,
+      "move": "=",
+      "days": 188,
       "peak": 112,
       "peakCount": 39,
-      "ptsPlus": -48,
-      "totalPts": 107464,
-      "tpts": 107.464,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 108067,
+      "tpts": 108.067,
+      "date": "2026-10-25"
     },
     {
       "id": "neton vega-/perro fiel (w/ benny blanco )",
@@ -4362,14 +4362,14 @@
       "track": "/Perro Fiel (w/ benny blanco )",
       "streams": 67594259,
       "pts": 189,
-      "move": "+3",
-      "days": 28,
+      "move": "=",
+      "days": 29,
       "peak": 125,
       "peakCount": 15,
-      "ptsPlus": 7,
-      "totalPts": 5449,
-      "tpts": 5.449,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 5638,
+      "tpts": 5.638,
+      "date": "2026-10-25"
     },
     {
       "id": "luis r conriquez-chula vente (w/ fuerza regida , neton vega )",
@@ -4379,14 +4379,14 @@
       "track": "Chula Vente (w/ Fuerza Regida , Neton Vega )",
       "streams": 237612859,
       "pts": 410,
-      "move": "-12",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 64,
       "peakCount": 16,
-      "ptsPlus": -23,
-      "totalPts": 778250,
-      "tpts": 778.25,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 778660,
+      "tpts": 778.66,
+      "date": "2026-10-25"
     },
     {
       "id": "rauw alejandro-khã©? (w/ romeo santos )",
@@ -4396,14 +4396,14 @@
       "track": "KhÃ©? (w/ Romeo Santos )",
       "streams": 220714965,
       "pts": 385,
-      "move": "-11",
-      "days": 28,
+      "move": "=",
+      "days": 29,
       "peak": 108,
       "peakCount": 11,
-      "ptsPlus": -22,
-      "totalPts": 11844,
-      "tpts": 11.844,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 12229,
+      "tpts": 12.229,
+      "date": "2026-10-25"
     },
     {
       "id": "alemã¡n-te querã­a ver (w/ neton vega )",
@@ -4413,14 +4413,14 @@
       "track": "Te QuerÃ­a Ver (w/ Neton Vega )",
       "streams": 393756730,
       "pts": 610,
-      "move": "-18",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 74,
       "peakCount": 61,
-      "ptsPlus": -36,
-      "totalPts": 1118774,
-      "tpts": 1118.774,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1119384,
+      "tpts": 1119.384,
+      "date": "2026-10-25"
     },
     {
       "id": "victor mendivil-mia (w/ gabito ballesteros )",
@@ -4430,14 +4430,14 @@
       "track": "Mia (w/ Gabito Ballesteros )",
       "streams": 83771008,
       "pts": 202,
-      "move": "-25",
-      "days": 28,
+      "move": "=",
+      "days": 29,
       "peak": 130,
       "peakCount": 23,
-      "ptsPlus": -50,
-      "totalPts": 5512,
-      "tpts": 5.512,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 5714,
+      "tpts": 5.714,
+      "date": "2026-10-25"
     },
     {
       "id": "grupo firme-al final del dã­a",
@@ -4447,14 +4447,14 @@
       "track": "Al Final Del DÃ­a",
       "streams": 26506903,
       "pts": 125,
-      "move": "-5",
-      "days": 17,
+      "move": "=",
+      "days": 18,
       "peak": 138,
       "peakCount": 9,
-      "ptsPlus": -9,
-      "totalPts": 2167,
-      "tpts": 2.167,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 2292,
+      "tpts": 2.292,
+      "date": "2026-10-25"
     },
     {
       "id": "neton vega-mi vida mi muerte",
@@ -4464,14 +4464,14 @@
       "track": "Mi Vida Mi Muerte",
       "streams": 168269784,
       "pts": 309,
-      "move": "-8",
-      "days": 187,
+      "move": "=",
+      "days": 188,
       "peak": 100,
       "peakCount": 31,
-      "ptsPlus": -15,
-      "totalPts": 62315,
-      "tpts": 62.315,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 62624,
+      "tpts": 62.624,
+      "date": "2026-10-25"
     },
     {
       "id": "fuerza regida-una cerveza (w/ manuel turizo )",
@@ -4481,14 +4481,14 @@
       "track": "UNA CERVEZA (w/ Manuel Turizo )",
       "streams": 260032037,
       "pts": 427,
-      "move": "-40",
-      "days": 148,
+      "move": "=",
+      "days": 149,
       "peak": 107,
       "peakCount": 49,
-      "ptsPlus": -80,
-      "totalPts": 66224,
-      "tpts": 66.224,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 66651,
+      "tpts": 66.651,
+      "date": "2026-10-25"
     },
     {
       "id": "grupo firme-matcha latte (w/ octavio cuadras )",
@@ -4498,14 +4498,14 @@
       "track": "Matcha Latte (w/ Octavio Cuadras )",
       "streams": 42611210,
       "pts": 140,
-      "move": "+2",
-      "days": 13,
+      "move": "=",
+      "days": 14,
       "peak": 159,
-      "peakCount": 13,
-      "ptsPlus": 4,
-      "totalPts": 1627,
-      "tpts": 1.627,
-      "date": "2026-10-24"
+      "peakCount": 14,
+      "ptsPlus": 0,
+      "totalPts": 1767,
+      "tpts": 1.767,
+      "date": "2026-10-25"
     },
     {
       "id": "la adictiva-despuã©s de ti, â¿quiã©n?",
@@ -4515,14 +4515,14 @@
       "track": "DespuÃ©s de Ti, Â¿QuiÃ©n?",
       "streams": 206875614,
       "pts": 353,
-      "move": "+4",
-      "days": 274,
+      "move": "=",
+      "days": 275,
       "peak": 76,
       "peakCount": 31,
-      "ptsPlus": 8,
-      "totalPts": 113228,
-      "tpts": 113.228,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 113581,
+      "tpts": 113.581,
+      "date": "2026-10-25"
     },
     {
       "id": "duncan dhu-en algãºn lugar",
@@ -4532,14 +4532,14 @@
       "track": "En algÃºn lugar",
       "streams": 78474355,
       "pts": 183,
-      "move": "-27",
-      "days": 159,
+      "move": "=",
+      "days": 160,
       "peak": 55,
       "peakCount": 39,
-      "ptsPlus": -54,
-      "totalPts": 48306,
-      "tpts": 48.306,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 48489,
+      "tpts": 48.489,
+      "date": "2026-10-25"
     },
     {
       "id": "natanael cano-madonna (w/ oscar maydon )",
@@ -4549,14 +4549,14 @@
       "track": "Madonna (w/ Oscar Maydon )",
       "streams": 641883357,
       "pts": 920,
-      "move": "-34",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 59,
       "peakCount": 45,
-      "ptsPlus": -68,
-      "totalPts": 1743477,
-      "tpts": 1743.477,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1744397,
+      "tpts": 1744.397,
+      "date": "2026-10-25"
     },
     {
       "id": "tombochio-ãltimamente",
@@ -4566,14 +4566,14 @@
       "track": "ÃLTIMAMENTE",
       "streams": 686591,
       "pts": 77,
-      "move": "+35",
-      "days": 8,
+      "move": "=",
+      "days": 9,
       "peak": 163,
-      "peakCount": 8,
-      "ptsPlus": 70,
-      "totalPts": 126,
-      "tpts": 0.126,
-      "date": "2026-10-24"
+      "peakCount": 9,
+      "ptsPlus": 0,
+      "totalPts": 203,
+      "tpts": 0.203,
+      "date": "2026-10-25"
     },
     {
       "id": "xavi-en privado (w/ manuel turizo )",
@@ -4583,14 +4583,14 @@
       "track": "En Privado (w/ Manuel Turizo )",
       "streams": 260867646,
       "pts": 416,
-      "move": "-16",
-      "days": 69,
+      "move": "=",
+      "days": 70,
       "peak": 142,
       "peakCount": 22,
-      "ptsPlus": -32,
-      "totalPts": 27437,
-      "tpts": 27.437,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 27853,
+      "tpts": 27.853,
+      "date": "2026-10-25"
     },
     {
       "id": "gianluca grignani-mi historia entre tus dedos - remastered 2020",
@@ -4600,14 +4600,14 @@
       "track": "Mi Historia Entre Tus Dedos - Remastered 2020",
       "streams": 20563070,
       "pts": 99,
-      "move": "-41",
-      "days": 182,
+      "move": "=",
+      "days": 183,
       "peak": 71,
       "peakCount": 61,
-      "ptsPlus": -82,
-      "totalPts": 31200,
-      "tpts": 31.2,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 31299,
+      "tpts": 31.299,
+      "date": "2026-10-25"
     },
     {
       "id": "fuerza regida-por esos ojos",
@@ -4617,14 +4617,14 @@
       "track": "Por Esos Ojos",
       "streams": 366916697,
       "pts": 551,
-      "move": "-29",
-      "days": 132,
+      "move": "=",
+      "days": 133,
       "peak": 96,
       "peakCount": 43,
-      "ptsPlus": -58,
-      "totalPts": 81814,
-      "tpts": 81.814,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 82365,
+      "tpts": 82.365,
+      "date": "2026-10-25"
     },
     {
       "id": "juan freer-los sueã±os se trabajan (w/ legion rg )",
@@ -4634,14 +4634,14 @@
       "track": "Los SueÃ±os Se Trabajan (w/ Legion RG )",
       "streams": 5444422,
       "pts": 75,
-      "move": "-40",
-      "days": 104,
+      "move": "=",
+      "days": 105,
       "peak": 116,
       "peakCount": 18,
-      "ptsPlus": -80,
-      "totalPts": 9577,
-      "tpts": 9.577,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 9652,
+      "tpts": 9.652,
+      "date": "2026-10-25"
     },
     {
       "id": "caifanes-viento",
@@ -4651,14 +4651,14 @@
       "track": "Viento",
       "streams": 191318468,
       "pts": 317,
-      "move": "-22",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 62,
       "peakCount": 117,
-      "ptsPlus": -44,
-      "totalPts": 648576,
-      "tpts": 648.576,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 648893,
+      "tpts": 648.893,
+      "date": "2026-10-25"
     },
     {
       "id": "la uniã³n-lobo-hombre en parã­s",
@@ -4668,14 +4668,14 @@
       "track": "Lobo-hombre en ParÃ­s",
       "streams": 24362028,
       "pts": 96,
-      "move": "-16",
-      "days": 22,
+      "move": "=",
+      "days": 23,
       "peak": 152,
       "peakCount": 14,
-      "ptsPlus": -32,
-      "totalPts": 2192,
-      "tpts": 2.192,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 2288,
+      "tpts": 2.288,
+      "date": "2026-10-25"
     },
     {
       "id": "grupo arriesgado-ansiedad",
@@ -4685,14 +4685,14 @@
       "track": "Ansiedad",
       "streams": 111248657,
       "pts": 208,
-      "move": "-31",
-      "days": 13,
+      "move": "=",
+      "days": 14,
       "peak": 133,
       "peakCount": 5,
-      "ptsPlus": -62,
-      "totalPts": 3503,
-      "tpts": 3.503,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 3711,
+      "tpts": 3.711,
+      "date": "2026-10-25"
     },
     {
       "id": "zoã©-labios rotos - en vivo",
@@ -4702,14 +4702,14 @@
       "track": "Labios Rotos - En Vivo",
       "streams": 167937975,
       "pts": 280,
-      "move": "-28",
-      "days": 182,
+      "move": "=",
+      "days": 183,
       "peak": 115,
       "peakCount": 40,
-      "ptsPlus": -56,
-      "totalPts": 58341,
-      "tpts": 58.341,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 58621,
+      "tpts": 58.621,
+      "date": "2026-10-25"
     },
     {
       "id": "junior h-droga letal (w/ gael valenzuela , peso pluma )",
@@ -4719,14 +4719,14 @@
       "track": "DROGA LETAL (w/ Gael Valenzuela , Peso Pluma )",
       "streams": 112400097,
       "pts": 205,
-      "move": "-14",
-      "days": 1651,
+      "move": "=",
+      "days": 1652,
       "peak": 22,
       "peakCount": 46,
-      "ptsPlus": -28,
-      "totalPts": 674906,
-      "tpts": 674.906,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 675111,
+      "tpts": 675.111,
+      "date": "2026-10-25"
     },
     {
       "id": "eden muã±oz-recuerdos en comãºn (w/ alfredo olivas )",
@@ -4736,14 +4736,14 @@
       "track": "Recuerdos en ComÃºn (w/ Alfredo Olivas )",
       "streams": 25583335,
       "pts": 90,
-      "move": "-29",
-      "days": 844,
+      "move": "=",
+      "days": 845,
       "peak": 19,
       "peakCount": 14,
-      "ptsPlus": -57,
-      "totalPts": 210425,
-      "tpts": 210.425,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 210515,
+      "tpts": 210.515,
+      "date": "2026-10-25"
     },
     {
       "id": "la arrolladora banda el limã³n de rene camacho-ya es muy tarde",
@@ -4753,14 +4753,14 @@
       "track": "Ya Es Muy Tarde",
       "streams": 197991028,
       "pts": 314,
-      "move": "-7",
-      "days": 13,
+      "move": "=",
+      "days": 14,
       "peak": 167,
       "peakCount": 12,
-      "ptsPlus": -13,
-      "totalPts": 4078,
-      "tpts": 4.078,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 4392,
+      "tpts": 4.392,
+      "date": "2026-10-25"
     },
     {
       "id": "peso pluma-lagunas (w/ jasiel nuã±ez )",
@@ -4770,14 +4770,14 @@
       "track": "LAGUNAS (w/ Jasiel NuÃ±ez )",
       "streams": 260500464,
       "pts": 394,
-      "move": "-25",
-      "days": 1505,
+      "move": "=",
+      "days": 1506,
       "peak": 62,
       "peakCount": 116,
-      "ptsPlus": -49,
-      "totalPts": 787309,
-      "tpts": 787.309,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 787703,
+      "tpts": 787.703,
+      "date": "2026-10-25"
     },
     {
       "id": "fuerza regida-me jalo (w/ grupo frontera )",
@@ -4787,14 +4787,14 @@
       "track": "ME JALO (w/ Grupo Frontera )",
       "streams": 336707313,
       "pts": 492,
-      "move": "-24",
-      "days": 118,
+      "move": "=",
+      "days": 119,
       "peak": 108,
       "peakCount": 36,
-      "ptsPlus": -47,
-      "totalPts": 64686,
-      "tpts": 64.686,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 65178,
+      "tpts": 65.178,
+      "date": "2026-10-25"
     },
     {
       "id": "tito double p-corazãn partão",
@@ -4804,14 +4804,14 @@
       "track": "CORAZÃN PARTÃO",
       "streams": 97084644,
       "pts": 175,
-      "move": "-42",
-      "days": 13,
+      "move": "=",
+      "days": 14,
       "peak": 124,
       "peakCount": 5,
-      "ptsPlus": -84,
-      "totalPts": 3393,
-      "tpts": 3.393,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 3568,
+      "tpts": 3.568,
+      "date": "2026-10-25"
     },
     {
       "id": "la arrolladora banda el limã³n de rene camacho-el ruido de tus zapatos",
@@ -4821,14 +4821,14 @@
       "track": "El Ruido De Tus Zapatos",
       "streams": 70220886,
       "pts": 138,
-      "move": "-1",
-      "days": 83,
+      "move": "=",
+      "days": 84,
       "peak": 135,
       "peakCount": 16,
-      "ptsPlus": -2,
-      "totalPts": 11748,
-      "tpts": 11.748,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 11886,
+      "tpts": 11.886,
+      "date": "2026-10-25"
     },
     {
       "id": "carã­n leã³n-desde que te tengo",
@@ -4838,14 +4838,14 @@
       "track": "Desde Que Te Tengo",
       "streams": 31037729,
       "pts": 85,
-      "move": "-24",
-      "days": 13,
+      "move": "=",
+      "days": 14,
       "peak": 155,
       "peakCount": 12,
-      "ptsPlus": -47,
-      "totalPts": 1609,
-      "tpts": 1.609,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1694,
+      "tpts": 1.694,
+      "date": "2026-10-25"
     },
     {
       "id": "luis miguel-ahora te puedes marchar",
@@ -4855,14 +4855,14 @@
       "track": "Ahora Te Puedes Marchar",
       "streams": 516270385,
       "pts": 719,
-      "move": "-1",
-      "days": 1349,
+      "move": "=",
+      "days": 1350,
       "peak": 90,
       "peakCount": 115,
-      "ptsPlus": -2,
-      "totalPts": 1080487,
-      "tpts": 1080.487,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 1081206,
+      "tpts": 1081.206,
+      "date": "2026-10-25"
     },
     {
       "id": "miranda!-tu misterioso alguien",
@@ -4872,14 +4872,14 @@
       "track": "Tu Misterioso Alguien",
       "streams": 7509155,
       "pts": 50,
-      "move": "-43",
-      "days": 28,
+      "move": "=",
+      "days": 29,
       "peak": 104,
       "peakCount": 11,
-      "ptsPlus": -86,
-      "totalPts": 3016,
-      "tpts": 3.016,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 3066,
+      "tpts": 3.066,
+      "date": "2026-10-25"
     },
     {
       "id": "rauw alejandro-quã© pasarã­a... (w/ bad bunny )",
@@ -4889,14 +4889,14 @@
       "track": "QuÃ© PasarÃ­a... (w/ Bad Bunny )",
       "streams": 293918539,
       "pts": 423,
-      "move": "-25",
-      "days": 1088,
+      "move": "=",
+      "days": 1089,
       "peak": 62,
       "peakCount": 53,
-      "ptsPlus": -50,
-      "totalPts": 617744,
-      "tpts": 617.744,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 618167,
+      "tpts": 618.167,
+      "date": "2026-10-25"
     },
     {
       "id": "mon laferte-tu falta de querer",
@@ -4906,14 +4906,14 @@
       "track": "Tu Falta De Querer",
       "streams": 266067931,
       "pts": 385,
-      "move": "-68",
-      "days": 663,
+      "move": "=",
+      "days": 664,
       "peak": 86,
       "peakCount": 99,
-      "ptsPlus": -136,
-      "totalPts": 312334,
-      "tpts": 312.334,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 312719,
+      "tpts": 312.719,
+      "date": "2026-10-25"
     },
     {
       "id": "miranda!-perfecta",
@@ -4923,14 +4923,14 @@
       "track": "Perfecta",
       "streams": 25752479,
       "pts": 68,
-      "move": "-22",
-      "days": 182,
+      "move": "=",
+      "days": 183,
       "peak": 68,
       "peakCount": 44,
-      "ptsPlus": -43,
-      "totalPts": 34102,
-      "tpts": 34.102,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 34170,
+      "tpts": 34.17,
+      "date": "2026-10-25"
     },
     {
       "id": "mon laferte-mi buen amor (w/ bunbury )",
@@ -4940,14 +4940,14 @@
       "track": "Mi Buen Amor (w/ Bunbury )",
       "streams": 156971705,
       "pts": 238,
-      "move": "-44",
-      "days": 95,
+      "move": "=",
+      "days": 96,
       "peak": 97,
       "peakCount": 29,
-      "ptsPlus": -88,
-      "totalPts": 33865,
-      "tpts": 33.865,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 34103,
+      "tpts": 34.103,
+      "date": "2026-10-25"
     },
     {
       "id": "neton vega-olimpo (w/ fuerza regida )",
@@ -4957,14 +4957,14 @@
       "track": "Olimpo (w/ Fuerza Regida )",
       "streams": 228684,
       "pts": 30,
-      "move": "NEW",
-      "days": 1,
+      "move": "=",
+      "days": 2,
       "peak": 186,
-      "peakCount": 1,
-      "ptsPlus": "—",
-      "totalPts": 30,
-      "tpts": 0.03,
-      "date": "2026-10-24"
+      "peakCount": 2,
+      "ptsPlus": 0,
+      "totalPts": 60,
+      "tpts": 0.06,
+      "date": "2026-10-25"
     },
     {
       "id": "los dareyes de la sierra-frecuencia",
@@ -4974,14 +4974,14 @@
       "track": "Frecuencia",
       "streams": 261005299,
       "pts": 370,
-      "move": "-21",
-      "days": 13,
+      "move": "=",
+      "days": 14,
       "peak": 166,
       "peakCount": 12,
-      "ptsPlus": -42,
-      "totalPts": 5214,
-      "tpts": 5.214,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 5584,
+      "tpts": 5.584,
+      "date": "2026-10-25"
     },
     {
       "id": "carã­n leã³n-ese vato no te queda (w/ gabito ballesteros )",
@@ -4991,14 +4991,14 @@
       "track": "Ese Vato No Te Queda (w/ Gabito Ballesteros )",
       "streams": 171977549,
       "pts": 252,
-      "move": "-81",
-      "days": 13,
+      "move": "=",
+      "days": 14,
       "peak": 100,
       "peakCount": 5,
-      "ptsPlus": -161,
-      "totalPts": 5278,
-      "tpts": 5.278,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 5530,
+      "tpts": 5.53,
+      "date": "2026-10-25"
     },
     {
       "id": "grupo frontera-un x100to (w/ bad bunny )",
@@ -5008,14 +5008,14 @@
       "track": "un x100to (w/ Bad Bunny )",
       "streams": 466532257,
       "pts": 636,
-      "move": "-24",
-      "days": 13,
+      "move": "=",
+      "days": 14,
       "peak": 165,
       "peakCount": 12,
-      "ptsPlus": -48,
-      "totalPts": 8804,
-      "tpts": 8.804,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 9440,
+      "tpts": 9.44,
+      "date": "2026-10-25"
     },
     {
       "id": "alfredo olivas-vete",
@@ -5025,14 +5025,14 @@
       "track": "Vete",
       "streams": 316143928,
       "pts": 437,
-      "move": "-9",
-      "days": 13,
+      "move": "=",
+      "days": 14,
       "peak": 181,
       "peakCount": 12,
-      "ptsPlus": -18,
-      "totalPts": 5802,
-      "tpts": 5.802,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 6239,
+      "tpts": 6.239,
+      "date": "2026-10-25"
     },
     {
       "id": "oscar maydon-amigos? no. (w/ neton vega )",
@@ -5042,14 +5042,14 @@
       "track": "Amigos? No. (w/ Neton Vega )",
       "streams": 273042446,
       "pts": 378,
-      "move": "-19",
-      "days": 13,
+      "move": "=",
+      "days": 14,
       "peak": 172,
       "peakCount": 12,
-      "ptsPlus": -38,
-      "totalPts": 5290,
-      "tpts": 5.29,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 5668,
+      "tpts": 5.668,
+      "date": "2026-10-25"
     },
     {
       "id": "el coyote y su banda tierra santa-encerrado",
@@ -5059,14 +5059,14 @@
       "track": "Encerrado",
       "streams": 7185949,
       "pts": 27,
-      "move": "-10",
-      "days": 28,
+      "move": "=",
+      "days": 29,
       "peak": 67,
       "peakCount": 6,
-      "ptsPlus": -20,
-      "totalPts": 4281,
-      "tpts": 4.281,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 4308,
+      "tpts": 4.308,
+      "date": "2026-10-25"
     },
     {
       "id": "omar camacho-parka (w/ rey quinto )",
@@ -5076,14 +5076,14 @@
       "track": "Parka (w/ Rey Quinto )",
       "streams": 16565609,
       "pts": 38,
-      "move": "-22",
-      "days": 123,
+      "move": "=",
+      "days": 124,
       "peak": 120,
       "peakCount": 27,
-      "ptsPlus": -43,
-      "totalPts": 14664,
-      "tpts": 14.664,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 14702,
+      "tpts": 14.702,
+      "date": "2026-10-25"
     },
     {
       "id": "los enanitos verdes-lamento boliviano",
@@ -5093,14 +5093,14 @@
       "track": "Lamento Boliviano",
       "streams": 260029637,
       "pts": 355,
-      "move": "-21",
-      "days": 22,
+      "move": "=",
+      "days": 23,
       "peak": 165,
       "peakCount": 14,
-      "ptsPlus": -42,
-      "totalPts": 8344,
-      "tpts": 8.344,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 8699,
+      "tpts": 8.699,
+      "date": "2026-10-25"
     },
     {
       "id": "natanael cano-o me voy o te vas",
@@ -5110,14 +5110,14 @@
       "track": "O Me Voy O Te Vas",
       "streams": 328862408,
       "pts": 443,
-      "move": "-10",
-      "days": 13,
+      "move": "=",
+      "days": 14,
       "peak": 185,
       "peakCount": 12,
-      "ptsPlus": -20,
-      "totalPts": 5909,
-      "tpts": 5.909,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 6352,
+      "tpts": 6.352,
+      "date": "2026-10-25"
     },
     {
       "id": "t3r elemento-que te vas",
@@ -5127,14 +5127,14 @@
       "track": "Que Te Vas",
       "streams": 1574893,
       "pts": 12,
-      "move": "-49",
-      "days": 28,
+      "move": "=",
+      "days": 29,
       "peak": 143,
       "peakCount": 20,
-      "ptsPlus": -98,
-      "totalPts": 2610,
-      "tpts": 2.61,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 2622,
+      "tpts": 2.622,
+      "date": "2026-10-25"
     },
     {
       "id": "alta consigna-culpable tãº",
@@ -5144,14 +5144,14 @@
       "track": "Culpable TÃº",
       "streams": 28430521,
       "pts": 45,
-      "move": "-14",
-      "days": 136,
+      "move": "=",
+      "days": 137,
       "peak": 82,
       "peakCount": 33,
-      "ptsPlus": -28,
-      "totalPts": 26595,
-      "tpts": 26.595,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 26640,
+      "tpts": 26.64,
+      "date": "2026-10-25"
     },
     {
       "id": "calle 24-apaga el cel (w/ chino pacas )",
@@ -5161,14 +5161,14 @@
       "track": "Apaga El Cel (w/ Chino Pacas )",
       "streams": 202446773,
       "pts": 272,
-      "move": "-29",
-      "days": 765,
+      "move": "=",
+      "days": 766,
       "peak": 18,
       "peakCount": 105,
-      "ptsPlus": -57,
-      "totalPts": 408835,
-      "tpts": 408.835,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 409107,
+      "tpts": 409.107,
+      "date": "2026-10-25"
     },
     {
       "id": "tito double p-linda (w/ neton vega )",
@@ -5178,14 +5178,14 @@
       "track": "LINDA (w/ Neton Vega )",
       "streams": 331950927,
       "pts": 439,
-      "move": "-23",
-      "days": 13,
+      "move": "=",
+      "days": 14,
       "peak": 173,
       "peakCount": 5,
-      "ptsPlus": -46,
-      "totalPts": 6289,
-      "tpts": 6.289,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 6728,
+      "tpts": 6.728,
+      "date": "2026-10-25"
     },
     {
       "id": "eley romero-que se siente (w/ adrian l santos )",
@@ -5195,14 +5195,14 @@
       "track": "Que Se Siente (w/ Adrian L Santos )",
       "streams": 12514457,
       "pts": 18,
-      "move": "-37",
-      "days": 217,
+      "move": "=",
+      "days": 218,
       "peak": 29,
       "peakCount": 30,
-      "ptsPlus": -74,
-      "totalPts": 46920,
-      "tpts": 46.92,
-      "date": "2026-10-24"
+      "ptsPlus": 0,
+      "totalPts": 46938,
+      "tpts": 46.938,
+      "date": "2026-10-25"
     }
   ]
 }
