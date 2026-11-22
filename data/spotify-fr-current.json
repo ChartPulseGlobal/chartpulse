@@ -1,1806 +1,1806 @@
 {
   "source": "spotify-fr",
-  "updatedAt": "2026-11-21T19:56:39.627905",
+  "updatedAt": "2026-11-22T00:08:21.442322",
   "songs": {
     "vacra-fille ã  papa (w/ la rvfleuze )": {
       "rank": 1,
       "pts": 509,
-      "days": 283,
+      "days": 284,
       "peak": 1,
-      "peakCount": 270,
-      "totalPts": 129340,
-      "date": "2026-11-21"
+      "peakCount": 271,
+      "totalPts": 129849,
+      "date": "2026-11-22"
     },
     "sdm-bantu mentalitã (w/ ninho )": {
       "rank": 2,
       "pts": 406,
-      "days": 23,
+      "days": 24,
       "peak": 1,
       "peakCount": 9,
-      "totalPts": 9283,
-      "date": "2026-11-21"
+      "totalPts": 9689,
+      "date": "2026-11-22"
     },
     "tiakola-mã©lo dã©calã©": {
       "rank": 3,
       "pts": 526,
-      "days": 1348,
+      "days": 1349,
       "peak": 2,
       "peakCount": 445,
-      "totalPts": 563393,
-      "date": "2026-11-21"
+      "totalPts": 563919,
+      "date": "2026-11-22"
     },
     "le crime-bodycount (w/ tk )": {
       "rank": 4,
       "pts": 430,
-      "days": 222,
+      "days": 223,
       "peak": 3,
       "peakCount": 151,
-      "totalPts": 76907,
-      "date": "2026-11-21"
+      "totalPts": 77337,
+      "date": "2026-11-22"
     },
     "justice-flower in a hurricane (w/ tame impala , sza , grand theft auto vi , king gizzard & the lizard wizard )": {
       "rank": 5,
       "pts": 401,
-      "days": 62,
+      "days": 63,
       "peak": 5,
-      "peakCount": 31,
-      "totalPts": 13699,
-      "date": "2026-11-21"
+      "peakCount": 32,
+      "totalPts": 14100,
+      "date": "2026-11-22"
     },
     "mauvais djo-4": {
       "rank": 6,
       "pts": 420,
-      "days": 198,
+      "days": 199,
       "peak": 4,
       "peakCount": 133,
-      "totalPts": 66762,
-      "date": "2026-11-21"
+      "totalPts": 67182,
+      "date": "2026-11-22"
     },
     "tiakola-jet lag (w/ jorja smith )": {
       "rank": 7,
       "pts": 418,
-      "days": 243,
+      "days": 244,
       "peak": 6,
       "peakCount": 72,
-      "totalPts": 87996,
-      "date": "2026-11-21"
+      "totalPts": 88414,
+      "date": "2026-11-22"
     },
     "rnboi-j'assume": {
       "rank": 8,
       "pts": 415,
-      "days": 147,
+      "days": 148,
       "peak": 3,
       "peakCount": 61,
-      "totalPts": 59426,
-      "date": "2026-11-21"
+      "totalPts": 59841,
+      "date": "2026-11-22"
     },
     "mauvais djo-12": {
       "rank": 9,
       "pts": 405,
-      "days": 170,
+      "days": 171,
       "peak": 5,
       "peakCount": 117,
-      "totalPts": 51849,
-      "date": "2026-11-21"
+      "totalPts": 52254,
+      "date": "2026-11-22"
     },
     "sdm-ãa chauffe": {
       "rank": 10,
       "pts": 387,
-      "days": 23,
+      "days": 24,
       "peak": 4,
       "peakCount": 5,
-      "totalPts": 8822,
-      "date": "2026-11-21"
+      "totalPts": 9209,
+      "date": "2026-11-22"
     },
     "l2b-dedans": {
       "rank": 11,
       "pts": 386,
-      "days": 48,
+      "days": 49,
       "peak": 10,
       "peakCount": 30,
-      "totalPts": 12505,
-      "date": "2026-11-21"
+      "totalPts": 12891,
+      "date": "2026-11-22"
     },
     "cherry pie-bir hakeim": {
       "rank": 12,
       "pts": 414,
-      "days": 255,
+      "days": 256,
       "peak": 6,
       "peakCount": 13,
-      "totalPts": 98965,
-      "date": "2026-11-21"
+      "totalPts": 99379,
+      "date": "2026-11-22"
     },
     "aya nakamura-sexy nana (w/ la rvfleuze )": {
       "rank": 13,
       "pts": 603,
-      "days": 1654,
+      "days": 1655,
       "peak": 1,
       "peakCount": 792,
-      "totalPts": 847232,
-      "date": "2026-11-21"
+      "totalPts": 847835,
+      "date": "2026-11-22"
     },
     "mauvais djo-maladie": {
       "rank": 14,
       "pts": 558,
-      "days": 1759,
+      "days": 1760,
       "peak": 3,
       "peakCount": 989,
-      "totalPts": 822871,
-      "date": "2026-11-21"
+      "totalPts": 823429,
+      "date": "2026-11-22"
     },
     "ronisia-cuenta (w/ meryl , shay )": {
       "rank": 15,
       "pts": 405,
-      "days": 211,
+      "days": 212,
       "peak": 6,
       "peakCount": 21,
-      "totalPts": 83833,
-      "date": "2026-11-21"
+      "totalPts": 84238,
+      "date": "2026-11-22"
     },
     "mauvais djo-wagyu": {
       "rank": 16,
       "pts": 435,
-      "days": 789,
+      "days": 790,
       "peak": 9,
       "peakCount": 365,
-      "totalPts": 310258,
-      "date": "2026-11-21"
+      "totalPts": 310693,
+      "date": "2026-11-22"
     },
     "jok'air-noumã©a (w/ linema )": {
       "rank": 17,
       "pts": 391,
-      "days": 211,
+      "days": 212,
       "peak": 13,
       "peakCount": 66,
-      "totalPts": 71477,
-      "date": "2026-11-21"
+      "totalPts": 71868,
+      "date": "2026-11-22"
     },
     "disiz-melodrama (w/ theodora )": {
       "rank": 18,
       "pts": 922,
-      "days": 1759,
+      "days": 1760,
       "peak": 2,
       "peakCount": 151,
-      "totalPts": 1556070,
-      "date": "2026-11-21"
+      "totalPts": 1556992,
+      "date": "2026-11-22"
     },
     "tiakola-la nocturne (w/ theodora )": {
       "rank": 19,
       "pts": 409,
-      "days": 243,
+      "days": 244,
       "peak": 2,
       "peakCount": 48,
-      "totalPts": 99748,
-      "date": "2026-11-21"
+      "totalPts": 100157,
+      "date": "2026-11-22"
     },
     "leto-pineapple": {
       "rank": 20,
       "pts": 552,
-      "days": 1759,
+      "days": 1760,
       "peak": 2,
       "peakCount": 55,
-      "totalPts": 871794,
-      "date": "2026-11-21"
+      "totalPts": 872346,
+      "date": "2026-11-22"
     },
     "ninho-la vie qu'on mã¨ne": {
       "rank": 21,
       "pts": 1360,
-      "days": 1759,
+      "days": 1760,
       "peak": 13,
       "peakCount": 155,
-      "totalPts": 2310870,
-      "date": "2026-11-21"
+      "totalPts": 2312230,
+      "date": "2026-11-22"
     },
     "karol g-bby wow (w/ judeline , rusowsky )": {
       "rank": 22,
       "pts": 377,
-      "days": 198,
+      "days": 199,
       "peak": 17,
       "peakCount": 97,
-      "totalPts": 58884,
-      "date": "2026-11-21"
+      "totalPts": 59261,
+      "date": "2026-11-22"
     },
     "theodora-habiba": {
       "rank": 23,
       "pts": 389,
-      "days": 202,
+      "days": 203,
       "peak": 3,
       "peakCount": 60,
-      "totalPts": 80023,
-      "date": "2026-11-21"
+      "totalPts": 80412,
+      "date": "2026-11-22"
     },
     "mauvais djo-pilã©": {
       "rank": 24,
       "pts": 595,
-      "days": 1759,
+      "days": 1760,
       "peak": 1,
       "peakCount": 827,
-      "totalPts": 919303,
-      "date": "2026-11-21"
+      "totalPts": 919898,
+      "date": "2026-11-22"
     },
     "plk-pocahontas": {
       "rank": 25,
       "pts": 608,
-      "days": 1759,
+      "days": 1760,
       "peak": 1,
       "peakCount": 281,
-      "totalPts": 990832,
-      "date": "2026-11-21"
+      "totalPts": 991440,
+      "date": "2026-11-22"
     },
     "bouss-cote ã  la hausse": {
       "rank": 26,
       "pts": 399,
-      "days": 771,
+      "days": 772,
       "peak": 13,
       "peakCount": 297,
-      "totalPts": 249401,
-      "date": "2026-11-21"
+      "totalPts": 249800,
+      "date": "2026-11-22"
     },
     "werenoi-jalouse (w/ sdm , vacra )": {
       "rank": 27,
       "pts": 461,
-      "days": 1223,
+      "days": 1224,
       "peak": 13,
       "peakCount": 241,
-      "totalPts": 501538,
-      "date": "2026-11-21"
+      "totalPts": 501999,
+      "date": "2026-11-22"
     },
     "aya nakamura-la pã©tasse": {
       "rank": 28,
       "pts": 442,
-      "days": 1434,
+      "days": 1435,
       "peak": 6,
       "peakCount": 332,
-      "totalPts": 523918,
-      "date": "2026-11-21"
+      "totalPts": 524360,
+      "date": "2026-11-22"
     },
     "bello&dallas-sã©minaire": {
       "rank": 29,
       "pts": 455,
-      "days": 1377,
+      "days": 1378,
       "peak": 4,
       "peakCount": 564,
-      "totalPts": 572368,
-      "date": "2026-11-21"
+      "totalPts": 572823,
+      "date": "2026-11-22"
     },
     "teddybear-chaussures roses": {
       "rank": 30,
       "pts": 364,
-      "days": 272,
+      "days": 273,
       "peak": 15,
       "peakCount": 88,
-      "totalPts": 66711,
-      "date": "2026-11-21"
+      "totalPts": 67075,
+      "date": "2026-11-22"
     },
     "timal-sicario": {
       "rank": 31,
       "pts": 440,
-      "days": 1239,
+      "days": 1240,
       "peak": 1,
       "peakCount": 632,
-      "totalPts": 475691,
-      "date": "2026-11-21"
+      "totalPts": 476131,
+      "date": "2026-11-22"
     },
     "tate mcrae-housewife": {
       "rank": 32,
       "pts": 353,
-      "days": 147,
+      "days": 148,
       "peak": 19,
       "peakCount": 39,
-      "totalPts": 47711,
-      "date": "2026-11-21"
+      "totalPts": 48064,
+      "date": "2026-11-22"
     },
     "estl-te rencontrer encore": {
       "rank": 33,
       "pts": 357,
-      "days": 283,
+      "days": 284,
       "peak": 32,
       "peakCount": 108,
-      "totalPts": 69432,
-      "date": "2026-11-21"
+      "totalPts": 69789,
+      "date": "2026-11-22"
     },
     "adã¨le castillon-ãtã© avec toi": {
       "rank": 34,
       "pts": 377,
-      "days": 854,
+      "days": 855,
       "peak": 25,
       "peakCount": 289,
-      "totalPts": 246223,
-      "date": "2026-11-21"
+      "totalPts": 246600,
+      "date": "2026-11-22"
     },
     "nono la grinta-love you": {
       "rank": 35,
       "pts": 681,
-      "days": 1759,
+      "days": 1760,
       "peak": 6,
       "peakCount": 14,
-      "totalPts": 1178107,
-      "date": "2026-11-21"
+      "totalPts": 1178788,
+      "date": "2026-11-22"
     },
     "gims-vive la monnaie (w/ mauvais djo )": {
       "rank": 36,
       "pts": 394,
-      "days": 1029,
+      "days": 1030,
       "peak": 13,
       "peakCount": 176,
-      "totalPts": 380608,
-      "date": "2026-11-21"
+      "totalPts": 381002,
+      "date": "2026-11-22"
     },
     "sdm-des photos de toi": {
       "rank": 37,
       "pts": 331,
-      "days": 23,
+      "days": 24,
       "peak": 32,
       "peakCount": 5,
-      "totalPts": 7351,
-      "date": "2026-11-21"
+      "totalPts": 7682,
+      "date": "2026-11-22"
     },
     "sdm-6.35 (w/ sch )": {
       "rank": 38,
       "pts": 330,
-      "days": 23,
+      "days": 24,
       "peak": 7,
       "peakCount": 5,
-      "totalPts": 8194,
-      "date": "2026-11-21"
+      "totalPts": 8524,
+      "date": "2026-11-22"
     },
     "sdm-grand palace": {
       "rank": 39,
       "pts": 327,
-      "days": 23,
+      "days": 24,
       "peak": 9,
       "peakCount": 5,
-      "totalPts": 7879,
-      "date": "2026-11-21"
+      "totalPts": 8206,
+      "date": "2026-11-22"
     },
     "lagui-olivia valere": {
       "rank": 40,
       "pts": 376,
-      "days": 1003,
+      "days": 1004,
       "peak": 20,
       "peakCount": 208,
-      "totalPts": 320410,
-      "date": "2026-11-21"
+      "totalPts": 320786,
+      "date": "2026-11-22"
     },
     "nono la grinta-paris": {
       "rank": 41,
       "pts": 724,
-      "days": 1759,
+      "days": 1760,
       "peak": 5,
       "peakCount": 83,
-      "totalPts": 1267556,
-      "date": "2026-11-21"
+      "totalPts": 1268280,
+      "date": "2026-11-22"
     },
     "damso-î. signaler": {
       "rank": 42,
       "pts": 598,
-      "days": 1298,
+      "days": 1299,
       "peak": 20,
       "peakCount": 367,
-      "totalPts": 663061,
-      "date": "2026-11-21"
+      "totalPts": 663659,
+      "date": "2026-11-22"
     },
     "la rvfleuze-argent sale - a colors show (w/ colors )": {
       "rank": 43,
       "pts": 462,
-      "days": 1759,
+      "days": 1760,
       "peak": 14,
       "peakCount": 41,
-      "totalPts": 737005,
-      "date": "2026-11-21"
+      "totalPts": 737467,
+      "date": "2026-11-22"
     },
     "tame impala-loser": {
       "rank": 44,
       "pts": 355,
-      "days": 845,
+      "days": 846,
       "peak": 20,
       "peakCount": 254,
-      "totalPts": 269233,
-      "date": "2026-11-21"
+      "totalPts": 269588,
+      "date": "2026-11-22"
     },
     "sdm-i.g": {
       "rank": 45,
       "pts": 315,
-      "days": 23,
+      "days": 24,
       "peak": 12,
       "peakCount": 5,
-      "totalPts": 7685,
-      "date": "2026-11-21"
+      "totalPts": 8000,
+      "date": "2026-11-22"
     },
     "le crime-amiri (w/ gambi )": {
       "rank": 46,
       "pts": 321,
-      "days": 120,
+      "days": 121,
       "peak": 31,
       "peakCount": 62,
-      "totalPts": 27448,
-      "date": "2026-11-21"
+      "totalPts": 27769,
+      "date": "2026-11-22"
     },
     "temper city-self aware": {
       "rank": 47,
       "pts": 396,
-      "days": 1742,
+      "days": 1743,
       "peak": 17,
       "peakCount": 217,
-      "totalPts": 614910,
-      "date": "2026-11-21"
+      "totalPts": 615306,
+      "date": "2026-11-22"
     },
     "jamie miller-babydoll": {
       "rank": 48,
       "pts": 312,
-      "days": 62,
+      "days": 63,
       "peak": 48,
-      "peakCount": 32,
-      "totalPts": 11289,
-      "date": "2026-11-21"
+      "peakCount": 33,
+      "totalPts": 11601,
+      "date": "2026-11-22"
     },
     "aya nakamura-la machine": {
       "rank": 49,
       "pts": 341,
-      "days": 75,
+      "days": 76,
       "peak": 41,
       "peakCount": 43,
-      "totalPts": 19204,
-      "date": "2026-11-21"
+      "totalPts": 19545,
+      "date": "2026-11-22"
     },
     "shakira-dai dai (w/ burna boy )": {
       "rank": 50,
       "pts": 434,
-      "days": 1515,
+      "days": 1516,
       "peak": 2,
       "peakCount": 315,
-      "totalPts": 644424,
-      "date": "2026-11-21"
+      "totalPts": 644858,
+      "date": "2026-11-22"
     },
     "sdm-cartier santos": {
       "rank": 51,
       "pts": 793,
-      "days": 1759,
+      "days": 1760,
       "peak": 21,
       "peakCount": 65,
-      "totalPts": 1215442,
-      "date": "2026-11-21"
+      "totalPts": 1216235,
+      "date": "2026-11-22"
     },
     "werenoi-chemin d'or": {
       "rank": 52,
       "pts": 797,
-      "days": 1759,
+      "days": 1760,
       "peak": 27,
       "peakCount": 85,
-      "totalPts": 1391437,
-      "date": "2026-11-21"
+      "totalPts": 1392234,
+      "date": "2026-11-22"
     },
     "sdm-le msg": {
       "rank": 53,
       "pts": 299,
-      "days": 23,
+      "days": 24,
       "peak": 17,
       "peakCount": 5,
-      "totalPts": 7241,
-      "date": "2026-11-21"
+      "totalPts": 7540,
+      "date": "2026-11-22"
     },
     "ninho-vrais": {
       "rank": 54,
       "pts": 559,
-      "days": 1759,
+      "days": 1760,
       "peak": 50,
       "peakCount": 74,
-      "totalPts": 812118,
-      "date": "2026-11-21"
+      "totalPts": 812677,
+      "date": "2026-11-22"
     },
     "ninho-lettre ã  une femme": {
       "rank": 55,
       "pts": 896,
-      "days": 1439,
+      "days": 1440,
       "peak": 40,
       "peakCount": 182,
-      "totalPts": 1164851,
-      "date": "2026-11-21"
+      "totalPts": 1165747,
+      "date": "2026-11-22"
     },
     "hugel-jamaican (bam bam) (w/ solto (fr) )": {
       "rank": 56,
       "pts": 425,
-      "days": 1759,
+      "days": 1760,
       "peak": 8,
       "peakCount": 313,
-      "totalPts": 768740,
-      "date": "2026-11-21"
+      "totalPts": 769165,
+      "date": "2026-11-22"
     },
     "gambi-renã caovilla": {
       "rank": 57,
       "pts": 464,
-      "days": 1759,
+      "days": 1760,
       "peak": 4,
       "peakCount": 204,
-      "totalPts": 855208,
-      "date": "2026-11-21"
+      "totalPts": 855672,
+      "date": "2026-11-22"
     },
     "bamby-pas jalouse (w/ kerchak )": {
       "rank": 58,
       "pts": 394,
-      "days": 552,
+      "days": 553,
       "peak": 20,
       "peakCount": 156,
-      "totalPts": 183130,
-      "date": "2026-11-21"
+      "totalPts": 183524,
+      "date": "2026-11-22"
     },
     "djadja & dinaz-j'fais mes affaires": {
       "rank": 59,
       "pts": 562,
-      "days": 1759,
+      "days": 1760,
       "peak": 50,
       "peakCount": 71,
-      "totalPts": 828533,
-      "date": "2026-11-21"
+      "totalPts": 829095,
+      "date": "2026-11-22"
     },
     "werenoi-pã©tunias": {
       "rank": 60,
       "pts": 640,
-      "days": 1759,
+      "days": 1760,
       "peak": 37,
       "peakCount": 75,
-      "totalPts": 1110453,
-      "date": "2026-11-21"
+      "totalPts": 1111093,
+      "date": "2026-11-22"
     },
     "ashe-stop the wedding!": {
       "rank": 61,
       "pts": 286,
-      "days": 67,
+      "days": 68,
       "peak": 61,
-      "peakCount": 32,
-      "totalPts": 9855,
-      "date": "2026-11-21"
+      "peakCount": 33,
+      "totalPts": 10141,
+      "date": "2026-11-22"
     },
     "zed-wetin day": {
       "rank": 62,
       "pts": 287,
-      "days": 79,
+      "days": 80,
       "peak": 20,
       "peakCount": 16,
-      "totalPts": 25285,
-      "date": "2026-11-21"
+      "totalPts": 25572,
+      "date": "2026-11-22"
     },
     "l2b-cybertesla": {
       "rank": 63,
       "pts": 297,
-      "days": 182,
+      "days": 183,
       "peak": 12,
       "peakCount": 19,
-      "totalPts": 65009,
-      "date": "2026-11-21"
+      "totalPts": 65306,
+      "date": "2026-11-22"
     },
     "la rvfleuze-serrure #5": {
       "rank": 64,
       "pts": 485,
-      "days": 1759,
+      "days": 1760,
       "peak": 30,
       "peakCount": 77,
-      "totalPts": 837998,
-      "date": "2026-11-21"
+      "totalPts": 838483,
+      "date": "2026-11-22"
     },
     "jul-parfum quartier": {
       "rank": 65,
       "pts": 427,
-      "days": 1759,
+      "days": 1760,
       "peak": 11,
       "peakCount": 98,
-      "totalPts": 789355,
-      "date": "2026-11-21"
+      "totalPts": 789782,
+      "date": "2026-11-22"
     },
     "tlc-no scrubs": {
       "rank": 66,
       "pts": 291,
-      "days": 401,
+      "days": 402,
       "peak": 64,
       "peakCount": 49,
-      "totalPts": 59795,
-      "date": "2026-11-21"
+      "totalPts": 60086,
+      "date": "2026-11-22"
     },
     "bouss-biff pas d'love": {
       "rank": 67,
       "pts": 465,
-      "days": 1759,
+      "days": 1760,
       "peak": 43,
       "peakCount": 79,
-      "totalPts": 715896,
-      "date": "2026-11-21"
+      "totalPts": 716361,
+      "date": "2026-11-22"
     },
     "oria-soirã©e mondaine": {
       "rank": 68,
       "pts": 344,
-      "days": 1759,
+      "days": 1760,
       "peak": 40,
       "peakCount": 209,
-      "totalPts": 555543,
-      "date": "2026-11-21"
+      "totalPts": 555887,
+      "date": "2026-11-22"
     },
     "ninho-dis-moi que tu m'aimes": {
       "rank": 69,
       "pts": 449,
-      "days": 1369,
+      "days": 1370,
       "peak": 53,
       "peakCount": 71,
-      "totalPts": 425327,
-      "date": "2026-11-21"
+      "totalPts": 425776,
+      "date": "2026-11-22"
     },
     "sdm-quand le soleil se lãve": {
       "rank": 70,
       "pts": 265,
-      "days": 23,
+      "days": 24,
       "peak": 14,
       "peakCount": 5,
-      "totalPts": 6835,
-      "date": "2026-11-21"
+      "totalPts": 7100,
+      "date": "2026-11-22"
     },
     "ninho-un poco": {
       "rank": 71,
       "pts": 530,
-      "days": 1759,
+      "days": 1760,
       "peak": 45,
       "peakCount": 101,
-      "totalPts": 820566,
-      "date": "2026-11-21"
+      "totalPts": 821096,
+      "date": "2026-11-22"
     },
     "lagui-dã©gun": {
       "rank": 72,
       "pts": 276,
-      "days": 190,
+      "days": 191,
       "peak": 20,
       "peakCount": 14,
-      "totalPts": 61431,
-      "date": "2026-11-21"
+      "totalPts": 61707,
+      "date": "2026-11-22"
     },
     "werenoi-tu connais": {
       "rank": 73,
       "pts": 713,
-      "days": 1759,
+      "days": 1760,
       "peak": 38,
       "peakCount": 60,
-      "totalPts": 1253252,
-      "date": "2026-11-21"
+      "totalPts": 1253965,
+      "date": "2026-11-22"
     },
     "ninho-putana": {
       "rank": 74,
       "pts": 817,
-      "days": 1759,
+      "days": 1760,
       "peak": 48,
       "peakCount": 121,
-      "totalPts": 1357476,
-      "date": "2026-11-21"
+      "totalPts": 1358293,
+      "date": "2026-11-22"
     },
     "guy2bezbar-je pense ã  toi": {
       "rank": 75,
       "pts": 330,
-      "days": 1333,
+      "days": 1334,
       "peak": 19,
       "peakCount": 377,
-      "totalPts": 441725,
-      "date": "2026-11-21"
+      "totalPts": 442055,
+      "date": "2026-11-22"
     },
     "hugel-movin' to the sun (w/ imael angel , ultra natã© )": {
       "rank": 76,
       "pts": 297,
-      "days": 1140,
+      "days": 1141,
       "peak": 31,
       "peakCount": 209,
-      "totalPts": 347852,
-      "date": "2026-11-21"
+      "totalPts": 348149,
+      "date": "2026-11-22"
     },
     "ninho-les diamants de bokassa (w/ tiakola )": {
       "rank": 77,
       "pts": 394,
-      "days": 1759,
+      "days": 1760,
       "peak": 24,
       "peakCount": 18,
-      "totalPts": 654156,
-      "date": "2026-11-21"
+      "totalPts": 654550,
+      "date": "2026-11-22"
     },
     "l2b-chanel": {
       "rank": 78,
       "pts": 250,
-      "days": 52,
+      "days": 53,
       "peak": 44,
       "peakCount": 8,
-      "totalPts": 9908,
-      "date": "2026-11-21"
+      "totalPts": 10158,
+      "date": "2026-11-22"
     },
     "bigflo & oli-picasso": {
       "rank": 79,
       "pts": 300,
-      "days": 789,
+      "days": 790,
       "peak": 42,
       "peakCount": 72,
-      "totalPts": 215788,
-      "date": "2026-11-21"
+      "totalPts": 216088,
+      "date": "2026-11-22"
     },
     "werenoi-poney": {
       "rank": 80,
       "pts": 483,
-      "days": 1759,
+      "days": 1760,
       "peak": 36,
       "peakCount": 35,
-      "totalPts": 844235,
-      "date": "2026-11-21"
+      "totalPts": 844718,
+      "date": "2026-11-22"
     },
     "niska-allo doudou (w/ litleboy lsbeats767 , miimii kds )": {
       "rank": 81,
       "pts": 268,
-      "days": 420,
+      "days": 421,
       "peak": 39,
       "peakCount": 67,
-      "totalPts": 113135,
-      "date": "2026-11-21"
+      "totalPts": 113403,
+      "date": "2026-11-22"
     },
     "ninho-goutte d'eau": {
       "rank": 82,
       "pts": 512,
-      "days": 52,
+      "days": 53,
       "peak": 70,
       "peakCount": 22,
-      "totalPts": 24682,
-      "date": "2026-11-21"
+      "totalPts": 25194,
+      "date": "2026-11-22"
     },
     "ninho-zipette": {
       "rank": 83,
       "pts": 532,
-      "days": 70,
+      "days": 71,
       "peak": 58,
       "peakCount": 35,
-      "totalPts": 34730,
-      "date": "2026-11-21"
+      "totalPts": 35262,
+      "date": "2026-11-22"
     },
     "kulturr-mã©li-mã©lo": {
       "rank": 84,
       "pts": 377,
-      "days": 1759,
+      "days": 1760,
       "peak": 7,
       "peakCount": 91,
-      "totalPts": 800159,
-      "date": "2026-11-21"
+      "totalPts": 800536,
+      "date": "2026-11-22"
     },
     "tame impala-dracula - jennie remix (w/ jennie )": {
       "rank": 85,
       "pts": 343,
-      "days": 1759,
+      "days": 1760,
       "peak": 17,
       "peakCount": 36,
-      "totalPts": 697717,
-      "date": "2026-11-21"
+      "totalPts": 698060,
+      "date": "2026-11-22"
     },
     "rim'k-air max (w/ ninho )": {
       "rank": 86,
       "pts": 510,
-      "days": 1434,
+      "days": 1435,
       "peak": 63,
       "peakCount": 91,
-      "totalPts": 605616,
-      "date": "2026-11-21"
+      "totalPts": 606126,
+      "date": "2026-11-22"
     },
     "gims-parisienne (w/ la mano 1.9 )": {
       "rank": 87,
       "pts": 639,
-      "days": 1759,
+      "days": 1760,
       "peak": 18,
       "peakCount": 9,
-      "totalPts": 1228423,
-      "date": "2026-11-21"
+      "totalPts": 1229062,
+      "date": "2026-11-22"
     },
     "pnl-menace": {
       "rank": 88,
       "pts": 308,
-      "days": 1111,
+      "days": 1112,
       "peak": 31,
       "peakCount": 208,
-      "totalPts": 378427,
-      "date": "2026-11-21"
+      "totalPts": 378735,
+      "date": "2026-11-22"
     },
     "ninho-mood": {
       "rank": 89,
       "pts": 270,
-      "days": 218,
+      "days": 219,
       "peak": 64,
       "peakCount": 41,
-      "totalPts": 49953,
-      "date": "2026-11-21"
+      "totalPts": 50223,
+      "date": "2026-11-22"
     },
     "franglish-uber (w/ keblack , mauvais djo )": {
       "rank": 90,
       "pts": 256,
-      "days": 552,
+      "days": 553,
       "peak": 23,
       "peakCount": 240,
-      "totalPts": 144053,
-      "date": "2026-11-21"
+      "totalPts": 144309,
+      "date": "2026-11-22"
     },
     "triangle des bermudes-ã l'aise (w/ l2b , mc yoshi , mauvais djo , kokosvoice )": {
       "rank": 91,
       "pts": 336,
-      "days": 1759,
+      "days": 1760,
       "peak": 9,
       "peakCount": 93,
-      "totalPts": 739143,
-      "date": "2026-11-21"
+      "totalPts": 739479,
+      "date": "2026-11-22"
     },
     "manon lisa-le petit pãªcheur": {
       "rank": 92,
       "pts": 262,
-      "days": 1205,
+      "days": 1206,
       "peak": 45,
       "peakCount": 186,
-      "totalPts": 286389,
-      "date": "2026-11-21"
+      "totalPts": 286651,
+      "date": "2026-11-22"
     },
     "teddy swims-mr. know it all": {
       "rank": 93,
       "pts": 255,
-      "days": 1176,
+      "days": 1177,
       "peak": 66,
       "peakCount": 185,
-      "totalPts": 236233,
-      "date": "2026-11-21"
+      "totalPts": 236488,
+      "date": "2026-11-22"
     },
     "bouss-diffã©rent": {
       "rank": 94,
       "pts": 224,
-      "days": 129,
+      "days": 130,
       "peak": 52,
       "peakCount": 22,
-      "totalPts": 29517,
-      "date": "2026-11-21"
+      "totalPts": 29741,
+      "date": "2026-11-22"
     },
     "rnboi-mon bãbã": {
       "rank": 95,
       "pts": 594,
-      "days": 1759,
+      "days": 1760,
       "peak": 8,
       "peakCount": 26,
-      "totalPts": 1228553,
-      "date": "2026-11-21"
+      "totalPts": 1229147,
+      "date": "2026-11-22"
     },
     "dj goja-mi chico - official - jason derulo x melody (w/ jason derulo , melody )": {
       "rank": 96,
       "pts": 245,
-      "days": 872,
+      "days": 873,
       "peak": 39,
       "peakCount": 176,
-      "totalPts": 207322,
-      "date": "2026-11-21"
+      "totalPts": 207567,
+      "date": "2026-11-22"
     },
     "jok'air-bonbon ã  la menthe (w/ mallaury )": {
       "rank": 97,
       "pts": 353,
-      "days": 1157,
+      "days": 1158,
       "peak": 68,
       "peakCount": 167,
-      "totalPts": 333051,
-      "date": "2026-11-21"
+      "totalPts": 333404,
+      "date": "2026-11-22"
     },
     "p!nk-just give me a reason (w/ nate ruess )": {
       "rank": 98,
       "pts": 215,
-      "days": 174,
+      "days": 175,
       "peak": 98,
-      "peakCount": 58,
-      "totalPts": 15383,
-      "date": "2026-11-21"
+      "peakCount": 59,
+      "totalPts": 15598,
+      "date": "2026-11-22"
     },
     "djaksparo-pangor (swalalala)": {
       "rank": 99,
       "pts": 234,
-      "days": 377,
+      "days": 378,
       "peak": 30,
       "peakCount": 55,
-      "totalPts": 118130,
-      "date": "2026-11-21"
+      "totalPts": 118364,
+      "date": "2026-11-22"
     },
     "ruthee-zoblazo": {
       "rank": 100,
       "pts": 206,
-      "days": 62,
+      "days": 63,
       "peak": 99,
       "peakCount": 30,
-      "totalPts": 6993,
-      "date": "2026-11-21"
+      "totalPts": 7199,
+      "date": "2026-11-22"
     },
     "werenoi-jamal": {
       "rank": 101,
       "pts": 369,
-      "days": 1759,
+      "days": 1760,
       "peak": 33,
       "peakCount": 34,
-      "totalPts": 692609,
-      "date": "2026-11-21"
+      "totalPts": 692978,
+      "date": "2026-11-22"
     },
     "sdm-le nine": {
       "rank": 102,
       "pts": 200,
-      "days": 23,
+      "days": 24,
       "peak": 20,
       "peakCount": 5,
-      "totalPts": 6242,
-      "date": "2026-11-21"
+      "totalPts": 6442,
+      "date": "2026-11-22"
     },
     "naã¯ka-one track mind": {
       "rank": 103,
       "pts": 288,
-      "days": 1759,
+      "days": 1760,
       "peak": 24,
       "peakCount": 133,
-      "totalPts": 612963,
-      "date": "2026-11-21"
+      "totalPts": 613251,
+      "date": "2026-11-22"
     },
     "ben plg-histoire sans fin (w/ mathilde )": {
       "rank": 104,
       "pts": 213,
-      "days": 174,
+      "days": 175,
       "peak": 82,
       "peakCount": 44,
-      "totalPts": 23096,
-      "date": "2026-11-21"
+      "totalPts": 23309,
+      "date": "2026-11-22"
     },
     "bello&dallas-belvedere": {
       "rank": 105,
       "pts": 229,
-      "days": 465,
+      "days": 466,
       "peak": 14,
       "peakCount": 107,
-      "totalPts": 148338,
-      "date": "2026-11-21"
+      "totalPts": 148567,
+      "date": "2026-11-22"
     },
     "ninho-elle m'a eu": {
       "rank": 106,
       "pts": 270,
-      "days": 67,
+      "days": 68,
       "peak": 89,
       "peakCount": 30,
-      "totalPts": 15721,
-      "date": "2026-11-21"
+      "totalPts": 15991,
+      "date": "2026-11-22"
     },
     "plk-tu dors ?": {
       "rank": 107,
       "pts": 293,
-      "days": 1759,
+      "days": 1760,
       "peak": 13,
       "peakCount": 62,
-      "totalPts": 644707,
-      "date": "2026-11-21"
+      "totalPts": 645000,
+      "date": "2026-11-22"
     },
     "damso-pa pa paw (w/ sarah sey )": {
       "rank": 108,
       "pts": 412,
-      "days": 1759,
+      "days": 1760,
       "peak": 42,
       "peakCount": 94,
-      "totalPts": 808652,
-      "date": "2026-11-21"
+      "totalPts": 809064,
+      "date": "2026-11-22"
     },
     "rim'k-run (w/ sdm )": {
       "rank": 109,
       "pts": 384,
-      "days": 23,
+      "days": 24,
       "peak": 109,
-      "peakCount": 18,
-      "totalPts": 6764,
-      "date": "2026-11-21"
+      "peakCount": 19,
+      "totalPts": 7148,
+      "date": "2026-11-22"
     },
     "aya nakamura-tchiki": {
       "rank": 110,
       "pts": 183,
-      "days": 13,
+      "days": 14,
       "peak": 110,
-      "peakCount": 13,
-      "totalPts": 1549,
-      "date": "2026-11-21"
+      "peakCount": 14,
+      "totalPts": 1732,
+      "date": "2026-11-22"
     },
     "la rvfleuze-promenade (w/ koba lad )": {
       "rank": 111,
       "pts": 256,
-      "days": 937,
+      "days": 938,
       "peak": 58,
       "peakCount": 151,
-      "totalPts": 223229,
-      "date": "2026-11-21"
+      "totalPts": 223485,
+      "date": "2026-11-22"
     },
     "djadja & dinaz-dã©stabilisã©": {
       "rank": 112,
       "pts": 210,
-      "days": 13,
+      "days": 14,
       "peak": 112,
-      "peakCount": 11,
-      "totalPts": 2158,
-      "date": "2026-11-21"
+      "peakCount": 12,
+      "totalPts": 2368,
+      "date": "2026-11-22"
     },
     "gener8ion-storm ii (w/ yung lean )": {
       "rank": 113,
       "pts": 191,
-      "days": 225,
+      "days": 226,
       "peak": 65,
       "peakCount": 28,
-      "totalPts": 48911,
-      "date": "2026-11-21"
+      "totalPts": 49102,
+      "date": "2026-11-22"
     },
     "eva-sur la piste": {
       "rank": 114,
       "pts": 194,
-      "days": 289,
+      "days": 290,
       "peak": 72,
       "peakCount": 78,
-      "totalPts": 41946,
-      "date": "2026-11-21"
+      "totalPts": 42140,
+      "date": "2026-11-22"
     },
     "pnl-la misã¨re est si belle": {
       "rank": 115,
       "pts": 485,
-      "days": 67,
+      "days": 68,
       "peak": 104,
       "peakCount": 12,
-      "totalPts": 31575,
-      "date": "2026-11-21"
+      "totalPts": 32060,
+      "date": "2026-11-22"
     },
     "lagui-maracanã£": {
       "rank": 116,
       "pts": 217,
-      "days": 1457,
+      "days": 1458,
       "peak": 58,
       "peakCount": 55,
-      "totalPts": 248731,
-      "date": "2026-11-21"
+      "totalPts": 248948,
+      "date": "2026-11-22"
     },
     "meryl-coco chanel (w/ eva )": {
       "rank": 117,
       "pts": 320,
-      "days": 1759,
+      "days": 1760,
       "peak": 16,
       "peakCount": 88,
-      "totalPts": 773825,
-      "date": "2026-11-21"
+      "totalPts": 774145,
+      "date": "2026-11-22"
     },
     "damso-î. macarena": {
       "rank": 118,
       "pts": 825,
-      "days": 1759,
+      "days": 1760,
       "peak": 68,
       "peakCount": 45,
-      "totalPts": 1480283,
-      "date": "2026-11-21"
+      "totalPts": 1481108,
+      "date": "2026-11-22"
     },
     "season 25-shotta's.": {
       "rank": 119,
       "pts": 167,
-      "days": 38,
+      "days": 39,
       "peak": 108,
       "peakCount": 13,
-      "totalPts": 4741,
-      "date": "2026-11-21"
+      "totalPts": 4908,
+      "date": "2026-11-22"
     },
     "sdm-rãel": {
       "rank": 120,
       "pts": 164,
-      "days": 23,
+      "days": 24,
       "peak": 13,
       "peakCount": 5,
-      "totalPts": 6018,
-      "date": "2026-11-21"
+      "totalPts": 6182,
+      "date": "2026-11-22"
     },
     "tiakola-mode de vie": {
       "rank": 121,
       "pts": 178,
-      "days": 243,
+      "days": 244,
       "peak": 17,
       "peakCount": 4,
-      "totalPts": 62197,
-      "date": "2026-11-21"
+      "totalPts": 62375,
+      "date": "2026-11-22"
     },
     "saã¯f-le taf du loup": {
       "rank": 122,
       "pts": 189,
-      "days": 854,
+      "days": 855,
       "peak": 57,
       "peakCount": 272,
-      "totalPts": 168141,
-      "date": "2026-11-21"
+      "totalPts": 168330,
+      "date": "2026-11-22"
     },
     "tiakola-cåur de pirate": {
       "rank": 123,
       "pts": 176,
-      "days": 243,
+      "days": 244,
       "peak": 9,
       "peakCount": 4,
-      "totalPts": 65666,
-      "date": "2026-11-21"
+      "totalPts": 65842,
+      "date": "2026-11-22"
     },
     "tove lo-des fleurs x stromae (w/ stromae )": {
       "rank": 124,
       "pts": 180,
-      "days": 737,
+      "days": 738,
       "peak": 88,
       "peakCount": 123,
-      "totalPts": 102832,
-      "date": "2026-11-21"
+      "totalPts": 103012,
+      "date": "2026-11-22"
     },
     "sdm-rien de personnel": {
       "rank": 125,
       "pts": 154,
-      "days": 23,
+      "days": 24,
       "peak": 35,
       "peakCount": 5,
-      "totalPts": 5408,
-      "date": "2026-11-21"
+      "totalPts": 5562,
+      "date": "2026-11-22"
     },
     "djadja & dinaz-maman ne dort pas": {
       "rank": 126,
       "pts": 152,
-      "days": 27,
+      "days": 28,
       "peak": 113,
       "peakCount": 15,
-      "totalPts": 2893,
-      "date": "2026-11-21"
+      "totalPts": 3045,
+      "date": "2026-11-22"
     },
     "lagui-la donneuse (w/ gazo )": {
       "rank": 127,
       "pts": 152,
-      "days": 33,
+      "days": 34,
       "peak": 75,
       "peakCount": 16,
-      "totalPts": 6440,
-      "date": "2026-11-21"
+      "totalPts": 6592,
+      "date": "2026-11-22"
     },
     "werenoi-laboratoire": {
       "rank": 128,
       "pts": 678,
-      "days": 1157,
+      "days": 1158,
       "peak": 105,
       "peakCount": 118,
-      "totalPts": 728042,
-      "date": "2026-11-21"
+      "totalPts": 728720,
+      "date": "2026-11-22"
     },
     "lagui-gros cave (w/ niaks )": {
       "rank": 129,
       "pts": 170,
-      "days": 389,
+      "days": 390,
       "peak": 66,
       "peakCount": 78,
-      "totalPts": 85736,
-      "date": "2026-11-21"
+      "totalPts": 85906,
+      "date": "2026-11-22"
     },
     "ninho-bracelet (w/ la rvfleuze )": {
       "rank": 130,
       "pts": 157,
-      "days": 190,
+      "days": 191,
       "peak": 10,
       "peakCount": 14,
-      "totalPts": 50804,
-      "date": "2026-11-21"
+      "totalPts": 50961,
+      "date": "2026-11-22"
     },
     "ninho-malcolm": {
       "rank": 131,
       "pts": 144,
-      "days": 39,
+      "days": 40,
       "peak": 127,
       "peakCount": 16,
-      "totalPts": 4492,
-      "date": "2026-11-21"
+      "totalPts": 4636,
+      "date": "2026-11-22"
     },
     "la rvfleuze-parlu": {
       "rank": 132,
       "pts": 253,
-      "days": 1759,
+      "days": 1760,
       "peak": 5,
       "peakCount": 74,
-      "totalPts": 707080,
-      "date": "2026-11-21"
+      "totalPts": 707333,
+      "date": "2026-11-22"
     },
     "ravyn lenae-love me not": {
       "rank": 133,
       "pts": 325,
-      "days": 1759,
+      "days": 1760,
       "peak": 58,
       "peakCount": 77,
-      "totalPts": 656202,
-      "date": "2026-11-21"
+      "totalPts": 656527,
+      "date": "2026-11-22"
     },
     "mosimann-soon (w/ gaã«tan roussel )": {
       "rank": 134,
       "pts": 146,
-      "days": 154,
+      "days": 155,
       "peak": 90,
       "peakCount": 27,
-      "totalPts": 21670,
-      "date": "2026-11-21"
+      "totalPts": 21816,
+      "date": "2026-11-22"
     },
     "triangle des bermudes-mopao aye (w/ mc yoshi , mauvais djo , kokosvoice )": {
       "rank": 135,
       "pts": 196,
-      "days": 1434,
+      "days": 1435,
       "peak": 25,
       "peakCount": 189,
-      "totalPts": 479279,
-      "date": "2026-11-21"
+      "totalPts": 479475,
+      "date": "2026-11-22"
     },
     "the neighbourhood-sweater weather": {
       "rank": 136,
       "pts": 302,
-      "days": 1087,
+      "days": 1088,
       "peak": 89,
       "peakCount": 132,
-      "totalPts": 311638,
-      "date": "2026-11-21"
+      "totalPts": 311940,
+      "date": "2026-11-22"
     },
     "rambo goyard-b.m.s (by my side)": {
       "rank": 137,
       "pts": 350,
-      "days": 1759,
+      "days": 1760,
       "peak": 6,
       "peakCount": 18,
-      "totalPts": 912566,
-      "date": "2026-11-21"
+      "totalPts": 912916,
+      "date": "2026-11-22"
     },
     "adãla-ain't in la": {
       "rank": 138,
       "pts": 138,
-      "days": 174,
+      "days": 175,
       "peak": 112,
       "peakCount": 48,
-      "totalPts": 19376,
-      "date": "2026-11-21"
+      "totalPts": 19514,
+      "date": "2026-11-22"
     },
     "triangle des bermudes-qu'on s'attache (w/ mc yoshi , mauvais djo , kokosvoice )": {
       "rank": 139,
       "pts": 140,
-      "days": 218,
+      "days": 219,
       "peak": 36,
       "peakCount": 45,
-      "totalPts": 56831,
-      "date": "2026-11-21"
+      "totalPts": 56971,
+      "date": "2026-11-22"
     },
     "bouss-printemps": {
       "rank": 140,
       "pts": 215,
-      "days": 1048,
+      "days": 1049,
       "peak": 66,
       "peakCount": 146,
-      "totalPts": 223376,
-      "date": "2026-11-21"
+      "totalPts": 223591,
+      "date": "2026-11-22"
     },
     "franglish-gã©nã©ration impolie (w/ keblack )": {
       "rank": 141,
       "pts": 363,
-      "days": 1759,
+      "days": 1760,
       "peak": 23,
       "peakCount": 46,
-      "totalPts": 752162,
-      "date": "2026-11-21"
+      "totalPts": 752525,
+      "date": "2026-11-22"
     },
     "tayc-rã©anymã© (w/ anyme023 )": {
       "rank": 142,
       "pts": 171,
-      "days": 1239,
+      "days": 1240,
       "peak": 14,
       "peakCount": 10,
-      "totalPts": 399733,
-      "date": "2026-11-21"
+      "totalPts": 399904,
+      "date": "2026-11-22"
     },
     "teddybear-le plus beau": {
       "rank": 143,
       "pts": 130,
-      "days": 120,
+      "days": 121,
       "peak": 68,
       "peakCount": 37,
-      "totalPts": 19544,
-      "date": "2026-11-21"
+      "totalPts": 19674,
+      "date": "2026-11-22"
     },
     "plk-nouvelles": {
       "rank": 144,
       "pts": 525,
-      "days": 1759,
+      "days": 1760,
       "peak": 60,
       "peakCount": 69,
-      "totalPts": 978580,
-      "date": "2026-11-21"
+      "totalPts": 979105,
+      "date": "2026-11-22"
     },
     "vianney-d'or et d'ã©tain": {
       "rank": 145,
       "pts": 116,
-      "days": 48,
+      "days": 49,
       "peak": 61,
       "peakCount": 4,
-      "totalPts": 9430,
-      "date": "2026-11-21"
+      "totalPts": 9546,
+      "date": "2026-11-22"
     },
     "booba-dolce camara (w/ sdm )": {
       "rank": 146,
       "pts": 571,
-      "days": 9,
+      "days": 10,
       "peak": 146,
-      "peakCount": 9,
-      "totalPts": 4971,
-      "date": "2026-11-21"
+      "peakCount": 10,
+      "totalPts": 5542,
+      "date": "2026-11-22"
     },
     "sdm-38. spã": {
       "rank": 147,
       "pts": 110,
-      "days": 23,
+      "days": 24,
       "peak": 25,
       "peakCount": 5,
-      "totalPts": 5116,
-      "date": "2026-11-21"
+      "totalPts": 5226,
+      "date": "2026-11-22"
     },
     "plk-sex model (w/ theodora )": {
       "rank": 148,
       "pts": 246,
-      "days": 1759,
+      "days": 1760,
       "peak": 12,
       "peakCount": 2,
-      "totalPts": 724447,
-      "date": "2026-11-21"
+      "totalPts": 724693,
+      "date": "2026-11-22"
     },
     "bouss-j'bã©ou": {
       "rank": 149,
       "pts": 115,
-      "days": 7,
+      "days": 8,
       "peak": 149,
-      "peakCount": 7,
-      "totalPts": 797,
-      "date": "2026-11-21"
+      "peakCount": 8,
+      "totalPts": 912,
+      "date": "2026-11-22"
     },
     "werenoi-solitaire": {
       "rank": 150,
       "pts": 509,
-      "days": 67,
+      "days": 68,
       "peak": 150,
-      "peakCount": 19,
-      "totalPts": 31940,
-      "date": "2026-11-21"
+      "peakCount": 20,
+      "totalPts": 32449,
+      "date": "2026-11-22"
     },
     "tom odell-another love": {
       "rank": 151,
       "pts": 627,
-      "days": 1061,
+      "days": 1062,
       "peak": 107,
       "peakCount": 156,
-      "totalPts": 677674,
-      "date": "2026-11-21"
+      "totalPts": 678301,
+      "date": "2026-11-22"
     },
     "niska-adriano": {
       "rank": 152,
       "pts": 311,
-      "days": 55,
+      "days": 56,
       "peak": 102,
       "peakCount": 17,
-      "totalPts": 17259,
-      "date": "2026-11-21"
+      "totalPts": 17570,
+      "date": "2026-11-22"
     },
     "anotr-talk to you (ft. 54 ultra) (w/ 54 ultra )": {
       "rank": 153,
       "pts": 124,
-      "days": 13,
+      "days": 14,
       "peak": 153,
-      "peakCount": 9,
-      "totalPts": 1006,
-      "date": "2026-11-21"
+      "peakCount": 10,
+      "totalPts": 1130,
+      "date": "2026-11-22"
     },
     "koba lad-demain jâarrãªte": {
       "rank": 154,
       "pts": 99,
-      "days": 15,
+      "days": 16,
       "peak": 122,
       "peakCount": 8,
-      "totalPts": 1817,
-      "date": "2026-11-21"
+      "totalPts": 1916,
+      "date": "2026-11-22"
     },
     "ariana grande-hate that i made you love me": {
       "rank": 155,
       "pts": 146,
-      "days": 872,
+      "days": 873,
       "peak": 16,
       "peakCount": 10,
-      "totalPts": 240196,
-      "date": "2026-11-21"
+      "totalPts": 240342,
+      "date": "2026-11-22"
     },
     "faouzia-unethical": {
       "rank": 156,
       "pts": 92,
-      "days": 13,
+      "days": 14,
       "peak": 156,
-      "peakCount": 9,
-      "totalPts": 894,
-      "date": "2026-11-21"
+      "peakCount": 10,
+      "totalPts": 986,
+      "date": "2026-11-22"
     },
     "dominic fike-babydoll": {
       "rank": 157,
       "pts": 214,
-      "days": 1759,
+      "days": 1760,
       "peak": 19,
       "peakCount": 24,
-      "totalPts": 702430,
-      "date": "2026-11-21"
+      "totalPts": 702644,
+      "date": "2026-11-22"
     },
     "alex warren-ordinary": {
       "rank": 158,
       "pts": 360,
-      "days": 44,
+      "days": 45,
       "peak": 140,
       "peakCount": 13,
-      "totalPts": 14947,
-      "date": "2026-11-21"
+      "totalPts": 15307,
+      "date": "2026-11-22"
     },
     "triangle des bermudes-balek (w/ aya nakamura , mc yoshi , mauvais djo , kokosvoice )": {
       "rank": 159,
       "pts": 178,
-      "days": 1759,
+      "days": 1760,
       "peak": 19,
       "peakCount": 149,
-      "totalPts": 654708,
-      "date": "2026-11-21"
+      "totalPts": 654886,
+      "date": "2026-11-22"
     },
     "tove lo-blood in your eyes (from gtavi: the album) (w/ grand theft auto vi )": {
       "rank": 160,
       "pts": 82,
-      "days": 3,
+      "days": 4,
       "peak": 160,
-      "peakCount": 3,
-      "totalPts": 246,
-      "date": "2026-11-21"
+      "peakCount": 4,
+      "totalPts": 328,
+      "date": "2026-11-22"
     },
     "niska-chasse ã  l'homme": {
       "rank": 161,
       "pts": 173,
-      "days": 962,
+      "days": 963,
       "peak": 80,
       "peakCount": 136,
-      "totalPts": 151810,
-      "date": "2026-11-21"
+      "totalPts": 151983,
+      "date": "2026-11-22"
     },
     "adãla-nicole kidman": {
       "rank": 162,
       "pts": 91,
-      "days": 15,
+      "days": 16,
       "peak": 157,
       "peakCount": 6,
-      "totalPts": 949,
-      "date": "2026-11-21"
+      "totalPts": 1040,
+      "date": "2026-11-22"
     },
     "sch-professionnels (w/ sdm )": {
       "rank": 163,
       "pts": 88,
-      "days": 115,
+      "days": 116,
       "peak": 3,
       "peakCount": 13,
-      "totalPts": 31790,
-      "date": "2026-11-21"
+      "totalPts": 31878,
+      "date": "2026-11-22"
     },
     "meryl-shatta confessions (w/ n'ken )": {
       "rank": 164,
       "pts": 224,
-      "days": 211,
+      "days": 212,
       "peak": 75,
       "peakCount": 33,
-      "totalPts": 59223,
-      "date": "2026-11-21"
+      "totalPts": 59447,
+      "date": "2026-11-22"
     },
     "aya nakamura-rã©ponds": {
       "rank": 165,
       "pts": 84,
-      "days": 225,
+      "days": 226,
       "peak": 101,
       "peakCount": 50,
-      "totalPts": 25460,
-      "date": "2026-11-21"
+      "totalPts": 25544,
+      "date": "2026-11-22"
     },
     "sombr-back to friends": {
       "rank": 166,
       "pts": 195,
-      "days": 15,
+      "days": 16,
       "peak": 166,
-      "peakCount": 9,
-      "totalPts": 2473,
-      "date": "2026-11-21"
+      "peakCount": 10,
+      "totalPts": 2668,
+      "date": "2026-11-22"
     },
     "leto-macaroni (w/ ninho )": {
       "rank": 167,
       "pts": 210,
-      "days": 7,
+      "days": 8,
       "peak": 167,
-      "peakCount": 7,
-      "totalPts": 1326,
-      "date": "2026-11-21"
+      "peakCount": 8,
+      "totalPts": 1536,
+      "date": "2026-11-22"
     },
     "lagui-ciro": {
       "rank": 168,
       "pts": 80,
-      "days": 295,
+      "days": 296,
       "peak": 129,
       "peakCount": 32,
-      "totalPts": 23502,
-      "date": "2026-11-21"
+      "totalPts": 23582,
+      "date": "2026-11-22"
     },
     "jul-j'oublie tout": {
       "rank": 169,
       "pts": 370,
-      "days": 1759,
+      "days": 1760,
       "peak": 36,
       "peakCount": 68,
-      "totalPts": 899930,
-      "date": "2026-11-21"
+      "totalPts": 900300,
+      "date": "2026-11-22"
     },
     "hanoa-black bleu (w/ lgz_03 )": {
       "rank": 170,
       "pts": 65,
-      "days": 55,
+      "days": 56,
       "peak": 141,
       "peakCount": 21,
-      "totalPts": 4604,
-      "date": "2026-11-21"
+      "totalPts": 4669,
+      "date": "2026-11-22"
     },
     "rnboi-elle voulait": {
       "rank": 171,
       "pts": 212,
-      "days": 1759,
+      "days": 1760,
       "peak": 2,
       "peakCount": 148,
-      "totalPts": 782748,
-      "date": "2026-11-21"
+      "totalPts": 782960,
+      "date": "2026-11-22"
     },
     "r2-ruinart": {
       "rank": 172,
       "pts": 437,
-      "days": 1759,
+      "days": 1760,
       "peak": 8,
       "peakCount": 111,
-      "totalPts": 1177498,
-      "date": "2026-11-21"
+      "totalPts": 1177935,
+      "date": "2026-11-22"
     },
     "sdm-chicharito (w/ 2 mã¨tres , vitoo )": {
       "rank": 173,
       "pts": 58,
-      "days": 23,
+      "days": 24,
       "peak": 43,
       "peakCount": 5,
-      "totalPts": 4203,
-      "date": "2026-11-21"
+      "totalPts": 4261,
+      "date": "2026-11-22"
     },
     "dadju-compliquã©": {
       "rank": 174,
       "pts": 228,
-      "days": 202,
+      "days": 203,
       "peak": 120,
       "peakCount": 35,
-      "totalPts": 47162,
-      "date": "2026-11-21"
+      "totalPts": 47390,
+      "date": "2026-11-22"
     },
     "tk-coachella (w/ gims )": {
       "rank": 175,
       "pts": 86,
-      "days": 7,
+      "days": 8,
       "peak": 146,
       "peakCount": 4,
-      "totalPts": 834,
-      "date": "2026-11-21"
+      "totalPts": 920,
+      "date": "2026-11-22"
     },
     "la rvfleuze-p.i.b": {
       "rank": 176,
       "pts": 198,
-      "days": 7,
+      "days": 8,
       "peak": 172,
       "peakCount": 4,
-      "totalPts": 1418,
-      "date": "2026-11-21"
+      "totalPts": 1616,
+      "date": "2026-11-22"
     },
     "bleu soleil-soleil bleu (w/ luiza )": {
       "rank": 177,
       "pts": 355,
-      "days": 1759,
+      "days": 1760,
       "peak": 41,
       "peakCount": 30,
-      "totalPts": 940026,
-      "date": "2026-11-21"
+      "totalPts": 940381,
+      "date": "2026-11-22"
     },
     "ninho-vã©ritã©": {
       "rank": 178,
       "pts": 188,
-      "days": 7,
+      "days": 8,
       "peak": 178,
-      "peakCount": 7,
-      "totalPts": 1180,
-      "date": "2026-11-21"
+      "peakCount": 8,
+      "totalPts": 1368,
+      "date": "2026-11-22"
     },
     "bosh-solitaire": {
       "rank": 179,
       "pts": 62,
-      "days": 7,
+      "days": 8,
       "peak": 169,
       "peakCount": 4,
-      "totalPts": 514,
-      "date": "2026-11-21"
+      "totalPts": 576,
+      "date": "2026-11-22"
     },
     "pnl-hasta la vista": {
       "rank": 180,
       "pts": 196,
-      "days": 39,
+      "days": 40,
       "peak": 137,
       "peakCount": 14,
-      "totalPts": 8676,
-      "date": "2026-11-21"
+      "totalPts": 8872,
+      "date": "2026-11-22"
     },
     "ninho-jefe": {
       "rank": 181,
       "pts": 417,
-      "days": 15,
+      "days": 16,
       "peak": 172,
       "peakCount": 8,
-      "totalPts": 6159,
-      "date": "2026-11-21"
+      "totalPts": 6576,
+      "date": "2026-11-22"
     },
     "michael jackson-billie jean": {
       "rank": 182,
       "pts": 147,
-      "days": 1759,
+      "days": 1760,
       "peak": 4,
       "peakCount": 162,
-      "totalPts": 659509,
-      "date": "2026-11-21"
+      "totalPts": 659656,
+      "date": "2026-11-22"
     },
     "raye-where is my husband!": {
       "rank": 183,
       "pts": 215,
-      "days": 33,
+      "days": 34,
       "peak": 175,
       "peakCount": 10,
-      "totalPts": 6829,
-      "date": "2026-11-21"
+      "totalPts": 7044,
+      "date": "2026-11-22"
     },
     "la rvfleuze-argent sale": {
       "rank": 184,
       "pts": 47,
-      "days": 7,
+      "days": 8,
       "peak": 154,
       "peakCount": 4,
-      "totalPts": 569,
-      "date": "2026-11-21"
+      "totalPts": 616,
+      "date": "2026-11-22"
     },
     "ninho-maman ne le sait pas (w/ niska )": {
       "rank": 185,
       "pts": 361,
-      "days": 48,
+      "days": 49,
       "peak": 129,
       "peakCount": 25,
-      "totalPts": 19474,
-      "date": "2026-11-21"
+      "totalPts": 19835,
+      "date": "2026-11-22"
     },
     "jul-tu la love": {
       "rank": 186,
       "pts": 260,
-      "days": 9,
+      "days": 10,
       "peak": 180,
       "peakCount": 6,
-      "totalPts": 2380,
-      "date": "2026-11-21"
+      "totalPts": 2640,
+      "date": "2026-11-22"
     },
     "booba-92i veyron": {
       "rank": 187,
       "pts": 210,
-      "days": 39,
+      "days": 40,
       "peak": 159,
       "peakCount": 9,
-      "totalPts": 8288,
-      "date": "2026-11-21"
+      "totalPts": 8498,
+      "date": "2026-11-22"
     },
     "jok'air-nos souvenirs (w/ chilla , yseult )": {
       "rank": 188,
       "pts": 115,
-      "days": 67,
+      "days": 68,
       "peak": 141,
       "peakCount": 8,
-      "totalPts": 9883,
-      "date": "2026-11-21"
+      "totalPts": 9998,
+      "date": "2026-11-22"
     },
     "kanay-flex": {
       "rank": 189,
       "pts": 42,
-      "days": 7,
+      "days": 8,
       "peak": 189,
-      "peakCount": 7,
-      "totalPts": 294,
-      "date": "2026-11-21"
+      "peakCount": 8,
+      "totalPts": 336,
+      "date": "2026-11-22"
     },
     "saã¯f-malade": {
       "rank": 190,
       "pts": 88,
-      "days": 7,
+      "days": 8,
       "peak": 166,
       "peakCount": 4,
-      "totalPts": 808,
-      "date": "2026-11-21"
+      "totalPts": 896,
+      "date": "2026-11-22"
     },
     "bad bunny-nuevayol": {
       "rank": 191,
       "pts": 285,
-      "days": 3,
+      "days": 4,
       "peak": 191,
-      "peakCount": 3,
-      "totalPts": 855,
-      "date": "2026-11-21"
+      "peakCount": 4,
+      "totalPts": 1140,
+      "date": "2026-11-22"
     },
     "booba-scarface": {
       "rank": 192,
       "pts": 59,
-      "days": 9,
+      "days": 10,
       "peak": 186,
       "peakCount": 6,
-      "totalPts": 551,
-      "date": "2026-11-21"
+      "totalPts": 610,
+      "date": "2026-11-22"
     },
     "plk-ãmotif (booska 1h)": {
       "rank": 193,
       "pts": 331,
-      "days": 3,
+      "days": 4,
       "peak": 193,
-      "peakCount": 3,
-      "totalPts": 993,
-      "date": "2026-11-21"
+      "peakCount": 4,
+      "totalPts": 1324,
+      "date": "2026-11-22"
     },
     "damso-î. dieu ne ment jamais": {
       "rank": 194,
       "pts": 363,
-      "days": 67,
+      "days": 68,
       "peak": 146,
       "peakCount": 21,
-      "totalPts": 27191,
-      "date": "2026-11-21"
+      "totalPts": 27554,
+      "date": "2026-11-22"
     },
     "macklemore & ryan lewis-can't hold us (w/ macklemore , ryan lewis , ray dalton )": {
       "rank": 195,
       "pts": 484,
-      "days": 3,
+      "days": 4,
       "peak": 195,
-      "peakCount": 3,
-      "totalPts": 1452,
-      "date": "2026-11-21"
+      "peakCount": 4,
+      "totalPts": 1936,
+      "date": "2026-11-22"
     },
     "pnl-onizuka": {
       "rank": 196,
       "pts": 271,
-      "days": 3,
+      "days": 4,
       "peak": 196,
-      "peakCount": 3,
-      "totalPts": 813,
-      "date": "2026-11-21"
+      "peakCount": 4,
+      "totalPts": 1084,
+      "date": "2026-11-22"
     },
     "jul-pour un violet": {
       "rank": 197,
       "pts": 39,
-      "days": 7,
+      "days": 8,
       "peak": 197,
-      "peakCount": 7,
-      "totalPts": 273,
-      "date": "2026-11-21"
+      "peakCount": 8,
+      "totalPts": 312,
+      "date": "2026-11-22"
     },
     "pnl-benã©": {
       "rank": 198,
       "pts": 155,
-      "days": 13,
+      "days": 14,
       "peak": 173,
       "peakCount": 6,
-      "totalPts": 2369,
-      "date": "2026-11-21"
+      "totalPts": 2524,
+      "date": "2026-11-22"
     },
     "vance joy-riptide": {
       "rank": 199,
       "pts": 248,
-      "days": 3,
+      "days": 4,
       "peak": 199,
-      "peakCount": 3,
-      "totalPts": 744,
-      "date": "2026-11-21"
+      "peakCount": 4,
+      "totalPts": 992,
+      "date": "2026-11-22"
     },
     "hamza-kyky2bondy": {
       "rank": 200,
       "pts": 342,
-      "days": 102,
+      "days": 103,
       "peak": 120,
       "peakCount": 16,
-      "totalPts": 42912,
-      "date": "2026-11-21"
+      "totalPts": 43254,
+      "date": "2026-11-22"
     }
   },
   "rows": [
@@ -1813,13 +1813,13 @@
       "streams": 32632575,
       "pts": 509,
       "move": "=",
-      "days": 283,
+      "days": 284,
       "peak": 1,
-      "peakCount": 270,
+      "peakCount": 271,
       "ptsPlus": 0,
-      "totalPts": 129340,
-      "tpts": 129.34,
-      "date": "2026-11-21"
+      "totalPts": 129849,
+      "tpts": 129.849,
+      "date": "2026-11-22"
     },
     {
       "id": "sdm-bantu mentalitã (w/ ninho )",
@@ -1830,13 +1830,13 @@
       "streams": 2433937,
       "pts": 406,
       "move": "=",
-      "days": 23,
+      "days": 24,
       "peak": 1,
       "peakCount": 9,
       "ptsPlus": 0,
-      "totalPts": 9283,
-      "tpts": 9.283,
-      "date": "2026-11-21"
+      "totalPts": 9689,
+      "tpts": 9.689,
+      "date": "2026-11-22"
     },
     {
       "id": "tiakola-mã©lo dã©calã©",
@@ -1847,13 +1847,13 @@
       "streams": 39021163,
       "pts": 526,
       "move": "=",
-      "days": 1348,
+      "days": 1349,
       "peak": 2,
       "peakCount": 445,
       "ptsPlus": 0,
-      "totalPts": 563393,
-      "tpts": 563.393,
-      "date": "2026-11-21"
+      "totalPts": 563919,
+      "tpts": 563.919,
+      "date": "2026-11-22"
     },
     {
       "id": "le crime-bodycount (w/ tk )",
@@ -1864,13 +1864,13 @@
       "streams": 10828077,
       "pts": 430,
       "move": "=",
-      "days": 222,
+      "days": 223,
       "peak": 3,
       "peakCount": 151,
       "ptsPlus": 0,
-      "totalPts": 76907,
-      "tpts": 76.907,
-      "date": "2026-11-21"
+      "totalPts": 77337,
+      "tpts": 77.337,
+      "date": "2026-11-22"
     },
     {
       "id": "justice-flower in a hurricane (w/ tame impala , sza , grand theft auto vi , king gizzard & the lizard wizard )",
@@ -1881,13 +1881,13 @@
       "streams": 2589271,
       "pts": 401,
       "move": "=",
-      "days": 62,
+      "days": 63,
       "peak": 5,
-      "peakCount": 31,
+      "peakCount": 32,
       "ptsPlus": 0,
-      "totalPts": 13699,
-      "tpts": 13.699,
-      "date": "2026-11-21"
+      "totalPts": 14100,
+      "tpts": 14.1,
+      "date": "2026-11-22"
     },
     {
       "id": "mauvais djo-4",
@@ -1898,13 +1898,13 @@
       "streams": 8868857,
       "pts": 420,
       "move": "=",
-      "days": 198,
+      "days": 199,
       "peak": 4,
       "peakCount": 133,
       "ptsPlus": 0,
-      "totalPts": 66762,
-      "tpts": 66.762,
-      "date": "2026-11-21"
+      "totalPts": 67182,
+      "tpts": 67.182,
+      "date": "2026-11-22"
     },
     {
       "id": "tiakola-jet lag (w/ jorja smith )",
@@ -1915,13 +1915,13 @@
       "streams": 9000901,
       "pts": 418,
       "move": "=",
-      "days": 243,
+      "days": 244,
       "peak": 6,
       "peakCount": 72,
       "ptsPlus": 0,
-      "totalPts": 87996,
-      "tpts": 87.996,
-      "date": "2026-11-21"
+      "totalPts": 88414,
+      "tpts": 88.414,
+      "date": "2026-11-22"
     },
     {
       "id": "rnboi-j'assume",
@@ -1932,13 +1932,13 @@
       "streams": 8688074,
       "pts": 415,
       "move": "=",
-      "days": 147,
+      "days": 148,
       "peak": 3,
       "peakCount": 61,
       "ptsPlus": 0,
-      "totalPts": 59426,
-      "tpts": 59.426,
-      "date": "2026-11-21"
+      "totalPts": 59841,
+      "tpts": 59.841,
+      "date": "2026-11-22"
     },
     {
       "id": "mauvais djo-12",
@@ -1949,13 +1949,13 @@
       "streams": 6430169,
       "pts": 405,
       "move": "=",
-      "days": 170,
+      "days": 171,
       "peak": 5,
       "peakCount": 117,
       "ptsPlus": 0,
-      "totalPts": 51849,
-      "tpts": 51.849,
-      "date": "2026-11-21"
+      "totalPts": 52254,
+      "tpts": 52.254,
+      "date": "2026-11-22"
     },
     {
       "id": "sdm-ãa chauffe",
@@ -1966,13 +1966,13 @@
       "streams": 1366334,
       "pts": 387,
       "move": "=",
-      "days": 23,
+      "days": 24,
       "peak": 4,
       "peakCount": 5,
       "ptsPlus": 0,
-      "totalPts": 8822,
-      "tpts": 8.822,
-      "date": "2026-11-21"
+      "totalPts": 9209,
+      "tpts": 9.209,
+      "date": "2026-11-22"
     },
     {
       "id": "l2b-dedans",
@@ -1983,13 +1983,13 @@
       "streams": 1680844,
       "pts": 386,
       "move": "=",
-      "days": 48,
+      "days": 49,
       "peak": 10,
       "peakCount": 30,
       "ptsPlus": 0,
-      "totalPts": 12505,
-      "tpts": 12.505,
-      "date": "2026-11-21"
+      "totalPts": 12891,
+      "tpts": 12.891,
+      "date": "2026-11-22"
     },
     {
       "id": "cherry pie-bir hakeim",
@@ -2000,13 +2000,13 @@
       "streams": 10748969,
       "pts": 414,
       "move": "=",
-      "days": 255,
+      "days": 256,
       "peak": 6,
       "peakCount": 13,
       "ptsPlus": 0,
-      "totalPts": 98965,
-      "tpts": 98.965,
-      "date": "2026-11-21"
+      "totalPts": 99379,
+      "tpts": 99.379,
+      "date": "2026-11-22"
     },
     {
       "id": "aya nakamura-sexy nana (w/ la rvfleuze )",
@@ -2017,13 +2017,13 @@
       "streams": 68050297,
       "pts": 603,
       "move": "=",
-      "days": 1654,
+      "days": 1655,
       "peak": 1,
       "peakCount": 792,
       "ptsPlus": 0,
-      "totalPts": 847232,
-      "tpts": 847.232,
-      "date": "2026-11-21"
+      "totalPts": 847835,
+      "tpts": 847.835,
+      "date": "2026-11-22"
     },
     {
       "id": "mauvais djo-maladie",
@@ -2034,13 +2034,13 @@
       "streams": 55346855,
       "pts": 558,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 3,
       "peakCount": 989,
       "ptsPlus": 0,
-      "totalPts": 822871,
-      "tpts": 822.871,
-      "date": "2026-11-21"
+      "totalPts": 823429,
+      "tpts": 823.429,
+      "date": "2026-11-22"
     },
     {
       "id": "ronisia-cuenta (w/ meryl , shay )",
@@ -2051,13 +2051,13 @@
       "streams": 9990513,
       "pts": 405,
       "move": "=",
-      "days": 211,
+      "days": 212,
       "peak": 6,
       "peakCount": 21,
       "ptsPlus": 0,
-      "totalPts": 83833,
-      "tpts": 83.833,
-      "date": "2026-11-21"
+      "totalPts": 84238,
+      "tpts": 84.238,
+      "date": "2026-11-22"
     },
     {
       "id": "mauvais djo-wagyu",
@@ -2068,13 +2068,13 @@
       "streams": 19368392,
       "pts": 435,
       "move": "=",
-      "days": 789,
+      "days": 790,
       "peak": 9,
       "peakCount": 365,
       "ptsPlus": 0,
-      "totalPts": 310258,
-      "tpts": 310.258,
-      "date": "2026-11-21"
+      "totalPts": 310693,
+      "tpts": 310.693,
+      "date": "2026-11-22"
     },
     {
       "id": "jok'air-noumã©a (w/ linema )",
@@ -2085,13 +2085,13 @@
       "streams": 6824589,
       "pts": 391,
       "move": "=",
-      "days": 211,
+      "days": 212,
       "peak": 13,
       "peakCount": 66,
       "ptsPlus": 0,
-      "totalPts": 71477,
-      "tpts": 71.477,
-      "date": "2026-11-21"
+      "totalPts": 71868,
+      "tpts": 71.868,
+      "date": "2026-11-22"
     },
     {
       "id": "disiz-melodrama (w/ theodora )",
@@ -2102,13 +2102,13 @@
       "streams": 166945781,
       "pts": 922,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 2,
       "peakCount": 151,
       "ptsPlus": 0,
-      "totalPts": 1556070,
-      "tpts": 1556.07,
-      "date": "2026-11-21"
+      "totalPts": 1556992,
+      "tpts": 1556.992,
+      "date": "2026-11-22"
     },
     {
       "id": "tiakola-la nocturne (w/ theodora )",
@@ -2119,13 +2119,13 @@
       "streams": 13558237,
       "pts": 409,
       "move": "=",
-      "days": 243,
+      "days": 244,
       "peak": 2,
       "peakCount": 48,
       "ptsPlus": 0,
-      "totalPts": 99748,
-      "tpts": 99.748,
-      "date": "2026-11-21"
+      "totalPts": 100157,
+      "tpts": 100.157,
+      "date": "2026-11-22"
     },
     {
       "id": "leto-pineapple",
@@ -2136,13 +2136,13 @@
       "streams": 56966120,
       "pts": 552,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 2,
       "peakCount": 55,
       "ptsPlus": 0,
-      "totalPts": 871794,
-      "tpts": 871.794,
-      "date": "2026-11-21"
+      "totalPts": 872346,
+      "tpts": 872.346,
+      "date": "2026-11-22"
     },
     {
       "id": "ninho-la vie qu'on mã¨ne",
@@ -2153,13 +2153,13 @@
       "streams": 300058159,
       "pts": 1360,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 13,
       "peakCount": 155,
       "ptsPlus": 0,
-      "totalPts": 2310870,
-      "tpts": 2310.87,
-      "date": "2026-11-21"
+      "totalPts": 2312230,
+      "tpts": 2312.23,
+      "date": "2026-11-22"
     },
     {
       "id": "karol g-bby wow (w/ judeline , rusowsky )",
@@ -2170,13 +2170,13 @@
       "streams": 5724023,
       "pts": 377,
       "move": "=",
-      "days": 198,
+      "days": 199,
       "peak": 17,
       "peakCount": 97,
       "ptsPlus": 0,
-      "totalPts": 58884,
-      "tpts": 58.884,
-      "date": "2026-11-21"
+      "totalPts": 59261,
+      "tpts": 59.261,
+      "date": "2026-11-22"
     },
     {
       "id": "theodora-habiba",
@@ -2187,13 +2187,13 @@
       "streams": 9919711,
       "pts": 389,
       "move": "=",
-      "days": 202,
+      "days": 203,
       "peak": 3,
       "peakCount": 60,
       "ptsPlus": 0,
-      "totalPts": 80023,
-      "tpts": 80.023,
-      "date": "2026-11-21"
+      "totalPts": 80412,
+      "tpts": 80.412,
+      "date": "2026-11-22"
     },
     {
       "id": "mauvais djo-pilã©",
@@ -2204,13 +2204,13 @@
       "streams": 72269413,
       "pts": 595,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 1,
       "peakCount": 827,
       "ptsPlus": 0,
-      "totalPts": 919303,
-      "tpts": 919.303,
-      "date": "2026-11-21"
+      "totalPts": 919898,
+      "tpts": 919.898,
+      "date": "2026-11-22"
     },
     {
       "id": "plk-pocahontas",
@@ -2221,13 +2221,13 @@
       "streams": 76916433,
       "pts": 608,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 1,
       "peakCount": 281,
       "ptsPlus": 0,
-      "totalPts": 990832,
-      "tpts": 990.832,
-      "date": "2026-11-21"
+      "totalPts": 991440,
+      "tpts": 991.44,
+      "date": "2026-11-22"
     },
     {
       "id": "bouss-cote ã  la hausse",
@@ -2238,13 +2238,13 @@
       "streams": 14818103,
       "pts": 399,
       "move": "=",
-      "days": 771,
+      "days": 772,
       "peak": 13,
       "peakCount": 297,
       "ptsPlus": 0,
-      "totalPts": 249401,
-      "tpts": 249.401,
-      "date": "2026-11-21"
+      "totalPts": 249800,
+      "tpts": 249.8,
+      "date": "2026-11-22"
     },
     {
       "id": "werenoi-jalouse (w/ sdm , vacra )",
@@ -2255,13 +2255,13 @@
       "streams": 33854668,
       "pts": 461,
       "move": "=",
-      "days": 1223,
+      "days": 1224,
       "peak": 13,
       "peakCount": 241,
       "ptsPlus": 0,
-      "totalPts": 501538,
-      "tpts": 501.538,
-      "date": "2026-11-21"
+      "totalPts": 501999,
+      "tpts": 501.999,
+      "date": "2026-11-22"
     },
     {
       "id": "aya nakamura-la pã©tasse",
@@ -2272,13 +2272,13 @@
       "streams": 28726688,
       "pts": 442,
       "move": "=",
-      "days": 1434,
+      "days": 1435,
       "peak": 6,
       "peakCount": 332,
       "ptsPlus": 0,
-      "totalPts": 523918,
-      "tpts": 523.918,
-      "date": "2026-11-21"
+      "totalPts": 524360,
+      "tpts": 524.36,
+      "date": "2026-11-22"
     },
     {
       "id": "bello&dallas-sã©minaire",
@@ -2289,13 +2289,13 @@
       "streams": 33274601,
       "pts": 455,
       "move": "=",
-      "days": 1377,
+      "days": 1378,
       "peak": 4,
       "peakCount": 564,
       "ptsPlus": 0,
-      "totalPts": 572368,
-      "tpts": 572.368,
-      "date": "2026-11-21"
+      "totalPts": 572823,
+      "tpts": 572.823,
+      "date": "2026-11-22"
     },
     {
       "id": "teddybear-chaussures roses",
@@ -2306,13 +2306,13 @@
       "streams": 6487802,
       "pts": 364,
       "move": "=",
-      "days": 272,
+      "days": 273,
       "peak": 15,
       "peakCount": 88,
       "ptsPlus": 0,
-      "totalPts": 66711,
-      "tpts": 66.711,
-      "date": "2026-11-21"
+      "totalPts": 67075,
+      "tpts": 67.075,
+      "date": "2026-11-22"
     },
     {
       "id": "timal-sicario",
@@ -2323,13 +2323,13 @@
       "streams": 29964967,
       "pts": 440,
       "move": "=",
-      "days": 1239,
+      "days": 1240,
       "peak": 1,
       "peakCount": 632,
       "ptsPlus": 0,
-      "totalPts": 475691,
-      "tpts": 475.691,
-      "date": "2026-11-21"
+      "totalPts": 476131,
+      "tpts": 476.131,
+      "date": "2026-11-22"
     },
     {
       "id": "tate mcrae-housewife",
@@ -2340,13 +2340,13 @@
       "streams": 4502387,
       "pts": 353,
       "move": "=",
-      "days": 147,
+      "days": 148,
       "peak": 19,
       "peakCount": 39,
       "ptsPlus": 0,
-      "totalPts": 47711,
-      "tpts": 47.711,
-      "date": "2026-11-21"
+      "totalPts": 48064,
+      "tpts": 48.064,
+      "date": "2026-11-22"
     },
     {
       "id": "estl-te rencontrer encore",
@@ -2357,13 +2357,13 @@
       "streams": 6345794,
       "pts": 357,
       "move": "=",
-      "days": 283,
+      "days": 284,
       "peak": 32,
       "peakCount": 108,
       "ptsPlus": 0,
-      "totalPts": 69432,
-      "tpts": 69.432,
-      "date": "2026-11-21"
+      "totalPts": 69789,
+      "tpts": 69.789,
+      "date": "2026-11-22"
     },
     {
       "id": "adã¨le castillon-ãtã© avec toi",
@@ -2374,13 +2374,13 @@
       "streams": 12774534,
       "pts": 377,
       "move": "=",
-      "days": 854,
+      "days": 855,
       "peak": 25,
       "peakCount": 289,
       "ptsPlus": 0,
-      "totalPts": 246223,
-      "tpts": 246.223,
-      "date": "2026-11-21"
+      "totalPts": 246600,
+      "tpts": 246.6,
+      "date": "2026-11-22"
     },
     {
       "id": "nono la grinta-love you",
@@ -2391,13 +2391,13 @@
       "streams": 104771072,
       "pts": 681,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 6,
       "peakCount": 14,
       "ptsPlus": 0,
-      "totalPts": 1178107,
-      "tpts": 1178.107,
-      "date": "2026-11-21"
+      "totalPts": 1178788,
+      "tpts": 1178.788,
+      "date": "2026-11-22"
     },
     {
       "id": "gims-vive la monnaie (w/ mauvais djo )",
@@ -2408,13 +2408,13 @@
       "streams": 19173854,
       "pts": 394,
       "move": "=",
-      "days": 1029,
+      "days": 1030,
       "peak": 13,
       "peakCount": 176,
       "ptsPlus": 0,
-      "totalPts": 380608,
-      "tpts": 380.608,
-      "date": "2026-11-21"
+      "totalPts": 381002,
+      "tpts": 381.002,
+      "date": "2026-11-22"
     },
     {
       "id": "sdm-des photos de toi",
@@ -2425,13 +2425,13 @@
       "streams": 838140,
       "pts": 331,
       "move": "=",
-      "days": 23,
+      "days": 24,
       "peak": 32,
       "peakCount": 5,
       "ptsPlus": 0,
-      "totalPts": 7351,
-      "tpts": 7.351,
-      "date": "2026-11-21"
+      "totalPts": 7682,
+      "tpts": 7.682,
+      "date": "2026-11-22"
     },
     {
       "id": "sdm-6.35 (w/ sch )",
@@ -2442,13 +2442,13 @@
       "streams": 1074544,
       "pts": 330,
       "move": "=",
-      "days": 23,
+      "days": 24,
       "peak": 7,
       "peakCount": 5,
       "ptsPlus": 0,
-      "totalPts": 8194,
-      "tpts": 8.194,
-      "date": "2026-11-21"
+      "totalPts": 8524,
+      "tpts": 8.524,
+      "date": "2026-11-22"
     },
     {
       "id": "sdm-grand palace",
@@ -2459,13 +2459,13 @@
       "streams": 965562,
       "pts": 327,
       "move": "=",
-      "days": 23,
+      "days": 24,
       "peak": 9,
       "peakCount": 5,
       "ptsPlus": 0,
-      "totalPts": 7879,
-      "tpts": 7.879,
-      "date": "2026-11-21"
+      "totalPts": 8206,
+      "tpts": 8.206,
+      "date": "2026-11-22"
     },
     {
       "id": "lagui-olivia valere",
@@ -2476,13 +2476,13 @@
       "streams": 16072965,
       "pts": 376,
       "move": "=",
-      "days": 1003,
+      "days": 1004,
       "peak": 20,
       "peakCount": 208,
       "ptsPlus": 0,
-      "totalPts": 320410,
-      "tpts": 320.41,
-      "date": "2026-11-21"
+      "totalPts": 320786,
+      "tpts": 320.786,
+      "date": "2026-11-22"
     },
     {
       "id": "nono la grinta-paris",
@@ -2493,13 +2493,13 @@
       "streams": 121112594,
       "pts": 724,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 5,
       "peakCount": 83,
       "ptsPlus": 0,
-      "totalPts": 1267556,
-      "tpts": 1267.556,
-      "date": "2026-11-21"
+      "totalPts": 1268280,
+      "tpts": 1268.28,
+      "date": "2026-11-22"
     },
     {
       "id": "damso-î. signaler",
@@ -2510,13 +2510,13 @@
       "streams": 84028507,
       "pts": 598,
       "move": "=",
-      "days": 1298,
+      "days": 1299,
       "peak": 20,
       "peakCount": 367,
       "ptsPlus": 0,
-      "totalPts": 663061,
-      "tpts": 663.061,
-      "date": "2026-11-21"
+      "totalPts": 663659,
+      "tpts": 663.659,
+      "date": "2026-11-22"
     },
     {
       "id": "la rvfleuze-argent sale - a colors show (w/ colors )",
@@ -2527,13 +2527,13 @@
       "streams": 43728985,
       "pts": 462,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 14,
       "peakCount": 41,
       "ptsPlus": 0,
-      "totalPts": 737005,
-      "tpts": 737.005,
-      "date": "2026-11-21"
+      "totalPts": 737467,
+      "tpts": 737.467,
+      "date": "2026-11-22"
     },
     {
       "id": "tame impala-loser",
@@ -2544,13 +2544,13 @@
       "streams": 12377266,
       "pts": 355,
       "move": "=",
-      "days": 845,
+      "days": 846,
       "peak": 20,
       "peakCount": 254,
       "ptsPlus": 0,
-      "totalPts": 269233,
-      "tpts": 269.233,
-      "date": "2026-11-21"
+      "totalPts": 269588,
+      "tpts": 269.588,
+      "date": "2026-11-22"
     },
     {
       "id": "sdm-i.g",
@@ -2561,13 +2561,13 @@
       "streams": 921112,
       "pts": 315,
       "move": "=",
-      "days": 23,
+      "days": 24,
       "peak": 12,
       "peakCount": 5,
       "ptsPlus": 0,
-      "totalPts": 7685,
-      "tpts": 7.685,
-      "date": "2026-11-21"
+      "totalPts": 8000,
+      "tpts": 8.0,
+      "date": "2026-11-22"
     },
     {
       "id": "le crime-amiri (w/ gambi )",
@@ -2578,13 +2578,13 @@
       "streams": 3418599,
       "pts": 321,
       "move": "=",
-      "days": 120,
+      "days": 121,
       "peak": 31,
       "peakCount": 62,
       "ptsPlus": 0,
-      "totalPts": 27448,
-      "tpts": 27.448,
-      "date": "2026-11-21"
+      "totalPts": 27769,
+      "tpts": 27.769,
+      "date": "2026-11-22"
     },
     {
       "id": "temper city-self aware",
@@ -2595,13 +2595,13 @@
       "streams": 26354018,
       "pts": 396,
       "move": "=",
-      "days": 1742,
+      "days": 1743,
       "peak": 17,
       "peakCount": 217,
       "ptsPlus": 0,
-      "totalPts": 614910,
-      "tpts": 614.91,
-      "date": "2026-11-21"
+      "totalPts": 615306,
+      "tpts": 615.306,
+      "date": "2026-11-22"
     },
     {
       "id": "jamie miller-babydoll",
@@ -2612,13 +2612,13 @@
       "streams": 1724918,
       "pts": 312,
       "move": "=",
-      "days": 62,
+      "days": 63,
       "peak": 48,
-      "peakCount": 32,
+      "peakCount": 33,
       "ptsPlus": 0,
-      "totalPts": 11289,
-      "tpts": 11.289,
-      "date": "2026-11-21"
+      "totalPts": 11601,
+      "tpts": 11.601,
+      "date": "2026-11-22"
     },
     {
       "id": "aya nakamura-la machine",
@@ -2629,13 +2629,13 @@
       "streams": 11209195,
       "pts": 341,
       "move": "=",
-      "days": 75,
+      "days": 76,
       "peak": 41,
       "peakCount": 43,
       "ptsPlus": 0,
-      "totalPts": 19204,
-      "tpts": 19.204,
-      "date": "2026-11-21"
+      "totalPts": 19545,
+      "tpts": 19.545,
+      "date": "2026-11-22"
     },
     {
       "id": "shakira-dai dai (w/ burna boy )",
@@ -2646,13 +2646,13 @@
       "streams": 39464592,
       "pts": 434,
       "move": "=",
-      "days": 1515,
+      "days": 1516,
       "peak": 2,
       "peakCount": 315,
       "ptsPlus": 0,
-      "totalPts": 644424,
-      "tpts": 644.424,
-      "date": "2026-11-21"
+      "totalPts": 644858,
+      "tpts": 644.858,
+      "date": "2026-11-22"
     },
     {
       "id": "sdm-cartier santos",
@@ -2663,13 +2663,13 @@
       "streams": 147878631,
       "pts": 793,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 21,
       "peakCount": 65,
       "ptsPlus": 0,
-      "totalPts": 1215442,
-      "tpts": 1215.442,
-      "date": "2026-11-21"
+      "totalPts": 1216235,
+      "tpts": 1216.235,
+      "date": "2026-11-22"
     },
     {
       "id": "werenoi-chemin d'or",
@@ -2680,13 +2680,13 @@
       "streams": 149660401,
       "pts": 797,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 27,
       "peakCount": 85,
       "ptsPlus": 0,
-      "totalPts": 1391437,
-      "tpts": 1391.437,
-      "date": "2026-11-21"
+      "totalPts": 1392234,
+      "tpts": 1392.234,
+      "date": "2026-11-22"
     },
     {
       "id": "sdm-le msg",
@@ -2697,13 +2697,13 @@
       "streams": 829454,
       "pts": 299,
       "move": "=",
-      "days": 23,
+      "days": 24,
       "peak": 17,
       "peakCount": 5,
       "ptsPlus": 0,
-      "totalPts": 7241,
-      "tpts": 7.241,
-      "date": "2026-11-21"
+      "totalPts": 7540,
+      "tpts": 7.54,
+      "date": "2026-11-22"
     },
     {
       "id": "ninho-vrais",
@@ -2714,13 +2714,13 @@
       "streams": 79435357,
       "pts": 559,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 50,
       "peakCount": 74,
       "ptsPlus": 0,
-      "totalPts": 812118,
-      "tpts": 812.118,
-      "date": "2026-11-21"
+      "totalPts": 812677,
+      "tpts": 812.677,
+      "date": "2026-11-22"
     },
     {
       "id": "ninho-lettre ã  une femme",
@@ -2731,13 +2731,13 @@
       "streams": 181365273,
       "pts": 896,
       "move": "=",
-      "days": 1439,
+      "days": 1440,
       "peak": 40,
       "peakCount": 182,
       "ptsPlus": 0,
-      "totalPts": 1164851,
-      "tpts": 1164.851,
-      "date": "2026-11-21"
+      "totalPts": 1165747,
+      "tpts": 1165.747,
+      "date": "2026-11-22"
     },
     {
       "id": "hugel-jamaican (bam bam) (w/ solto (fr) )",
@@ -2748,13 +2748,13 @@
       "streams": 40602354,
       "pts": 425,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 8,
       "peakCount": 313,
       "ptsPlus": 0,
-      "totalPts": 768740,
-      "tpts": 768.74,
-      "date": "2026-11-21"
+      "totalPts": 769165,
+      "tpts": 769.165,
+      "date": "2026-11-22"
     },
     {
       "id": "gambi-renã caovilla",
@@ -2765,13 +2765,13 @@
       "streams": 52814739,
       "pts": 464,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 4,
       "peakCount": 204,
       "ptsPlus": 0,
-      "totalPts": 855208,
-      "tpts": 855.208,
-      "date": "2026-11-21"
+      "totalPts": 855672,
+      "tpts": 855.672,
+      "date": "2026-11-22"
     },
     {
       "id": "bamby-pas jalouse (w/ kerchak )",
@@ -2782,13 +2782,13 @@
       "streams": 32322119,
       "pts": 394,
       "move": "=",
-      "days": 552,
+      "days": 553,
       "peak": 20,
       "peakCount": 156,
       "ptsPlus": 0,
-      "totalPts": 183130,
-      "tpts": 183.13,
-      "date": "2026-11-21"
+      "totalPts": 183524,
+      "tpts": 183.524,
+      "date": "2026-11-22"
     },
     {
       "id": "djadja & dinaz-j'fais mes affaires",
@@ -2799,13 +2799,13 @@
       "streams": 83310556,
       "pts": 562,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 50,
       "peakCount": 71,
       "ptsPlus": 0,
-      "totalPts": 828533,
-      "tpts": 828.533,
-      "date": "2026-11-21"
+      "totalPts": 829095,
+      "tpts": 829.095,
+      "date": "2026-11-22"
     },
     {
       "id": "werenoi-pã©tunias",
@@ -2816,13 +2816,13 @@
       "streams": 107397032,
       "pts": 640,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 37,
       "peakCount": 75,
       "ptsPlus": 0,
-      "totalPts": 1110453,
-      "tpts": 1110.453,
-      "date": "2026-11-21"
+      "totalPts": 1111093,
+      "tpts": 1111.093,
+      "date": "2026-11-22"
     },
     {
       "id": "ashe-stop the wedding!",
@@ -2833,13 +2833,13 @@
       "streams": 1712560,
       "pts": 286,
       "move": "=",
-      "days": 67,
+      "days": 68,
       "peak": 61,
-      "peakCount": 32,
+      "peakCount": 33,
       "ptsPlus": 0,
-      "totalPts": 9855,
-      "tpts": 9.855,
-      "date": "2026-11-21"
+      "totalPts": 10141,
+      "tpts": 10.141,
+      "date": "2026-11-22"
     },
     {
       "id": "zed-wetin day",
@@ -2850,13 +2850,13 @@
       "streams": 2657423,
       "pts": 287,
       "move": "=",
-      "days": 79,
+      "days": 80,
       "peak": 20,
       "peakCount": 16,
       "ptsPlus": 0,
-      "totalPts": 25285,
-      "tpts": 25.285,
-      "date": "2026-11-21"
+      "totalPts": 25572,
+      "tpts": 25.572,
+      "date": "2026-11-22"
     },
     {
       "id": "l2b-cybertesla",
@@ -2867,13 +2867,13 @@
       "streams": 6249117,
       "pts": 297,
       "move": "=",
-      "days": 182,
+      "days": 183,
       "peak": 12,
       "peakCount": 19,
       "ptsPlus": 0,
-      "totalPts": 65009,
-      "tpts": 65.009,
-      "date": "2026-11-21"
+      "totalPts": 65306,
+      "tpts": 65.306,
+      "date": "2026-11-22"
     },
     {
       "id": "la rvfleuze-serrure #5",
@@ -2884,13 +2884,13 @@
       "streams": 63278833,
       "pts": 485,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 30,
       "peakCount": 77,
       "ptsPlus": 0,
-      "totalPts": 837998,
-      "tpts": 837.998,
-      "date": "2026-11-21"
+      "totalPts": 838483,
+      "tpts": 838.483,
+      "date": "2026-11-22"
     },
     {
       "id": "jul-parfum quartier",
@@ -2901,13 +2901,13 @@
       "streams": 46441435,
       "pts": 427,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 11,
       "peakCount": 98,
       "ptsPlus": 0,
-      "totalPts": 789355,
-      "tpts": 789.355,
-      "date": "2026-11-21"
+      "totalPts": 789782,
+      "tpts": 789.782,
+      "date": "2026-11-22"
     },
     {
       "id": "tlc-no scrubs",
@@ -2918,13 +2918,13 @@
       "streams": 6189377,
       "pts": 291,
       "move": "=",
-      "days": 401,
+      "days": 402,
       "peak": 64,
       "peakCount": 49,
       "ptsPlus": 0,
-      "totalPts": 59795,
-      "tpts": 59.795,
-      "date": "2026-11-21"
+      "totalPts": 60086,
+      "tpts": 60.086,
+      "date": "2026-11-22"
     },
     {
       "id": "bouss-biff pas d'love",
@@ -2935,13 +2935,13 @@
       "streams": 59162988,
       "pts": 465,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 43,
       "peakCount": 79,
       "ptsPlus": 0,
-      "totalPts": 715896,
-      "tpts": 715.896,
-      "date": "2026-11-21"
+      "totalPts": 716361,
+      "tpts": 716.361,
+      "date": "2026-11-22"
     },
     {
       "id": "oria-soirã©e mondaine",
@@ -2952,13 +2952,13 @@
       "streams": 23395402,
       "pts": 344,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 40,
       "peakCount": 209,
       "ptsPlus": 0,
-      "totalPts": 555543,
-      "tpts": 555.543,
-      "date": "2026-11-21"
+      "totalPts": 555887,
+      "tpts": 555.887,
+      "date": "2026-11-22"
     },
     {
       "id": "ninho-dis-moi que tu m'aimes",
@@ -2969,13 +2969,13 @@
       "streams": 55396175,
       "pts": 449,
       "move": "=",
-      "days": 1369,
+      "days": 1370,
       "peak": 53,
       "peakCount": 71,
       "ptsPlus": 0,
-      "totalPts": 425327,
-      "tpts": 425.327,
-      "date": "2026-11-21"
+      "totalPts": 425776,
+      "tpts": 425.776,
+      "date": "2026-11-22"
     },
     {
       "id": "sdm-quand le soleil se lãve",
@@ -2986,13 +2986,13 @@
       "streams": 794107,
       "pts": 265,
       "move": "=",
-      "days": 23,
+      "days": 24,
       "peak": 14,
       "peakCount": 5,
       "ptsPlus": 0,
-      "totalPts": 6835,
-      "tpts": 6.835,
-      "date": "2026-11-21"
+      "totalPts": 7100,
+      "tpts": 7.1,
+      "date": "2026-11-22"
     },
     {
       "id": "ninho-un poco",
@@ -3003,13 +3003,13 @@
       "streams": 80911251,
       "pts": 530,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 45,
       "peakCount": 101,
       "ptsPlus": 0,
-      "totalPts": 820566,
-      "tpts": 820.566,
-      "date": "2026-11-21"
+      "totalPts": 821096,
+      "tpts": 821.096,
+      "date": "2026-11-22"
     },
     {
       "id": "lagui-dã©gun",
@@ -3020,13 +3020,13 @@
       "streams": 5397363,
       "pts": 276,
       "move": "=",
-      "days": 190,
+      "days": 191,
       "peak": 20,
       "peakCount": 14,
       "ptsPlus": 0,
-      "totalPts": 61431,
-      "tpts": 61.431,
-      "date": "2026-11-21"
+      "totalPts": 61707,
+      "tpts": 61.707,
+      "date": "2026-11-22"
     },
     {
       "id": "werenoi-tu connais",
@@ -3037,13 +3037,13 @@
       "streams": 137176510,
       "pts": 713,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 38,
       "peakCount": 60,
       "ptsPlus": 0,
-      "totalPts": 1253252,
-      "tpts": 1253.252,
-      "date": "2026-11-21"
+      "totalPts": 1253965,
+      "tpts": 1253.965,
+      "date": "2026-11-22"
     },
     {
       "id": "ninho-putana",
@@ -3054,13 +3054,13 @@
       "streams": 169015765,
       "pts": 817,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 48,
       "peakCount": 121,
       "ptsPlus": 0,
-      "totalPts": 1357476,
-      "tpts": 1357.476,
-      "date": "2026-11-21"
+      "totalPts": 1358293,
+      "tpts": 1358.293,
+      "date": "2026-11-22"
     },
     {
       "id": "guy2bezbar-je pense ã  toi",
@@ -3071,13 +3071,13 @@
       "streams": 23416645,
       "pts": 330,
       "move": "=",
-      "days": 1333,
+      "days": 1334,
       "peak": 19,
       "peakCount": 377,
       "ptsPlus": 0,
-      "totalPts": 441725,
-      "tpts": 441.725,
-      "date": "2026-11-21"
+      "totalPts": 442055,
+      "tpts": 442.055,
+      "date": "2026-11-22"
     },
     {
       "id": "hugel-movin' to the sun (w/ imael angel , ultra natã© )",
@@ -3088,13 +3088,13 @@
       "streams": 14161009,
       "pts": 297,
       "move": "=",
-      "days": 1140,
+      "days": 1141,
       "peak": 31,
       "peakCount": 209,
       "ptsPlus": 0,
-      "totalPts": 347852,
-      "tpts": 347.852,
-      "date": "2026-11-21"
+      "totalPts": 348149,
+      "tpts": 348.149,
+      "date": "2026-11-22"
     },
     {
       "id": "ninho-les diamants de bokassa (w/ tiakola )",
@@ -3105,13 +3105,13 @@
       "streams": 43782234,
       "pts": 394,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 24,
       "peakCount": 18,
       "ptsPlus": 0,
-      "totalPts": 654156,
-      "tpts": 654.156,
-      "date": "2026-11-21"
+      "totalPts": 654550,
+      "tpts": 654.55,
+      "date": "2026-11-22"
     },
     {
       "id": "l2b-chanel",
@@ -3122,13 +3122,13 @@
       "streams": 1224926,
       "pts": 250,
       "move": "=",
-      "days": 52,
+      "days": 53,
       "peak": 44,
       "peakCount": 8,
       "ptsPlus": 0,
-      "totalPts": 9908,
-      "tpts": 9.908,
-      "date": "2026-11-21"
+      "totalPts": 10158,
+      "tpts": 10.158,
+      "date": "2026-11-22"
     },
     {
       "id": "bigflo & oli-picasso",
@@ -3139,13 +3139,13 @@
       "streams": 16773225,
       "pts": 300,
       "move": "=",
-      "days": 789,
+      "days": 790,
       "peak": 42,
       "peakCount": 72,
       "ptsPlus": 0,
-      "totalPts": 215788,
-      "tpts": 215.788,
-      "date": "2026-11-21"
+      "totalPts": 216088,
+      "tpts": 216.088,
+      "date": "2026-11-22"
     },
     {
       "id": "werenoi-poney",
@@ -3156,13 +3156,13 @@
       "streams": 72308200,
       "pts": 483,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 36,
       "peakCount": 35,
       "ptsPlus": 0,
-      "totalPts": 844235,
-      "tpts": 844.235,
-      "date": "2026-11-21"
+      "totalPts": 844718,
+      "tpts": 844.718,
+      "date": "2026-11-22"
     },
     {
       "id": "niska-allo doudou (w/ litleboy lsbeats767 , miimii kds )",
@@ -3173,13 +3173,13 @@
       "streams": 8367445,
       "pts": 268,
       "move": "=",
-      "days": 420,
+      "days": 421,
       "peak": 39,
       "peakCount": 67,
       "ptsPlus": 0,
-      "totalPts": 113135,
-      "tpts": 113.135,
-      "date": "2026-11-21"
+      "totalPts": 113403,
+      "tpts": 113.403,
+      "date": "2026-11-22"
     },
     {
       "id": "ninho-goutte d'eau",
@@ -3190,13 +3190,13 @@
       "streams": 82111681,
       "pts": 512,
       "move": "=",
-      "days": 52,
+      "days": 53,
       "peak": 70,
       "peakCount": 22,
       "ptsPlus": 0,
-      "totalPts": 24682,
-      "tpts": 24.682,
-      "date": "2026-11-21"
+      "totalPts": 25194,
+      "tpts": 25.194,
+      "date": "2026-11-22"
     },
     {
       "id": "ninho-zipette",
@@ -3207,13 +3207,13 @@
       "streams": 88823092,
       "pts": 532,
       "move": "=",
-      "days": 70,
+      "days": 71,
       "peak": 58,
       "peakCount": 35,
       "ptsPlus": 0,
-      "totalPts": 34730,
-      "tpts": 34.73,
-      "date": "2026-11-21"
+      "totalPts": 35262,
+      "tpts": 35.262,
+      "date": "2026-11-22"
     },
     {
       "id": "kulturr-mã©li-mã©lo",
@@ -3224,13 +3224,13 @@
       "streams": 43009418,
       "pts": 377,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 7,
       "peakCount": 91,
       "ptsPlus": 0,
-      "totalPts": 800159,
-      "tpts": 800.159,
-      "date": "2026-11-21"
+      "totalPts": 800536,
+      "tpts": 800.536,
+      "date": "2026-11-22"
     },
     {
       "id": "tame impala-dracula - jennie remix (w/ jennie )",
@@ -3241,13 +3241,13 @@
       "streams": 33261430,
       "pts": 343,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 17,
       "peakCount": 36,
       "ptsPlus": 0,
-      "totalPts": 697717,
-      "tpts": 697.717,
-      "date": "2026-11-21"
+      "totalPts": 698060,
+      "tpts": 698.06,
+      "date": "2026-11-22"
     },
     {
       "id": "rim'k-air max (w/ ninho )",
@@ -3258,13 +3258,13 @@
       "streams": 83947106,
       "pts": 510,
       "move": "=",
-      "days": 1434,
+      "days": 1435,
       "peak": 63,
       "peakCount": 91,
       "ptsPlus": 0,
-      "totalPts": 605616,
-      "tpts": 605.616,
-      "date": "2026-11-21"
+      "totalPts": 606126,
+      "tpts": 606.126,
+      "date": "2026-11-22"
     },
     {
       "id": "gims-parisienne (w/ la mano 1.9 )",
@@ -3275,13 +3275,13 @@
       "streams": 123349229,
       "pts": 639,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 18,
       "peakCount": 9,
       "ptsPlus": 0,
-      "totalPts": 1228423,
-      "tpts": 1228.423,
-      "date": "2026-11-21"
+      "totalPts": 1229062,
+      "tpts": 1229.062,
+      "date": "2026-11-22"
     },
     {
       "id": "pnl-menace",
@@ -3292,13 +3292,13 @@
       "streams": 24552827,
       "pts": 308,
       "move": "=",
-      "days": 1111,
+      "days": 1112,
       "peak": 31,
       "peakCount": 208,
       "ptsPlus": 0,
-      "totalPts": 378427,
-      "tpts": 378.427,
-      "date": "2026-11-21"
+      "totalPts": 378735,
+      "tpts": 378.735,
+      "date": "2026-11-22"
     },
     {
       "id": "ninho-mood",
@@ -3309,13 +3309,13 @@
       "streams": 13796755,
       "pts": 270,
       "move": "=",
-      "days": 218,
+      "days": 219,
       "peak": 64,
       "peakCount": 41,
       "ptsPlus": 0,
-      "totalPts": 49953,
-      "tpts": 49.953,
-      "date": "2026-11-21"
+      "totalPts": 50223,
+      "tpts": 50.223,
+      "date": "2026-11-22"
     },
     {
       "id": "franglish-uber (w/ keblack , mauvais djo )",
@@ -3326,13 +3326,13 @@
       "streams": 10133709,
       "pts": 256,
       "move": "=",
-      "days": 552,
+      "days": 553,
       "peak": 23,
       "peakCount": 240,
       "ptsPlus": 0,
-      "totalPts": 144053,
-      "tpts": 144.053,
-      "date": "2026-11-21"
+      "totalPts": 144309,
+      "tpts": 144.309,
+      "date": "2026-11-22"
     },
     {
       "id": "triangle des bermudes-ã l'aise (w/ l2b , mc yoshi , mauvais djo , kokosvoice )",
@@ -3343,13 +3343,13 @@
       "streams": 34786080,
       "pts": 336,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 9,
       "peakCount": 93,
       "ptsPlus": 0,
-      "totalPts": 739143,
-      "tpts": 739.143,
-      "date": "2026-11-21"
+      "totalPts": 739479,
+      "tpts": 739.479,
+      "date": "2026-11-22"
     },
     {
       "id": "manon lisa-le petit pãªcheur",
@@ -3360,13 +3360,13 @@
       "streams": 13157218,
       "pts": 262,
       "move": "=",
-      "days": 1205,
+      "days": 1206,
       "peak": 45,
       "peakCount": 186,
       "ptsPlus": 0,
-      "totalPts": 286389,
-      "tpts": 286.389,
-      "date": "2026-11-21"
+      "totalPts": 286651,
+      "tpts": 286.651,
+      "date": "2026-11-22"
     },
     {
       "id": "teddy swims-mr. know it all",
@@ -3377,13 +3377,13 @@
       "streams": 11633446,
       "pts": 255,
       "move": "=",
-      "days": 1176,
+      "days": 1177,
       "peak": 66,
       "peakCount": 185,
       "ptsPlus": 0,
-      "totalPts": 236233,
-      "tpts": 236.233,
-      "date": "2026-11-21"
+      "totalPts": 236488,
+      "tpts": 236.488,
+      "date": "2026-11-22"
     },
     {
       "id": "bouss-diffã©rent",
@@ -3394,13 +3394,13 @@
       "streams": 2994411,
       "pts": 224,
       "move": "=",
-      "days": 129,
+      "days": 130,
       "peak": 52,
       "peakCount": 22,
       "ptsPlus": 0,
-      "totalPts": 29517,
-      "tpts": 29.517,
-      "date": "2026-11-21"
+      "totalPts": 29741,
+      "tpts": 29.741,
+      "date": "2026-11-22"
     },
     {
       "id": "rnboi-mon bãbã",
@@ -3411,13 +3411,13 @@
       "streams": 114681749,
       "pts": 594,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 8,
       "peakCount": 26,
       "ptsPlus": 0,
-      "totalPts": 1228553,
-      "tpts": 1228.553,
-      "date": "2026-11-21"
+      "totalPts": 1229147,
+      "tpts": 1229.147,
+      "date": "2026-11-22"
     },
     {
       "id": "dj goja-mi chico - official - jason derulo x melody (w/ jason derulo , melody )",
@@ -3428,13 +3428,13 @@
       "streams": 10507574,
       "pts": 245,
       "move": "=",
-      "days": 872,
+      "days": 873,
       "peak": 39,
       "peakCount": 176,
       "ptsPlus": 0,
-      "totalPts": 207322,
-      "tpts": 207.322,
-      "date": "2026-11-21"
+      "totalPts": 207567,
+      "tpts": 207.567,
+      "date": "2026-11-22"
     },
     {
       "id": "jok'air-bonbon ã  la menthe (w/ mallaury )",
@@ -3445,13 +3445,13 @@
       "streams": 43526380,
       "pts": 353,
       "move": "=",
-      "days": 1157,
+      "days": 1158,
       "peak": 68,
       "peakCount": 167,
       "ptsPlus": 0,
-      "totalPts": 333051,
-      "tpts": 333.051,
-      "date": "2026-11-21"
+      "totalPts": 333404,
+      "tpts": 333.404,
+      "date": "2026-11-22"
     },
     {
       "id": "p!nk-just give me a reason (w/ nate ruess )",
@@ -3462,13 +3462,13 @@
       "streams": 2719948,
       "pts": 215,
       "move": "=",
-      "days": 174,
+      "days": 175,
       "peak": 98,
-      "peakCount": 58,
+      "peakCount": 59,
       "ptsPlus": 0,
-      "totalPts": 15383,
-      "tpts": 15.383,
-      "date": "2026-11-21"
+      "totalPts": 15598,
+      "tpts": 15.598,
+      "date": "2026-11-22"
     },
     {
       "id": "djaksparo-pangor (swalalala)",
@@ -3479,13 +3479,13 @@
       "streams": 8863313,
       "pts": 234,
       "move": "=",
-      "days": 377,
+      "days": 378,
       "peak": 30,
       "peakCount": 55,
       "ptsPlus": 0,
-      "totalPts": 118130,
-      "tpts": 118.13,
-      "date": "2026-11-21"
+      "totalPts": 118364,
+      "tpts": 118.364,
+      "date": "2026-11-22"
     },
     {
       "id": "ruthee-zoblazo",
@@ -3496,13 +3496,13 @@
       "streams": 1238700,
       "pts": 206,
       "move": "=",
-      "days": 62,
+      "days": 63,
       "peak": 99,
       "peakCount": 30,
       "ptsPlus": 0,
-      "totalPts": 6993,
-      "tpts": 6.993,
-      "date": "2026-11-21"
+      "totalPts": 7199,
+      "tpts": 7.199,
+      "date": "2026-11-22"
     },
     {
       "id": "werenoi-jamal",
@@ -3513,13 +3513,13 @@
       "streams": 50803144,
       "pts": 369,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 33,
       "peakCount": 34,
       "ptsPlus": 0,
-      "totalPts": 692609,
-      "tpts": 692.609,
-      "date": "2026-11-21"
+      "totalPts": 692978,
+      "tpts": 692.978,
+      "date": "2026-11-22"
     },
     {
       "id": "sdm-le nine",
@@ -3530,13 +3530,13 @@
       "streams": 731288,
       "pts": 200,
       "move": "=",
-      "days": 23,
+      "days": 24,
       "peak": 20,
       "peakCount": 5,
       "ptsPlus": 0,
-      "totalPts": 6242,
-      "tpts": 6.242,
-      "date": "2026-11-21"
+      "totalPts": 6442,
+      "tpts": 6.442,
+      "date": "2026-11-22"
     },
     {
       "id": "naã¯ka-one track mind",
@@ -3547,13 +3547,13 @@
       "streams": 27737391,
       "pts": 288,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 24,
       "peakCount": 133,
       "ptsPlus": 0,
-      "totalPts": 612963,
-      "tpts": 612.963,
-      "date": "2026-11-21"
+      "totalPts": 613251,
+      "tpts": 613.251,
+      "date": "2026-11-22"
     },
     {
       "id": "ben plg-histoire sans fin (w/ mathilde )",
@@ -3564,13 +3564,13 @@
       "streams": 5648202,
       "pts": 213,
       "move": "=",
-      "days": 174,
+      "days": 175,
       "peak": 82,
       "peakCount": 44,
       "ptsPlus": 0,
-      "totalPts": 23096,
-      "tpts": 23.096,
-      "date": "2026-11-21"
+      "totalPts": 23309,
+      "tpts": 23.309,
+      "date": "2026-11-22"
     },
     {
       "id": "bello&dallas-belvedere",
@@ -3581,13 +3581,13 @@
       "streams": 11201602,
       "pts": 229,
       "move": "=",
-      "days": 465,
+      "days": 466,
       "peak": 14,
       "peakCount": 107,
       "ptsPlus": 0,
-      "totalPts": 148338,
-      "tpts": 148.338,
-      "date": "2026-11-21"
+      "totalPts": 148567,
+      "tpts": 148.567,
+      "date": "2026-11-22"
     },
     {
       "id": "ninho-elle m'a eu",
@@ -3598,13 +3598,13 @@
       "streams": 23992885,
       "pts": 270,
       "move": "=",
-      "days": 67,
+      "days": 68,
       "peak": 89,
       "peakCount": 30,
       "ptsPlus": 0,
-      "totalPts": 15721,
-      "tpts": 15.721,
-      "date": "2026-11-21"
+      "totalPts": 15991,
+      "tpts": 15.991,
+      "date": "2026-11-22"
     },
     {
       "id": "plk-tu dors ?",
@@ -3615,13 +3615,13 @@
       "streams": 31605075,
       "pts": 293,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 13,
       "peakCount": 62,
       "ptsPlus": 0,
-      "totalPts": 644707,
-      "tpts": 644.707,
-      "date": "2026-11-21"
+      "totalPts": 645000,
+      "tpts": 645.0,
+      "date": "2026-11-22"
     },
     {
       "id": "damso-pa pa paw (w/ sarah sey )",
@@ -3632,13 +3632,13 @@
       "streams": 67673337,
       "pts": 412,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 42,
       "peakCount": 94,
       "ptsPlus": 0,
-      "totalPts": 808652,
-      "tpts": 808.652,
-      "date": "2026-11-21"
+      "totalPts": 809064,
+      "tpts": 809.064,
+      "date": "2026-11-22"
     },
     {
       "id": "rim'k-run (w/ sdm )",
@@ -3649,13 +3649,13 @@
       "streams": 59971739,
       "pts": 384,
       "move": "=",
-      "days": 23,
+      "days": 24,
       "peak": 109,
-      "peakCount": 18,
+      "peakCount": 19,
       "ptsPlus": 0,
-      "totalPts": 6764,
-      "tpts": 6.764,
-      "date": "2026-11-21"
+      "totalPts": 7148,
+      "tpts": 7.148,
+      "date": "2026-11-22"
     },
     {
       "id": "aya nakamura-tchiki",
@@ -3666,13 +3666,13 @@
       "streams": 273928,
       "pts": 183,
       "move": "=",
-      "days": 13,
+      "days": 14,
       "peak": 110,
-      "peakCount": 13,
+      "peakCount": 14,
       "ptsPlus": 0,
-      "totalPts": 1549,
-      "tpts": 1.549,
-      "date": "2026-11-21"
+      "totalPts": 1732,
+      "tpts": 1.732,
+      "date": "2026-11-22"
     },
     {
       "id": "la rvfleuze-promenade (w/ koba lad )",
@@ -3683,13 +3683,13 @@
       "streams": 22866348,
       "pts": 256,
       "move": "=",
-      "days": 937,
+      "days": 938,
       "peak": 58,
       "peakCount": 151,
       "ptsPlus": 0,
-      "totalPts": 223229,
-      "tpts": 223.229,
-      "date": "2026-11-21"
+      "totalPts": 223485,
+      "tpts": 223.485,
+      "date": "2026-11-22"
     },
     {
       "id": "djadja & dinaz-dã©stabilisã©",
@@ -3700,13 +3700,13 @@
       "streams": 9612885,
       "pts": 210,
       "move": "=",
-      "days": 13,
+      "days": 14,
       "peak": 112,
-      "peakCount": 11,
+      "peakCount": 12,
       "ptsPlus": 0,
-      "totalPts": 2158,
-      "tpts": 2.158,
-      "date": "2026-11-21"
+      "totalPts": 2368,
+      "tpts": 2.368,
+      "date": "2026-11-22"
     },
     {
       "id": "gener8ion-storm ii (w/ yung lean )",
@@ -3717,13 +3717,13 @@
       "streams": 4426526,
       "pts": 191,
       "move": "=",
-      "days": 225,
+      "days": 226,
       "peak": 65,
       "peakCount": 28,
       "ptsPlus": 0,
-      "totalPts": 48911,
-      "tpts": 48.911,
-      "date": "2026-11-21"
+      "totalPts": 49102,
+      "tpts": 49.102,
+      "date": "2026-11-22"
     },
     {
       "id": "eva-sur la piste",
@@ -3734,13 +3734,13 @@
       "streams": 6076479,
       "pts": 194,
       "move": "=",
-      "days": 289,
+      "days": 290,
       "peak": 72,
       "peakCount": 78,
       "ptsPlus": 0,
-      "totalPts": 41946,
-      "tpts": 41.946,
-      "date": "2026-11-21"
+      "totalPts": 42140,
+      "tpts": 42.14,
+      "date": "2026-11-22"
     },
     {
       "id": "pnl-la misã¨re est si belle",
@@ -3751,13 +3751,13 @@
       "streams": 93980473,
       "pts": 485,
       "move": "=",
-      "days": 67,
+      "days": 68,
       "peak": 104,
       "peakCount": 12,
       "ptsPlus": 0,
-      "totalPts": 31575,
-      "tpts": 31.575,
-      "date": "2026-11-21"
+      "totalPts": 32060,
+      "tpts": 32.06,
+      "date": "2026-11-22"
     },
     {
       "id": "lagui-maracanã£",
@@ -3768,13 +3768,13 @@
       "streams": 14004912,
       "pts": 217,
       "move": "=",
-      "days": 1457,
+      "days": 1458,
       "peak": 58,
       "peakCount": 55,
       "ptsPlus": 0,
-      "totalPts": 248731,
-      "tpts": 248.731,
-      "date": "2026-11-21"
+      "totalPts": 248948,
+      "tpts": 248.948,
+      "date": "2026-11-22"
     },
     {
       "id": "meryl-coco chanel (w/ eva )",
@@ -3785,13 +3785,13 @@
       "streams": 45519091,
       "pts": 320,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 16,
       "peakCount": 88,
       "ptsPlus": 0,
-      "totalPts": 773825,
-      "tpts": 773.825,
-      "date": "2026-11-21"
+      "totalPts": 774145,
+      "tpts": 774.145,
+      "date": "2026-11-22"
     },
     {
       "id": "damso-î. macarena",
@@ -3802,13 +3802,13 @@
       "streams": 197645660,
       "pts": 825,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 68,
       "peakCount": 45,
       "ptsPlus": 0,
-      "totalPts": 1480283,
-      "tpts": 1480.283,
-      "date": "2026-11-21"
+      "totalPts": 1481108,
+      "tpts": 1481.108,
+      "date": "2026-11-22"
     },
     {
       "id": "season 25-shotta's.",
@@ -3819,13 +3819,13 @@
       "streams": 766955,
       "pts": 167,
       "move": "=",
-      "days": 38,
+      "days": 39,
       "peak": 108,
       "peakCount": 13,
       "ptsPlus": 0,
-      "totalPts": 4741,
-      "tpts": 4.741,
-      "date": "2026-11-21"
+      "totalPts": 4908,
+      "tpts": 4.908,
+      "date": "2026-11-22"
     },
     {
       "id": "sdm-rãel",
@@ -3836,13 +3836,13 @@
       "streams": 745225,
       "pts": 164,
       "move": "=",
-      "days": 23,
+      "days": 24,
       "peak": 13,
       "peakCount": 5,
       "ptsPlus": 0,
-      "totalPts": 6018,
-      "tpts": 6.018,
-      "date": "2026-11-21"
+      "totalPts": 6182,
+      "tpts": 6.182,
+      "date": "2026-11-22"
     },
     {
       "id": "tiakola-mode de vie",
@@ -3853,13 +3853,13 @@
       "streams": 5345612,
       "pts": 178,
       "move": "=",
-      "days": 243,
+      "days": 244,
       "peak": 17,
       "peakCount": 4,
       "ptsPlus": 0,
-      "totalPts": 62197,
-      "tpts": 62.197,
-      "date": "2026-11-21"
+      "totalPts": 62375,
+      "tpts": 62.375,
+      "date": "2026-11-22"
     },
     {
       "id": "saã¯f-le taf du loup",
@@ -3870,13 +3870,13 @@
       "streams": 9352855,
       "pts": 189,
       "move": "=",
-      "days": 854,
+      "days": 855,
       "peak": 57,
       "peakCount": 272,
       "ptsPlus": 0,
-      "totalPts": 168141,
-      "tpts": 168.141,
-      "date": "2026-11-21"
+      "totalPts": 168330,
+      "tpts": 168.33,
+      "date": "2026-11-22"
     },
     {
       "id": "tiakola-cåur de pirate",
@@ -3887,13 +3887,13 @@
       "streams": 6056402,
       "pts": 176,
       "move": "=",
-      "days": 243,
+      "days": 244,
       "peak": 9,
       "peakCount": 4,
       "ptsPlus": 0,
-      "totalPts": 65666,
-      "tpts": 65.666,
-      "date": "2026-11-21"
+      "totalPts": 65842,
+      "tpts": 65.842,
+      "date": "2026-11-22"
     },
     {
       "id": "tove lo-des fleurs x stromae (w/ stromae )",
@@ -3904,13 +3904,13 @@
       "streams": 7746896,
       "pts": 180,
       "move": "=",
-      "days": 737,
+      "days": 738,
       "peak": 88,
       "peakCount": 123,
       "ptsPlus": 0,
-      "totalPts": 102832,
-      "tpts": 102.832,
-      "date": "2026-11-21"
+      "totalPts": 103012,
+      "tpts": 103.012,
+      "date": "2026-11-22"
     },
     {
       "id": "sdm-rien de personnel",
@@ -3921,13 +3921,13 @@
       "streams": 650042,
       "pts": 154,
       "move": "=",
-      "days": 23,
+      "days": 24,
       "peak": 35,
       "peakCount": 5,
       "ptsPlus": 0,
-      "totalPts": 5408,
-      "tpts": 5.408,
-      "date": "2026-11-21"
+      "totalPts": 5562,
+      "tpts": 5.562,
+      "date": "2026-11-22"
     },
     {
       "id": "djadja & dinaz-maman ne dort pas",
@@ -3938,13 +3938,13 @@
       "streams": 543599,
       "pts": 152,
       "move": "=",
-      "days": 27,
+      "days": 28,
       "peak": 113,
       "peakCount": 15,
       "ptsPlus": 0,
-      "totalPts": 2893,
-      "tpts": 2.893,
-      "date": "2026-11-21"
+      "totalPts": 3045,
+      "tpts": 3.045,
+      "date": "2026-11-22"
     },
     {
       "id": "lagui-la donneuse (w/ gazo )",
@@ -3955,13 +3955,13 @@
       "streams": 1291000,
       "pts": 152,
       "move": "=",
-      "days": 33,
+      "days": 34,
       "peak": 75,
       "peakCount": 16,
       "ptsPlus": 0,
-      "totalPts": 6440,
-      "tpts": 6.44,
-      "date": "2026-11-21"
+      "totalPts": 6592,
+      "tpts": 6.592,
+      "date": "2026-11-22"
     },
     {
       "id": "werenoi-laboratoire",
@@ -3972,13 +3972,13 @@
       "streams": 159682884,
       "pts": 678,
       "move": "=",
-      "days": 1157,
+      "days": 1158,
       "peak": 105,
       "peakCount": 118,
       "ptsPlus": 0,
-      "totalPts": 728042,
-      "tpts": 728.042,
-      "date": "2026-11-21"
+      "totalPts": 728720,
+      "tpts": 728.72,
+      "date": "2026-11-22"
     },
     {
       "id": "lagui-gros cave (w/ niaks )",
@@ -3989,13 +3989,13 @@
       "streams": 7829774,
       "pts": 170,
       "move": "=",
-      "days": 389,
+      "days": 390,
       "peak": 66,
       "peakCount": 78,
       "ptsPlus": 0,
-      "totalPts": 85736,
-      "tpts": 85.736,
-      "date": "2026-11-21"
+      "totalPts": 85906,
+      "tpts": 85.906,
+      "date": "2026-11-22"
     },
     {
       "id": "ninho-bracelet (w/ la rvfleuze )",
@@ -4006,13 +4006,13 @@
       "streams": 4603719,
       "pts": 157,
       "move": "=",
-      "days": 190,
+      "days": 191,
       "peak": 10,
       "peakCount": 14,
       "ptsPlus": 0,
-      "totalPts": 50804,
-      "tpts": 50.804,
-      "date": "2026-11-21"
+      "totalPts": 50961,
+      "tpts": 50.961,
+      "date": "2026-11-22"
     },
     {
       "id": "ninho-malcolm",
@@ -4023,13 +4023,13 @@
       "streams": 1214008,
       "pts": 144,
       "move": "=",
-      "days": 39,
+      "days": 40,
       "peak": 127,
       "peakCount": 16,
       "ptsPlus": 0,
-      "totalPts": 4492,
-      "tpts": 4.492,
-      "date": "2026-11-21"
+      "totalPts": 4636,
+      "tpts": 4.636,
+      "date": "2026-11-22"
     },
     {
       "id": "la rvfleuze-parlu",
@@ -4040,13 +4040,13 @@
       "streams": 34612257,
       "pts": 253,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 5,
       "peakCount": 74,
       "ptsPlus": 0,
-      "totalPts": 707080,
-      "tpts": 707.08,
-      "date": "2026-11-21"
+      "totalPts": 707333,
+      "tpts": 707.333,
+      "date": "2026-11-22"
     },
     {
       "id": "ravyn lenae-love me not",
@@ -4057,13 +4057,13 @@
       "streams": 56786396,
       "pts": 325,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 58,
       "peakCount": 77,
       "ptsPlus": 0,
-      "totalPts": 656202,
-      "tpts": 656.202,
-      "date": "2026-11-21"
+      "totalPts": 656527,
+      "tpts": 656.527,
+      "date": "2026-11-22"
     },
     {
       "id": "mosimann-soon (w/ gaã«tan roussel )",
@@ -4074,13 +4074,13 @@
       "streams": 3518113,
       "pts": 146,
       "move": "=",
-      "days": 154,
+      "days": 155,
       "peak": 90,
       "peakCount": 27,
       "ptsPlus": 0,
-      "totalPts": 21670,
-      "tpts": 21.67,
-      "date": "2026-11-21"
+      "totalPts": 21816,
+      "tpts": 21.816,
+      "date": "2026-11-22"
     },
     {
       "id": "triangle des bermudes-mopao aye (w/ mc yoshi , mauvais djo , kokosvoice )",
@@ -4091,13 +4091,13 @@
       "streams": 19111051,
       "pts": 196,
       "move": "=",
-      "days": 1434,
+      "days": 1435,
       "peak": 25,
       "peakCount": 189,
       "ptsPlus": 0,
-      "totalPts": 479279,
-      "tpts": 479.279,
-      "date": "2026-11-21"
+      "totalPts": 479475,
+      "tpts": 479.475,
+      "date": "2026-11-22"
     },
     {
       "id": "the neighbourhood-sweater weather",
@@ -4108,13 +4108,13 @@
       "streams": 51657387,
       "pts": 302,
       "move": "=",
-      "days": 1087,
+      "days": 1088,
       "peak": 89,
       "peakCount": 132,
       "ptsPlus": 0,
-      "totalPts": 311638,
-      "tpts": 311.638,
-      "date": "2026-11-21"
+      "totalPts": 311940,
+      "tpts": 311.94,
+      "date": "2026-11-22"
     },
     {
       "id": "rambo goyard-b.m.s (by my side)",
@@ -4125,13 +4125,13 @@
       "streams": 66762898,
       "pts": 350,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 6,
       "peakCount": 18,
       "ptsPlus": 0,
-      "totalPts": 912566,
-      "tpts": 912.566,
-      "date": "2026-11-21"
+      "totalPts": 912916,
+      "tpts": 912.916,
+      "date": "2026-11-22"
     },
     {
       "id": "adãla-ain't in la",
@@ -4142,13 +4142,13 @@
       "streams": 3523899,
       "pts": 138,
       "move": "=",
-      "days": 174,
+      "days": 175,
       "peak": 112,
       "peakCount": 48,
       "ptsPlus": 0,
-      "totalPts": 19376,
-      "tpts": 19.376,
-      "date": "2026-11-21"
+      "totalPts": 19514,
+      "tpts": 19.514,
+      "date": "2026-11-22"
     },
     {
       "id": "triangle des bermudes-qu'on s'attache (w/ mc yoshi , mauvais djo , kokosvoice )",
@@ -4159,13 +4159,13 @@
       "streams": 4889774,
       "pts": 140,
       "move": "=",
-      "days": 218,
+      "days": 219,
       "peak": 36,
       "peakCount": 45,
       "ptsPlus": 0,
-      "totalPts": 56831,
-      "tpts": 56.831,
-      "date": "2026-11-21"
+      "totalPts": 56971,
+      "tpts": 56.971,
+      "date": "2026-11-22"
     },
     {
       "id": "bouss-printemps",
@@ -4176,13 +4176,13 @@
       "streams": 27955262,
       "pts": 215,
       "move": "=",
-      "days": 1048,
+      "days": 1049,
       "peak": 66,
       "peakCount": 146,
       "ptsPlus": 0,
-      "totalPts": 223376,
-      "tpts": 223.376,
-      "date": "2026-11-21"
+      "totalPts": 223591,
+      "tpts": 223.591,
+      "date": "2026-11-22"
     },
     {
       "id": "franglish-gã©nã©ration impolie (w/ keblack )",
@@ -4193,13 +4193,13 @@
       "streams": 73055531,
       "pts": 363,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 23,
       "peakCount": 46,
       "ptsPlus": 0,
-      "totalPts": 752162,
-      "tpts": 752.162,
-      "date": "2026-11-21"
+      "totalPts": 752525,
+      "tpts": 752.525,
+      "date": "2026-11-22"
     },
     {
       "id": "tayc-rã©anymã© (w/ anyme023 )",
@@ -4210,13 +4210,13 @@
       "streams": 15832628,
       "pts": 171,
       "move": "=",
-      "days": 1239,
+      "days": 1240,
       "peak": 14,
       "peakCount": 10,
       "ptsPlus": 0,
-      "totalPts": 399733,
-      "tpts": 399.733,
-      "date": "2026-11-21"
+      "totalPts": 399904,
+      "tpts": 399.904,
+      "date": "2026-11-22"
     },
     {
       "id": "teddybear-le plus beau",
@@ -4227,13 +4227,13 @@
       "streams": 4219934,
       "pts": 130,
       "move": "=",
-      "days": 120,
+      "days": 121,
       "peak": 68,
       "peakCount": 37,
       "ptsPlus": 0,
-      "totalPts": 19544,
-      "tpts": 19.544,
-      "date": "2026-11-21"
+      "totalPts": 19674,
+      "tpts": 19.674,
+      "date": "2026-11-22"
     },
     {
       "id": "plk-nouvelles",
@@ -4244,13 +4244,13 @@
       "streams": 123375979,
       "pts": 525,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 60,
       "peakCount": 69,
       "ptsPlus": 0,
-      "totalPts": 978580,
-      "tpts": 978.58,
-      "date": "2026-11-21"
+      "totalPts": 979105,
+      "tpts": 979.105,
+      "date": "2026-11-22"
     },
     {
       "id": "vianney-d'or et d'ã©tain",
@@ -4261,13 +4261,13 @@
       "streams": 1253393,
       "pts": 116,
       "move": "=",
-      "days": 48,
+      "days": 49,
       "peak": 61,
       "peakCount": 4,
       "ptsPlus": 0,
-      "totalPts": 9430,
-      "tpts": 9.43,
-      "date": "2026-11-21"
+      "totalPts": 9546,
+      "tpts": 9.546,
+      "date": "2026-11-22"
     },
     {
       "id": "booba-dolce camara (w/ sdm )",
@@ -4278,13 +4278,13 @@
       "streams": 138391761,
       "pts": 571,
       "move": "=",
-      "days": 9,
+      "days": 10,
       "peak": 146,
-      "peakCount": 9,
+      "peakCount": 10,
       "ptsPlus": 0,
-      "totalPts": 4971,
-      "tpts": 4.971,
-      "date": "2026-11-21"
+      "totalPts": 5542,
+      "tpts": 5.542,
+      "date": "2026-11-22"
     },
     {
       "id": "sdm-38. spã",
@@ -4295,13 +4295,13 @@
       "streams": 643224,
       "pts": 110,
       "move": "=",
-      "days": 23,
+      "days": 24,
       "peak": 25,
       "peakCount": 5,
       "ptsPlus": 0,
-      "totalPts": 5116,
-      "tpts": 5.116,
-      "date": "2026-11-21"
+      "totalPts": 5226,
+      "tpts": 5.226,
+      "date": "2026-11-22"
     },
     {
       "id": "plk-sex model (w/ theodora )",
@@ -4312,13 +4312,13 @@
       "streams": 41884793,
       "pts": 246,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 12,
       "peakCount": 2,
       "ptsPlus": 0,
-      "totalPts": 724447,
-      "tpts": 724.447,
-      "date": "2026-11-21"
+      "totalPts": 724693,
+      "tpts": 724.693,
+      "date": "2026-11-22"
     },
     {
       "id": "bouss-j'bã©ou",
@@ -4329,13 +4329,13 @@
       "streams": 3222355,
       "pts": 115,
       "move": "=",
-      "days": 7,
+      "days": 8,
       "peak": 149,
-      "peakCount": 7,
+      "peakCount": 8,
       "ptsPlus": 0,
-      "totalPts": 797,
-      "tpts": 0.797,
-      "date": "2026-11-21"
+      "totalPts": 912,
+      "tpts": 0.912,
+      "date": "2026-11-22"
     },
     {
       "id": "werenoi-solitaire",
@@ -4346,13 +4346,13 @@
       "streams": 122006039,
       "pts": 509,
       "move": "=",
-      "days": 67,
+      "days": 68,
       "peak": 150,
-      "peakCount": 19,
+      "peakCount": 20,
       "ptsPlus": 0,
-      "totalPts": 31940,
-      "tpts": 31.94,
-      "date": "2026-11-21"
+      "totalPts": 32449,
+      "tpts": 32.449,
+      "date": "2026-11-22"
     },
     {
       "id": "tom odell-another love",
@@ -4363,13 +4363,13 @@
       "streams": 158013746,
       "pts": 627,
       "move": "=",
-      "days": 1061,
+      "days": 1062,
       "peak": 107,
       "peakCount": 156,
       "ptsPlus": 0,
-      "totalPts": 677674,
-      "tpts": 677.674,
-      "date": "2026-11-21"
+      "totalPts": 678301,
+      "tpts": 678.301,
+      "date": "2026-11-22"
     },
     {
       "id": "niska-adriano",
@@ -4380,13 +4380,13 @@
       "streams": 63827256,
       "pts": 311,
       "move": "=",
-      "days": 55,
+      "days": 56,
       "peak": 102,
       "peakCount": 17,
       "ptsPlus": 0,
-      "totalPts": 17259,
-      "tpts": 17.259,
-      "date": "2026-11-21"
+      "totalPts": 17570,
+      "tpts": 17.57,
+      "date": "2026-11-22"
     },
     {
       "id": "anotr-talk to you (ft. 54 ultra) (w/ 54 ultra )",
@@ -4397,13 +4397,13 @@
       "streams": 8289950,
       "pts": 124,
       "move": "=",
-      "days": 13,
+      "days": 14,
       "peak": 153,
-      "peakCount": 9,
+      "peakCount": 10,
       "ptsPlus": 0,
-      "totalPts": 1006,
-      "tpts": 1.006,
-      "date": "2026-11-21"
+      "totalPts": 1130,
+      "tpts": 1.13,
+      "date": "2026-11-22"
     },
     {
       "id": "koba lad-demain jâarrãªte",
@@ -4414,13 +4414,13 @@
       "streams": 1427841,
       "pts": 99,
       "move": "=",
-      "days": 15,
+      "days": 16,
       "peak": 122,
       "peakCount": 8,
       "ptsPlus": 0,
-      "totalPts": 1817,
-      "tpts": 1.817,
-      "date": "2026-11-21"
+      "totalPts": 1916,
+      "tpts": 1.916,
+      "date": "2026-11-22"
     },
     {
       "id": "ariana grande-hate that i made you love me",
@@ -4431,13 +4431,13 @@
       "streams": 16347184,
       "pts": 146,
       "move": "=",
-      "days": 872,
+      "days": 873,
       "peak": 16,
       "peakCount": 10,
       "ptsPlus": 0,
-      "totalPts": 240196,
-      "tpts": 240.196,
-      "date": "2026-11-21"
+      "totalPts": 240342,
+      "tpts": 240.342,
+      "date": "2026-11-22"
     },
     {
       "id": "faouzia-unethical",
@@ -4448,13 +4448,13 @@
       "streams": 469665,
       "pts": 92,
       "move": "=",
-      "days": 13,
+      "days": 14,
       "peak": 156,
-      "peakCount": 9,
+      "peakCount": 10,
       "ptsPlus": 0,
-      "totalPts": 894,
-      "tpts": 0.894,
-      "date": "2026-11-21"
+      "totalPts": 986,
+      "tpts": 0.986,
+      "date": "2026-11-22"
     },
     {
       "id": "dominic fike-babydoll",
@@ -4465,13 +4465,13 @@
       "streams": 37741745,
       "pts": 214,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 19,
       "peakCount": 24,
       "ptsPlus": 0,
-      "totalPts": 702430,
-      "tpts": 702.43,
-      "date": "2026-11-21"
+      "totalPts": 702644,
+      "tpts": 702.644,
+      "date": "2026-11-22"
     },
     {
       "id": "alex warren-ordinary",
@@ -4482,13 +4482,13 @@
       "streams": 82119440,
       "pts": 360,
       "move": "=",
-      "days": 44,
+      "days": 45,
       "peak": 140,
       "peakCount": 13,
       "ptsPlus": 0,
-      "totalPts": 14947,
-      "tpts": 14.947,
-      "date": "2026-11-21"
+      "totalPts": 15307,
+      "tpts": 15.307,
+      "date": "2026-11-22"
     },
     {
       "id": "triangle des bermudes-balek (w/ aya nakamura , mc yoshi , mauvais djo , kokosvoice )",
@@ -4499,13 +4499,13 @@
       "streams": 28263567,
       "pts": 178,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 19,
       "peakCount": 149,
       "ptsPlus": 0,
-      "totalPts": 654708,
-      "tpts": 654.708,
-      "date": "2026-11-21"
+      "totalPts": 654886,
+      "tpts": 654.886,
+      "date": "2026-11-22"
     },
     {
       "id": "tove lo-blood in your eyes (from gtavi: the album) (w/ grand theft auto vi )",
@@ -4516,13 +4516,13 @@
       "streams": 61149,
       "pts": 82,
       "move": "=",
-      "days": 3,
+      "days": 4,
       "peak": 160,
-      "peakCount": 3,
+      "peakCount": 4,
       "ptsPlus": 0,
-      "totalPts": 246,
-      "tpts": 0.246,
-      "date": "2026-11-21"
+      "totalPts": 328,
+      "tpts": 0.328,
+      "date": "2026-11-22"
     },
     {
       "id": "niska-chasse ã  l'homme",
@@ -4533,13 +4533,13 @@
       "streams": 28015397,
       "pts": 173,
       "move": "=",
-      "days": 962,
+      "days": 963,
       "peak": 80,
       "peakCount": 136,
       "ptsPlus": 0,
-      "totalPts": 151810,
-      "tpts": 151.81,
-      "date": "2026-11-21"
+      "totalPts": 151983,
+      "tpts": 151.983,
+      "date": "2026-11-22"
     },
     {
       "id": "adãla-nicole kidman",
@@ -4550,13 +4550,13 @@
       "streams": 3992068,
       "pts": 91,
       "move": "=",
-      "days": 15,
+      "days": 16,
       "peak": 157,
       "peakCount": 6,
       "ptsPlus": 0,
-      "totalPts": 949,
-      "tpts": 0.949,
-      "date": "2026-11-21"
+      "totalPts": 1040,
+      "tpts": 1.04,
+      "date": "2026-11-22"
     },
     {
       "id": "sch-professionnels (w/ sdm )",
@@ -4567,13 +4567,13 @@
       "streams": 3603201,
       "pts": 88,
       "move": "=",
-      "days": 115,
+      "days": 116,
       "peak": 3,
       "peakCount": 13,
       "ptsPlus": 0,
-      "totalPts": 31790,
-      "tpts": 31.79,
-      "date": "2026-11-21"
+      "totalPts": 31878,
+      "tpts": 31.878,
+      "date": "2026-11-22"
     },
     {
       "id": "meryl-shatta confessions (w/ n'ken )",
@@ -4584,13 +4584,13 @@
       "streams": 45014656,
       "pts": 224,
       "move": "=",
-      "days": 211,
+      "days": 212,
       "peak": 75,
       "peakCount": 33,
       "ptsPlus": 0,
-      "totalPts": 59223,
-      "tpts": 59.223,
-      "date": "2026-11-21"
+      "totalPts": 59447,
+      "tpts": 59.447,
+      "date": "2026-11-22"
     },
     {
       "id": "aya nakamura-rã©ponds",
@@ -4601,13 +4601,13 @@
       "streams": 3635670,
       "pts": 84,
       "move": "=",
-      "days": 225,
+      "days": 226,
       "peak": 101,
       "peakCount": 50,
       "ptsPlus": 0,
-      "totalPts": 25460,
-      "tpts": 25.46,
-      "date": "2026-11-21"
+      "totalPts": 25544,
+      "tpts": 25.544,
+      "date": "2026-11-22"
     },
     {
       "id": "sombr-back to friends",
@@ -4618,13 +4618,13 @@
       "streams": 37656075,
       "pts": 195,
       "move": "=",
-      "days": 15,
+      "days": 16,
       "peak": 166,
-      "peakCount": 9,
+      "peakCount": 10,
       "ptsPlus": 0,
-      "totalPts": 2473,
-      "tpts": 2.473,
-      "date": "2026-11-21"
+      "totalPts": 2668,
+      "tpts": 2.668,
+      "date": "2026-11-22"
     },
     {
       "id": "leto-macaroni (w/ ninho )",
@@ -4635,13 +4635,13 @@
       "streams": 42634656,
       "pts": 210,
       "move": "=",
-      "days": 7,
+      "days": 8,
       "peak": 167,
-      "peakCount": 7,
+      "peakCount": 8,
       "ptsPlus": 0,
-      "totalPts": 1326,
-      "tpts": 1.326,
-      "date": "2026-11-21"
+      "totalPts": 1536,
+      "tpts": 1.536,
+      "date": "2026-11-22"
     },
     {
       "id": "lagui-ciro",
@@ -4652,13 +4652,13 @@
       "streams": 4281456,
       "pts": 80,
       "move": "=",
-      "days": 295,
+      "days": 296,
       "peak": 129,
       "peakCount": 32,
       "ptsPlus": 0,
-      "totalPts": 23502,
-      "tpts": 23.502,
-      "date": "2026-11-21"
+      "totalPts": 23582,
+      "tpts": 23.582,
+      "date": "2026-11-22"
     },
     {
       "id": "jul-j'oublie tout",
@@ -4669,13 +4669,13 @@
       "streams": 91844929,
       "pts": 370,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 36,
       "peakCount": 68,
       "ptsPlus": 0,
-      "totalPts": 899930,
-      "tpts": 899.93,
-      "date": "2026-11-21"
+      "totalPts": 900300,
+      "tpts": 900.3,
+      "date": "2026-11-22"
     },
     {
       "id": "hanoa-black bleu (w/ lgz_03 )",
@@ -4686,13 +4686,13 @@
       "streams": 1043809,
       "pts": 65,
       "move": "=",
-      "days": 55,
+      "days": 56,
       "peak": 141,
       "peakCount": 21,
       "ptsPlus": 0,
-      "totalPts": 4604,
-      "tpts": 4.604,
-      "date": "2026-11-21"
+      "totalPts": 4669,
+      "tpts": 4.669,
+      "date": "2026-11-22"
     },
     {
       "id": "rnboi-elle voulait",
@@ -4703,13 +4703,13 @@
       "streams": 45486108,
       "pts": 212,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 2,
       "peakCount": 148,
       "ptsPlus": 0,
-      "totalPts": 782748,
-      "tpts": 782.748,
-      "date": "2026-11-21"
+      "totalPts": 782960,
+      "tpts": 782.96,
+      "date": "2026-11-22"
     },
     {
       "id": "r2-ruinart",
@@ -4720,13 +4720,13 @@
       "streams": 113635706,
       "pts": 437,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 8,
       "peakCount": 111,
       "ptsPlus": 0,
-      "totalPts": 1177498,
-      "tpts": 1177.498,
-      "date": "2026-11-21"
+      "totalPts": 1177935,
+      "tpts": 1177.935,
+      "date": "2026-11-22"
     },
     {
       "id": "sdm-chicharito (w/ 2 mã¨tres , vitoo )",
@@ -4737,13 +4737,13 @@
       "streams": 578070,
       "pts": 58,
       "move": "=",
-      "days": 23,
+      "days": 24,
       "peak": 43,
       "peakCount": 5,
       "ptsPlus": 0,
-      "totalPts": 4203,
-      "tpts": 4.203,
-      "date": "2026-11-21"
+      "totalPts": 4261,
+      "tpts": 4.261,
+      "date": "2026-11-22"
     },
     {
       "id": "dadju-compliquã©",
@@ -4754,13 +4754,13 @@
       "streams": 52144388,
       "pts": 228,
       "move": "=",
-      "days": 202,
+      "days": 203,
       "peak": 120,
       "peakCount": 35,
       "ptsPlus": 0,
-      "totalPts": 47162,
-      "tpts": 47.162,
-      "date": "2026-11-21"
+      "totalPts": 47390,
+      "tpts": 47.39,
+      "date": "2026-11-22"
     },
     {
       "id": "tk-coachella (w/ gims )",
@@ -4771,13 +4771,13 @@
       "streams": 10182320,
       "pts": 86,
       "move": "=",
-      "days": 7,
+      "days": 8,
       "peak": 146,
       "peakCount": 4,
       "ptsPlus": 0,
-      "totalPts": 834,
-      "tpts": 0.834,
-      "date": "2026-11-21"
+      "totalPts": 920,
+      "tpts": 0.92,
+      "date": "2026-11-22"
     },
     {
       "id": "la rvfleuze-p.i.b",
@@ -4788,13 +4788,13 @@
       "streams": 44546203,
       "pts": 198,
       "move": "=",
-      "days": 7,
+      "days": 8,
       "peak": 172,
       "peakCount": 4,
       "ptsPlus": 0,
-      "totalPts": 1418,
-      "tpts": 1.418,
-      "date": "2026-11-21"
+      "totalPts": 1616,
+      "tpts": 1.616,
+      "date": "2026-11-22"
     },
     {
       "id": "bleu soleil-soleil bleu (w/ luiza )",
@@ -4805,13 +4805,13 @@
       "streams": 92119783,
       "pts": 355,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 41,
       "peakCount": 30,
       "ptsPlus": 0,
-      "totalPts": 940026,
-      "tpts": 940.026,
-      "date": "2026-11-21"
+      "totalPts": 940381,
+      "tpts": 940.381,
+      "date": "2026-11-22"
     },
     {
       "id": "ninho-vã©ritã©",
@@ -4822,13 +4822,13 @@
       "streams": 42757520,
       "pts": 188,
       "move": "=",
-      "days": 7,
+      "days": 8,
       "peak": 178,
-      "peakCount": 7,
+      "peakCount": 8,
       "ptsPlus": 0,
-      "totalPts": 1180,
-      "tpts": 1.18,
-      "date": "2026-11-21"
+      "totalPts": 1368,
+      "tpts": 1.368,
+      "date": "2026-11-22"
     },
     {
       "id": "bosh-solitaire",
@@ -4839,13 +4839,13 @@
       "streams": 5499077,
       "pts": 62,
       "move": "=",
-      "days": 7,
+      "days": 8,
       "peak": 169,
       "peakCount": 4,
       "ptsPlus": 0,
-      "totalPts": 514,
-      "tpts": 0.514,
-      "date": "2026-11-21"
+      "totalPts": 576,
+      "tpts": 0.576,
+      "date": "2026-11-22"
     },
     {
       "id": "pnl-hasta la vista",
@@ -4856,13 +4856,13 @@
       "streams": 46095877,
       "pts": 196,
       "move": "=",
-      "days": 39,
+      "days": 40,
       "peak": 137,
       "peakCount": 14,
       "ptsPlus": 0,
-      "totalPts": 8676,
-      "tpts": 8.676,
-      "date": "2026-11-21"
+      "totalPts": 8872,
+      "tpts": 8.872,
+      "date": "2026-11-22"
     },
     {
       "id": "ninho-jefe",
@@ -4873,13 +4873,13 @@
       "streams": 113199340,
       "pts": 417,
       "move": "=",
-      "days": 15,
+      "days": 16,
       "peak": 172,
       "peakCount": 8,
       "ptsPlus": 0,
-      "totalPts": 6159,
-      "tpts": 6.159,
-      "date": "2026-11-21"
+      "totalPts": 6576,
+      "tpts": 6.576,
+      "date": "2026-11-22"
     },
     {
       "id": "michael jackson-billie jean",
@@ -4890,13 +4890,13 @@
       "streams": 32740901,
       "pts": 147,
       "move": "=",
-      "days": 1759,
+      "days": 1760,
       "peak": 4,
       "peakCount": 162,
       "ptsPlus": 0,
-      "totalPts": 659509,
-      "tpts": 659.509,
-      "date": "2026-11-21"
+      "totalPts": 659656,
+      "tpts": 659.656,
+      "date": "2026-11-22"
     },
     {
       "id": "raye-where is my husband!",
@@ -4907,13 +4907,13 @@
       "streams": 53789078,
       "pts": 215,
       "move": "=",
-      "days": 33,
+      "days": 34,
       "peak": 175,
       "peakCount": 10,
       "ptsPlus": 0,
-      "totalPts": 6829,
-      "tpts": 6.829,
-      "date": "2026-11-21"
+      "totalPts": 7044,
+      "tpts": 7.044,
+      "date": "2026-11-22"
     },
     {
       "id": "la rvfleuze-argent sale",
@@ -4924,13 +4924,13 @@
       "streams": 3969540,
       "pts": 47,
       "move": "=",
-      "days": 7,
+      "days": 8,
       "peak": 154,
       "peakCount": 4,
       "ptsPlus": 0,
-      "totalPts": 569,
-      "tpts": 0.569,
-      "date": "2026-11-21"
+      "totalPts": 616,
+      "tpts": 0.616,
+      "date": "2026-11-22"
     },
     {
       "id": "ninho-maman ne le sait pas (w/ niska )",
@@ -4941,13 +4941,13 @@
       "streams": 98737861,
       "pts": 361,
       "move": "=",
-      "days": 48,
+      "days": 49,
       "peak": 129,
       "peakCount": 25,
       "ptsPlus": 0,
-      "totalPts": 19474,
-      "tpts": 19.474,
-      "date": "2026-11-21"
+      "totalPts": 19835,
+      "tpts": 19.835,
+      "date": "2026-11-22"
     },
     {
       "id": "jul-tu la love",
@@ -4958,13 +4958,13 @@
       "streams": 69127669,
       "pts": 260,
       "move": "=",
-      "days": 9,
+      "days": 10,
       "peak": 180,
       "peakCount": 6,
       "ptsPlus": 0,
-      "totalPts": 2380,
-      "tpts": 2.38,
-      "date": "2026-11-21"
+      "totalPts": 2640,
+      "tpts": 2.64,
+      "date": "2026-11-22"
     },
     {
       "id": "booba-92i veyron",
@@ -4975,13 +4975,13 @@
       "streams": 54724201,
       "pts": 210,
       "move": "=",
-      "days": 39,
+      "days": 40,
       "peak": 159,
       "peakCount": 9,
       "ptsPlus": 0,
-      "totalPts": 8288,
-      "tpts": 8.288,
-      "date": "2026-11-21"
+      "totalPts": 8498,
+      "tpts": 8.498,
+      "date": "2026-11-22"
     },
     {
       "id": "jok'air-nos souvenirs (w/ chilla , yseult )",
@@ -4992,13 +4992,13 @@
       "streams": 26803020,
       "pts": 115,
       "move": "=",
-      "days": 67,
+      "days": 68,
       "peak": 141,
       "peakCount": 8,
       "ptsPlus": 0,
-      "totalPts": 9883,
-      "tpts": 9.883,
-      "date": "2026-11-21"
+      "totalPts": 9998,
+      "tpts": 9.998,
+      "date": "2026-11-22"
     },
     {
       "id": "kanay-flex",
@@ -5009,13 +5009,13 @@
       "streams": 5405510,
       "pts": 42,
       "move": "=",
-      "days": 7,
+      "days": 8,
       "peak": 189,
-      "peakCount": 7,
+      "peakCount": 8,
       "ptsPlus": 0,
-      "totalPts": 294,
-      "tpts": 0.294,
-      "date": "2026-11-21"
+      "totalPts": 336,
+      "tpts": 0.336,
+      "date": "2026-11-22"
     },
     {
       "id": "saã¯f-malade",
@@ -5026,13 +5026,13 @@
       "streams": 19729890,
       "pts": 88,
       "move": "=",
-      "days": 7,
+      "days": 8,
       "peak": 166,
       "peakCount": 4,
       "ptsPlus": 0,
-      "totalPts": 808,
-      "tpts": 0.808,
-      "date": "2026-11-21"
+      "totalPts": 896,
+      "tpts": 0.896,
+      "date": "2026-11-22"
     },
     {
       "id": "bad bunny-nuevayol",
@@ -5043,13 +5043,13 @@
       "streams": 79546043,
       "pts": 285,
       "move": "=",
-      "days": 3,
+      "days": 4,
       "peak": 191,
-      "peakCount": 3,
+      "peakCount": 4,
       "ptsPlus": 0,
-      "totalPts": 855,
-      "tpts": 0.855,
-      "date": "2026-11-21"
+      "totalPts": 1140,
+      "tpts": 1.14,
+      "date": "2026-11-22"
     },
     {
       "id": "booba-scarface",
@@ -5060,13 +5060,13 @@
       "streams": 12352140,
       "pts": 59,
       "move": "=",
-      "days": 9,
+      "days": 10,
       "peak": 186,
       "peakCount": 6,
       "ptsPlus": 0,
-      "totalPts": 551,
-      "tpts": 0.551,
-      "date": "2026-11-21"
+      "totalPts": 610,
+      "tpts": 0.61,
+      "date": "2026-11-22"
     },
     {
       "id": "plk-ãmotif (booska 1h)",
@@ -5077,13 +5077,13 @@
       "streams": 94439286,
       "pts": 331,
       "move": "=",
-      "days": 3,
+      "days": 4,
       "peak": 193,
-      "peakCount": 3,
+      "peakCount": 4,
       "ptsPlus": 0,
-      "totalPts": 993,
-      "tpts": 0.993,
-      "date": "2026-11-21"
+      "totalPts": 1324,
+      "tpts": 1.324,
+      "date": "2026-11-22"
     },
     {
       "id": "damso-î. dieu ne ment jamais",
@@ -5094,13 +5094,13 @@
       "streams": 104590217,
       "pts": 363,
       "move": "=",
-      "days": 67,
+      "days": 68,
       "peak": 146,
       "peakCount": 21,
       "ptsPlus": 0,
-      "totalPts": 27191,
-      "tpts": 27.191,
-      "date": "2026-11-21"
+      "totalPts": 27554,
+      "tpts": 27.554,
+      "date": "2026-11-22"
     },
     {
       "id": "macklemore & ryan lewis-can't hold us (w/ macklemore , ryan lewis , ray dalton )",
@@ -5111,13 +5111,13 @@
       "streams": 141701482,
       "pts": 484,
       "move": "=",
-      "days": 3,
+      "days": 4,
       "peak": 195,
-      "peakCount": 3,
+      "peakCount": 4,
       "ptsPlus": 0,
-      "totalPts": 1452,
-      "tpts": 1.452,
-      "date": "2026-11-21"
+      "totalPts": 1936,
+      "tpts": 1.936,
+      "date": "2026-11-22"
     },
     {
       "id": "pnl-onizuka",
@@ -5128,13 +5128,13 @@
       "streams": 78310290,
       "pts": 271,
       "move": "=",
-      "days": 3,
+      "days": 4,
       "peak": 196,
-      "peakCount": 3,
+      "peakCount": 4,
       "ptsPlus": 0,
-      "totalPts": 813,
-      "tpts": 0.813,
-      "date": "2026-11-21"
+      "totalPts": 1084,
+      "tpts": 1.084,
+      "date": "2026-11-22"
     },
     {
       "id": "jul-pour un violet",
@@ -5145,13 +5145,13 @@
       "streams": 9232735,
       "pts": 39,
       "move": "=",
-      "days": 7,
+      "days": 8,
       "peak": 197,
-      "peakCount": 7,
+      "peakCount": 8,
       "ptsPlus": 0,
-      "totalPts": 273,
-      "tpts": 0.273,
-      "date": "2026-11-21"
+      "totalPts": 312,
+      "tpts": 0.312,
+      "date": "2026-11-22"
     },
     {
       "id": "pnl-benã©",
@@ -5162,13 +5162,13 @@
       "streams": 44579829,
       "pts": 155,
       "move": "=",
-      "days": 13,
+      "days": 14,
       "peak": 173,
       "peakCount": 6,
       "ptsPlus": 0,
-      "totalPts": 2369,
-      "tpts": 2.369,
-      "date": "2026-11-21"
+      "totalPts": 2524,
+      "tpts": 2.524,
+      "date": "2026-11-22"
     },
     {
       "id": "vance joy-riptide",
@@ -5179,13 +5179,13 @@
       "streams": 73350239,
       "pts": 248,
       "move": "=",
-      "days": 3,
+      "days": 4,
       "peak": 199,
-      "peakCount": 3,
+      "peakCount": 4,
       "ptsPlus": 0,
-      "totalPts": 744,
-      "tpts": 0.744,
-      "date": "2026-11-21"
+      "totalPts": 992,
+      "tpts": 0.992,
+      "date": "2026-11-22"
     },
     {
       "id": "hamza-kyky2bondy",
@@ -5196,13 +5196,13 @@
       "streams": 102089190,
       "pts": 342,
       "move": "=",
-      "days": 102,
+      "days": 103,
       "peak": 120,
       "peakCount": 16,
       "ptsPlus": 0,
-      "totalPts": 42912,
-      "tpts": 42.912,
-      "date": "2026-11-21"
+      "totalPts": 43254,
+      "tpts": 43.254,
+      "date": "2026-11-22"
     }
   ]
 }
